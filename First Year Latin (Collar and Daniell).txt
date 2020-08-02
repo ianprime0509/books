@@ -1,0 +1,389 @@
+TRANSCRIBER'S NOTES
+
+This file was transcribed from the PDF made available on the Internet Archive:
+https://archive.org/details/collardaniellsfi00collrich
+
+Italics are represented using _underscores_ and boldface using *asterisks*.
+Italics used in list item headings are not preserved (otherwise sub-lists would
+be numbered _a_, _b_, and so forth, which introduces unnecessary clutter to the
+document).
+
+Small caps have been rendered using all uppercase letters.
+
+The footnotes have been renumbered so that all footnotes can be given at the end
+of the chapter.
+
+The formatting of lists and such is not always exactly the same as in the
+original: an attempt has been made to keep the spacing relatively uniform.
+
+END OF NOTES
+
+[Image: A ROMAN CITIZEN SPEAKS]
+
+COLLAR AND DANIELL'S
+FIRST YEAR LATIN
+
+REVISED BY
+THORNTON JENKINS
+HEAD MASTER, HIGH SCHOOL, MALDEN, MASSACHUSETTS
+
+THE ATHENÆUM PRESS
+
+GINN AND COMPANY
+BOSTON · NEW YORK · CHICAGO · LONDON
+ATLANTA · DALLAS · COLUMBUS · SAN FRANCISCO
+
+COPYRIGHT 1901, BY WILLIAM C. COLLAR AND M. GRANT DANIELL
+COPYRIGHT 1918, BY GINN AND COMPANY
+ENTERED AT STATIONERS' HALL
+ALL RIGHTS RESERVED
+318.4
+
+
+PREFACE
+
+The book that is placed in the hands of a pupil during his first year of the
+study of Latin should be simple and clear and interesting in its treatment of
+the language; it should teach with the utmost thoroughness those principles that
+it attempts to teach, but it should not attempt to teach to-day what may be be
+taught more properly to-morrow; it should get the pupil into the reading of easy
+connected Latin as soon as possible, and for this purpose should supply a
+generous amount of material graded to his attainment; and it should never allow
+the pupil to leave the classroom without a reminder of the extent to which Latin
+is a part of his own language.
+
+With these convictions the revision of Collar and Daniell's "First Year Latin"
+was undertaken. All these principles underlay the plan of "First Year Latin,"
+but the unanimity with which they have been accepted since the publication of
+that text has made it possible in the revision so to extend their application as
+to produce what is in effect a new book.
+
+The vocabulary has been made briefer and more Cæsarian. From the vocabularies of
+the lessons the pupil is asked to learn the meanings of some five hundred and
+seventy words. About ninety per cent of these words are included in the list of
+one thousand words which Professor Lodge [1] suggests should be learned before
+the end of the second year of the study of Latin. Over sixty per cent occur more
+than ten times in Cæsar. In the Selections for Reading the pupil has a chance to
+become acquainted casually with a wider vocabulary.
+
+A number of constructions which were taught in the original book have been
+omitted. With three exceptions the constructions included in the revision are
+those which Byrne [2] recommends for the first year. Similarly, the pupil is no
+longer required to learn uncommon forms which are not necessary for his
+second-year reading.
+
+Increased attention has been given to derivatives. Related English words are
+often placed after the Latin words in the vocabularies of the lessons as well as
+in the general vocabulary. Everywhere in the reviews this important part of the
+study of Latin is kept constantly before the pupil. Suggestions are offered for
+the keeping of notebooks of English derivatives. The force of certain common
+prefixes and suffixes in the formation and meaning of Latin words is also
+explained.
+
+Interspersed throughout the book there are ten Review Lessons, which take up the
+words and constructions previously taught. The machinery for drill has been
+further strengthened by a summary of the uses of nouns and of verbs, and by
+review questions touching upon the syntax, forms, derivatives, and principles of
+each lesson. These questions have been placed after the Selections for Reading,
+that they may be somewhat removed from the lessons they concern.
+
+The treatment of the Essentials of Grammar has been made more useful by a
+comparison of English grammar with Latin grammar, and by the inclusion of Latin
+equivalents for the English illustrative words and phrases.
+
+The material for reading has been somewhat changed, particularly by the omission
+of the Fables and Stores, and by the introduction of the Story of Perseus, of
+the simplified narrative of Cæsar's Campaign against the Helvetians, and of a
+number of pages from Eutropius. In all the selections the syntax has been made
+to conform with that taught in the lessons, so that the pupil may not be
+bothered or discouraged by unfamiliar constructions.
+
+As an aid to the pupil's pronunciation, a mark of accent has been placed on the
+words in the vocabularies of the first eighteen lessons, and on declensions and
+conjugations, both in the text and in the Appendix.
+
+Teachers who are familiar with "First Year Latin" will find that none of its
+well-known excellences have been sacrificed in the revision. There are, for
+example, the same short lessons, usually less than two pages in length. In the
+exercises the sentences for translation remain simple. Nowhere are many
+constructions brought within the limits of a single sentence. The exercises for
+translation from English into Latin are relatively shorter than those from Latin
+into English. The order in which the verb is developed and in which the various
+constructions are presented will be found the same, with a few exceptions. In
+the study of syntax the pupil is still led from the observation of model
+sentences to the deduction of usages and principles. Passages of connected Latin
+are introduced early and are of frequent occurrence throughout the lessons, and
+there is ample material for reading after the lessons have been completed. The
+content of the book is still such that it is possible for high-school classes to
+go through the lessons within thirty weeks.
+
+The "Teacher's Manual," in addition to general directions and notes on each
+lesson, contains carefully graded sentences for sight reading and for the
+practice of the "direct method," as well as material for drill on English
+derivatives of the Latin words of the vocabularies.
+
+It is hoped that teachers will find the numerous illustrations a help to them in
+familiarizing pupils with the life of the Romans. The four plates in colors were
+made especially for this book by Mr. Arthur E. Becher after a careful study of
+all the phases of Roman life that they represent. As for the other pictures,
+half tones have been used where the subject could be made more realistic if
+reproduced directly from a photograph. In cases where line engravings seemed
+more suitable, drawings in the style of the early Italian engravings were made
+for the purpose by Mr. Thomas M. Cleland, Mr. W. A. Dwiggins, and Mr. Adrian J.
+Iorio. As a whole the illustrations are believed to be of a quality unexcelled
+in schoolbooks.
+
+The reviser wishes to acknowledge his indebtedness to the  the suggestions
+received from Mr. Collar himself, who, before his death, had given considerable
+thought to the aim and scope of the revision. Indebtedness is also gratefully
+acknowledged to Professor Charles Knapp, of Barnard College, New York; to Mr.
+Herbert F. Hancox, of Lewis Institute, Chicago; and to Miss Grace I. Bridge and
+Miss Grace E. Jackson, of the Hyde Park High School, Chicago, for their helpful
+criticisms.
+
+                                                                            T.J.
+
+[1] Vocabulary of High School Latin
+[2] The Syntax of High School Latin
+
+
+CONTENTS
+
+    ESSENTIALS OF GRAMMAR
+    TO THE BEGINNER IN LATIN: WHAT LATIN IS, AND WHY IT IS STUDIED. HOW TO STUDY LATIN
+    INTRODUCTION: ALPHABET, SOUNDS OF THE LETTERS SYLLABLES, QUANTITY, ACCENT
+
+    LESSON
+          I. THE SINGULAR AND PLURAL OF NOUNS AND VERBS. THE NOMINATIVE CASE USED AS SUBJECT
+         II. THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT
+        III. THE PRESENT INDICATIVE ACTIVE OF THE FIRST CONJUGATION
+         IV. THE GENITIVE CASE USED TO DENOTE POSSESSION
+          V. THE PRESENT INDICATIVE ACTIVE OF THE SECOND CONJUGATION. CAUSAL CLAUSE WITH *Quod*
+         VI. THE DATIVE CASE USED AS THE INDIRECT OBJECT. THE ABLATIVE USED IN PREPOSITIONAL PHRASES TO SHOW PLACE WHERE
+        VII. THE FIRST DECLENSION. GENDER
+             FIRST REVIEW LESSON
+       VIII. THE SECOND DECLENSION
+         IX. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS
+          X. THE PRESENT INDICATIVE OF *Sum*. PREDICATE NOUN AND PREDICATE ADJECTIVE
+         XI. APPOSITION. *Cornēlia et Iūlia*
+        XII. THE SECOND DECLENSION: NOUNS IN *-er*, *-ir*, *-ius*, and *-ium*
+       XIII. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS ENDING IN *-er*. *Dē Graeciā*
+        XIV. THE IMPERFECT AND FUTURE INDICATIVE OF *Sum*. THE DATIVE WITH ADJECTIVES
+             SECOND REVIEW LESSON
+         XV. THE IMPERFECT INDICATIVE ACTIVE, FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF MEANS
+        XVI. THE FUTURE INDICATIVE ACTIVE, FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF MANNER
+       XVII. PRINCIPAL PARTS. THE PERFECT STEM. THE PERFECT INDICATIVE ACTIVE, FIRST CONJUGATION. *Dē Sabīnīs*
+      XVIII. THE PERFECT INDICATIVE ACTIVE, SECOND CONJUGATION. THE ABLATIVE OF ACCOMPANIMENT
+        XIX. THE DEMONSTRATIVE *Is*. THE PERFECT INDICATIVE OF *Sum*
+         XX. THE INTERROGATIVE *Quis*. *Dē Deīs Rōmānōrum*
+        XXI. THE PRESENT, IMPERFECT, FUTURE, AND PERFECT INDICATIVE ACTIVE OF THE THIRD CONJUGATION
+             THIRD REVIEW LESSON
+       XXII. READING LESSON. *Dē Īcarō. Rōmānī prō Sociīs pugnant*
+      XXIII. THE THIRD DECLENSION
+       XXIV. THE THIRD CONJUGATION: VERBS IN *-iō*. THE ABLATIVE OF PLACE FROM WHICH. THE ACCUSATIVE OF PLACE TO WHICH
+        XXV. THE ABLATIVE OF CAUSE. PREPOSITIONAL PHRASES EXPRESSIONG CAUSE
+       XXVI. THE THIRD DECLENSION: *i*-STEMS
+      XXVII. THE ACCUSATIVE AND THE ABLATIVE WITH PREPOSITIONS. ADJECTIVES USED AS NOUNS
+     XXVIII. READING LESSON. *Horātius Pontem dēfendit. Dē Nātiōnibus Eurōpae*
+       XXIX. ADJECTIVES OF THE THIRD DECLENSION
+        XXX. THE FOURTH CONJUGATION. *Conloquium*
+       XXXI. THE ABLATIVE OF TIME. _Laconic Speeches_
+      XXXII. THE PLUPERFECT AND FUTURE PERFECT INDICATIVE ACTIVE OF ALL CONJUGATIONS
+     XXXIII. THE DEMONSTRATIVES *Hic* AND *Ille*. PLACE FROM WHICH AND TO WHICH, IN NAMES OF TOWNS
+      XXXIV. READING LESSON. *Victōria Caesaris. Dē Caesare et Britannīs*
+       XXXV. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF THE FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF AGENT
+      XXXVI. THE RELATIVE *Quī*
+             FIFTH REVIEW LESSON
+     XXXVII. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF *Regō* AND *Capiō*
+    XXXVIII. THE PERSONAL AND REFLEXIVE PRONOUNS
+      XXXIX. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF THE FOURTH CONJUGATION. *Veturia, Māter Coriolānī. Dē Perseō*
+         XL. THE POSSESSIVE ADJECTIVES. THE ABLATIVE OF SEPARATION
+        XLI. THE PERFECT, PLUPERFECT, AND FUTURE PERFECT INDICATIVE PASSIVE OF ALL CONJUGATIONS. *Iupiter Perseum servat*
+       XLII. THE FOURTH DECLENSION
+      XLIII. THE COMPARISON OF ADJECTIVES
+             SIXTH REVIEW LESSON
+       XLIV. THE COMPARISON OF ADJECTIVES ENDING IN *-er* OR *-lis*. THE PARTITIVE GENITIVE
+        XLV. READING LESSON. *Scīpiō et Hannibal. Perseus Medūsam quaerit*
+       XLVI. THE IRREGULAR COMPARISON OF ADJECTIVES. THE ABLATIVE OF DEGREE OF DIFFERENCE
+      XLVII. THE FORMATION AND THE COMPARISON OF ADVERBS
+     XLVIII. THE FIFTH DECLENSION. THE ACCUSATIVE OF EXTENT
+       XLIX. READING LESSON. _A Letter from Pompeii_. *Perseus Medūsam interficit*
+          L. THE SUBJUNCTIVE MOOD. THE PRESENT SUBJUNCTIVE. PURPOSE CLAUSES WITH *Ut* AND *Nē*
+         LI. THE IMPERFECT SUBJUNCTIVE. SEQUENCE OF TENSES
+        LII. SUBSTANTIVE CLAUSES OF PURPOSE. RESULT CLAUSES
+             SEVENTH REVIEW LESSON
+       LIII. READING LESSON. *Caesar Hostīs vincit. Andromeda Fīlia Cēpheī*
+        LIV. THE PERFECT AND THE PLUPERFECT SUBJUNCTIVE. INDIRECT QUESTIONS
+         LV. NUMERAL ADJECTIVES. THE OBJECTIVE GENITIVE
+        LVI. ADJECTIVES HAVING THE GENITIVE IN *-īus. Mōnstrum appropinquat*
+       LVII. THE INFINITIVE AS SUBJECT AND AS COMPLEMENT
+      LVIII. THE INFINITIVE AS OBJECT. THE ACCUSATIVE AS SUBJECT OF THE INFINITIVE. INDIRECT STATEMENTS
+        LXI. READING LESSON. *Caesar in Conciliō dīcit. Perseus Cēpheō Andromedam reddit*
+         LX. THE DEMONSTRATIVES *Īdem*, *Ipse*, *Iste*. THE IRREGULAR VERB *Possum*
+             EIGHTH REVIEW LESSON
+        LXI. THE INDEFINITE PRONOUNS. _The Nations of Gaul_
+       LXII. THE DATIVE WITH COMPOUNDS. THE DATIVES OF PURPOSE AND REFERENCE
+      LXIII. THE DATIVE WITH SPECIAL INTRANSITIVE VERBS. THE IRREGULAR VERBS *Volō*, *Nōlō*, *Mālō*
+       LXIV. READING LESSON. _Belling the Cat_. _Nasica and Ennius_. _Orgetorix and the Helvetians_
+        LXV. PARTICIPLES
+       LXVI. READING LESSON. *Dicta Antīquōrum*. _Orgetorix and the Helvetians_ (CONTINUED)
+      LXVII. THE ABLATIVE ABSOLUTE
+     LXVIII. THE GERUND. THE IRREGULAR VERB *Eō*
+       LXIX. THE GERUNDIVE. THE IRREGULAR VERB *Ferō*
+        LXX. READING LESSON. _The Helvetians leave their Territory_
+       LXXI. THE ABLATIVE OF SPECIFICATION. DEPONENT VERBS
+      LXXII. TEMPORAL CLAUSES WITH *Cum*. THE IRREGULAR VERB *Fiō*
+     LXXIII. READING LESSON. _Cæsar refuses the Helvetians Permission to go through the Roman Province_
+      LXXIV. SUBSTANTIVE CLAUSES OF FACT INTRODUCED BY *Quod*. THE INDICATIVE IN ADVERBIAL CLAUSES
+       LXXV. SUBORDINATE CLAUSES IN INDIRECT STATEMENTS
+             TENTH REVIEW LESSON
+             SUMMARY: THE USES OF NOUNS AND VERBS
+
+    SELECTIONS FOR READING:
+        Cæsar: The Campaign against the Helvetians
+        Cæsar: The Story of the Aduatuci
+        Stories of Hercules
+        Stories of Ulysses
+        Eutropius: History of Rome
+        Stories from Roman History
+
+    REVIEW QUESTIONS
+
+    APPENDIX I:
+        Rules of Syntax
+        Formation of Latin Words
+        English Derivatives
+
+    APPENDIX II:
+        Declensions and Conjugations
+
+    LATIN-ENGLISH VOCABULARY
+    ENGLISH-LATIN VOCABULARY
+    INDEX
+
+
+FIRST YEAR LATIN
+
+ESSENTIALS OF GRAMMAR
+
+THE PARTS OF SPEECH
+
+NOUNS
+
+I.
+    a. A _noun_ is the name of a person, place, or thing: _boy_, _London_,
+        _ship_; *puer*, *Londīnium*, *nāvis*.
+    b. A _proper noun_ is the name of a particular person, place, or thing:
+        _Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.
+    c. A _common noun_ is a name that may be applied to any one of a class of
+        objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.
+    d. A _collective noun_ is a name that may be applied  to a group of objects,
+        though itself in the singular number (XXIII): _crowd_, _family_;
+        *multitūdō*, *gēns*.
+    e. A _verbal noun_ is the name of an action: _seeing_, _writing_, _to see_,
+        _to write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.
+    f. An _abstract noun_ is the name of a quality or condition: _goodness_,
+        _truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.
+
+PRONOUNS
+
+II.
+    a. A _pronoun_ is a word used to take the place of a noun or of another
+        pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*,
+        *quī*.
+    b. The noun (or pronoun) for which a pronoun stands is called its
+        _antecedent_ (from *antecēdere*, _to go before_). Thus, in the sentence
+        _John goes to school, but he does not study_, the noun _John_ is the
+        antecedent of _he_. The antecedent is especially common with a relative
+        pronoun (II, d). Neither in Latin nor in English does the antecedent
+        necessarily stand in advance of its pronoun: _What he says, he
+        believes_, *quod dīcit, _id_ crēdit*.
+    c. A _personal pronoun_ shows by its form whether it stands (1) for the
+        speaker: _I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for
+        the person spoken to: _thou_, _you_; *tū*, *vōs*, that is, the _second
+        person_; or (3) for the person or thing spoken of: _he_, _she_, _it_,
+        _they_; *is*, *ea*, *id*, *eī*, that is, the _third person_.
+    d. A _relative pronoun_ connects a subordinate clause, in which it stands,
+        with the antecedent: _The book *that* you have is mine_, *liber _quem_
+        habēs meus est*. The relative pronouns in English are _who_, _which_,
+        _that_, and _as_; in Latin the relative is *quī*.
+    e. An _interrogative pronoun_ is used to ask a question: _*Who* is walking
+        in the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in
+        English are _who_, _which_, and _what_; in Latin, *quis* and *uter*.
+    f. A _demonstrative pronoun_ points out an object definitely: _this_,
+        _that_, _these_, _those_; *hic*, *ille*, *hī*, *illī*.
+    g. An _indefinite pronoun_ refers to an object indefinitely: _some_, _some
+        one_, _any_, _any one_; *aliquis*, *quis*.
+    h. A _reflexive pronoun refers back to the subject: _He blamed *himself*_,
+        *_sē_ culpāvit*.
+
+ADJECTIVES
+
+III.
+    a. An _adjective_ is a word used to qualify or limit a noun or a pronoun:
+       _*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna
+       _pulchra_*, *_quīnque_ puellae*.
+    b. _A_, _an_, and _the_, really limiting adjectives, are sometimes called
+       _articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite
+       article_. These articles are not used in Latin.
+    c. _Numeral adjectives_ denote how many persons or things are under
+       consideration. They are either _cardinal_, denoting how many: _one_,
+       _two_, _three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_,
+       denoting which in order: _first_, _second_, _third_, _fourth_; *prīmus*,
+       *secundus*, *tertius*, *quārtus*.
+    d. _Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_;
+       *_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently
+       used as possessive pronouns.
+    e. The demonstrative pronouns, the indefinite pronouns, and the
+       interrogative pronouns _which_ and _what_ may be used as adjectives, and
+       are then called respectively _demonstrative adjectives_: _*this* book_,
+       _*that* house_; *_hic_ liber*, *_illa_ domus*; _indefinite adjectives_:
+       _*some* boys_, *_aliquī_ puerī*; and _interrogative adjectives_: _*Which*
+       way shall we go?_ *_Quā_ viā ībimus?*
+    f. Adjectives are often used as nouns: "_The land of the *free*_," *patria
+       _līberōrum_*.
+
+VERBS
+
+IV.
+    a. A _verb_ is a word which can declare or assert something about a person,
+       a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is
+       captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.
+    b. A verb which has an object (XIV, a) to complete its meaning is said to be
+       _transitive_, or to be _used transitively_: _The girl *has* a rose_,
+       *puella rosam _habet_*.
+    c. A verb which does not have an object (XIV, a) to complete its meaning is
+       said to be _intransitive_, or to be _used intransitively_: _Birds *fly*_,
+       *avēs _volant_*; _I *walk*_, *_abmulō_*.
+
+       NOTE. Thus certain verbs may at one time be transitive and at another
+       intransitive: _The wind *blew* the snow into our faces_; _the wind *blew*
+       furiously_.
+    d. Verbs are classified as _regular_ or _irregular_. This distinction is
+       made merely for convenience. A _regular verb_ in English forms its
+       imperfect (past) tense (XXXIII, a) and past participle (XXXIV, b) by the
+       addition of _d_ or _ed_ to the present: present, _love_; past, _loved_;
+       past participle, _loved_. For Latin regular verbs see 658-662.
+    e. An _irregular verb_ in English does not form its imperfect (past) tense
+       by the addition of _d_ or _ed_ to the present: present, _give_; past
+       _gave_; past participle, _given_. For Latin irregular verbs see 663-668.
+    f. An _auxiliary verb_ is used in the conjugation of other verbs: _I *am*
+       loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so
+       used: *missus _est_*, _he has been sent_.
+
+ADVERBS
+
+V.
+    a. An _adverb_ is used to modify a verb, an adjective, or another adverb:
+       _He walks *swiftly*_, *_celeriter_ ambulat*.
+    b. An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_,
+       _hence_; *hīc*, *illīc*, *hinc*.
+    c. An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_,
+       _often_; *tum*, *nunc*, *saepe*.
+    d. An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_,
+       _ill_; *sīc*, *bene*, *male*.
+    e. An _adverb_ of _degree_ answers the question _how much?_ -- _little_,
+       _almost_, _enough_; *paulō*, *paene*, *satis*.
+    f. A _modal adverb_ expresses affirmation or negations, or the degree of
+       confidence with which a statement is made: _yes_, _no_, _certainly_,
+       _perhaps_; *certē*, *fortisan*.
