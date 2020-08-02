@@ -270,120 +270,497 @@ THE PARTS OF SPEECH
 
 NOUNS
 
-I.
-    a. A _noun_ is the name of a person, place, or thing: _boy_, _London_,
-        _ship_; *puer*, *Londīnium*, *nāvis*.
-    b. A _proper noun_ is the name of a particular person, place, or thing:
-        _Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.
-    c. A _common noun_ is a name that may be applied to any one of a class of
-        objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.
-    d. A _collective noun_ is a name that may be applied  to a group of objects,
-        though itself in the singular number (XXIII): _crowd_, _family_;
-        *multitūdō*, *gēns*.
-    e. A _verbal noun_ is the name of an action: _seeing_, _writing_, _to see_,
-        _to write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.
-    f. An _abstract noun_ is the name of a quality or condition: _goodness_,
-        _truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.
+I. a. A _noun_ is the name of a person, place, or thing: _boy_, _London_,
+_ship_; *puer*, *Londīnium*, *nāvis*.
+
+b. A _proper noun_ is the name of a particular person, place, or thing:
+_Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.
+
+c. A _common noun_ is a name that may be applied to any one of a class of
+objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.
+
+d. A _collective noun_ is a name that may be applied  to a group of objects,
+though itself in the singular number (XXIII): _crowd_, _family_; *multitūdō*,
+*gēns*.
+
+e. A _verbal noun_ is the name of an action: _seeing_, _writing_, _to see_, _to
+write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.
+
+f. An _abstract noun_ is the name of a quality or condition: _goodness_,
+_truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.
 
 PRONOUNS
 
-II.
-    a. A _pronoun_ is a word used to take the place of a noun or of another
-        pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*,
-        *quī*.
-    b. The noun (or pronoun) for which a pronoun stands is called its
-        _antecedent_ (from *antecēdere*, _to go before_). Thus, in the sentence
-        _John goes to school, but he does not study_, the noun _John_ is the
-        antecedent of _he_. The antecedent is especially common with a relative
-        pronoun (II, d). Neither in Latin nor in English does the antecedent
-        necessarily stand in advance of its pronoun: _What he says, he
-        believes_, *quod dīcit, _id_ crēdit*.
-    c. A _personal pronoun_ shows by its form whether it stands (1) for the
-        speaker: _I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for
-        the person spoken to: _thou_, _you_; *tū*, *vōs*, that is, the _second
-        person_; or (3) for the person or thing spoken of: _he_, _she_, _it_,
-        _they_; *is*, *ea*, *id*, *eī*, that is, the _third person_.
-    d. A _relative pronoun_ connects a subordinate clause, in which it stands,
-        with the antecedent: _The book *that* you have is mine_, *liber _quem_
-        habēs meus est*. The relative pronouns in English are _who_, _which_,
-        _that_, and _as_; in Latin the relative is *quī*.
-    e. An _interrogative pronoun_ is used to ask a question: _*Who* is walking
-        in the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in
-        English are _who_, _which_, and _what_; in Latin, *quis* and *uter*.
-    f. A _demonstrative pronoun_ points out an object definitely: _this_,
-        _that_, _these_, _those_; *hic*, *ille*, *hī*, *illī*.
-    g. An _indefinite pronoun_ refers to an object indefinitely: _some_, _some
-        one_, _any_, _any one_; *aliquis*, *quis*.
-    h. A _reflexive pronoun refers back to the subject: _He blamed *himself*_,
-        *_sē_ culpāvit*.
+II. a. A _pronoun_ is a word used to take the place of a noun or of another
+pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*, *quī*.
+
+b. The noun (or pronoun) for which a pronoun stands is called its _antecedent_
+(from *antecēdere*, _to go before_). Thus, in the sentence _John goes to school,
+but he does not study_, the noun _John_ is the antecedent of _he_. The
+antecedent is especially common with a relative pronoun (II, d). Neither in
+Latin nor in English does the antecedent necessarily stand in advance of its
+pronoun: _What he says, he believes_, *quod dīcit, _id_ crēdit*.
+
+c. A _personal pronoun_ shows by its form whether it stands (1) for the speaker:
+_I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for the person spoken
+to: _thou_, _you_; *tū*, *vōs*, that is, the _second person_; or (3) for the
+person or thing spoken of: _he_, _she_, _it_, _they_; *is*, *ea*, *id*, *eī*,
+that is, the _third person_.
+
+d. A _relative pronoun_ connects a subordinate clause, in which it stands, with
+the antecedent: _The book *that* you have is mine_, *liber _quem_ habēs meus
+est*. The relative pronouns in English are _who_, _which_, _that_, and _as_; in
+Latin the relative is *quī*.
+
+e. An _interrogative pronoun_ is used to ask a question: _*Who* is walking in
+the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in English
+are _who_, _which_, and _what_; in Latin, *quis* and *uter*.
+
+f. A _demonstrative pronoun_ points out an object definitely: _this_, _that_,
+_these_, _those_; *hic*, *ille*, *hī*, *illī*.
+
+
+g. An _indefinite pronoun_ refers to an object indefinitely: _some_, _some one_,
+_any_, _any one_; *aliquis*, *quis*.
+
+h. A _reflexive pronoun refers back to the subject: _He blamed *himself*_, *_sē_
+culpāvit*.
 
 ADJECTIVES
 
-III.
-    a. An _adjective_ is a word used to qualify or limit a noun or a pronoun:
-       _*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna
-       _pulchra_*, *_quīnque_ puellae*.
-    b. _A_, _an_, and _the_, really limiting adjectives, are sometimes called
-       _articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite
-       article_. These articles are not used in Latin.
-    c. _Numeral adjectives_ denote how many persons or things are under
-       consideration. They are either _cardinal_, denoting how many: _one_,
-       _two_, _three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_,
-       denoting which in order: _first_, _second_, _third_, _fourth_; *prīmus*,
-       *secundus*, *tertius*, *quārtus*.
-    d. _Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_;
-       *_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently
-       used as possessive pronouns.
-    e. The demonstrative pronouns, the indefinite pronouns, and the
-       interrogative pronouns _which_ and _what_ may be used as adjectives, and
-       are then called respectively _demonstrative adjectives_: _*this* book_,
-       _*that* house_; *_hic_ liber*, *_illa_ domus*; _indefinite adjectives_:
-       _*some* boys_, *_aliquī_ puerī*; and _interrogative adjectives_: _*Which*
-       way shall we go?_ *_Quā_ viā ībimus?*
-    f. Adjectives are often used as nouns: "_The land of the *free*_," *patria
-       _līberōrum_*.
+III. a. An _adjective_ is a word used to qualify or limit a noun or a pronoun:
+_*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna
+_pulchra_*, *_quīnque_ puellae*.
+
+b. _A_, _an_, and _the_, really limiting adjectives, are sometimes called
+_articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite
+article_. These articles are not used in Latin.
+
+c. _Numeral adjectives_ denote how many persons or things are under
+consideration. They are either _cardinal_, denoting how many: _one_, _two_,
+_three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_, denoting which
+in order: _first_, _second_, _third_, _fourth_; *prīmus*, *secundus*, *tertius*,
+*quārtus*.
+
+d. _Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_;
+*_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently used as
+possessive pronouns.
+
+e. The demonstrative pronouns, the indefinite pronouns, and the interrogative
+pronouns _which_ and _what_ may be used as adjectives, and are then called
+respectively _demonstrative adjectives_: _*this* book_, _*that* house_; *_hic_
+liber*, *_illa_ domus*; _indefinite adjectives_: _*some* boys_, *_aliquī_
+puerī*; and _interrogative adjectives_: _*Which* way shall we go?_ *_Quā_ viā
+ībimus?*
+
+f. Adjectives are often used as nouns: "_The land of the *free*_," *patria
+_līberōrum_*.
 
 VERBS
 
-IV.
-    a. A _verb_ is a word which can declare or assert something about a person,
-       a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is
-       captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.
-    b. A verb which has an object (XIV, a) to complete its meaning is said to be
-       _transitive_, or to be _used transitively_: _The girl *has* a rose_,
-       *puella rosam _habet_*.
-    c. A verb which does not have an object (XIV, a) to complete its meaning is
-       said to be _intransitive_, or to be _used intransitively_: _Birds *fly*_,
-       *avēs _volant_*; _I *walk*_, *_abmulō_*.
+IV. a. A _verb_ is a word which can declare or assert something about a person,
+a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is
+captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.
 
-       NOTE. Thus certain verbs may at one time be transitive and at another
-       intransitive: _The wind *blew* the snow into our faces_; _the wind *blew*
-       furiously_.
-    d. Verbs are classified as _regular_ or _irregular_. This distinction is
-       made merely for convenience. A _regular verb_ in English forms its
-       imperfect (past) tense (XXXIII, a) and past participle (XXXIV, b) by the
-       addition of _d_ or _ed_ to the present: present, _love_; past, _loved_;
-       past participle, _loved_. For Latin regular verbs see 658-662.
-    e. An _irregular verb_ in English does not form its imperfect (past) tense
-       by the addition of _d_ or _ed_ to the present: present, _give_; past
-       _gave_; past participle, _given_. For Latin irregular verbs see 663-668.
-    f. An _auxiliary verb_ is used in the conjugation of other verbs: _I *am*
-       loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so
-       used: *missus _est_*, _he has been sent_.
+b. A verb which has an object (XIV, a) to complete its meaning is said to be
+_transitive_, or to be _used transitively_: _The girl *has* a rose_, *puella
+rosam _habet_*.
+
+c. A verb which does not have an object (XIV, a) to complete its meaning is said
+to be _intransitive_, or to be _used intransitively_: _Birds *fly*_, *avēs
+_volant_*; _I *walk*_, *_abmulō_*.
+
+NOTE. Thus certain verbs may at one time be transitive and at another
+intransitive: _The wind *blew* the snow into our faces_; _the wind *blew*
+furiously_.
+
+d. Verbs are classified as _regular_ or _irregular_. This distinction is made
+merely for convenience. A _regular verb_ in English forms its imperfect (past)
+tense (XXXIII, a) and past participle (XXXIV, b) by the addition of _d_ or _ed_
+to the present: present, _love_; past, _loved_; past participle, _loved_. For
+Latin regular verbs see 658-662.
+
+e. An _irregular verb_ in English does not form its imperfect (past) tense by
+the addition of _d_ or _ed_ to the present: present, _give_; past _gave_; past
+participle, _given_. For Latin irregular verbs see 663-668.
+
+f. An _auxiliary verb_ is used in the conjugation of other verbs: _I *am*
+loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so used:
+*missus _est_*, _he has been sent_.
 
 ADVERBS
 
-V.
-    a. An _adverb_ is used to modify a verb, an adjective, or another adverb:
-       _He walks *swiftly*_, *_celeriter_ ambulat*.
-    b. An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_,
-       _hence_; *hīc*, *illīc*, *hinc*.
-    c. An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_,
-       _often_; *tum*, *nunc*, *saepe*.
-    d. An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_,
-       _ill_; *sīc*, *bene*, *male*.
-    e. An _adverb_ of _degree_ answers the question _how much?_ -- _little_,
-       _almost_, _enough_; *paulō*, *paene*, *satis*.
-    f. A _modal adverb_ expresses affirmation or negations, or the degree of
-       confidence with which a statement is made: _yes_, _no_, _certainly_,
-       _perhaps_; *certē*, *fortisan*.
+V. a. An _adverb_ is used to modify a verb, an adjective, or another adverb: _He
+walks *swiftly*_, *_celeriter_ ambulat*.
+
+b. An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_,
+_hence_; *hīc*, *illīc*, *hinc*.
+
+c. An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_, _often_;
+*tum*, *nunc*, *saepe*.
+
+d. An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_, _ill_;
+*sīc*, *bene*, *male*.
+
+e. An _adverb_ of _degree_ answers the question _how much?_ -- _little_,
+_almost_, _enough_; *paulō*, *paene*, *satis*.
+
+f. A _modal adverb_ expresses affirmation or negations, or the degree of
+confidence with which a statement is made: _yes_, _no_, _certainly_, _perhaps_;
+*certē*, *fortisan*.
+
+PREPOSITIONS
+
+VI. A preposition is used before a noun or pronoun to show its relation to
+another word in the sentence. Usually the relation shown is position, direction,
+or time: _He sent a legion *against* the enemy_, *_in_ hostēs legiōnem mīsit*.
+In Latin certain phrases which would be introduced in English by a preposition
+are expressed by the use of one of the cases (XXIV, b) without a preposition:
+_*At dawn* he sent a legion_, *_prīmā lūce_ legiōnem mīsit*.
+
+CONJUNCTIONS
+
+VII. a. A _conjunction_ connects words, phrases (XVI), clauses (XX), and
+sentences (XVIII): _boys *and* girls_, *puerī _et_ puellae*; _they fought
+bravely *but* were conquered_, *fortiter pugnāvērunt _sed_ victī sunt*.
+
+b. A _coördinate conjunction_ connects words, phrases, clauses, and sentences of
+equal order or rank. The conjunctions in the examples in VII, a are coördinate.
+
+c. A _subordinate conjunction_ connects a subordinate clause (XX, a) with a
+principal clause (XX, a): _The boy was praised *because* he was industrious_,
+*puer laudātus est _quod_ impiger erat*.
+
+INTERJECTIONS
+
+VIII. An _interjection_ is used to express strong feeling. It is not
+grammatically related to any other word in the sentence: _oh!_ _ah!_ _alas!_
+_hurrah!_ *ēheu!* *ecce!*
+
+NOTE. The following couplets have often proved useful to young persons in
+identifying the parts of speech:
+
+    Three little words we often see
+    Are Articles, _a_, _an_, and _the_.
+
+    A Noun's the name of anything;
+    As _school_ or _garden_, _hoop_ or _swing_.
+
+    Adjectives tell the kind of noun;
+    As _great_, _small_, _pretty_, _white_, or _brown_.
+
+    Instead of nouns the Pronouns stand;
+    _I_ come, _you_ go, as _they_ command.
+
+    Verbs tell of something being done;
+    As _read_, _write_, _spell_, _sing_, _jump_, or _run_.
+
+    How things are done the Adverbs tell;
+    As _slowly_, _quickly_, _ill_, or _well_.
+
+    They also tell us where and when;
+    As _here_ and _there_ and _now_ and _then_.
+
+    A Preposition stands before
+    A noun; as _in_ or _through_ a door.
+
+    Conjunctions join the words together;
+    As rain _and_ sunshine, wind _or_ weather.
+
+    Conjunctions sentences unite;
+    As kittens scratch _and_ puppies bite.
+
+    An Interjection shows surprise;
+    As _Oh!_ how pretty! _Ah!_ how wise!
+
+THE SENTENCE
+
+IX. A _sentence_ is a word or a group of words expressing a thought: _Stars
+shine_; _he walks_; *stellae lūcent*; *ambulat*.
+
+X. a. A _declarative sentence_ declares or asserts something: _The farmers are
+plowing the fields_, *agricolae agrōs arant*.
+
+b. An _interrogative sentence_ asks a question: _Why are the farmers plowing the
+fields?_ *Cūr agricolae agrōs arant?*
+
+c. An _imperative sentence_ expresses a command, a request, or an entreaty:
+_Plow the fields to-day_, *hodiē agrōs arāte*.
+
+d. An _exclamatory sentence_ expresses strong feeling or emotion: _Would that he
+had remained!_ *Utinam mānsisset!*
+
+XI. a. A sentence is made up of two parts, one called the _subject_ and the
+other the _predicate_.
+
+b. The _subject_ represents the person, place, or thing about which something is
+declared or asserted: _*Birds* sing_, *_avēs_ cantant*.
+
+c. The _predicate_ declares or asserts something about the person, place, or
+thing which the subject represents: _Birds *sing*_, *avēs _cantant_*.
+
+NOTE. In English and in Latin either the subject or the predicate, or both, may be enlarged to any extent by the addition of qualifying words and expressions called modifiers: _*My sister's small* birds_ | _sing *sweetly in the morning*_.
+
+XII. The _simple subject_ is the noun or pronoun which signifies the person,
+place, or thing about which the assertion is made. The _simple predicate_ is the
+verb that makes the assertion. _Birds_ is the simple subject, and _sing_ the
+simple predicate, in the note under XI, c.
+
+XIII. The _complete subject_ is the simple subject with all its modifiers. The
+_complete predicate_ is the simple predicate with all its modifiers. Thus, in
+the example in the note under XI, c the complete subject is all that precedes
+the vertical line, and the complete predicate all that follows it.
+
+XIV. a. The _object_ of a verb is a word or an expression that completes the
+meaning of the verb, and signifies that which is affected by the action: _He
+sent *messengers*_, *_nūntiōs_ mīsit*; _he wished *me to go to italy*_, *_mē in
+Italiam īre_ voluit*.
+
+b. The _direct object_ represents that which is immediately affected by the
+action of the verb; the _indirect object_ that to or for which the action is
+performed. Thus, in _He gave *me* a *book*_, *_mihi librum_ dedit*, _book_ is
+the direct object, and _me_ the indirect.
+
+XV. a. A _predicate noun_ or a _predicate adjective_ is used after certain
+intransitive or passive verbs to complete their meaning, and to describe or
+define the subject: _Marcus is a *sailor*_; _the sailor is *brave*_; *Mārcus
+_nauta_ est*; *nauta _fortis_ est*.
+
+b. The predicate noun or adjective is called the _complement_ of the verb.
+Intransitive verbs that require a complement are called _copulative verbs_. The
+verb _be_ (Latin *esse*) in its various forms (_am_, _was_, _has been_, etc.) is
+often called the _copula_.
+
+c. The predicate noun or adjective has the same case as the subject; hence the
+term _predicate nominative_.
+
+XVI. a. A _phrase_ is a combination of words (not subject and predicate) used as
+a single part of speech.
+
+b. An _adjective phrase_ modifies a noun: _A man *of great valor*_, *vir _magnae
+virtūtis_*.
+
+c. An _adverbial phrase_ modifies a verb: _They work *with great diligence*_,
+*_magnā cum diligentiā_ labōrant*. In Latin certain cases of nouns are used to
+express what in English would be prepositional phrases of an adverbial nature
+(VI).
+
+XVII. A _simple sentence_ contains but one statement, that is, one subject and
+one predicate: _Cæsar drew up a line of battle_, *Caesar aciem īnstrūxit*.
+
+XVIII. A _compound sentence_ contains two or more independent statements: _Cæsar
+drew up a line of battle, but the enemy fled_, *Caesar aciem īnstrūxit, sed
+hostēs fūgērunt*.
+
+NOTE. An independent statement is one that can stand alone; it does not depend
+on (qualify or limit) another statement.
+
+XIX. A _complex sentence_ contains one independent (principal) statement and one
+or more dependent (subordinate) statements: _When the messenger had replied, the
+lieutenant spoke as follows_, *cum nūntius respondisset, lēgātus haec dīxit*.
+
+NOTE. A dependent, or subordiate, statement is one that qualifies or limits
+another in some way; thus, the dependent statement _when the messenger had
+replied_ limits the verb _spoke_, telling when the lieutenant spoke.
+
+XX. a. The separate statements in a compound or a complex sentence are called
+_clauses_, and, as has already been seen, they may be either _independent_
+(_principal_) or _dependent_ (_subordinate_).
+
+b. When dependent (subordinate) clauses modify nouns or pronouns they are called
+_adjective clauses_: _The girls *whom we praised* were good_, *puellae _quās
+laudāvimus_ bonae erant*.
+
+c. When dependent (subordinate) clauses modify verbs they are called _adverbial
+clauses_: _*When the messenger had replied,* the lietenant spoke as follows_,
+*_cum nūntius respondisset,_ lēgātus haec dīxit*.
+
+d. When dependent (subordinate) clauses are used as nouns they are called
+_substandtive clauses_: _*That you are here* pleases us_, *_quod ades_ nōs
+dēlectat*.
+
+e. Dependent (subordinate) clauses introduced by _when_ (Latin *cum*, *ubi*,
+etc.) are called _temporal clauses_; introduced by _because_ (Latin *quod*
+etc.), they are called _causal clauses_; introduced by _if_ (Latin *sī*), they
+are called _conditional clauses_; introduced by _although_ (Latin *cum*, *etsī*,
+etc.), they are called _concessive clauses_; introduced by a relative pronoun
+(Latin *quī*), they are called _relative clauses_.
+
+f. The independent clause of a complex sentence is called the _principal
+clause_. Connected clauses that are of the same rank, both independent or both
+dependent, are said to be _coördinate_.
+
+INFLECTION
+
+XXI. _Inflection_ is a change in the form of a word to indicate a change in its
+meaning or use: _man_, _men_, _boy_, _boy's_, _love_, _loved_; *vir*, *virī*,
+*puer*, *puerī*, *amant*, *amābant*.
+
+DECLENSION
+
+XXII. The inflection of a noun or pronoun is called its _declension_. Nouns and
+pronouns in English are declined to show number and case, and a few nouns to
+show gender. In Latin the nouns and pronouns are declined; adjectives also are
+declined in gender, number, and case to agree with the nouns which they modify.
+
+_Number_
+
+XXIII. A noun or pronoun is in the _singular number_ when it means one person,
+place, or thing: _town_, _city_, _I_; *oppidum*, *urbs*, *ego*; in the _plural
+number_ when it means more than one person, place, or thing: _towns_, _cities_,
+_we_; *oppida*, *urbēs*, *nōs*.
+
+_Case_
+
+XXIV. a. The several forms taken by words that are declined are called _cases_.
+In English there are the following cases, to indicate the uses of nouns and
+pronouns:
+
+1. The _nominative_, primarily used as the subject of a sentence: _*He* throws
+the ball_.
+
+2. The _possessive_ (genitive), used to denote possession or ownership: _John
+throws *his* ball_; _see the *queen's* crown_.
+
+3. The _objective_ (accusative), used as the object of a transitive verb or of a
+preposition: _John throws the *ball* to *him*_.
+
+4. The _dative_, used to express the indirect object of the verb: _John throws
+*him* the ball_. Only personal pronouns and the pronoun _who_ have separate
+forms for these cases in English.
+
+Nouns have the nominative, objective, and dative alike, with a separate form for
+the possessive.
+
+b. In Latin there are seven cases: _nominative_, _genitive_, _dative_,
+_accusative_, _ablative_, _vocative_, and _locative_; but a single form
+sometimes does duty for several cases (cf. *agricola*, 63). The nominiative,
+genitive, and accusative cases are used much like the same cases in English. The
+dative expresses in general that relation of words to other words which is
+expressed in English by prepositional phrases beginning with _to_ or _for_: _to
+the farmer_, _for the man_. The ablative expresses in general that relation of
+words to other words which is expressed in English by prepositional phrases
+beginning with _from_, _with_, _by_, _in_: _with a spear_, _by a story_.
+
+c. The direct object of a verb in Latin is the accusative case, but sometimes
+the direct object in English is expressed in Latin by he dative (425, 433).
+
+_Gender_
+
+XXV. a. The gender of English nouns is what is called _natural gender_, and
+hence has very little to do with grammar. Thus, a noun denoting a male is in the
+_masculine gender_: _man_, _boy_, _father_; a noun denoting a female is in the
+_feminine gender_: _woman_, _girl_, _mother_; one denoting either male or female
+is in the _common gender_: _cat_, _dog_, _parent_; one denoting a sexless object
+is in the _neuter gender_: _river_, _wind_, _mountain_.
+
+b. In Latin only nouns that denote persons and some animals have natural gender:
+*nauta*, _sailor_ (masc.); *māter*, _mother_ (fem.). All others have an
+arbitrary gender, called _grammatical gender_, determined chiefly by the ending:
+*flūmen*, _river_ (neut.); *ventus*, _wind_ (masc.); *nūbēs*, _cloud_ (fem.).
+
+COMPARISON
+
+XXVI. a. English adjectives and adverbs are inflected to show degree. This is
+called _comparison_. There are three degrees of comparison, the _positive_, the
+_comparative_, and the _superlative_: positive _wise_, comparative _wiser_,
+superlative _wisest_; positive _good_, comparative _better_, superlative _best_;
+positive _often_, comparative _oftener_, superlative _oftenest_.
+
+b. Adjectives and adverbs are also compared in English by prefixing the adverbs
+_more_ and _most_: _beautiful_, _more beautiful_, _most beautiful_.
+
+c. Comparison in Latin is indicated exactly as in English: *sapiēns*,
+*sapientior*, *sapientissimus*; *bonus*, *melior*, *optimus*; *idōneus*, *magis
+idōneus*, *maximē idōneus*; *saepe*, *saepis*, *saepissimē*.
+
+CONJUGATION
+
+XXVII. a. The inflection of a verb is called _conjugation_. Verbs are
+conujugated to show voice, mood, and tense, and the number and person of the
+subject.
+
+b. The English verb has but few changes of form. Thus the verb _love_ has in
+common use only the forms _love_, _loves_, _loving_, and _loved_. Most of the
+conjugation of the verb is made up of verb phrases formed by the use of
+auxiliaries (IV, f): _I am loved_, _I shall love_, _I shall have been loved_,
+etc.
+
+c. The Latin verb has many changes in form to show voice, mood, tense, number,
+and person: *amor*, _I am loved_; *amābō*, _I shall love_; *amātus erō*, _I
+shall have been loved_.
+
+_Voice_
+
+XXVIII. A verb is in the _active voice_ when it represents the subject as acting
+(or being): _The man *praised* the boy_, *vir puerum _laudāvit_*. A verb is in
+the _passive voice_ when it represents the subject as acted on: _The boy *was
+praised* by the man_, *puer ā virō _laudātus est_*.
+
+_Mood_
+
+XXIX. A verb is in the _indicative mood_ when it is used in stating a fact or in
+asking a question: _The citizens *are assembling*_, *cīvēs _conveniunt_*; _why
+*do* they *carry* arms?_ *cūr arma _portant_?*
+
+XXX. a. In English a verb is in the _subjunctive mood_ when it asserts something doubtfully or conditionally. It is used in subordinate clauses, and is usually introduced by _if_, _though_, and the like: _If he *were* here, I should be glad_; _"Though he *slay* me, yet will I trust in him."_
+
+NOTE. The subjunctive is very little used in modern English, its place being
+taken by the indicative.
+
+b. In Latin the subjunctive has a great variety of uses, in independent as well
+as in dependent clauses (344, 358, 373, etc.).
+
+XXXI. a. A verb is in the _imperative mood_ when it expresses command, request,
+or entreaty: _*Fortify* the city_, *urbem _mūnīte_*.
+
+b. Unless emphatic the subject of the imperative (_thou_ or _you_) is not
+expressed either in English or in Latin.
+
+_The Infinitive_
+
+XXXII. a. The _infinitive_ in English (_to love_, _to have loved_, etc.) is a
+verbal noun. It has neither person nor number. Like a noun it may be the subject
+or the object or the complement of a verb: _*To see* is *to believe*_; _he
+wishes *to go* home_. Like a verb it may have a subject, an object, and
+adverbial modifiers: _We wish *you* to being your *work early*_.
+
+b. The Latin infinitive is used in the same way that the English infinitive is
+used. It differs, however, from the English infinitive in not being used in
+prose in expressions of purpose (_They came *to see* me), and in being used
+constantly for the verb of a statement that is given indirectly: _He said that
+*he would come*_, *dīxit _se ventūrum esse_*.
+
+c. The verbal noun in _-ing_ is sometimes called an infinitive: _*Seeing* is
+*believing*_ = _to see is to believe_. This verbal noun has its counterpart in
+the Latin gerund (459).
+
+_Tense_
+
+XXXIII. a. A verb is in the _present_, _past_ (_imperfect_), or _future_ tense
+according as it represents an action as taking place in present, past, or future
+time: _I love_, _I loved (was loving)_, _I shall love_; *amō*, *amābam*,
+*amābō*.
+
+b. The _present perfect_ (_perfect_) tense represents an action completed in the
+present: _I have loved_, *amāvī*; the _past perfect_ (_pluperfect_) an action
+completed in the past before some other past action or state: _I had loved_,
+*amāveram*; and the _future perfect_ an action completed in the future before
+some other future action or state: _I shall have loved_, *amāverō*.
+
+_The Participle_
+
+XXXIV. a. The _participle_ is a verbal adjective. Like an adjective it may
+qualify a noun: _*struggling* soldiers_, *mīlitēs _labōrantēs*. Like a verb it
+may have an object and adverbial modifiers: _Fearing *danger* they remained in
+the camp_, *_perīculum_ veritī in castrīs mānsērunt*.
+
+b. There are in English three participles in the active voice: present,
+_loving_; past, _loved_; perfect, _having loved_; and three in the passive
+voice: present, _(being) loved_; past, _loved_; perfect, _having been loved_. In
+Latin the past and perfect active and the present passive participles are
+wanting, but there is a future participle.
+
+c. The participle in _-ing_ is used with the auxiliary _be_ to make the
+progressive form of the verb: _you *are loving*_, _he *was loving*_, _they *will
+be loving*_. Latin has no special tenses for the progressive forms.
