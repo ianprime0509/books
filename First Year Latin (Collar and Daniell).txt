@@ -1,261 +1,352 @@
 TRANSCRIBER'S NOTES
 
-This file was transcribed from the PDF made available on the Internet Archive:
+This file was transcribed from the PDF made available on the
+Internet Archive:
 https://archive.org/details/collardaniellsfi00collrich
 
-Italics are represented using _underscores_ and boldface using *asterisks*.
+Italics are represented using _underscores_ and boldface using
+*asterisks*.
 
-The footnotes have been renumbered so that all footnotes can be given at the end
-of the chapter.
+The footnotes have been renumbered so that all footnotes can be
+given at the end of the chapter.
 
 END OF NOTES
 
 
-[Image: A ROMAN CITIZEN SPEAKS]
+[Illustration: A ROMAN CITIZEN SPEAKS]
 
-COLLAR AND DANIELL'S
-FIRST YEAR LATIN
+  COLLAR AND DANIELL'S
+  FIRST YEAR LATIN
 
-REVISED BY
-THORNTON JENKINS
-HEAD MASTER, HIGH SCHOOL, MALDEN, MASSACHUSETTS
+  REVISED BY
+  THORNTON JENKINS
+  HEAD MASTER, HIGH SCHOOL, MALDEN, MASSACHUSETTS
 
-THE ATHENÆUM PRESS
+  THE ATHENÆUM PRESS
 
-GINN AND COMPANY
-BOSTON · NEW YORK · CHICAGO · LONDON
-ATLANTA · DALLAS · COLUMBUS · SAN FRANCISCO
+  GINN AND COMPANY
+  BOSTON · NEW YORK · CHICAGO · LONDON
+  ATLANTA · DALLAS · COLUMBUS · SAN FRANCISCO
 
-COPYRIGHT 1901, BY WILLIAM C. COLLAR AND M. GRANT DANIELL
-COPYRIGHT 1918, BY GINN AND COMPANY
-ENTERED AT STATIONERS' HALL
-ALL RIGHTS RESERVED
-318.4
+  COPYRIGHT 1901, BY WILLIAM C. COLLAR AND M. GRANT DANIELL
+  COPYRIGHT 1918, BY GINN AND COMPANY
+  ENTERED AT STATIONERS' HALL
+  ALL RIGHTS RESERVED
+  318.4
 
 
 PREFACE
 
-The book that is placed in the hands of a pupil during his first year of the
-study of Latin should be simple and clear and interesting in its treatment of
-the language; it should teach with the utmost thoroughness those principles that
-it attempts to teach, but it should not attempt to teach to-day what may be be
-taught more properly to-morrow; it should get the pupil into the reading of easy
-connected Latin as soon as possible, and for this purpose should supply a
-generous amount of material graded to his attainment; and it should never allow
-the pupil to leave the classroom without a reminder of the extent to which Latin
-is a part of his own language.
+The book that is placed in the hands of a pupil during his first
+year of the study of Latin should be simple and clear and
+interesting in its treatment of the language; it should teach
+with the utmost thoroughness those principles that it attempts to
+teach, but it should not attempt to teach to-day what may be be
+taught more properly to-morrow; it should get the pupil into the
+reading of easy connected Latin as soon as possible, and for this
+purpose should supply a generous amount of material graded to his
+attainment; and it should never allow the pupil to leave the
+classroom without a reminder of the extent to which Latin is a
+part of his own language.
 
-With these convictions the revision of Collar and Daniell's "First Year Latin"
-was undertaken. All these principles underlay the plan of "First Year Latin,"
-but the unanimity with which they have been accepted since the publication of
-that text has made it possible in the revision so to extend their application as
-to produce what is in effect a new book.
+With these convictions the revision of Collar and Daniell's
+"First Year Latin" was undertaken. All these principles underlay
+the plan of "First Year Latin," but the unanimity with which they
+have been accepted since the publication of that text has made it
+possible in the revision so to extend their application as to
+produce what is in effect a new book.
 
-The vocabulary has been made briefer and more Cæsarian. From the vocabularies of
-the lessons the pupil is asked to learn the meanings of some five hundred and
-seventy words. About ninety per cent of these words are included in the list of
-one thousand words which Professor Lodge [1] suggests should be learned before
-the end of the second year of the study of Latin. Over sixty per cent occur more
-than ten times in Cæsar. In the Selections for Reading the pupil has a chance to
-become acquainted casually with a wider vocabulary.
+The vocabulary has been made briefer and more Cæsarian. From the
+vocabularies of the lessons the pupil is asked to learn the
+meanings of some five hundred and seventy words. About ninety per
+cent of these words are included in the list of one thousand
+words which Professor Lodge [1] suggests should be learned before
+the end of the second year of the study of Latin. Over sixty per
+cent occur more than ten times in Cæsar. In the Selections for
+Reading the pupil has a chance to become acquainted casually with
+a wider vocabulary.
 
-A number of constructions which were taught in the original book have been
-omitted. With three exceptions the constructions included in the revision are
-those which Byrne [2] recommends for the first year. Similarly, the pupil is no
-longer required to learn uncommon forms which are not necessary for his
-second-year reading.
+A number of constructions which were taught in the original book
+have been omitted. With three exceptions the constructions
+included in the revision are those which Byrne [2] recommends for
+the first year. Similarly, the pupil is no longer required to
+learn uncommon forms which are not necessary for his second-year
+reading.
 
-Increased attention has been given to derivatives. Related English words are
-often placed after the Latin words in the vocabularies of the lessons as well as
-in the general vocabulary. Everywhere in the reviews this important part of the
-study of Latin is kept constantly before the pupil. Suggestions are offered for
-the keeping of notebooks of English derivatives. The force of certain common
-prefixes and suffixes in the formation and meaning of Latin words is also
-explained.
+Increased attention has been given to derivatives. Related
+English words are often placed after the Latin words in the
+vocabularies of the lessons as well as in the general vocabulary.
+Everywhere in the reviews this important part of the study of
+Latin is kept constantly before the pupil. Suggestions are
+offered for the keeping of notebooks of English derivatives. The
+force of certain common prefixes and suffixes in the formation
+and meaning of Latin words is also explained.
 
-Interspersed throughout the book there are ten Review Lessons, which take up the
-words and constructions previously taught. The machinery for drill has been
-further strengthened by a summary of the uses of nouns and of verbs, and by
-review questions touching upon the syntax, forms, derivatives, and principles of
-each lesson. These questions have been placed after the Selections for Reading,
-that they may be somewhat removed from the lessons they concern.
+Interspersed throughout the book there are ten Review Lessons,
+which take up the words and constructions previously taught. The
+machinery for drill has been further strengthened by a summary of
+the uses of nouns and of verbs, and by review questions touching
+upon the syntax, forms, derivatives, and principles of each
+lesson. These questions have been placed after the Selections for
+Reading, that they may be somewhat removed from the lessons they
+concern.
 
-The treatment of the Essentials of Grammar has been made more useful by a
-comparison of English grammar with Latin grammar, and by the inclusion of Latin
-equivalents for the English illustrative words and phrases.
+The treatment of the Essentials of Grammar has been made more
+useful by a comparison of English grammar with Latin grammar, and
+by the inclusion of Latin equivalents for the English
+illustrative words and phrases.
 
-The material for reading has been somewhat changed, particularly by the omission
-of the Fables and Stories, and by the introduction of the Story of Perseus, of
-the simplified narrative of Cæsar's Campaign against the Helvetians, and of a
-number of pages from Eutropius. In all the selections the syntax has been made
-to conform with that taught in the lessons, so that the pupil may not be
-bothered or discouraged by unfamiliar constructions.
+The material for reading has been somewhat changed, particularly
+by the omission of the Fables and Stories, and by the
+introduction of the Story of Perseus, of the simplified narrative
+of Cæsar's Campaign against the Helvetians, and of a number of
+pages from Eutropius. In all the selections the syntax has been
+made to conform with that taught in the lessons, so that the
+pupil may not be bothered or discouraged by unfamiliar
+constructions.
 
-As an aid to the pupil's pronunciation, a mark of accent has been placed on the
-words in the vocabularies of the first eighteen lessons, and on declensions and
-conjugations, both in the text and in the Appendix.
+As an aid to the pupil's pronunciation, a mark of accent has been
+placed on the words in the vocabularies of the first eighteen
+lessons, and on declensions and conjugations, both in the text
+and in the Appendix.
 
-Teachers who are familiar with "First Year Latin" will find that none of its
-well-known excellences have been sacrificed in the revision. There are, for
-example, the same short lessons, usually less than two pages in length. In the
-exercises the sentences for translation remain simple. Nowhere are many
-constructions brought within the limits of a single sentence. The exercises for
-translation from English into Latin are relatively shorter than those from Latin
-into English. The order in which the verb is developed and in which the various
-constructions are presented will be found the same, with a few exceptions. In
-the study of syntax the pupil is still led from the observation of model
-sentences to the deduction of usages and principles. Passages of connected Latin
-are introduced early and are of frequent occurrence throughout the lessons, and
-there is ample material for reading after the lessons have been completed. The
-content of the book is still such that it is possible for high-school classes to
-go through the lessons within thirty weeks.
+Teachers who are familiar with "First Year Latin" will find that
+none of its well-known excellences have been sacrificed in the
+revision. There are, for example, the same short lessons, usually
+less than two pages in length. In the exercises the sentences for
+translation remain simple. Nowhere are many constructions brought
+within the limits of a single sentence. The exercises for
+translation from English into Latin are relatively shorter than
+those from Latin into English. The order in which the verb is
+developed and in which the various constructions are presented
+will be found the same, with a few exceptions. In the study of
+syntax the pupil is still led from the observation of model
+sentences to the deduction of usages and principles. Passages of
+connected Latin are introduced early and are of frequent
+occurrence throughout the lessons, and there is ample material
+for reading after the lessons have been completed. The content of
+the book is still such that it is possible for high-school
+classes to go through the lessons within thirty weeks.
 
-The "Teacher's Manual," in addition to general directions and notes on each
-lesson, contains carefully graded sentences for sight reading and for the
-practice of the "direct method," as well as material for drill on English
-derivatives of the Latin words of the vocabularies.
+The "Teacher's Manual," in addition to general directions and
+notes on each lesson, contains carefully graded sentences for
+sight reading and for the practice of the "direct method," as
+well as material for drill on English derivatives of the Latin
+words of the vocabularies.
 
-It is hoped that teachers will find the numerous illustrations a help to them in
-familiarizing pupils with the life of the Romans. The four plates in colors were
-made especially for this book by Mr. Arthur E. Becher after a careful study of
-all the phases of Roman life that they represent. As for the other pictures,
-half tones have been used where the subject could be made more realistic if
-reproduced directly from a photograph. In cases where line engravings seemed
-more suitable, drawings in the style of the early Italian engravings were made
-for the purpose by Mr. Thomas M. Cleland, Mr. W. A. Dwiggins, and Mr. Adrian J.
-Iorio. As a whole the illustrations are believed to be of a quality unexcelled
-in schoolbooks.
+It is hoped that teachers will find the numerous illustrations a
+help to them in familiarizing pupils with the life of the Romans.
+The four plates in colors were made especially for this book by
+Mr. Arthur E. Becher after a careful study of all the phases of
+Roman life that they represent. As for the other pictures, half
+tones have been used where the subject could be made more
+realistic if reproduced directly from a photograph. In cases
+where line engravings seemed more suitable, drawings in the style
+of the early Italian engravings were made for the purpose by Mr.
+Thomas M. Cleland, Mr. W. A. Dwiggins, and Mr. Adrian J. Iorio.
+As a whole the illustrations are believed to be of a quality
+unexcelled in schoolbooks.
 
-The reviser wishes to acknowledge his indebtedness to the  the suggestions
-received from Mr. Collar himself, who, before his death, had given considerable
-thought to the aim and scope of the revision. Indebtedness is also gratefully
-acknowledged to Professor Charles Knapp, of Barnard College, New York; to Mr.
-Herbert F. Hancox, of Lewis Institute, Chicago; and to Miss Grace I. Bridge and
-Miss Grace E. Jackson, of the Hyde Park High School, Chicago, for their helpful
-criticisms.
+The reviser wishes to acknowledge his indebtedness to the  the
+suggestions received from Mr. Collar himself, who, before his
+death, had given considerable thought to the aim and scope of the
+revision. Indebtedness is also gratefully acknowledged to
+Professor Charles Knapp, of Barnard College, New York; to Mr.
+Herbert F. Hancox, of Lewis Institute, Chicago; and to Miss Grace
+I. Bridge and Miss Grace E. Jackson, of the Hyde Park High
+School, Chicago, for their helpful criticisms.
 
-                                                                            T.J.
+                                                        T.J.
 
 [1] Vocabulary of High School Latin
 [2] The Syntax of High School Latin
 
 
+
 CONTENTS
 
-    ESSENTIALS OF GRAMMAR
-    TO THE BEGINNER IN LATIN: WHAT LATIN IS, AND WHY IT IS STUDIED. HOW TO STUDY LATIN
-    INTRODUCTION: ALPHABET, SOUNDS OF THE LETTERS SYLLABLES, QUANTITY, ACCENT
+  ESSENTIALS OF GRAMMAR
 
-    LESSON
-          I. THE SINGULAR AND PLURAL OF NOUNS AND VERBS. THE NOMINATIVE CASE USED AS SUBJECT
-         II. THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT
-        III. THE PRESENT INDICATIVE ACTIVE OF THE FIRST CONJUGATION
-         IV. THE GENITIVE CASE USED TO DENOTE POSSESSION
-          V. THE PRESENT INDICATIVE ACTIVE OF THE SECOND CONJUGATION. CAUSAL CLAUSE WITH *Quod*
-         VI. THE DATIVE CASE USED AS THE INDIRECT OBJECT. THE ABLATIVE USED IN PREPOSITIONAL PHRASES TO SHOW PLACE WHERE
-        VII. THE FIRST DECLENSION. GENDER
-             FIRST REVIEW LESSON
-       VIII. THE SECOND DECLENSION
-         IX. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS
-          X. THE PRESENT INDICATIVE OF *Sum*. PREDICATE NOUN AND PREDICATE ADJECTIVE
-         XI. APPOSITION. *Cornēlia et Iūlia*
-        XII. THE SECOND DECLENSION: NOUNS IN *-er*, *-ir*, *-ius*, and *-ium*
-       XIII. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS ENDING IN *-er*. *Dē Graeciā*
-        XIV. THE IMPERFECT AND FUTURE INDICATIVE OF *Sum*. THE DATIVE WITH ADJECTIVES
-             SECOND REVIEW LESSON
-         XV. THE IMPERFECT INDICATIVE ACTIVE, FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF MEANS
-        XVI. THE FUTURE INDICATIVE ACTIVE, FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF MANNER
-       XVII. PRINCIPAL PARTS. THE PERFECT STEM. THE PERFECT INDICATIVE ACTIVE, FIRST CONJUGATION. *Dē Sabīnīs*
-      XVIII. THE PERFECT INDICATIVE ACTIVE, SECOND CONJUGATION. THE ABLATIVE OF ACCOMPANIMENT
-        XIX. THE DEMONSTRATIVE *Is*. THE PERFECT INDICATIVE OF *Sum*
-         XX. THE INTERROGATIVE *Quis*. *Dē Deīs Rōmānōrum*
-        XXI. THE PRESENT, IMPERFECT, FUTURE, AND PERFECT INDICATIVE ACTIVE OF THE THIRD CONJUGATION
-             THIRD REVIEW LESSON
-       XXII. READING LESSON. *Dē Īcarō. Rōmānī prō Sociīs pugnant*
-      XXIII. THE THIRD DECLENSION
-       XXIV. THE THIRD CONJUGATION: VERBS IN *-iō*. THE ABLATIVE OF PLACE FROM WHICH. THE ACCUSATIVE OF PLACE TO WHICH
-        XXV. THE ABLATIVE OF CAUSE. PREPOSITIONAL PHRASES EXPRESSIONG CAUSE
-       XXVI. THE THIRD DECLENSION: *i*-STEMS
-      XXVII. THE ACCUSATIVE AND THE ABLATIVE WITH PREPOSITIONS. ADJECTIVES USED AS NOUNS
-     XXVIII. READING LESSON. *Horātius Pontem dēfendit. Dē Nātiōnibus Eurōpae*
-       XXIX. ADJECTIVES OF THE THIRD DECLENSION
-        XXX. THE FOURTH CONJUGATION. *Conloquium*
-       XXXI. THE ABLATIVE OF TIME. _Laconic Speeches_
-      XXXII. THE PLUPERFECT AND FUTURE PERFECT INDICATIVE ACTIVE OF ALL CONJUGATIONS
-     XXXIII. THE DEMONSTRATIVES *Hic* AND *Ille*. PLACE FROM WHICH AND TO WHICH, IN NAMES OF TOWNS
-      XXXIV. READING LESSON. *Victōria Caesaris. Dē Caesare et Britannīs*
-       XXXV. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF THE FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF AGENT
-      XXXVI. THE RELATIVE *Quī*
-             FIFTH REVIEW LESSON
-     XXXVII. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF *Regō* AND *Capiō*
-    XXXVIII. THE PERSONAL AND REFLEXIVE PRONOUNS
-      XXXIX. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF THE FOURTH CONJUGATION. *Veturia, Māter Coriolānī. Dē Perseō*
-         XL. THE POSSESSIVE ADJECTIVES. THE ABLATIVE OF SEPARATION
-        XLI. THE PERFECT, PLUPERFECT, AND FUTURE PERFECT INDICATIVE PASSIVE OF ALL CONJUGATIONS. *Iupiter Perseum servat*
-       XLII. THE FOURTH DECLENSION
-      XLIII. THE COMPARISON OF ADJECTIVES
-             SIXTH REVIEW LESSON
-       XLIV. THE COMPARISON OF ADJECTIVES ENDING IN *-er* OR *-lis*. THE PARTITIVE GENITIVE
-        XLV. READING LESSON. *Scīpiō et Hannibal. Perseus Medūsam quaerit*
-       XLVI. THE IRREGULAR COMPARISON OF ADJECTIVES. THE ABLATIVE OF DEGREE OF DIFFERENCE
-      XLVII. THE FORMATION AND THE COMPARISON OF ADVERBS
-     XLVIII. THE FIFTH DECLENSION. THE ACCUSATIVE OF EXTENT
-       XLIX. READING LESSON. _A Letter from Pompeii_. *Perseus Medūsam interficit*
-          L. THE SUBJUNCTIVE MOOD. THE PRESENT SUBJUNCTIVE. PURPOSE CLAUSES WITH *Ut* AND *Nē*
-         LI. THE IMPERFECT SUBJUNCTIVE. SEQUENCE OF TENSES
-        LII. SUBSTANTIVE CLAUSES OF PURPOSE. RESULT CLAUSES
-             SEVENTH REVIEW LESSON
-       LIII. READING LESSON. *Caesar Hostīs vincit. Andromeda Fīlia Cēpheī*
-        LIV. THE PERFECT AND THE PLUPERFECT SUBJUNCTIVE. INDIRECT QUESTIONS
-         LV. NUMERAL ADJECTIVES. THE OBJECTIVE GENITIVE
-        LVI. ADJECTIVES HAVING THE GENITIVE IN *-īus. Mōnstrum appropinquat*
-       LVII. THE INFINITIVE AS SUBJECT AND AS COMPLEMENT
-      LVIII. THE INFINITIVE AS OBJECT. THE ACCUSATIVE AS SUBJECT OF THE INFINITIVE. INDIRECT STATEMENTS
-        LXI. READING LESSON. *Caesar in Conciliō dīcit. Perseus Cēpheō Andromedam reddit*
-         LX. THE DEMONSTRATIVES *Īdem*, *Ipse*, *Iste*. THE IRREGULAR VERB *Possum*
-             EIGHTH REVIEW LESSON
-        LXI. THE INDEFINITE PRONOUNS. _The Nations of Gaul_
-       LXII. THE DATIVE WITH COMPOUNDS. THE DATIVES OF PURPOSE AND REFERENCE
-      LXIII. THE DATIVE WITH SPECIAL INTRANSITIVE VERBS. THE IRREGULAR VERBS *Volō*, *Nōlō*, *Mālō*
-       LXIV. READING LESSON. _Belling the Cat_. _Nasica and Ennius_. _Orgetorix and the Helvetians_
-        LXV. PARTICIPLES
-       LXVI. READING LESSON. *Dicta Antīquōrum*. _Orgetorix and the Helvetians_ (CONTINUED)
-      LXVII. THE ABLATIVE ABSOLUTE
-     LXVIII. THE GERUND. THE IRREGULAR VERB *Eō*
-       LXIX. THE GERUNDIVE. THE IRREGULAR VERB *Ferō*
-        LXX. READING LESSON. _The Helvetians leave their Territory_
-       LXXI. THE ABLATIVE OF SPECIFICATION. DEPONENT VERBS
-      LXXII. TEMPORAL CLAUSES WITH *Cum*. THE IRREGULAR VERB *Fiō*
-     LXXIII. READING LESSON. _Cæsar refuses the Helvetians Permission to go through the Roman Province_
-      LXXIV. SUBSTANTIVE CLAUSES OF FACT INTRODUCED BY *Quod*. THE INDICATIVE IN ADVERBIAL CLAUSES
-       LXXV. SUBORDINATE CLAUSES IN INDIRECT STATEMENTS
-             TENTH REVIEW LESSON
-             SUMMARY: THE USES OF NOUNS AND VERBS
+  TO THE BEGINNER IN LATIN: WHAT LATIN IS, AND WHY IT IS
+  STUDIED. HOW TO STUDY LATIN
 
-    SELECTIONS FOR READING:
-        Cæsar: The Campaign against the Helvetians
-        Cæsar: The Story of the Aduatuci
-        Stories of Hercules
-        Stories of Ulysses
-        Eutropius: History of Rome
-        Stories from Roman History
+  INTRODUCTION: ALPHABET, SOUNDS OF THE LETTERS SYLLABLES,
+  QUANTITY, ACCENT
 
-    REVIEW QUESTIONS
+  LESSON
 
-    APPENDIX I:
-        Rules of Syntax
-        Formation of Latin Words
-        English Derivatives
+        I. THE SINGULAR AND PLURAL OF NOUNS AND VERBS. THE
+           NOMINATIVE CASE USED AS SUBJECT
+       II. THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT
+      III. THE PRESENT INDICATIVE ACTIVE OF THE FIRST CONJUGATION
+       IV. THE GENITIVE CASE USED TO DENOTE POSSESSION
+        V. THE PRESENT INDICATIVE ACTIVE OF THE SECOND
+           CONJUGATION. CAUSAL CLAUSE WITH *Quod*
+       VI. THE DATIVE CASE USED AS THE INDIRECT OBJECT. THE
+           ABLATIVE USED IN PREPOSITIONAL PHRASES TO SHOW PLACE
+           WHERE
+      VII. THE FIRST DECLENSION. GENDER
 
-    APPENDIX II:
-        Declensions and Conjugations
+           FIRST REVIEW LESSON
 
-    LATIN-ENGLISH VOCABULARY
-    ENGLISH-LATIN VOCABULARY
-    INDEX
+     VIII. THE SECOND DECLENSION
+       IX. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS
+        X. THE PRESENT INDICATIVE OF *Sum*. PREDICATE NOUN AND
+           PREDICATE ADJECTIVE
+       XI. APPOSITION. *Cornēlia et Iūlia*
+      XII. THE SECOND DECLENSION: NOUNS IN *-er*, *-ir*, *-ius*,
+           and *-ium*
+     XIII. ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS ENDING
+           IN *-er*. *Dē Graeciā*
+      XIV. THE IMPERFECT AND FUTURE INDICATIVE OF *Sum*. THE
+           DATIVE WITH ADJECTIVES
+
+           SECOND REVIEW LESSON
+
+       XV. THE IMPERFECT INDICATIVE ACTIVE, FIRST AND SECOND
+           CONJUGATIONS. THE ABLATIVE OF MEANS
+      XVI. THE FUTURE INDICATIVE ACTIVE, FIRST AND SECOND
+           CONJUGATIONS. THE ABLATIVE OF MANNER
+     XVII. PRINCIPAL PARTS. THE PERFECT STEM. THE PERFECT
+           INDICATIVE ACTIVE, FIRST CONJUGATION. *Dē Sabīnīs*
+    XVIII. THE PERFECT INDICATIVE ACTIVE, SECOND CONJUGATION. THE
+           ABLATIVE OF ACCOMPANIMENT
+      XIX. THE DEMONSTRATIVE *Is*. THE PERFECT INDICATIVE OF *Sum*
+       XX. THE INTERROGATIVE *Quis*. *Dē Deīs Rōmānōrum*
+      XXI. THE PRESENT, IMPERFECT, FUTURE, AND PERFECT INDICATIVE
+           ACTIVE OF THE THIRD CONJUGATION
+
+           THIRD REVIEW LESSON
+
+     XXII. READING LESSON. *Dē Īcarō. Rōmānī prō Sociīs pugnant*
+    XXIII. THE THIRD DECLENSION
+     XXIV. THE THIRD CONJUGATION: VERBS IN *-iō*. THE ABLATIVE OF
+           PLACE FROM WHICH. THE ACCUSATIVE OF PLACE TO WHICH
+      XXV. THE ABLATIVE OF CAUSE. PREPOSITIONAL PHRASES
+           EXPRESSING CAUSE
+     XXVI. THE THIRD DECLENSION: *i*-STEMS
+    XXVII. THE ACCUSATIVE AND THE ABLATIVE WITH PREPOSITIONS.
+           ADJECTIVES USED AS NOUNS
+   XXVIII. READING LESSON. *Horātius Pontem dēfendit. Dē
+           Nātiōnibus Eurōpae*
+     XXIX. ADJECTIVES OF THE THIRD DECLENSION
+      XXX. THE FOURTH CONJUGATION. *Conloquium*
+     XXXI. THE ABLATIVE OF TIME. _Laconic Speeches_
+    XXXII. THE PLUPERFECT AND FUTURE PERFECT INDICATIVE ACTIVE
+           OF ALL CONJUGATIONS
+   XXXIII. THE DEMONSTRATIVES *Hic* AND *Ille*. PLACE FROM WHICH
+           AND TO WHICH, IN NAMES OF TOWNS
+    XXXIV. READING LESSON. *Victōria Caesaris. Dē Caesare et
+           Britannīs*
+     XXXV. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE
+           OF THE FIRST AND SECOND CONJUGATIONS. THE ABLATIVE OF
+           AGENT
+    XXXVI. THE RELATIVE *Quī*
+
+           FIFTH REVIEW LESSON
+
+   XXXVII. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE
+           OF *Regō* AND *Capiō*
+  XXXVIII. THE PERSONAL AND REFLEXIVE PRONOUNS
+    XXXIX. THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE
+           OF THE FOURTH CONJUGATION. *Veturia, Māter Coriolānī.
+           Dē Perseō*
+       XL. THE POSSESSIVE ADJECTIVES. THE ABLATIVE OF SEPARATION
+      XLI. THE PERFECT, PLUPERFECT, AND FUTURE PERFECT
+           INDICATIVE PASSIVE OF ALL CONJUGATIONS. *Iupiter
+           Perseum servat*
+     XLII. THE FOURTH DECLENSION
+    XLIII. THE COMPARISON OF ADJECTIVES
+
+           SIXTH REVIEW LESSON
+
+     XLIV. THE COMPARISON OF ADJECTIVES ENDING IN *-er* OR
+           *-lis*. THE PARTITIVE GENITIVE
+      XLV. READING LESSON. *Scīpiō et Hannibal. Perseus Medūsam
+           quaerit*
+     XLVI. THE IRREGULAR COMPARISON OF ADJECTIVES. THE ABLATIVE
+           OF DEGREE OF DIFFERENCE
+    XLVII. THE FORMATION AND THE COMPARISON OF ADVERBS
+   XLVIII. THE FIFTH DECLENSION. THE ACCUSATIVE OF EXTENT
+     XLIX. READING LESSON. _A Letter from Pompeii_. *Perseus
+           Medūsam interficit*
+        L. THE SUBJUNCTIVE MOOD. THE PRESENT SUBJUNCTIVE. PURPOSE
+           CLAUSES WITH *Ut* AND *Nē*
+       LI. THE IMPERFECT SUBJUNCTIVE. SEQUENCE OF TENSES
+      LII. SUBSTANTIVE CLAUSES OF PURPOSE. RESULT CLAUSES
+
+           SEVENTH REVIEW LESSON
+
+     LIII. READING LESSON. *Caesar Hostīs vincit. Andromeda Fīlia
+           Cēpheī*
+      LIV. THE PERFECT AND THE PLUPERFECT SUBJUNCTIVE. INDIRECT
+           QUESTIONS
+       LV. NUMERAL ADJECTIVES. THE OBJECTIVE GENITIVE
+      LVI. ADJECTIVES HAVING THE GENITIVE IN *-īus. Mōnstrum
+           appropinquat*
+     LVII. THE INFINITIVE AS SUBJECT AND AS COMPLEMENT
+    LVIII. THE INFINITIVE AS OBJECT. THE ACCUSATIVE AS SUBJECT
+           OF THE INFINITIVE. INDIRECT STATEMENTS
+      LXI. READING LESSON. *Caesar in Conciliō dīcit. Perseus
+           Cēpheō Andromedam reddit*
+       LX. THE DEMONSTRATIVES *Īdem*, *Ipse*, *Iste*. THE
+           IRREGULAR VERB *Possum*
+
+           EIGHTH REVIEW LESSON
+
+      LXI. THE INDEFINITE PRONOUNS. _The Nations of Gaul_
+     LXII. THE DATIVE WITH COMPOUNDS. THE DATIVES OF PURPOSE AND
+           REFERENCE
+    LXIII. THE DATIVE WITH SPECIAL INTRANSITIVE VERBS. THE
+           IRREGULAR VERBS *Volō*, *Nōlō*, *Mālō*
+     LXIV. READING LESSON. _Belling the Cat_. _Nasica and
+           Ennius_. _Orgetorix and the Helvetians_
+      LXV. PARTICIPLES
+     LXVI. READING LESSON. *Dicta Antīquōrum*. _Orgetorix and
+           the Helvetians_ (CONTINUED)
+    LXVII. THE ABLATIVE ABSOLUTE
+   LXVIII. THE GERUND. THE IRREGULAR VERB *Eō*
+     LXIX. THE GERUNDIVE. THE IRREGULAR VERB *Ferō*
+      LXX. READING LESSON. _The Helvetians leave their Territory_
+     LXXI. THE ABLATIVE OF SPECIFICATION. DEPONENT VERBS
+    LXXII. TEMPORAL CLAUSES WITH *Cum*. THE IRREGULAR VERB *Fiō*
+   LXXIII. READING LESSON. _Cæsar refuses the Helvetians
+           Permission to go through the Roman Province_
+    LXXIV. SUBSTANTIVE CLAUSES OF FACT INTRODUCED BY *Quod*. THE
+           INDICATIVE IN ADVERBIAL CLAUSES
+     LXXV. SUBORDINATE CLAUSES IN INDIRECT STATEMENTS
+
+           TENTH REVIEW LESSON
+
+           SUMMARY: THE USES OF NOUNS AND VERBS
+
+  SELECTIONS FOR READING:
+      Cæsar: The Campaign against the Helvetians
+      Cæsar: The Story of the Aduatuci
+      Stories of Hercules
+      Stories of Ulysses
+      Eutropius: History of Rome
+      Stories from Roman History
+
+  REVIEW QUESTIONS
+
+  APPENDIX I:
+      Rules of Syntax
+      Formation of Latin Words
+      English Derivatives
+
+  APPENDIX II:
+      Declensions and Conjugations
+
+  LATIN-ENGLISH VOCABULARY
+  ENGLISH-LATIN VOCABULARY
+  INDEX
+
 
 
 FIRST YEAR LATIN
+
+
 
 ESSENTIALS OF GRAMMAR
 
@@ -263,744 +354,855 @@ THE PARTS OF SPEECH
 
 NOUNS
 
-I. a. A _noun_ is the name of a person, place, or thing: _boy_, _London_,
-_ship_; *puer*, *Londīnium*, *nāvis*.
+I. a. A _noun_ is the name of a person, place, or thing: _boy_,
+_London_, _ship_; *puer*, *Londīnium*, *nāvis*.
 
-b. A _proper noun_ is the name of a particular person, place, or thing:
-_Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.
+b. A _proper noun_ is the name of a particular person, place, or
+thing: _Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*,
+*Rhodanus*.
 
-c. A _common noun_ is a name that may be applied to any one of a class of
-objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.
+c. A _common noun_ is a name that may be applied to any one of a
+class of objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.
 
-d. A _collective noun_ is a name that may be applied  to a group of objects,
-though itself in the singular number (XXIII): _crowd_, _family_; *multitūdō*,
-*gēns*.
+d. A _collective noun_ is a name that may be applied  to a group
+of objects, though itself in the singular number (XXIII):
+_crowd_, _family_; *multitūdō*, *gēns*.
 
-e. A _verbal noun_ is the name of an action: _seeing_, _writing_, _to see_, _to
-write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.
+e. A _verbal noun_ is the name of an action: _seeing_, _writing_,
+_to see_, _to write_; *videndī* (459), *scrībendī*, *vidēre*,
+*scrībere*.
 
-f. An _abstract noun_ is the name of a quality or condition: _goodness_,
-_truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.
+f. An _abstract noun_ is the name of a quality or condition:
+_goodness_, _truth_, _poverty_; *bonitās*, *vēritās*,
+*paupertās*.
 
 PRONOUNS
 
-II. a. A _pronoun_ is a word used to take the place of a noun or of another
-pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*, *quī*.
+II. a. A _pronoun_ is a word used to take the place of a noun or
+of another pronoun: _I_, _you_, _him_, _this_, _who_; *ego*,
+*tū*, *eum*, *hoc*, *quī*.
 
-b. The noun (or pronoun) for which a pronoun stands is called its _antecedent_
-(from *antecēdere*, _to go before_). Thus, in the sentence _John goes to school,
-but he does not study_, the noun _John_ is the antecedent of _he_. The
-antecedent is especially common with a relative pronoun (II, d). Neither in
-Latin nor in English does the antecedent necessarily stand in advance of its
+b. The noun (or pronoun) for which a pronoun stands is called its
+_antecedent_ (from *antecēdere*, _to go before_). Thus, in the
+sentence _John goes to school, but he does not study_, the noun
+_John_ is the antecedent of _he_. The antecedent is especially
+common with a relative pronoun (II, d). Neither in Latin nor in
+English does the antecedent necessarily stand in advance of its
 pronoun: _What he says, he believes_, *quod dīcit, _id_ crēdit*.
 
-c. A _personal pronoun_ shows by its form whether it stands (1) for the speaker:
-_I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for the person spoken
-to: _thou_, _you_; *tū*, *vōs*, that is, the _second person_; or (3) for the
-person or thing spoken of: _he_, _she_, _it_, _they_; *is*, *ea*, *id*, *eī*,
-that is, the _third person_.
+c. A _personal pronoun_ shows by its form whether it stands (1)
+for the speaker: _I_, _we_; *ego*, *nōs*, that is, the _first
+person_; (2) for the person spoken to: _thou_, _you_; *tū*,
+*vōs*, that is, the _second person_; or (3) for the person or
+thing spoken of: _he_, _she_, _it_, _they_; *is*, *ea*, *id*,
+*eī*, that is, the _third person_.
 
-d. A _relative pronoun_ connects a subordinate clause, in which it stands, with
-the antecedent: _The book *that* you have is mine_, *liber _quem_ habēs meus
-est*. The relative pronouns in English are _who_, _which_, _that_, and _as_; in
-Latin the relative is *quī*.
+d. A _relative pronoun_ connects a subordinate clause, in which
+it stands, with the antecedent: _The book *that* you have is
+mine_, *liber _quem_ habēs meus est*. The relative pronouns in
+English are _who_, _which_, _that_, and _as_; in Latin the
+relative is *quī*.
 
-e. An _interrogative pronoun_ is used to ask a question: _*Who* is walking in
-the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in English
-are _who_, _which_, and _what_; in Latin, *quis* and *uter*.
+e. An _interrogative pronoun_ is used to ask a question: _*Who*
+is walking in the garden?_ *_Quis_ in hortō ambulat?* The
+interrogative pronouns in English are _who_, _which_, and _what_;
+in Latin, *quis* and *uter*.
 
-f. A _demonstrative pronoun_ points out an object definitely: _this_, _that_,
-_these_, _those_; *hic*, *ille*, *hī*, *illī*.
+f. A _demonstrative pronoun_ points out an object definitely:
+_this_, _that_, _these_, _those_; *hic*, *ille*, *hī*, *illī*.
 
-g. An _indefinite pronoun_ refers to an object indefinitely: _some_, _some one_,
-_any_, _any one_; *aliquis*, *quis*.
+g. An _indefinite pronoun_ refers to an object indefinitely:
+_some_, _some one_, _any_, _any one_; *aliquis*, *quis*.
 
-h. A _reflexive pronoun refers back to the subject: _He blamed *himself*_, *_sē_
-culpāvit*.
+h. A _reflexive pronoun refers back to the subject: _He blamed
+*himself*_, *_sē_ culpāvit*.
 
 ADJECTIVES
 
-III. a. An _adjective_ is a word used to qualify or limit a noun or a pronoun:
-_*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna
-_pulchra_*, *_quīnque_ puellae*.
+III. a. An _adjective_ is a word used to qualify or limit a noun
+or a pronoun: _*good* book_, _*beautiful* moon_, _*five* girls_;
+*liber _bonus_*, *lūna _pulchra_*, *_quīnque_ puellae*.
 
-b. _A_, _an_, and _the_, really limiting adjectives, are sometimes called
-_articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite
-article_. These articles are not used in Latin.
+b. _A_, _an_, and _the_, really limiting adjectives, are
+sometimes called _articles_. _The_ is the _definite article_, _a_
+or _an_ the _indefinite article_. These articles are not used in
+Latin.
 
-c. _Numeral adjectives_ denote how many persons or things are under
-consideration. They are either _cardinal_, denoting how many: _one_, _two_,
-_three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_, denoting which
-in order: _first_, _second_, _third_, _fourth_; *prīmus*, *secundus*, *tertius*,
+c. _Numeral adjectives_ denote how many persons or things are
+under consideration. They are either _cardinal_, denoting how
+many: _one_, _two_, _three_, _four_; *ūnus*, *duo*, *trēs*,
+*quattuor*; or _ordinal_, denoting which in order: _first_,
+_second_, _third_, _fourth_; *prīmus*, *secundus*, *tertius*,
 *quārtus*.
 
-d. _Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_;
-*_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently used as
-possessive pronouns.
+d. _Possessive adjectives_ denote ownership: _*my* friend_,
+_*our* house_; *_meus_ amīcus*, *_nostra_ domus*. Possessive
+adjectives are frequently used as possessive pronouns.
 
-e. The demonstrative pronouns, the indefinite pronouns, and the interrogative
-pronouns _which_ and _what_ may be used as adjectives, and are then called
-respectively _demonstrative adjectives_: _*this* book_, _*that* house_; *_hic_
-liber*, *_illa_ domus*; _indefinite adjectives_: _*some* boys_, *_aliquī_
-puerī*; and _interrogative adjectives_: _*Which* way shall we go?_ *_Quā_ viā
-ībimus?*
+e. The demonstrative pronouns, the indefinite pronouns, and the
+interrogative pronouns _which_ and _what_ may be used as
+adjectives, and are then called respectively _demonstrative
+adjectives_: _*this* book_, _*that* house_; *_hic_ liber*,
+*_illa_ domus*; _indefinite adjectives_: _*some* boys_, *_aliquī_
+puerī*; and _interrogative adjectives_: _*Which* way shall we
+go?_ *_Quā_ viā ībimus?*
 
-f. Adjectives are often used as nouns: "_The land of the *free*_," *patria
-_līberōrum_*.
+f. Adjectives are often used as nouns: "_The land of the
+*free*_," *patria _līberōrum_*.
 
 VERBS
 
-IV. a. A _verb_ is a word which can declare or assert something about a person,
-a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is
-captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.
+IV. a. A _verb_ is a word which can declare or assert something
+about a person, a place, or a thing: _The man *laughs*_, *vir
+_rīdet_*; _the town *is captured*_, *oppidum _captum est_*; _the
+leaf *falls*_, *folium _cadit_*.
 
-b. A verb which has an object (XIV, a) to complete its meaning is said to be
-_transitive_, or to be _used transitively_: _The girl *has* a rose_, *puella
-rosam _habet_*.
+b. A verb which has an object (XIV, a) to complete its meaning is
+said to be _transitive_, or to be _used transitively_: _The girl
+*has* a rose_, *puella rosam _habet_*.
 
-c. A verb which does not have an object (XIV, a) to complete its meaning is said
-to be _intransitive_, or to be _used intransitively_: _Birds *fly*_, *avēs
-_volant_*; _I *walk*_, *_abmulō_*.
+c. A verb which does not have an object (XIV, a) to complete its
+meaning is said to be _intransitive_, or to be _used
+intransitively_: _Birds *fly*_, *avēs _volant_*; _I *walk*_,
+*_abmulō_*.
 
-NOTE. Thus certain verbs may at one time be transitive and at another
-intransitive: _The wind *blew* the snow into our faces_; _the wind *blew*
-furiously_.
+NOTE. Thus certain verbs may at one time be transitive and at
+another intransitive: _The wind *blew* the snow into our faces_;
+_the wind *blew* furiously_.
 
-d. Verbs are classified as _regular_ or _irregular_. This distinction is made
-merely for convenience. A _regular verb_ in English forms its imperfect (past)
-tense (XXXIII, a) and past participle (XXXIV, b) by the addition of _d_ or _ed_
-to the present: present, _love_; past, _loved_; past participle, _loved_. For
-Latin regular verbs see 658-662.
+d. Verbs are classified as _regular_ or _irregular_. This
+distinction is made merely for convenience. A _regular verb_ in
+English forms its imperfect (past) tense (XXXIII, a) and past
+participle (XXXIV, b) by the addition of _d_ or _ed_ to the
+present: present, _love_; past, _loved_; past participle,
+_loved_. For Latin regular verbs see 658-662.
 
-e. An _irregular verb_ in English does not form its imperfect (past) tense by
-the addition of _d_ or _ed_ to the present: present, _give_; past _gave_; past
-participle, _given_. For Latin irregular verbs see 663-668.
+e. An _irregular verb_ in English does not form its imperfect
+(past) tense by the addition of _d_ or _ed_ to the present:
+present, _give_; past _gave_; past participle, _given_. For Latin
+irregular verbs see 663-668.
 
-f. An _auxiliary verb_ is used in the conjugation of other verbs: _I *am*
-loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so used:
-*missus _est_*, _he has been sent_.
+f. An _auxiliary verb_ is used in the conjugation of other verbs:
+_I *am* loved_, _he *has* given_. In Latin the verb *esse*, _to
+be_ (663), is so used: *missus _est_*, _he has been sent_.
 
 ADVERBS
 
-V. a. An _adverb_ is used to modify a verb, an adjective, or another adverb: _He
-walks *swiftly*_, *_celeriter_ ambulat*.
+V. a. An _adverb_ is used to modify a verb, an adjective, or
+another adverb: _He walks *swiftly*_, *_celeriter_ ambulat*.
 
-b. An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_,
-_hence_; *hīc*, *illīc*, *hinc*.
+b. An _adverb_ of _place_ answers the question _where?_ --
+_here_, _there_, _hence_; *hīc*, *illīc*, *hinc*.
 
-c. An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_, _often_;
-*tum*, *nunc*, *saepe*.
+c. An _adverb_ of _time_ answers the question _when?_ -- _then_,
+_now_, _often_; *tum*, *nunc*, *saepe*.
 
-d. An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_, _ill_;
-*sīc*, *bene*, *male*.
+d. An _adverb_ of _manner_ answers the question _how?_ -- _so_,
+_well_, _ill_; *sīc*, *bene*, *male*.
 
-e. An _adverb_ of _degree_ answers the question _how much?_ -- _little_,
-_almost_, _enough_; *paulō*, *paene*, *satis*.
+e. An _adverb_ of _degree_ answers the question _how much?_ --
+_little_, _almost_, _enough_; *paulō*, *paene*, *satis*.
 
-f. A _modal adverb_ expresses affirmation or negations, or the degree of
-confidence with which a statement is made: _yes_, _no_, _certainly_, _perhaps_;
-*certē*, *fortisan*.
+f. A _modal adverb_ expresses affirmation or negations, or the
+degree of confidence with which a statement is made: _yes_, _no_,
+_certainly_, _perhaps_; *certē*, *fortisan*.
 
 PREPOSITIONS
 
-VI. A preposition is used before a noun or pronoun to show its relation to
-another word in the sentence. Usually the relation shown is position, direction,
-or time: _He sent a legion *against* the enemy_, *_in_ hostēs legiōnem mīsit*.
-In Latin certain phrases which would be introduced in English by a preposition
-are expressed by the use of one of the cases (XXIV, b) without a preposition:
-_*At dawn* he sent a legion_, *_prīmā lūce_ legiōnem mīsit*.
+VI. A preposition is used before a noun or pronoun to show its
+relation to another word in the sentence. Usually the relation
+shown is position, direction, or time: _He sent a legion
+*against* the enemy_, *_in_ hostēs legiōnem mīsit*. In Latin
+certain phrases which would be introduced in English by a
+preposition are expressed by the use of one of the cases (XXIV,
+b) without a preposition: _*At dawn* he sent a legion_, *_prīmā
+lūce_ legiōnem mīsit*.
 
 CONJUNCTIONS
 
-VII. a. A _conjunction_ connects words, phrases (XVI), clauses (XX), and
-sentences (XVIII): _boys *and* girls_, *puerī _et_ puellae*; _they fought
-bravely *but* were conquered_, *fortiter pugnāvērunt _sed_ victī sunt*.
+VII. a. A _conjunction_ connects words, phrases (XVI), clauses
+(XX), and sentences (XVIII): _boys *and* girls_, *puerī _et_
+puellae*; _they fought bravely *but* were conquered_, *fortiter
+pugnāvērunt _sed_ victī sunt*.
 
-b. A _coördinate conjunction_ connects words, phrases, clauses, and sentences of
-equal order or rank. The conjunctions in the examples in VII, a are coördinate.
+b. A _coördinate conjunction_ connects words, phrases, clauses,
+and sentences of equal order or rank. The conjunctions in the
+examples in VII, a are coördinate.
 
-c. A _subordinate conjunction_ connects a subordinate clause (XX, a) with a
-principal clause (XX, a): _The boy was praised *because* he was industrious_,
-*puer laudātus est _quod_ impiger erat*.
+c. A _subordinate conjunction_ connects a subordinate clause (XX,
+a) with a principal clause (XX, a): _The boy was praised
+*because* he was industrious_, *puer laudātus est _quod_ impiger
+erat*.
 
 INTERJECTIONS
 
-VIII. An _interjection_ is used to express strong feeling. It is not
-grammatically related to any other word in the sentence: _oh!_ _ah!_ _alas!_
-_hurrah!_ *ēheu!* *ecce!*
+VIII. An _interjection_ is used to express strong feeling. It is
+not grammatically related to any other word in the sentence:
+_oh!_ _ah!_ _alas!_ _hurrah!_ *ēheu!* *ecce!*
 
-NOTE. The following couplets have often proved useful to young persons in
-identifying the parts of speech:
+NOTE. The following couplets have often proved useful to young
+persons in identifying the parts of speech:
 
-    Three little words we often see
-    Are Articles, _a_, _an_, and _the_.
+    Three little words we often see Are Articles, _a_, _an_, and
+    _the_.
 
-    A Noun's the name of anything;
-    As _school_ or _garden_, _hoop_ or _swing_.
+    A Noun's the name of anything; As _school_ or _garden_,
+    _hoop_ or _swing_.
 
-    Adjectives tell the kind of noun;
-    As _great_, _small_, _pretty_, _white_, or _brown_.
+    Adjectives tell the kind of noun; As _great_, _small_,
+    _pretty_, _white_, or _brown_.
 
-    Instead of nouns the Pronouns stand;
-    _I_ come, _you_ go, as _they_ command.
+    Instead of nouns the Pronouns stand; _I_ come, _you_ go, as
+    _they_ command.
 
-    Verbs tell of something being done;
-    As _read_, _write_, _spell_, _sing_, _jump_, or _run_.
+    Verbs tell of something being done; As _read_, _write_,
+    _spell_, _sing_, _jump_, or _run_.
 
-    How things are done the Adverbs tell;
-    As _slowly_, _quickly_, _ill_, or _well_.
+    How things are done the Adverbs tell; As _slowly_, _quickly_,
+    _ill_, or _well_.
 
-    They also tell us where and when;
-    As _here_ and _there_ and _now_ and _then_.
+    They also tell us where and when; As _here_ and _there_ and
+    _now_ and _then_.
 
-    A Preposition stands before
-    A noun; as _in_ or _through_ a door.
+    A Preposition stands before A noun; as _in_ or _through_ a
+    door.
 
-    Conjunctions join the words together;
-    As rain _and_ sunshine, wind _or_ weather.
+    Conjunctions join the words together; As rain _and_ sunshine,
+    wind _or_ weather.
 
-    Conjunctions sentences unite;
-    As kittens scratch _and_ puppies bite.
+    Conjunctions sentences unite; As kittens scratch _and_
+    puppies bite.
 
-    An Interjection shows surprise;
-    As _Oh!_ how pretty! _Ah!_ how wise!
+    An Interjection shows surprise; As _Oh!_ how pretty! _Ah!_
+    how wise!
 
 THE SENTENCE
 
-IX. A _sentence_ is a word or a group of words expressing a thought: _Stars
-shine_; _he walks_; *stellae lūcent*; *ambulat*.
+IX. A _sentence_ is a word or a group of words expressing a
+thought: _Stars shine_; _he walks_; *stellae lūcent*; *ambulat*.
 
-X. a. A _declarative sentence_ declares or asserts something: _The farmers are
-plowing the fields_, *agricolae agrōs arant*.
+X. a. A _declarative sentence_ declares or asserts something:
+_The farmers are plowing the fields_, *agricolae agrōs arant*.
 
-b. An _interrogative sentence_ asks a question: _Why are the farmers plowing the
-fields?_ *Cūr agricolae agrōs arant?*
+b. An _interrogative sentence_ asks a question: _Why are the
+farmers plowing the fields?_ *Cūr agricolae agrōs arant?*
 
-c. An _imperative sentence_ expresses a command, a request, or an entreaty:
-_Plow the fields to-day_, *hodiē agrōs arāte*.
+c. An _imperative sentence_ expresses a command, a request, or an
+entreaty: _Plow the fields to-day_, *hodiē agrōs arāte*.
 
-d. An _exclamatory sentence_ expresses strong feeling or emotion: _Would that he
-had remained!_ *Utinam mānsisset!*
+d. An _exclamatory sentence_ expresses strong feeling or emotion:
+_Would that he had remained!_ *Utinam mānsisset!*
 
-XI. a. A sentence is made up of two parts, one called the _subject_ and the
-other the _predicate_.
+XI. a. A sentence is made up of two parts, one called the
+_subject_ and the other the _predicate_.
 
-b. The _subject_ represents the person, place, or thing about which something is
-declared or asserted: _*Birds* sing_, *_avēs_ cantant*.
+b. The _subject_ represents the person, place, or thing about
+which something is declared or asserted: _*Birds* sing_, *_avēs_
+cantant*.
 
-c. The _predicate_ declares or asserts something about the person, place, or
-thing which the subject represents: _Birds *sing*_, *avēs _cantant_*.
+c. The _predicate_ declares or asserts something about the
+person, place, or thing which the subject represents: _Birds
+*sing*_, *avēs _cantant_*.
 
-NOTE. In English and in Latin either the subject or the predicate, or both, may be enlarged to any extent by the addition of qualifying words and expressions called modifiers: _*My sister's small* birds_ | _sing *sweetly in the morning*_.
+NOTE. In English and in Latin either the subject or the
+predicate, or both, may be enlarged to any extent by the addition
+of qualifying words and expressions called modifiers: _*My
+sister's small* birds_ | _sing *sweetly in the morning*_.
 
-XII. The _simple subject_ is the noun or pronoun which signifies the person,
-place, or thing about which the assertion is made. The _simple predicate_ is the
-verb that makes the assertion. _Birds_ is the simple subject, and _sing_ the
-simple predicate, in the note under XI, c.
+XII. The _simple subject_ is the noun or pronoun which signifies
+the person, place, or thing about which the assertion is made.
+The _simple predicate_ is the verb that makes the assertion.
+_Birds_ is the simple subject, and _sing_ the simple predicate,
+in the note under XI, c.
 
-XIII. The _complete subject_ is the simple subject with all its modifiers. The
-_complete predicate_ is the simple predicate with all its modifiers. Thus, in
-the example in the note under XI, c the complete subject is all that precedes
-the vertical line, and the complete predicate all that follows it.
+XIII. The _complete subject_ is the simple subject with all its
+modifiers. The _complete predicate_ is the simple predicate with
+all its modifiers. Thus, in the example in the note under XI, c
+the complete subject is all that precedes the vertical line, and
+the complete predicate all that follows it.
 
-XIV. a. The _object_ of a verb is a word or an expression that completes the
-meaning of the verb, and signifies that which is affected by the action: _He
-sent *messengers*_, *_nūntiōs_ mīsit*; _he wished *me to go to italy*_, *_mē in
-Italiam īre_ voluit*.
+XIV. a. The _object_ of a verb is a word or an expression that
+completes the meaning of the verb, and signifies that which is
+affected by the action: _He sent *messengers*_, *_nūntiōs_
+mīsit*; _he wished *me to go to italy*_, *_mē in Italiam īre_
+voluit*.
 
-b. The _direct object_ represents that which is immediately affected by the
-action of the verb; the _indirect object_ that to or for which the action is
-performed. Thus, in _He gave *me* a *book*_, *_mihi librum_ dedit*, _book_ is
-the direct object, and _me_ the indirect.
+b. The _direct object_ represents that which is immediately
+affected by the action of the verb; the _indirect object_ that to
+or for which the action is performed. Thus, in _He gave *me* a
+*book*_, *_mihi librum_ dedit*, _book_ is the direct object, and
+_me_ the indirect.
 
-XV. a. A _predicate noun_ or a _predicate adjective_ is used after certain
-intransitive or passive verbs to complete their meaning, and to describe or
-define the subject: _Marcus is a *sailor*_; _the sailor is *brave*_; *Mārcus
-_nauta_ est*; *nauta _fortis_ est*.
+XV. a. A _predicate noun_ or a _predicate adjective_ is used
+after certain intransitive or passive verbs to complete their
+meaning, and to describe or define the subject: _Marcus is a
+*sailor*_; _the sailor is *brave*_; *Mārcus _nauta_ est*; *nauta
+_fortis_ est*.
 
-b. The predicate noun or adjective is called the _complement_ of the verb.
-Intransitive verbs that require a complement are called _copulative verbs_. The
-verb _be_ (Latin *esse*) in its various forms (_am_, _was_, _has been_, etc.) is
-often called the _copula_.
+b. The predicate noun or adjective is called the _complement_ of
+the verb. Intransitive verbs that require a complement are called
+_copulative verbs_. The verb _be_ (Latin *esse*) in its various
+forms (_am_, _was_, _has been_, etc.) is often called the
+_copula_.
 
-c. The predicate noun or adjective has the same case as the subject; hence the
-term _predicate nominative_.
+c. The predicate noun or adjective has the same case as the
+subject; hence the term _predicate nominative_.
 
-XVI. a. A _phrase_ is a combination of words (not subject and predicate) used as
-a single part of speech.
+XVI. a. A _phrase_ is a combination of words (not subject and
+predicate) used as a single part of speech.
 
-b. An _adjective phrase_ modifies a noun: _A man *of great valor*_, *vir _magnae
-virtūtis_*.
+b. An _adjective phrase_ modifies a noun: _A man *of great
+valor*_, *vir _magnae virtūtis_*.
 
-c. An _adverbial phrase_ modifies a verb: _They work *with great diligence*_,
-*_magnā cum diligentiā_ labōrant*. In Latin certain cases of nouns are used to
-express what in English would be prepositional phrases of an adverbial nature
-(VI).
+c. An _adverbial phrase_ modifies a verb: _They work *with great
+diligence*_, *_magnā cum diligentiā_ labōrant*. In Latin certain
+cases of nouns are used to express what in English would be
+prepositional phrases of an adverbial nature (VI).
 
-XVII. A _simple sentence_ contains but one statement, that is, one subject and
-one predicate: _Cæsar drew up a line of battle_, *Caesar aciem īnstrūxit*.
+XVII. A _simple sentence_ contains but one statement, that is,
+one subject and one predicate: _Cæsar drew up a line of battle_,
+*Caesar aciem īnstrūxit*.
 
-XVIII. A _compound sentence_ contains two or more independent statements: _Cæsar
-drew up a line of battle, but the enemy fled_, *Caesar aciem īnstrūxit, sed
-hostēs fūgērunt*.
+XVIII. A _compound sentence_ contains two or more independent
+statements: _Cæsar drew up a line of battle, but the enemy fled_,
+*Caesar aciem īnstrūxit, sed hostēs fūgērunt*.
 
-NOTE. An independent statement is one that can stand alone; it does not depend
-on (qualify or limit) another statement.
+NOTE. An independent statement is one that can stand alone; it
+does not depend on (qualify or limit) another statement.
 
-XIX. A _complex sentence_ contains one independent (principal) statement and one
-or more dependent (subordinate) statements: _When the messenger had replied, the
-lieutenant spoke as follows_, *cum nūntius respondisset, lēgātus haec dīxit*.
+XIX. A _complex sentence_ contains one independent (principal)
+statement and one or more dependent (subordinate) statements:
+_When the messenger had replied, the lieutenant spoke as
+follows_, *cum nūntius respondisset, lēgātus haec dīxit*.
 
-NOTE. A dependent, or subordiate, statement is one that qualifies or limits
-another in some way; thus, the dependent statement _when the messenger had
-replied_ limits the verb _spoke_, telling when the lieutenant spoke.
+NOTE. A dependent, or subordiate, statement is one that qualifies
+or limits another in some way; thus, the dependent statement
+_when the messenger had replied_ limits the verb _spoke_, telling
+when the lieutenant spoke.
 
-XX. a. The separate statements in a compound or a complex sentence are called
-_clauses_, and, as has already been seen, they may be either _independent_
-(_principal_) or _dependent_ (_subordinate_).
+XX. a. The separate statements in a compound or a complex
+sentence are called _clauses_, and, as has already been seen,
+they may be either _independent_ (_principal_) or _dependent_
+(_subordinate_).
 
-b. When dependent (subordinate) clauses modify nouns or pronouns they are called
-_adjective clauses_: _The girls *whom we praised* were good_, *puellae _quās
-laudāvimus_ bonae erant*.
+b. When dependent (subordinate) clauses modify nouns or pronouns
+they are called _adjective clauses_: _The girls *whom we praised*
+were good_, *puellae _quās laudāvimus_ bonae erant*.
 
-c. When dependent (subordinate) clauses modify verbs they are called _adverbial
-clauses_: _*When the messenger had replied,* the lietenant spoke as follows_,
-*_cum nūntius respondisset,_ lēgātus haec dīxit*.
+c. When dependent (subordinate) clauses modify verbs they are
+called _adverbial clauses_: _*When the messenger had replied,*
+the lietenant spoke as follows_, *_cum nūntius respondisset,_
+lēgātus haec dīxit*.
 
-d. When dependent (subordinate) clauses are used as nouns they are called
-_substandtive clauses_: _*That you are here* pleases us_, *_quod ades_ nōs
-dēlectat*.
+d. When dependent (subordinate) clauses are used as nouns they
+are called _substandtive clauses_: _*That you are here* pleases
+us_, *_quod ades_ nōs dēlectat*.
 
-e. Dependent (subordinate) clauses introduced by _when_ (Latin *cum*, *ubi*,
-etc.) are called _temporal clauses_; introduced by _because_ (Latin *quod*
-etc.), they are called _causal clauses_; introduced by _if_ (Latin *sī*), they
-are called _conditional clauses_; introduced by _although_ (Latin *cum*, *etsī*,
-etc.), they are called _concessive clauses_; introduced by a relative pronoun
-(Latin *quī*), they are called _relative clauses_.
+e. Dependent (subordinate) clauses introduced by _when_ (Latin
+*cum*, *ubi*, etc.) are called _temporal clauses_; introduced by
+_because_ (Latin *quod* etc.), they are called _causal clauses_;
+introduced by _if_ (Latin *sī*), they are called _conditional
+clauses_; introduced by _although_ (Latin *cum*, *etsī*, etc.),
+they are called _concessive clauses_; introduced by a relative
+pronoun (Latin *quī*), they are called _relative clauses_.
 
-f. The independent clause of a complex sentence is called the _principal
-clause_. Connected clauses that are of the same rank, both independent or both
-dependent, are said to be _coördinate_.
+f. The independent clause of a complex sentence is called the
+_principal clause_. Connected clauses that are of the same rank,
+both independent or both dependent, are said to be _coördinate_.
 
 INFLECTION
 
-XXI. _Inflection_ is a change in the form of a word to indicate a change in its
-meaning or use: _man_, _men_, _boy_, _boy's_, _love_, _loved_; *vir*, *virī*,
-*puer*, *puerī*, *amant*, *amābant*.
+XXI. _Inflection_ is a change in the form of a word to indicate a
+change in its meaning or use: _man_, _men_, _boy_, _boy's_,
+_love_, _loved_; *vir*, *virī*, *puer*, *puerī*, *amant*,
+*amābant*.
 
 DECLENSION
 
-XXII. The inflection of a noun or pronoun is called its _declension_. Nouns and
-pronouns in English are declined to show number and case, and a few nouns to
-show gender. In Latin the nouns and pronouns are declined; adjectives also are
-declined in gender, number, and case to agree with the nouns which they modify.
+XXII. The inflection of a noun or pronoun is called its
+_declension_. Nouns and pronouns in English are declined to show
+number and case, and a few nouns to show gender. In Latin the
+nouns and pronouns are declined; adjectives also are declined in
+gender, number, and case to agree with the nouns which they
+modify.
 
 _Number_
 
-XXIII. A noun or pronoun is in the _singular number_ when it means one person,
-place, or thing: _town_, _city_, _I_; *oppidum*, *urbs*, *ego*; in the _plural
-number_ when it means more than one person, place, or thing: _towns_, _cities_,
-_we_; *oppida*, *urbēs*, *nōs*.
+XXIII. A noun or pronoun is in the _singular number_ when it
+means one person, place, or thing: _town_, _city_, _I_;
+*oppidum*, *urbs*, *ego*; in the _plural number_ when it means
+more than one person, place, or thing: _towns_, _cities_, _we_;
+*oppida*, *urbēs*, *nōs*.
 
 _Case_
 
-XXIV. a. The several forms taken by words that are declined are called _cases_.
-In English there are the following cases, to indicate the uses of nouns and
-pronouns:
+XXIV. a. The several forms taken by words that are declined are
+called _cases_. In English there are the following cases, to
+indicate the uses of nouns and pronouns:
 
-1. The _nominative_, primarily used as the subject of a sentence: _*He* throws
-the ball_.
+1. The _nominative_, primarily used as the subject of a sentence:
+_*He* throws the ball_.
 
-2. The _possessive_ (genitive), used to denote possession or ownership: _John
-throws *his* ball_; _see the *queen's* crown_.
+2. The _possessive_ (genitive), used to denote possession or
+ownership: _John throws *his* ball_; _see the *queen's* crown_.
 
-3. The _objective_ (accusative), used as the object of a transitive verb or of a
-preposition: _John throws the *ball* to *him*_.
+3. The _objective_ (accusative), used as the object of a
+transitive verb or of a preposition: _John throws the *ball* to
+*him*_.
 
-4. The _dative_, used to express the indirect object of the verb: _John throws
-*him* the ball_. Only personal pronouns and the pronoun _who_ have separate
-forms for these cases in English.
+4. The _dative_, used to express the indirect object of the verb:
+_John throws *him* the ball_. Only personal pronouns and the
+pronoun _who_ have separate forms for these cases in English.
 
-Nouns have the nominative, objective, and dative alike, with a separate form for
-the possessive.
+Nouns have the nominative, objective, and dative alike, with a
+separate form for the possessive.
 
-b. In Latin there are seven cases: _nominative_, _genitive_, _dative_,
-_accusative_, _ablative_, _vocative_, and _locative_; but a single form
-sometimes does duty for several cases (cf. *agricola*, 63). The nominiative,
-genitive, and accusative cases are used much like the same cases in English. The
-dative expresses in general that relation of words to other words which is
-expressed in English by prepositional phrases beginning with _to_ or _for_: _to
-the farmer_, _for the man_. The ablative expresses in general that relation of
-words to other words which is expressed in English by prepositional phrases
-beginning with _from_, _with_, _by_, _in_: _with a spear_, _by a story_.
+b. In Latin there are seven cases: _nominative_, _genitive_,
+_dative_, _accusative_, _ablative_, _vocative_, and _locative_;
+but a single form sometimes does duty for several cases (cf.
+*agricola*, 63). The nominiative, genitive, and accusative cases
+are used much like the same cases in English. The dative
+expresses in general that relation of words to other words which
+is expressed in English by prepositional phrases beginning with
+_to_ or _for_: _to the farmer_, _for the man_. The ablative
+expresses in general that relation of words to other words which
+is expressed in English by prepositional phrases beginning with
+_from_, _with_, _by_, _in_: _with a spear_, _by a story_.
 
-c. The direct object of a verb in Latin is the accusative case, but sometimes
-the direct object in English is expressed in Latin by he dative (425, 433).
+c. The direct object of a verb in Latin is the accusative case,
+but sometimes the direct object in English is expressed in Latin
+by he dative (425, 433).
 
 _Gender_
 
-XXV. a. The gender of English nouns is what is called _natural gender_, and
-hence has very little to do with grammar. Thus, a noun denoting a male is in the
-_masculine gender_: _man_, _boy_, _father_; a noun denoting a female is in the
-_feminine gender_: _woman_, _girl_, _mother_; one denoting either male or female
-is in the _common gender_: _cat_, _dog_, _parent_; one denoting a sexless object
-is in the _neuter gender_: _river_, _wind_, _mountain_.
+XXV. a. The gender of English nouns is what is called _natural
+gender_, and hence has very little to do with grammar. Thus, a
+noun denoting a male is in the _masculine gender_: _man_, _boy_,
+_father_; a noun denoting a female is in the _feminine gender_:
+_woman_, _girl_, _mother_; one denoting either male or female is
+in the _common gender_: _cat_, _dog_, _parent_; one denoting a
+sexless object is in the _neuter gender_: _river_, _wind_,
+_mountain_.
 
-b. In Latin only nouns that denote persons and some animals have natural gender:
-*nauta*, _sailor_ (masc.); *māter*, _mother_ (fem.). All others have an
-arbitrary gender, called _grammatical gender_, determined chiefly by the ending:
-*flūmen*, _river_ (neut.); *ventus*, _wind_ (masc.); *nūbēs*, _cloud_ (fem.).
+b. In Latin only nouns that denote persons and some animals have
+natural gender: *nauta*, _sailor_ (masc.); *māter*, _mother_
+(fem.). All others have an arbitrary gender, called _grammatical
+gender_, determined chiefly by the ending: *flūmen*, _river_
+(neut.); *ventus*, _wind_ (masc.); *nūbēs*, _cloud_ (fem.).
 
 COMPARISON
 
-XXVI. a. English adjectives and adverbs are inflected to show degree. This is
-called _comparison_. There are three degrees of comparison, the _positive_, the
-_comparative_, and the _superlative_: positive _wise_, comparative _wiser_,
-superlative _wisest_; positive _good_, comparative _better_, superlative _best_;
-positive _often_, comparative _oftener_, superlative _oftenest_.
+XXVI. a. English adjectives and adverbs are inflected to show
+degree. This is called _comparison_. There are three degrees of
+comparison, the _positive_, the _comparative_, and the
+_superlative_: positive _wise_, comparative _wiser_, superlative
+_wisest_; positive _good_, comparative _better_, superlative
+_best_; positive _often_, comparative _oftener_, superlative
+_oftenest_.
 
-b. Adjectives and adverbs are also compared in English by prefixing the adverbs
-_more_ and _most_: _beautiful_, _more beautiful_, _most beautiful_.
+b. Adjectives and adverbs are also compared in English by
+prefixing the adverbs _more_ and _most_: _beautiful_, _more
+beautiful_, _most beautiful_.
 
-c. Comparison in Latin is indicated exactly as in English: *sapiēns*,
-*sapientior*, *sapientissimus*; *bonus*, *melior*, *optimus*; *idōneus*, *magis
-idōneus*, *maximē idōneus*; *saepe*, *saepis*, *saepissimē*.
+c. Comparison in Latin is indicated exactly as in English:
+*sapiēns*, *sapientior*, *sapientissimus*; *bonus*, *melior*,
+*optimus*; *idōneus*, *magis idōneus*, *maximē idōneus*; *saepe*,
+*saepis*, *saepissimē*.
 
 CONJUGATION
 
-XXVII. a. The inflection of a verb is called _conjugation_. Verbs are
-conujugated to show voice, mood, and tense, and the number and person of the
-subject.
+XXVII. a. The inflection of a verb is called _conjugation_. Verbs
+are conujugated to show voice, mood, and tense, and the number
+and person of the subject.
 
-b. The English verb has but few changes of form. Thus the verb _love_ has in
-common use only the forms _love_, _loves_, _loving_, and _loved_. Most of the
-conjugation of the verb is made up of verb phrases formed by the use of
-auxiliaries (IV, f): _I am loved_, _I shall love_, _I shall have been loved_,
-etc.
+b. The English verb has but few changes of form. Thus the verb
+_love_ has in common use only the forms _love_, _loves_,
+_loving_, and _loved_. Most of the conjugation of the verb is
+made up of verb phrases formed by the use of auxiliaries (IV, f):
+_I am loved_, _I shall love_, _I shall have been loved_, etc.
 
-c. The Latin verb has many changes in form to show voice, mood, tense, number,
-and person: *amor*, _I am loved_; *amābō*, _I shall love_; *amātus erō*, _I
-shall have been loved_.
+c. The Latin verb has many changes in form to show voice, mood,
+tense, number, and person: *amor*, _I am loved_; *amābō*, _I
+shall love_; *amātus erō*, _I shall have been loved_.
 
 _Voice_
 
-XXVIII. A verb is in the _active voice_ when it represents the subject as acting
-(or being): _The man *praised* the boy_, *vir puerum _laudāvit_*. A verb is in
-the _passive voice_ when it represents the subject as acted on: _The boy *was
-praised* by the man_, *puer ā virō _laudātus est_*.
+XXVIII. A verb is in the _active voice_ when it represents the
+subject as acting (or being): _The man *praised* the boy_, *vir
+puerum _laudāvit_*. A verb is in the _passive voice_ when it
+represents the subject as acted on: _The boy *was praised* by the
+man_, *puer ā virō _laudātus est_*.
 
 _Mood_
 
-XXIX. A verb is in the _indicative mood_ when it is used in stating a fact or in
-asking a question: _The citizens *are assembling*_, *cīvēs _conveniunt_*; _why
-*do* they *carry* arms?_ *cūr arma _portant_?*
+XXIX. A verb is in the _indicative mood_ when it is used in
+stating a fact or in asking a question: _The citizens *are
+assembling*_, *cīvēs _conveniunt_*; _why *do* they *carry* arms?_
+*cūr arma _portant_?*
 
-XXX. a. In English a verb is in the _subjunctive mood_ when it asserts something doubtfully or conditionally. It is used in subordinate clauses, and is usually introduced by _if_, _though_, and the like: _If he *were* here, I should be glad_; _"Though he *slay* me, yet will I trust in him."_
+XXX. a. In English a verb is in the _subjunctive mood_ when it
+asserts something doubtfully or conditionally. It is used in
+subordinate clauses, and is usually introduced by _if_, _though_,
+and the like: _If he *were* here, I should be glad_; _"Though he
+*slay* me, yet will I trust in him."_
 
-NOTE. The subjunctive is very little used in modern English, its place being
-taken by the indicative.
+NOTE. The subjunctive is very little used in modern English, its
+place being taken by the indicative.
 
-b. In Latin the subjunctive has a great variety of uses, in independent as well
-as in dependent clauses (344, 358, 373, etc.).
+b. In Latin the subjunctive has a great variety of uses, in
+independent as well as in dependent clauses (344, 358, 373,
+etc.).
 
-XXXI. a. A verb is in the _imperative mood_ when it expresses command, request,
-or entreaty: _*Fortify* the city_, *urbem _mūnīte_*.
+XXXI. a. A verb is in the _imperative mood_ when it expresses
+command, request, or entreaty: _*Fortify* the city_, *urbem
+_mūnīte_*.
 
-b. Unless emphatic the subject of the imperative (_thou_ or _you_) is not
-expressed either in English or in Latin.
+b. Unless emphatic the subject of the imperative (_thou_ or
+_you_) is not expressed either in English or in Latin.
 
 _The Infinitive_
 
-XXXII. a. The _infinitive_ in English (_to love_, _to have loved_, etc.) is a
-verbal noun. It has neither person nor number. Like a noun it may be the subject
-or the object or the complement of a verb: _*To see* is *to believe*_; _he
-wishes *to go* home_. Like a verb it may have a subject, an object, and
-adverbial modifiers: _We wish *you* to being your *work early*_.
+XXXII. a. The _infinitive_ in English (_to love_, _to have
+loved_, etc.) is a verbal noun. It has neither person nor number.
+Like a noun it may be the subject or the object or the complement
+of a verb: _*To see* is *to believe*_; _he wishes *to go* home_.
+Like a verb it may have a subject, an object, and adverbial
+modifiers: _We wish *you* to being your *work early*_.
 
-b. The Latin infinitive is used in the same way that the English infinitive is
-used. It differs, however, from the English infinitive in not being used in
-prose in expressions of purpose (_They came *to see* me), and in being used
-constantly for the verb of a statement that is given indirectly: _He said that
-*he would come*_, *dīxit _se ventūrum esse_*.
+b. The Latin infinitive is used in the same way that the English
+infinitive is used. It differs, however, from the English
+infinitive in not being used in prose in expressions of purpose
+(_They came *to see* me), and in being used constantly for the
+verb of a statement that is given indirectly: _He said that *he
+would come*_, *dīxit _se ventūrum esse_*.
 
-c. The verbal noun in _-ing_ is sometimes called an infinitive: _*Seeing* is
-*believing*_ = _to see is to believe_. This verbal noun has its counterpart in
-the Latin gerund (459).
+c. The verbal noun in _-ing_ is sometimes called an infinitive:
+_*Seeing* is *believing*_ = _to see is to believe_. This verbal
+noun has its counterpart in the Latin gerund (459).
 
 _Tense_
 
-XXXIII. a. A verb is in the _present_, _past_ (_imperfect_), or _future_ tense
-according as it represents an action as taking place in present, past, or future
-time: _I love_, _I loved (was loving)_, _I shall love_; *amō*, *amābam*,
-*amābō*.
+XXXIII. a. A verb is in the _present_, _past_ (_imperfect_), or
+_future_ tense according as it represents an action as taking
+place in present, past, or future time: _I love_, _I loved (was
+loving)_, _I shall love_; *amō*, *amābam*, *amābō*.
 
-b. The _present perfect_ (_perfect_) tense represents an action completed in the
-present: _I have loved_, *amāvī*; the _past perfect_ (_pluperfect_) an action
-completed in the past before some other past action or state: _I had loved_,
-*amāveram*; and the _future perfect_ an action completed in the future before
-some other future action or state: _I shall have loved_, *amāverō*.
+b. The _present perfect_ (_perfect_) tense represents an action
+completed in the present: _I have loved_, *amāvī*; the _past
+perfect_ (_pluperfect_) an action completed in the past before
+some other past action or state: _I had loved_, *amāveram*; and
+the _future perfect_ an action completed in the future before
+some other future action or state: _I shall have loved_,
+*amāverō*.
 
 _The Participle_
 
-XXXIV. a. The _participle_ is a verbal adjective. Like an adjective it may
-qualify a noun: _*struggling* soldiers_, *mīlitēs _labōrantēs*. Like a verb it
-may have an object and adverbial modifiers: _Fearing *danger* they remained in
-the camp_, *_perīculum_ veritī in castrīs mānsērunt*.
+XXXIV. a. The _participle_ is a verbal adjective. Like an
+adjective it may qualify a noun: _*struggling* soldiers_,
+*mīlitēs _labōrantēs*. Like a verb it may have an object and
+adverbial modifiers: _Fearing *danger* they remained in the
+camp_, *_perīculum_ veritī in castrīs mānsērunt*.
 
-b. There are in English three participles in the active voice: present,
-_loving_; past, _loved_; perfect, _having loved_; and three in the passive
-voice: present, _(being) loved_; past, _loved_; perfect, _having been loved_. In
-Latin the past and perfect active and the present passive participles are
-wanting, but there is a future participle.
+b. There are in English three participles in the active voice:
+present, _loving_; past, _loved_; perfect, _having loved_; and
+three in the passive voice: present, _(being) loved_; past,
+_loved_; perfect, _having been loved_. In Latin the past and
+perfect active and the present passive participles are wanting,
+but there is a future participle.
 
-c. The participle in _-ing_ is used with the auxiliary _be_ to make the
-progressive form of the verb: _you *are loving*_, _he *was loving*_, _they *will
-be loving*_. Latin has no special tenses for the progressive forms.
+c. The participle in _-ing_ is used with the auxiliary _be_ to
+make the progressive form of the verb: _you *are loving*_, _he
+*was loving*_, _they *will be loving*_. Latin has no special
+tenses for the progressive forms.
+
+
 
 TO THE BEGINNER IN LATIN
 
-*What Latin is.* Latin is the language that was used by the ancient Romans. It
-gets its name from the _Lati'ni_, a little tribe living in western Italy more
-than twenty-five hundred years ago. The Latini, and their successors, the
-Romans, slowly extended their lands and their power until they gained control of
-all Italy, and finally of all the civilized world of those days. Their dominions
-reached from the Atlantic Ocean to Persia and from the Baltic Sea to the deserts
-of Africa, and their language was spoken wherever they ruled. For about six
-hundred years the Romans were the most powerful nation on the earth. Their
-history covers in all a period of twelve centuries; no nation has had a longer
-history.
+*What Latin is.* Latin is the language that was used by the
+ancient Romans. It gets its name from the _Lati'ni_, a little
+tribe living in western Italy more than twenty-five hundred years
+ago. The Latini, and their successors, the Romans, slowly
+extended their lands and their power until they gained control of
+all Italy, and finally of all the civilized world of those days.
+Their dominions reached from the Atlantic Ocean to Persia and
+from the Baltic Sea to the deserts of Africa, and their language
+was spoken wherever they ruled. For about six hundred years the
+Romans were the most powerful nation on the earth. Their history
+covers in all a period of twelve centuries; no nation has had a
+longer history.
 
-*Why Latin is studied.* And now why is it that it is worth your while to study a
-language that is so many centuries old?
+*Why Latin is studied.* And now why is it that it is worth your
+while to study a language that is so many centuries old?
 
-First, a knowledge of Latin helps you to use English more correctly. As more
-than half the words in the English language are of Latin origin, you yourself in
-a sense speak Latin to-day. There are the words of your everyday talk, like
-_animal_; there are the learned words, like _emancipate_; there are the terms of
-law, of medicine, and of the sciences, like _mandamus_, _delirium_, and
-_antennae_; and there are the words which are newly come into use, like
-_tractor_. If you study Latin, you will be helped to know the meaning of many of
-these words, how to spell them, and how to use them correctly; all of which is
-quite worth your while, particularly if you are intending to enter one of the
-professions.
+First, a knowledge of Latin helps you to use English more
+correctly. As more than half the words in the English language
+are of Latin origin, you yourself in a sense speak Latin to-day.
+There are the words of your everyday talk, like _animal_; there
+are the learned words, like _emancipate_; there are the terms of
+law, of medicine, and of the sciences, like _mandamus_,
+_delirium_, and _antennae_; and there are the words which are
+newly come into use, like _tractor_. If you study Latin, you will
+be helped to know the meaning of many of these words, how to
+spell them, and how to use them correctly; all of which is quite
+worth your while, particularly if you are intending to enter one
+of the professions.
 
-Again, the study of Latin will train you mind. Latin is somewhat unlike English
-in the form of its words and much unlike English in the order of words in its
-sentences. You will therefore be obliged to look carefully, and to think
-carefully, and to speak carefully whenever you try to read and to translate
-anything written in Latin. But this close attention will do good to your mind:
-it will train you powers of observation, of clear thinking, and of clear
-expression; in fact, no other subject that you study in school can do as much
-for you as can Latin toward developing these desirable powers.
+Again, the study of Latin will train you mind. Latin is somewhat
+unlike English in the form of its words and much unlike English
+in the order of words in its sentences. You will therefore be
+obliged to look carefully, and to think carefully, and to speak
+carefully whenever you try to read and to translate anything
+written in Latin. But this close attention will do good to your
+mind: it will train you powers of observation, of clear thinking,
+and of clear expression; in fact, no other subject that you study
+in school can do as much for you as can Latin toward developing
+these desirable powers.
 
-Furthermore, the reading of Latin will add to your information. If you are to be
-a well-informed person, you will need to know something about Rome and the
-Romans, and what they have meant in the history of the world; and in no other
-way can you better come to know and to appreciate the literature, the life, the
-customs, and the civilization of the Romans than by the faithful study of their
-language and of the things written in that language.
+Furthermore, the reading of Latin will add to your information.
+If you are to be a well-informed person, you will need to know
+something about Rome and the Romans, and what they have meant in
+the history of the world; and in no other way can you better come
+to know and to appreciate the literature, the life, the customs,
+and the civilization of the Romans than by the faithful study of
+their language and of the things written in that language.
 
-*How to study Latin.* 1. Never allow yourself to think that Latin is not worth
-your best efforts or that it is too hard for you. Industry and confidence will
-bring you success in this study.
+*How to study Latin.* 1. Never allow yourself to think that Latin
+is not worth your best efforts or that it is too hard for you.
+Industry and confidence will bring you success in this study.
 
-2. Have a fixed hour each day for the study of your Latin. If possible, prepare
-your lesson for to-morrow immediately after reciting the lesson of to-day. Your
-interest will then be greater and your mind better fitted to grasp the subject.
+2. Have a fixed hour each day for the study of your Latin. If
+possible, prepare your lesson for to-morrow immediately after
+reciting the lesson of to-day. Your interest will then be greater
+and your mind better fitted to grasp the subject.
 
-3. Learn each day's lesson with thoroughness. Neglect no part of the lesson even
-if it seems to you unimportant.
+3. Learn each day's lesson with thoroughness. Neglect no part of
+the lesson even if it seems to you unimportant.
 
-4. Before beginning a new lesson recall what you have already learned about the
-subject to be taught in the new lesson. For example, if you are about to study a
-new use of one of the cases, recall all the uses of that case which you have
-previously learned.
+4. Before beginning a new lesson recall what you have already
+learned about the subject to be taught in the new lesson. For
+example, if you are about to study a new use of one of the cases,
+recall all the uses of that case which you have previously
+learned.
 
-5. Review the vocabularies regularly. A knowledge of the meanings of the words
-will be a great saving of time to you, as well as a constant encouragement. Aim
-to know every word you have met, and to this end keep lists of words about the
-meaning of which you are doubtful.
+5. Review the vocabularies regularly. A knowledge of the meanings
+of the words will be a great saving of time to you, as well as a
+constant encouragement. Aim to know every word you have met, and
+to this end keep lists of words about the meaning of which you
+are doubtful.
 
-6. Recite the declensions and the conjugations by yourself aloud. It will help
-you to remember them, and you will make better recitations. Read the Latin
-sentences aloud each day.
+6. Recite the declensions and the conjugations by yourself aloud.
+It will help you to remember them, and you will make better
+recitations. Read the Latin sentences aloud each day.
 
-7. Go over the new lesson slowly, and thus avoid mistakes in the spelling of
-words, in their endings, and in the explanation of Latin constructions.
+7. Go over the new lesson slowly, and thus avoid mistakes in the
+spelling of words, in their endings, and in the explanation of
+Latin constructions.
 
-8. Recall your English grammar when you are learning Latin constructions; most
-of the Latin usages that you will learn in your first year are like English
-usages.
+8. Recall your English grammar when you are learning Latin
+constructions; most of the Latin usages that you will learn in
+your first year are like English usages.
 
-9. Study the lessons as a whole. Then go back to special difficulties. Go over
-the lesson again just before the recitation and consider the troublesome parts.
+9. Study the lessons as a whole. Then go back to special
+difficulties. Go over the lesson again just before the recitation
+and consider the troublesome parts.
+
+
 
 INTRODUCTION
 
 ALPHABET
 
-1. The Latin alphabet has no _j_ or _w_. Otherwise it is the same as the
-English.
+1. The Latin alphabet has no _j_ or _w_. Otherwise it is the same
+as the English.
 
-2. The vowels are *a*, *e*, *i*, *o*, *u*. The other letters are consonants.
+2. The vowels are *a*, *e*, *i*, *o*, *u*. The other letters are
+consonants.
 
-3. The letter *i* is used both as a vowel and as a consonant. Before a vowel in
-the same syllable it has the force of a consonant and is called *i*-_consonant_.
-Thus in *iaciō*, _I throw_, the first *i* is a consonant, and the second a
-vowel.
+3. The letter *i* is used both as a vowel and as a consonant.
+Before a vowel in the same syllable it has the force of a
+consonant and is called *i*-_consonant_. Thus in *iaciō*, _I
+throw_, the first *i* is a consonant, and the second a vowel.
 
 SOUNDS OF THE LETTERS [1]
 
-4. The vowels are either long or short. In this book the long vowels are marked
-(-); unmarked vowels are to be regarded as short. The vowels are sounded as
-follows:
+4. The vowels are either long or short. In this book the long
+vowels are marked (-); unmarked vowels are to be regarded as
+short. The vowels are sounded as follows:
 
-    *ā* like the last _a_ in _aha'_     *ă* like the first _a_ in _aha'_
-    *ē* like _e_ in _they_              *ĕ* like _e_ in _met_
-    *ī* like _i_ in _machine_           *ĭ* like _i_ in _pin_
-    *ō* like _o_ in _note_              *ŏ* like _o_ in _obey_
-    *ū* like _oo_ in _boot_             *ŭ* like _oo_ in _foot_
+    *ā* like the last _a_ in _aha'_
+    *ă* like the first _a_ in _aha'_
+    *ē* like _e_ in _they_
+    *ĕ* like _e_ in _met_
+    *ī* like _i_ in _machine_
+    *ĭ* like _i_ in _pin_
+    *ō* like _o_ in _note_
+    *ŏ* like _o_ in _obey_
+    *ū* like _oo_ in _boot_
+    *ŭ* like _oo_ in _foot_
 
 5. The diphthongs are sounded as follows:
 
-    *ae* like _ai_ in _aisle_           *eu* like _eu_ in _feud_
-    *au* like _ou_ in _our_             *oe* like _oi_ in _boil_
-    *ei* like _ei_ in _eight_           *ui* like _we_
+    *ae* like _ai_ in _aisle_
+    *au* like _ou_ in _our_
+    *ei* like _ei_ in _eight_
+    *eu* like _eu_ in _feud_
+    *oe* like _oi_ in _boil_
+    *ui* like _we_
 
-6. The consonants generally have the same sound as the corresponding consonants
-in English. But there are the following exceptions:
+6. The consonants generally have the same sound as the
+corresponding consonants in English. But there are the following
+exceptions:
 
-    *c* is like _c_ in _come_           *bs* and *bt* are like _ps_ and _pt_
-    *g* is like _g_ in _get_            *ch* is like _k_ in _kite_
-    *i-consonant* is like _y_ in _yet_  *gu*, *qu*, and sometimes *su* before a
-                                        vowel are like _gw_, _qw_, and _sw_ (_u_
-                                        is not counted as a vowel)
+    *c* is like _c_ in _come_
+    *g* is like _g_ in _get_
+    *i-consonant* is like _y_ in _yet_
     *s* is like _s_ in _sun_
     *t* is like _t_ in _time_
-    *v* is like _w_ in _wine_           *ph* is like _p_
-    *x* is like _x_ in _extra_          *th* is like _t_
+    *v* is like _w_ in _wine_
+    *x* is like _x_ in _extra_
+    *bs* and *bt* are like _ps_ and _pt_
+    *ch* is like _k_ in _kite_
+    *gu*, *qu*, and sometimes *su* before a vowel are like _gw_,
+      _qw_, and _sw_ (_u_ is not counted as a vowel)
+    *ph* is like _p_
+    *th* is like _t_
 
-When a consonant is doubled (as *ll*), it should be pronounced twice.
+When a consonant is doubled (as *ll*), it should be pronounced
+twice.
 
 EXERCISE IN PRONOUNCIATION
 
-7. 1. sum, tum. 2. cum, dum. 3. ad, id. 4. in, an. 5. at, et, ut. 6. hic hīc,
-hāc. 7. hōc, hūc. 8. hoc, num. 9. is, bis, īs. 10. dīc, dūc. 11. fac, fer. 12.
-aut, hae. 13. ē, ā, ī. 14. ex, ab, ob. 15. dō, dā, dē. 16. pāx, dux. 17. nox,
-vōx. 18. pars, sōl. 19. trēs, mōs. 20. quō, quā. 21. iūs, quī. 22. quae, quīn.
-23. quis, sē. 24. mē, tē. 25 gēns, sīc. 26. vel, vir, iam.
+7. 1. sum, tum. 2. cum, dum. 3. ad, id. 4. in, an. 5. at, et, ut.
+6. hic hīc, hāc. 7. hōc, hūc. 8. hoc, num. 9. is, bis, īs. 10.
+dīc, dūc. 11. fac, fer. 12. aut, hae. 13. ē, ā, ī. 14. ex, ab,
+ob. 15. dō, dā, dē. 16. pāx, dux. 17. nox, vōx. 18. pars, sōl.
+19. trēs, mōs. 20. quō, quā. 21. iūs, quī. 22. quae, quīn. 23.
+quis, sē. 24. mē, tē. 25 gēns, sīc. 26. vel, vir, iam.
 
 SYLLABLES
 
-8. A syllable consists of a vowel or a diphthong with or without one or more
-consonants. Hence a word has as many syllables as it has vowels and diphthongs:
-*ō-ce'-a-nus*, _ocean_.
+8. A syllable consists of a vowel or a diphthong with or without
+one or more consonants. Hence a word has as many syllables as it
+has vowels and diphthongs: *ō-ce'-a-nus*, _ocean_.
 
-9. When a word is divided into syllables, a single consonant between two vowels
-is joined with the vowel following: *lā-ti-tū'-dō*, _width_.
+9. When a word is divided into syllables, a single consonant
+between two vowels is joined with the vowel following:
+*lā-ti-tū'-dō*, _width_.
 
-10. If there are two or more consonants between two vowels, the first is
-pronounced with the preceding vowel: *im-mor-tā'-lis*, _immortal_.
+10. If there are two or more consonants between two vowels, the
+first is pronounced with the preceding vowel: *im-mor-tā'-lis*,
+_immortal_.
 
-But a consonant followed by *l* or *r* is pronounced with the *l* or *r*, except
-in *ll* and *rr*: *pū'-bli-cus*, _public_; when *ll* or *rr* occurs, one *l* or
-one *r* is joined to the preceding syllable, and the other to the following
-syllable: *ter'-ra*, _land_.
+But a consonant followed by *l* or *r* is pronounced with the *l*
+or *r*, except in *ll* and *rr*: *pū'-bli-cus*, _public_; when
+*ll* or *rr* occurs, one *l* or one *r* is joined to the
+preceding syllable, and the other to the following syllable:
+*ter'-ra*, _land_.
 
-Compound words are divided in such a way as to show the component parts:
-*ab'-est* (*ab*, _away_, + *est*, _he is_), _he is away_.
+Compound words are divided in such a way as to show the component
+parts: *ab'-est* (*ab*, _away_, + *est*, _he is_), _he is away_.
 
-11. The last syllable of a word is called the _ultima_; the one next to the
-last, the _penult_; the one before the penult, the _antepenult_.
+11. The last syllable of a word is called the _ultima_; the one
+next to the last, the _penult_; the one before the penult, the
+_antepenult_.
 
-12. A vowel is generally short before another vowel or *h*: *pŏ-ē'-ma*, _poem_;
-*nĭ'-hil*, _nothing_.
+12. A vowel is generally short before another vowel or *h*:
+*pŏ-ē'-ma*, _poem_; *nĭ'-hil*, _nothing_.
 
-13. A vowel is generally short before *nt* or *nd*, and before final *m* or
-final *t*: *vo'-cănt*, _they call_; *vo-cā'-băm*, _I was calling_.
+13. A vowel is generally short before *nt* or *nd*, and before
+final *m* or final *t*: *vo'-cănt*, _they call_; *vo-cā'-băm*, _I
+was calling_.
 
 14. A vowel is long before *nf* or *ns*: *a'-māns*, _loving_.
 
-15. A vowel resulting from the contraction of two vowels is long: *cō'-gō*
-(*co-agō*), _I bring together_.
+15. A vowel resulting from the contraction of two vowels is long:
+*cō'-gō* (*co-agō*), _I bring together_.
 
-16. The quantity of vowels other than those mentioned in the preceding sections
-must be learned by observation.
+16. The quantity of vowels other than those mentioned in the
+preceding sections must be learned by observation.
 
 QUANTITY OF SYLLABLES
 
-17. A syllable is _long by nature_ when it contains a long vowel or a diphthong:
-*vic-tō'-ri-a*, _victory_; *prae'-mi-um*, _reward_.
+17. A syllable is _long by nature_ when it contains a long vowel
+or a diphthong: *vic-tō'-ri-a*, _victory_; *prae'-mi-um*,
+_reward_.
 
-18. A syllables is _short by nature_ when it does not contain a long vowel or a
-diphthong: *o-pī'-ni-ō*, _opinion_.
+18. A syllables is _short by nature_ when it does not contain a
+long vowel or a diphthong: *o-pī'-ni-ō*, _opinion_.
 
-19. A syllable is _long by position_ when it has a short vowel followed by *x*
-or *z*, or by two or more consonants, unless these two consonants are *p*, *b*,
-*t*, *d*, *c*, *g*, followed by *l* or *r*; but the short vowel is still
-pronounced short: *dē-trī-men'-tum*, _loss_.
+19. A syllable is _long by position_ when it has a short vowel
+followed by *x* or *z*, or by two or more consonants, unless
+these two consonants are *p*, *b*, *t*, *d*, *c*, *g*, followed
+by *l* or *r*; but the short vowel is still pronounced short:
+*dē-trī-men'-tum*, _loss_.
 
 ACCENT
 
-20. Words of two syllables have the accent on the first syllable: *pa'-ter*,
-_father_.
+20. Words of two syllables have the accent on the first syllable:
+*pa'-ter*, _father_.
 
-21. Words of more than two syllables have the accent on the penult when it is
-long, otherwise on the antepenult: *dē-mōn-strā'-re*, _to point out_;
-*ce-le'-ri-tās*, _swiftness_; *ē-ven'-tus*, _outcome_ (cf. 19).
+21. Words of more than two syllables have the accent on the
+penult when it is long, otherwise on the antepenult:
+*dē-mōn-strā'-re*, _to point out_; *ce-le'-ri-tās*, _swiftness_;
+*ē-ven'-tus*, _outcome_ (cf. 19).
 
-22. Several words, of which the commonest are *-ne*, the sign of a question, and
-*-que*, _and_, are appended to other words. The words so appended are known as
-enclitics. The words to which they are appended are accented on the syllable
-preceding the enclitic, whether that syllable is long or short: *a-mat'-ne?*
-_does he love?_ *ar-mă-que*, _and arms_.
+22. Several words, of which the commonest are *-ne*, the sign of
+a question, and *-que*, _and_, are appended to other words. The
+words so appended are known as enclitics. The words to which they
+are appended are accented on the syllable preceding the enclitic,
+whether that syllable is long or short: *a-mat'-ne?* _does he
+love?_ *ar-mă-que*, _and arms_.
 
 EXERCISE IN ACCENT AND PRONUNCIATION
 
-23. Divide the following words into syllables, state the rule for the accent,
-and then pronounce:
+23. Divide the following words into syllables, state the rule for
+the accent, and then pronounce:
 
-    1. dīvidunt, appellāre
-    2. īnstitūtis, differēbāmus
-    3. hūmānitāte, prōvinciā
-    4. longus, animōs
-    5. importābunt, bellum
-    6. causīs, praecēdō
-    7. fīnis, prohibitus
-    8. initiō, persuāserāmus
-    9. tempora, magistrātuum
-    10. frāternus, conloquium
+  1. dīvidunt, appellāre
+  2. īnstitūtis, differēbāmus
+  3. hūmānitāte, prōvinciā
+  4. longus, animōs
+  5. importābunt, bellum
+  6. causīs, praecēdō
+  7. fīnis, prohibitus
+  8. initiō, persuāserāmus
+  9. tempora, magistrātuum
+  10. frāternus, conloquium
 
-24. The following Latin version of "Twinkle, Twinkle, Little Star" may be used
-for practice in pronunciation, and for illustration of the preceding statements
-about syllables, accent, etc.:
+24. The following Latin version of "Twinkle, Twinkle, Little
+Star" may be used for practice in pronunciation, and for
+illustration of the preceding statements about syllables, accent,
+etc.:
 
-    MICĀ, MICĀ
+  MICĀ, MICĀ
 
-    Micā, micā, parva stella!
-    Mīror quaenam sīs, tam bella!
-    Splendēns ēminus in illō,
-    Alba velut gemma, caelō.
+  Micā, micā, parva stella!
+  Mīror quaenam sīs, tam bella!
+  Splendēns ēminus in illō,
+  Alba velut gemma, caelō.
 
-    Quandō fervēns Sōl discessit,
-    Nec calōre prāta pāscit,
-    Mox ostendis lūmen pūrum,
-    Micāns, micāns per obscūrum.
+  Quandō fervēns Sōl discessit,
+  Nec calōre prāta pāscit,
+  Mox ostendis lūmen pūrum,
+  Micāns, micāns per obscūrum.
 
-    Tibi noctū quī vagātur
-    Ob scintillulam grātātur;
-    Nī micārēs tū, nōn scīret
-    Quās per viās errāns īret.
+  Tibi noctū quī vagātur
+  Ob scintillulam grātātur;
+  Nī micārēs tū, nōn scīret
+  Quās per viās errāns īret.
 
-    Meum saepe thalamum lūce
-    Speculāris cūriōsā;
-    Neque carpseris sopōrem
-    Dōnec vēnit Sōl per auram.
+  Meum saepe thalamum lūce
+  Speculāris cūriōsā;
+  Neque carpseris sopōrem
+  Dōnec vēnit Sōl per auram.
 
-[Image: THE ARCH OF TITUS, SHOWING A ROMAN INSCRIPTION]
+[Illustration: THE ARCH OF TITUS, SHOWING A ROMAN INSCRIPTION]
 
-[1] Latin is pronounced to-day substantially as it was pronounced by the Romans
-at the beginning of the Christian era.
+[1] Latin is pronounced to-day substantially as it was pronounced
+by the Romans at the beginning of the Christian era.
+
+
 
 LESSON I
 
@@ -1010,79 +1212,85 @@ THE NOMINATIVE CASE USED AS SUBJECT
 
 25. *The Singular and Plural of Nouns and Verbs.*
 
-    NOUN
-    _Nom. Sing._ agricol*a*, _farmer_
-    _Nom. Plur._ acricol*ae*, _farmers_
+  NOUN
+  _Nom. Sing._ agricol*a*, _farmer_
+  _Nom. Plur._ acricol*ae*, _farmers_
 
-    VERB
-    _3d Pers. Sing._ labōra*t*, _works_, _is working_, _does work_
-    _3d Pers. Plur._ labōra*nt*, _work_, _are working_, _do work_
+  VERB
+  _3d Pers. Sing._ labōra*t*, _works_, _is working_, _does work_
+  _3d Pers. Plur._ labōra*nt*, _work_, _are working_, _do work_
 
-a. Observe that the distinction between the singular and the plural is shown by
-the final letters of the noun and of the verb. These final letters of a noun are
-called _case endings_; the final letters of a verb are called _personal
-endings_.
+a. Observe that the distinction between the singular and the
+plural is shown by the final letters of the noun and of the verb.
+These final letters of a noun are called _case endings_; the
+final letters of a verb are called _personal endings_.
 
-b. Form the nominative plural of the nouns in the vocabulary, and the third
-person plural of the verbs.
+b. Form the nominative plural of the nouns in the vocabulary, and
+the third person plural of the verbs.
 
 26. VOCABULARY
 
-    *agri'cola*, farmer (_agriculture_)
-    *Cornē'lia*, Cornelia
-    *Iū'lia*, Julia
-    *nau'ta*, sailor (_nautical_)
-    *puel'la*, girl
-    *et*, _conj._, and
-    *-ne*, _enclitic, sign of a question_
-    *am'bulat*, walks (_perambulate_)
-    *appropin'quat*, approaches, draws near (_propinquity_)
-    *can'tat*, sings (_incantation_)
-    *labō'rat*, works, labors, suffers (laboratory)
-    *na'tat*, swims (_natatorium_)
-    *quis*, _interrog. pron._, who?
-    *quid*, _interrog. pron._, what?
+  *agri'cola*, farmer (_agriculture_)
+  *Cornē'lia*, Cornelia
+  *Iū'lia*, Julia
+  *nau'ta*, sailor (_nautical_)
+  *puel'la*, girl
+  *et*, _conj._, and
+  *-ne*, _enclitic, sign of a question_
+  *am'bulat*, walks (_perambulate_)
+  *appropin'quat*, approaches, draws near (_propinquity_)
+  *can'tat*, sings (_incantation_)
+  *labō'rat*, works, labors, suffers (laboratory)
+  *na'tat*, swims (_natatorium_)
+  *quis*, _interrog. pron._, who?
+  *quid*, _interrog. pron._, what?
 
 27. *The Nominative Case used as Subject.*
 
-    1. *Puella cantat*, _the girl sings (is singing, does sing)._
-    2. *Puellae cantant*, _the girls sing (are singing, do sing)._
-    3. *Cantatne puella*, _does the girl sing (is the girl singing)?_
-    4. *Cantantne puellae*, _do the girls sing (are the girls singing)?_
+  1. *Puella cantat*, _the girl sings (is singing, does sing)._
+  2. *Puellae cantant*, _the girls sing (are singing, do sing)._
+  3. *Cantatne puella*, _does the girl sing (is the girl singing)?_
+  4. *Cantantne puellae*, _do the girls sing (are the girls singing)?_
 
-a. In Latin there is no article (III, b): *puella* may be translated _girl_, _a
-girl_, or _the girl_; and *puellae*, _girls_ or _the girls_.
+a. In Latin there is no article (III, b): *puella* may be
+translated _girl_, _a girl_, or _the girl_; and *puellae*,
+_girls_ or _the girls_.
 
-b. What is the subject (XI, b) of each of the model sentences, and what is the
-predicate (XI, c)? In what case is the subject of a Latin verb (XXIV)?
+b. What is the subject (XI, b) of each of the model sentences,
+and what is the predicate (XI, c)? In what case is the subject of
+a Latin verb (XXIV)?
 
 c. Observe that the verbs agree with their subjects in number.
 
-d. Observe that *-ne* is not separately translated. Usually it is attached to
-the emphatic word in the sentence, and the emphasized word is placed first. When
-an interrogative word is used, *-ne* is omitted: see sentence 11 below. In
-English *-ne* is represented on the printed page by the question mark, and in
-oral translation by the inflection of the voice.
+d. Observe that *-ne* is not separately translated. Usually it is
+attached to the emphatic word in the sentence, and the emphasized
+word is placed first. When an interrogative word is used, *-ne*
+is omitted: see sentence 11 below. In English *-ne* is
+represented on the printed page by the question mark, and in oral
+translation by the inflection of the voice.
 
-28. _*Rule for the Nominative Case as Subject.* The subject of a verb is in the
-nominative case._
+28. _*Rule for the Nominative Case as Subject.* The subject of a
+verb is in the nominative case._
 
-29. _*Rule for the agreement of the Verb with its Subject.* A verb agrees with
-its subject in person and number._
+29. _*Rule for the agreement of the Verb with its Subject.* A
+verb agrees with its subject in person and number._
 
 EXERCISES
 
-30. 1. Nauta cantat. 2. Nautae cantant. 3. Agricola labōrat. 4. Agricolae
-labōrant. 5. Puella natat. 6. Puellae natant. 7. Cornēlia appropinquat. 8.
-Puellaene appropinquant? 9. Cornēlia et puellae cantant. 10. Iūlia labōrat et
-cantat. 11. Quid appropinquat? 12. Labōrantne nautae? 13. Quis ambulat?
+30. 1. Nauta cantat. 2. Nautae cantant. 3. Agricola labōrat. 4.
+Agricolae labōrant. 5. Puella natat. 6. Puellae natant. 7.
+Cornēlia appropinquat. 8. Puellaene appropinquant? 9. Cornēlia et
+puellae cantant. 10. Iūlia labōrat et cantat. 11. Quid
+appropinquat? 12. Labōrantne nautae? 13. Quis ambulat?
 
-31. 1. The sailor is swimming. 2. The girls are singing. 3. Who approaches? 4.
-Are the sailors approaching? 5. Does Cornelia sing? 6. Cornelia and Julia are
-walking and singing. 7. The girl sings, and the farmer works. 8. Sailors and
-farmers are working.
+31. 1. The sailor is swimming. 2. The girls are singing. 3. Who
+approaches? 4. Are the sailors approaching? 5. Does Cornelia
+sing? 6. Cornelia and Julia are walking and singing. 7. The girl
+sings, and the farmer works. 8. Sailors and farmers are working.
 
-[Image: TUBA]
+[Illustration: TUBA]
+
+
 
 LESSON II
 
@@ -1090,112 +1298,132 @@ THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT
 
 32. *The Accusative Case used as the Direct Object.*
 
-    1. *Nauta puellam vocat*, _the sailor calls the girl._
-    2. *nautae puellās vocant*, _the sailors call the girls._
+  1. *Nauta puellam vocat*, _the sailor calls the girl._
+  2. *nautae puellās vocant*, _the sailors call the girls._
 
-a. Observe that *puellam* is the object (XIV, a) of *vocat*, and *puellās* of
-*vocant*; and that when a Latin noun is used as the object, the case ending is
-not the same as when it is the subject and so in the nominative. The case of the
-object in Latin is called _accusative_ (XXIV) and not objective, as in English.
+a. Observe that *puellam* is the object (XIV, a) of *vocat*, and
+*puellās* of *vocant*; and that when a Latin noun is used as the
+object, the case ending is not the same as when it is the subject
+and so in the nominative. The case of the object in Latin is
+called _accusative_ (XXIV) and not objective, as in English.
 
-b. Form the accusative singular and plural of the nouns in sections 26 and 34.
+b. Form the accusative singular and plural of the nouns in
+sections 26 and 34.
 
-33. _*Rule for the Accusative as the Direct Object.* The object of a verb is in
-the accusative case._
+33. _*Rule for the Accusative as the Direct Object.* The object
+of a verb is in the accusative case._
 
 34. VOCABULARY
 
-    *a'qua*, water (_aquatic_)
-    *Gal'ba*, Galba
-    *lit'tera*, letter (of the alphabet); _plur._ a letter, epistle (_literary_)
-    *ter'ra*, land (_terrace_)
-    *tu'ba*, trumpet (_tuba_)
-    *a'mat*, loves, likes (_amateur_)
-    *con'vocat*, calls together (_convoke_)
-    *ha'bet*, has, holds (_habit_)
-    *lau'dat*, praises (_laud_)
-    *vi'det*, sees (_provide_)
-    *quem*, _acc. of *quis*_, whom?
-    *quid*, _acc. of *quid*_, what?
-    *nunc*, _adv._, now
+  *a'qua*, water (_aquatic_)
+  *Gal'ba*, Galba
+  *lit'tera*, letter (of the alphabet); _plur._ a letter,
+    epistle (_literary_)
+  *ter'ra*, land (_terrace_)
+  *tu'ba*, trumpet (_tuba_)
+  *a'mat*, loves, likes (_amateur_)
+  *con'vocat*, calls together (_convoke_)
+  *ha'bet*, has, holds (_habit_)
+  *lau'dat*, praises (_laud_)
+  *vi'det*, sees (_provide_)
+  *quem*, _acc. of *quis*_, whom?
+  *quid*, _acc. of *quid*_, what?
+  *nunc*, _adv._, now
 
-35. *Order of words.* Observe that in the model sentences (32) the order of
-Latin words is unlike the order of the words in the English sentences. The
-normal position of the subject of a Latin sentence is at the beginning; that of
-the verb is at the end. Variations from this order put emphasis on the word
-moved toward the beginning of the sentence; thus, *puellam nauta vocat* means
-that the sailor calls _a girl_. In translating Latin sentences put the emphasis
-where it belongs.
+35. *Order of words.* Observe that in the model sentences (32)
+the order of Latin words is unlike the order of the words in the
+English sentences. The normal position of the subject of a Latin
+sentence is at the beginning; that of the verb is at the end.
+Variations from this order put emphasis on the word moved toward
+the beginning of the sentence; thus, *puellam nauta vocat* means
+that the sailor calls _a girl_. In translating Latin sentences
+put the emphasis where it belongs.
 
 EXERCISES
 
-36. 1. Galba tubam habet. 2. Tubāsne habet Galba? 3. Puellae Cornēliam et Iūliam
-laudant. 4. Litterās nauta videt. 5. Nautās Galba convocat. 6. Quis Galbam
-videt? 7. Quem videt Galba? 8. Agricola puellās nunc convocat. 9. Videntne
-nautae terram? 10. Cornēliam puellae amant.
+36. 1. Galba tubam habet. 2. Tubāsne habet Galba? 3. Puellae
+Cornēliam et Iūliam laudant. 4. Litterās nauta videt. 5. Nautās
+Galba convocat. 6. Quis Galbam videt? 7. Quem videt Galba? 8.
+Agricola puellās nunc convocat. 9. Videntne nautae terram? 10.
+Cornēliam puellae amant.
 
-37. 1. Who is approaching? 2. The sailor and Galba are approaching. 3. What has
-the farmer? 4. The farmer has land. 5. Does Galba praise the farmers? 6. The
-girl sees the water and the land. 7. The sailors call together the farmers. 8.
-Julia now has the letter.
+37. 1. Who is approaching? 2. The sailor and Galba are
+approaching. 3. What has the farmer? 4. The farmer has land. 5.
+Does Galba praise the farmers? 6. The girl sees the water and the
+land. 7. The sailors call together the farmers. 8. Julia now has
+the letter.
 
-[Image: A SCENE IN A ROMAN STREET]
+[Illustration: A SCENE IN A ROMAN STREET]
+
+
 
 LESSON III
 
 THE PRESENT INDICATIVE ACTIVE OF THE FIRST CONJUGATION
 
-38. *The Four Conjucations.* Regular verbs in Latin are divided into four
-classes, or conjucations (XXVII), distinguished from one another by the stem
-vowel before the ending *-re* of the present infinitive active.
+38. *The Four Conjucations.* Regular verbs in Latin are divided
+into four classes, or conjucations (XXVII), distinguished from
+one another by the stem vowel before the ending *-re* of the
+present infinitive active.
 
-                    PRESENT         PRESENT         DISTINGUISHING
-                    INFINITIVE      STEM            VOWEL
-    _First Conj._   amā're          amā-            *ā*
-    _Second Conj._  monē're         monē-           *ē*
-    _Third Conj._   re'gere         rege-           *ĕ*
-    _Fourth Conj._  audī're         audī-           *ī*
+                  PRESENT         PRESENT         DISTINGUISHING
+                  INFINITIVE      STEM            VOWEL
+  _First Conj._   amā're          amā-            *ā*
+  _Second Conj._  monē're         monē-           *ē*
+  _Third Conj._   re'gere         rege-           *ĕ*
+  _Fourth Conj._  audī're         audī-           *ī*
 
 39. *The Present Indicative Active of the First Conjugation.*
 
-                    SINGULAR                                            PERSONAL ENDINGS
-    _1st Pers._     a'm*ō*, _I love, am loving, do love_                *-ō*, _I_
-    _2d Pers._      a'mā*s*, _you love, are loving, do love_            *-s*, _you_
-    _3d Pers._      a'ma*t*, _he, she, it loves, is loving, does love_  *-t*, _he_, _she_, _it_
+                SINGULAR                                   PERSONAL ENDINGS
+  _1st Pers._   a'm*ō*,                                    *-ō*,
+                _I love, am loving, do love_               _I_
+  _2d Pers._    a'mā*s*,                                   *-s*,
+                _you love, are loving, do love_            _you_
+  _3d Pers._    a'ma*t*,                                   *-t*,
+                _he, she, it loves, is loving, does love_  _he_, _she_, _it_
 
-                    PLURAL
-    _1st Pers._     amā'*mus*, _we love, are loving, do love_           *-mus*, _we_
-    _2d Pers._      amā'*tis*, _you love, are loving, do love_          *-tis*, _you_
-    _3d Pers._      a'ma*nt*, _they love, are loving, do love_          *-nt*, _they_
+                PLURAL
+  _1st Pers._   amā'*mus*,                                 *-mus*,
+                _we love, are loving, do love_             _we_
+  _2d Pers._    amā'*tis*,                                 *-tis*,
+                _you love, are loving, do love_            _you_
+  _3d Pers._    a'ma*nt*,                                  *-nt*,
+                _they love, are loving, do love_           _they_
 
-a. Observe that in *amō* the final *a* of the stem disappears, giving *amō*
-instead of *amaō*. In what forms is this *a* of the stem not long (13)?
+a. Observe that in *amō* the final *a* of the stem disappears,
+giving *amō* instead of *amaō*. In what forms is this *a* of the
+stem not long (13)?
 
-b. When the subject of a verb is a personal pronoun, it is seldom expressed in
-Latin unless emphatic. Why is the omission of the subject possible? Translate
-*puellās convocātis* and *nautam vident*.
+b. When the subject of a verb is a personal pronoun, it is seldom
+expressed in Latin unless emphatic. Why is the omission of the
+subject possible? Translate *puellās convocātis* and *nautam
+vident*.
 
-c. Inflect like *amō* the present indicative active of *ambulō*, *appropinquō*,
-*cantō*, *convocō*, labōrō*, *laudō*, and *natō*.
+c. Inflect like *amō* the present indicative active of *ambulō*,
+*appropinquō*, *cantō*, *convocō*, labōrō*, *laudō*, and *natō*.
 
 40. VOCABULARY
 
-    *dō*, _pres. stem *dă-* (the *a* of *dō* is regularly short, but long in *dās*), give (_dative_)
-    *in'cola*, inhabitant
-    *sae'pe*, _adv._, often
-    *sed*, _conj._, but
-    *spec'tō*, _pres. stem *spectā-*_, look at (_spectator_)
+  *dō*, _pres. stem *dă-* (the *a* of *dō* is regularly short,
+    but long in *dās*), give (_dative_)
+  *in'cola*, inhabitant
+  *sae'pe*, _adv._, often
+  *sed*, _conj._, but
+  *spec'tō*, _pres. stem *spectā-*_, look at (_spectator_)
 
 EXERCISES
 
-41. 1. Ambulat, convocat, cantat. 2. Convocantne? cantantne? laudantne? 3.
-Natās, labōrās, ambulās. 4. Amāmus, appropinquāmus, ambulāmus. 5. Convocātis,
-cantātis, amātis. 6. Amant, dat, laudāmus. 7. Quem spectās? 8. Incolās laudō. 9.
-Iūliam saepe laudātis. 10. Sed litterās laudāmus. 11. Quid nunc datis?
+41. 1. Ambulat, convocat, cantat. 2. Convocantne? cantantne?
+laudantne? 3. Natās, labōrās, ambulās. 4. Amāmus, appropinquāmus,
+ambulāmus. 5. Convocātis, cantātis, amātis. 6. Amant, dat,
+laudāmus. 7. Quem spectās? 8. Incolās laudō. 9. Iūliam saepe
+laudātis. 10. Sed litterās laudāmus. 11. Quid nunc datis?
 
-42. 1. I swim, he swims, I am swimming. 2. Are you working? we sing, does she
-praise? 3. They are approaching, they give, you walk. 4. You are praising, they
-swim, he does labor. 5. We call together the inhabitants, but you call together
-the sailors. 6. The girls are now looking at the water.
+42. 1. I swim, he swims, I am swimming. 2. Are you working? we
+sing, does she praise? 3. They are approaching, they give, you
+walk. 4. You are praising, they swim, he does labor. 5. We call
+together the inhabitants, but you call together the sailors. 6.
+The girls are now looking at the water.
 
-[Image: RUINS OF A ROMAN AQUEDUCT]
+[Illustration: RUINS OF A ROMAN AQUEDUCT]
