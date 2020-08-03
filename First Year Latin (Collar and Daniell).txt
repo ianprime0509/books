@@ -4,19 +4,12 @@ This file was transcribed from the PDF made available on the Internet Archive:
 https://archive.org/details/collardaniellsfi00collrich
 
 Italics are represented using _underscores_ and boldface using *asterisks*.
-Italics used in list item headings are not preserved (otherwise sub-lists would
-be numbered _a_, _b_, and so forth, which introduces unnecessary clutter to the
-document).
-
-Small caps have been rendered using all uppercase letters.
 
 The footnotes have been renumbered so that all footnotes can be given at the end
 of the chapter.
 
-The formatting of lists and such is not always exactly the same as in the
-original: an attempt has been made to keep the spacing relatively uniform.
-
 END OF NOTES
+
 
 [Image: A ROMAN CITIZEN SPEAKS]
 
@@ -92,7 +85,7 @@ comparison of English grammar with Latin grammar, and by the inclusion of Latin
 equivalents for the English illustrative words and phrases.
 
 The material for reading has been somewhat changed, particularly by the omission
-of the Fables and Stores, and by the introduction of the Story of Perseus, of
+of the Fables and Stories, and by the introduction of the Story of Perseus, of
 the simplified narrative of Cæsar's Campaign against the Helvetians, and of a
 number of pages from Eutropius. In all the selections the syntax has been made
 to conform with that taught in the lessons, so that the pupil may not be
@@ -318,7 +311,6 @@ are _who_, _which_, and _what_; in Latin, *quis* and *uter*.
 
 f. A _demonstrative pronoun_ points out an object definitely: _this_, _that_,
 _these_, _those_; *hic*, *ille*, *hī*, *illī*.
-
 
 g. An _indefinite pronoun_ refers to an object indefinitely: _some_, _some one_,
 _any_, _any one_; *aliquis*, *quis*.
@@ -764,3 +756,446 @@ wanting, but there is a future participle.
 c. The participle in _-ing_ is used with the auxiliary _be_ to make the
 progressive form of the verb: _you *are loving*_, _he *was loving*_, _they *will
 be loving*_. Latin has no special tenses for the progressive forms.
+
+TO THE BEGINNER IN LATIN
+
+*What Latin is.* Latin is the language that was used by the ancient Romans. It
+gets its name from the _Lati'ni_, a little tribe living in western Italy more
+than twenty-five hundred years ago. The Latini, and their successors, the
+Romans, slowly extended their lands and their power until they gained control of
+all Italy, and finally of all the civilized world of those days. Their dominions
+reached from the Atlantic Ocean to Persia and from the Baltic Sea to the deserts
+of Africa, and their language was spoken wherever they ruled. For about six
+hundred years the Romans were the most powerful nation on the earth. Their
+history covers in all a period of twelve centuries; no nation has had a longer
+history.
+
+*Why Latin is studied.* And now why is it that it is worth your while to study a
+language that is so many centuries old?
+
+First, a knowledge of Latin helps you to use English more correctly. As more
+than half the words in the English language are of Latin origin, you yourself in
+a sense speak Latin to-day. There are the words of your everyday talk, like
+_animal_; there are the learned words, like _emancipate_; there are the terms of
+law, of medicine, and of the sciences, like _mandamus_, _delirium_, and
+_antennae_; and there are the words which are newly come into use, like
+_tractor_. If you study Latin, you will be helped to know the meaning of many of
+these words, how to spell them, and how to use them correctly; all of which is
+quite worth your while, particularly if you are intending to enter one of the
+professions.
+
+Again, the study of Latin will train you mind. Latin is somewhat unlike English
+in the form of its words and much unlike English in the order of words in its
+sentences. You will therefore be obliged to look carefully, and to think
+carefully, and to speak carefully whenever you try to read and to translate
+anything written in Latin. But this close attention will do good to your mind:
+it will train you powers of observation, of clear thinking, and of clear
+expression; in fact, no other subject that you study in school can do as much
+for you as can Latin toward developing these desirable powers.
+
+Furthermore, the reading of Latin will add to your information. If you are to be
+a well-informed person, you will need to know something about Rome and the
+Romans, and what they have meant in the history of the world; and in no other
+way can you better come to know and to appreciate the literature, the life, the
+customs, and the civilization of the Romans than by the faithful study of their
+language and of the things written in that language.
+
+*How to study Latin.* 1. Never allow yourself to think that Latin is not worth
+your best efforts or that it is too hard for you. Industry and confidence will
+bring you success in this study.
+
+2. Have a fixed hour each day for the study of your Latin. If possible, prepare
+your lesson for to-morrow immediately after reciting the lesson of to-day. Your
+interest will then be greater and your mind better fitted to grasp the subject.
+
+3. Learn each day's lesson with thoroughness. Neglect no part of the lesson even
+if it seems to you unimportant.
+
+4. Before beginning a new lesson recall what you have already learned about the
+subject to be taught in the new lesson. For example, if you are about to study a
+new use of one of the cases, recall all the uses of that case which you have
+previously learned.
+
+5. Review the vocabularies regularly. A knowledge of the meanings of the words
+will be a great saving of time to you, as well as a constant encouragement. Aim
+to know every word you have met, and to this end keep lists of words about the
+meaning of which you are doubtful.
+
+6. Recite the declensions and the conjugations by yourself aloud. It will help
+you to remember them, and you will make better recitations. Read the Latin
+sentences aloud each day.
+
+7. Go over the new lesson slowly, and thus avoid mistakes in the spelling of
+words, in their endings, and in the explanation of Latin constructions.
+
+8. Recall your English grammar when you are learning Latin constructions; most
+of the Latin usages that you will learn in your first year are like English
+usages.
+
+9. Study the lessons as a whole. Then go back to special difficulties. Go over
+the lesson again just before the recitation and consider the troublesome parts.
+
+INTRODUCTION
+
+ALPHABET
+
+1. The Latin alphabet has no _j_ or _w_. Otherwise it is the same as the
+English.
+
+2. The vowels are *a*, *e*, *i*, *o*, *u*. The other letters are consonants.
+
+3. The letter *i* is used both as a vowel and as a consonant. Before a vowel in
+the same syllable it has the force of a consonant and is called *i*-_consonant_.
+Thus in *iaciō*, _I throw_, the first *i* is a consonant, and the second a
+vowel.
+
+SOUNDS OF THE LETTERS [1]
+
+4. The vowels are either long or short. In this book the long vowels are marked
+(-); unmarked vowels are to be regarded as short. The vowels are sounded as
+follows:
+
+    *ā* like the last _a_ in _aha'_     *ă* like the first _a_ in _aha'_
+    *ē* like _e_ in _they_              *ĕ* like _e_ in _met_
+    *ī* like _i_ in _machine_           *ĭ* like _i_ in _pin_
+    *ō* like _o_ in _note_              *ŏ* like _o_ in _obey_
+    *ū* like _oo_ in _boot_             *ŭ* like _oo_ in _foot_
+
+5. The diphthongs are sounded as follows:
+
+    *ae* like _ai_ in _aisle_           *eu* like _eu_ in _feud_
+    *au* like _ou_ in _our_             *oe* like _oi_ in _boil_
+    *ei* like _ei_ in _eight_           *ui* like _we_
+
+6. The consonants generally have the same sound as the corresponding consonants
+in English. But there are the following exceptions:
+
+    *c* is like _c_ in _come_           *bs* and *bt* are like _ps_ and _pt_
+    *g* is like _g_ in _get_            *ch* is like _k_ in _kite_
+    *i-consonant* is like _y_ in _yet_  *gu*, *qu*, and sometimes *su* before a
+                                        vowel are like _gw_, _qw_, and _sw_ (_u_
+                                        is not counted as a vowel)
+    *s* is like _s_ in _sun_
+    *t* is like _t_ in _time_
+    *v* is like _w_ in _wine_           *ph* is like _p_
+    *x* is like _x_ in _extra_          *th* is like _t_
+
+When a consonant is doubled (as *ll*), it should be pronounced twice.
+
+EXERCISE IN PRONOUNCIATION
+
+7. 1. sum, tum. 2. cum, dum. 3. ad, id. 4. in, an. 5. at, et, ut. 6. hic hīc,
+hāc. 7. hōc, hūc. 8. hoc, num. 9. is, bis, īs. 10. dīc, dūc. 11. fac, fer. 12.
+aut, hae. 13. ē, ā, ī. 14. ex, ab, ob. 15. dō, dā, dē. 16. pāx, dux. 17. nox,
+vōx. 18. pars, sōl. 19. trēs, mōs. 20. quō, quā. 21. iūs, quī. 22. quae, quīn.
+23. quis, sē. 24. mē, tē. 25 gēns, sīc. 26. vel, vir, iam.
+
+SYLLABLES
+
+8. A syllable consists of a vowel or a diphthong with or without one or more
+consonants. Hence a word has as many syllables as it has vowels and diphthongs:
+*ō-ce'-a-nus*, _ocean_.
+
+9. When a word is divided into syllables, a single consonant between two vowels
+is joined with the vowel following: *lā-ti-tū'-dō*, _width_.
+
+10. If there are two or more consonants between two vowels, the first is
+pronounced with the preceding vowel: *im-mor-tā'-lis*, _immortal_.
+
+But a consonant followed by *l* or *r* is pronounced with the *l* or *r*, except
+in *ll* and *rr*: *pū'-bli-cus*, _public_; when *ll* or *rr* occurs, one *l* or
+one *r* is joined to the preceding syllable, and the other to the following
+syllable: *ter'-ra*, _land_.
+
+Compound words are divided in such a way as to show the component parts:
+*ab'-est* (*ab*, _away_, + *est*, _he is_), _he is away_.
+
+11. The last syllable of a word is called the _ultima_; the one next to the
+last, the _penult_; the one before the penult, the _antepenult_.
+
+12. A vowel is generally short before another vowel or *h*: *pŏ-ē'-ma*, _poem_;
+*nĭ'-hil*, _nothing_.
+
+13. A vowel is generally short before *nt* or *nd*, and before final *m* or
+final *t*: *vo'-cănt*, _they call_; *vo-cā'-băm*, _I was calling_.
+
+14. A vowel is long before *nf* or *ns*: *a'-māns*, _loving_.
+
+15. A vowel resulting from the contraction of two vowels is long: *cō'-gō*
+(*co-agō*), _I bring together_.
+
+16. The quantity of vowels other than those mentioned in the preceding sections
+must be learned by observation.
+
+QUANTITY OF SYLLABLES
+
+17. A syllable is _long by nature_ when it contains a long vowel or a diphthong:
+*vic-tō'-ri-a*, _victory_; *prae'-mi-um*, _reward_.
+
+18. A syllables is _short by nature_ when it does not contain a long vowel or a
+diphthong: *o-pī'-ni-ō*, _opinion_.
+
+19. A syllable is _long by position_ when it has a short vowel followed by *x*
+or *z*, or by two or more consonants, unless these two consonants are *p*, *b*,
+*t*, *d*, *c*, *g*, followed by *l* or *r*; but the short vowel is still
+pronounced short: *dē-trī-men'-tum*, _loss_.
+
+ACCENT
+
+20. Words of two syllables have the accent on the first syllable: *pa'-ter*,
+_father_.
+
+21. Words of more than two syllables have the accent on the penult when it is
+long, otherwise on the antepenult: *dē-mōn-strā'-re*, _to point out_;
+*ce-le'-ri-tās*, _swiftness_; *ē-ven'-tus*, _outcome_ (cf. 19).
+
+22. Several words, of which the commonest are *-ne*, the sign of a question, and
+*-que*, _and_, are appended to other words. The words so appended are known as
+enclitics. The words to which they are appended are accented on the syllable
+preceding the enclitic, whether that syllable is long or short: *a-mat'-ne?*
+_does he love?_ *ar-mă-que*, _and arms_.
+
+EXERCISE IN ACCENT AND PRONUNCIATION
+
+23. Divide the following words into syllables, state the rule for the accent,
+and then pronounce:
+
+    1. dīvidunt, appellāre
+    2. īnstitūtis, differēbāmus
+    3. hūmānitāte, prōvinciā
+    4. longus, animōs
+    5. importābunt, bellum
+    6. causīs, praecēdō
+    7. fīnis, prohibitus
+    8. initiō, persuāserāmus
+    9. tempora, magistrātuum
+    10. frāternus, conloquium
+
+24. The following Latin version of "Twinkle, Twinkle, Little Star" may be used
+for practice in pronunciation, and for illustration of the preceding statements
+about syllables, accent, etc.:
+
+    MICĀ, MICĀ
+
+    Micā, micā, parva stella!
+    Mīror quaenam sīs, tam bella!
+    Splendēns ēminus in illō,
+    Alba velut gemma, caelō.
+
+    Quandō fervēns Sōl discessit,
+    Nec calōre prāta pāscit,
+    Mox ostendis lūmen pūrum,
+    Micāns, micāns per obscūrum.
+
+    Tibi noctū quī vagātur
+    Ob scintillulam grātātur;
+    Nī micārēs tū, nōn scīret
+    Quās per viās errāns īret.
+
+    Meum saepe thalamum lūce
+    Speculāris cūriōsā;
+    Neque carpseris sopōrem
+    Dōnec vēnit Sōl per auram.
+
+[Image: THE ARCH OF TITUS, SHOWING A ROMAN INSCRIPTION]
+
+[1] Latin is pronounced to-day substantially as it was pronounced by the Romans
+at the beginning of the Christian era.
+
+LESSON I
+
+THE SINGULAR AND PLURAL OF NOUNS AND VERBS
+
+THE NOMINATIVE CASE USED AS SUBJECT
+
+25. *The Singular and Plural of Nouns and Verbs.*
+
+    NOUN
+    _Nom. Sing._ agricol*a*, _farmer_
+    _Nom. Plur._ acricol*ae*, _farmers_
+
+    VERB
+    _3d Pers. Sing._ labōra*t*, _works_, _is working_, _does work_
+    _3d Pers. Plur._ labōra*nt*, _work_, _are working_, _do work_
+
+a. Observe that the distinction between the singular and the plural is shown by
+the final letters of the noun and of the verb. These final letters of a noun are
+called _case endings_; the final letters of a verb are called _personal
+endings_.
+
+b. Form the nominative plural of the nouns in the vocabulary, and the third
+person plural of the verbs.
+
+26. VOCABULARY
+
+    *agri'cola*, farmer (_agriculture_)
+    *Cornē'lia*, Cornelia
+    *Iū'lia*, Julia
+    *nau'ta*, sailor (_nautical_)
+    *puel'la*, girl
+    *et*, _conj._, and
+    *-ne*, _enclitic, sign of a question_
+    *am'bulat*, walks (_perambulate_)
+    *appropin'quat*, approaches, draws near (_propinquity_)
+    *can'tat*, sings (_incantation_)
+    *labō'rat*, works, labors, suffers (laboratory)
+    *na'tat*, swims (_natatorium_)
+    *quis*, _interrog. pron._, who?
+    *quid*, _interrog. pron._, what?
+
+27. *The Nominative Case used as Subject.*
+
+    1. *Puella cantat*, _the girl sings (is singing, does sing)._
+    2. *Puellae cantant*, _the girls sing (are singing, do sing)._
+    3. *Cantatne puella*, _does the girl sing (is the girl singing)?_
+    4. *Cantantne puellae*, _do the girls sing (are the girls singing)?_
+
+a. In Latin there is no article (III, b): *puella* may be translated _girl_, _a
+girl_, or _the girl_; and *puellae*, _girls_ or _the girls_.
+
+b. What is the subject (XI, b) of each of the model sentences, and what is the
+predicate (XI, c)? In what case is the subject of a Latin verb (XXIV)?
+
+c. Observe that the verbs agree with their subjects in number.
+
+d. Observe that *-ne* is not separately translated. Usually it is attached to
+the emphatic word in the sentence, and the emphasized word is placed first. When
+an interrogative word is used, *-ne* is omitted: see sentence 11 below. In
+English *-ne* is represented on the printed page by the question mark, and in
+oral translation by the inflection of the voice.
+
+28. _*Rule for the Nominative Case as Subject.* The subject of a verb is in the
+nominative case._
+
+29. _*Rule for the agreement of the Verb with its Subject.* A verb agrees with
+its subject in person and number._
+
+EXERCISES
+
+30. 1. Nauta cantat. 2. Nautae cantant. 3. Agricola labōrat. 4. Agricolae
+labōrant. 5. Puella natat. 6. Puellae natant. 7. Cornēlia appropinquat. 8.
+Puellaene appropinquant? 9. Cornēlia et puellae cantant. 10. Iūlia labōrat et
+cantat. 11. Quid appropinquat? 12. Labōrantne nautae? 13. Quis ambulat?
+
+31. 1. The sailor is swimming. 2. The girls are singing. 3. Who approaches? 4.
+Are the sailors approaching? 5. Does Cornelia sing? 6. Cornelia and Julia are
+walking and singing. 7. The girl sings, and the farmer works. 8. Sailors and
+farmers are working.
+
+[Image: TUBA]
+
+LESSON II
+
+THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT
+
+32. *The Accusative Case used as the Direct Object.*
+
+    1. *Nauta puellam vocat*, _the sailor calls the girl._
+    2. *nautae puellās vocant*, _the sailors call the girls._
+
+a. Observe that *puellam* is the object (XIV, a) of *vocat*, and *puellās* of
+*vocant*; and that when a Latin noun is used as the object, the case ending is
+not the same as when it is the subject and so in the nominative. The case of the
+object in Latin is called _accusative_ (XXIV) and not objective, as in English.
+
+b. Form the accusative singular and plural of the nouns in sections 26 and 34.
+
+33. _*Rule for the Accusative as the Direct Object.* The object of a verb is in
+the accusative case._
+
+34. VOCABULARY
+
+    *a'qua*, water (_aquatic_)
+    *Gal'ba*, Galba
+    *lit'tera*, letter (of the alphabet); _plur._ a letter, epistle (_literary_)
+    *ter'ra*, land (_terrace_)
+    *tu'ba*, trumpet (_tuba_)
+    *a'mat*, loves, likes (_amateur_)
+    *con'vocat*, calls together (_convoke_)
+    *ha'bet*, has, holds (_habit_)
+    *lau'dat*, praises (_laud_)
+    *vi'det*, sees (_provide_)
+    *quem*, _acc. of *quis*_, whom?
+    *quid*, _acc. of *quid*_, what?
+    *nunc*, _adv._, now
+
+35. *Order of words.* Observe that in the model sentences (32) the order of
+Latin words is unlike the order of the words in the English sentences. The
+normal position of the subject of a Latin sentence is at the beginning; that of
+the verb is at the end. Variations from this order put emphasis on the word
+moved toward the beginning of the sentence; thus, *puellam nauta vocat* means
+that the sailor calls _a girl_. In translating Latin sentences put the emphasis
+where it belongs.
+
+EXERCISES
+
+36. 1. Galba tubam habet. 2. Tubāsne habet Galba? 3. Puellae Cornēliam et Iūliam
+laudant. 4. Litterās nauta videt. 5. Nautās Galba convocat. 6. Quis Galbam
+videt? 7. Quem videt Galba? 8. Agricola puellās nunc convocat. 9. Videntne
+nautae terram? 10. Cornēliam puellae amant.
+
+37. 1. Who is approaching? 2. The sailor and Galba are approaching. 3. What has
+the farmer? 4. The farmer has land. 5. Does Galba praise the farmers? 6. The
+girl sees the water and the land. 7. The sailors call together the farmers. 8.
+Julia now has the letter.
+
+[Image: A SCENE IN A ROMAN STREET]
+
+LESSON III
+
+THE PRESENT INDICATIVE ACTIVE OF THE FIRST CONJUGATION
+
+38. *The Four Conjucations.* Regular verbs in Latin are divided into four
+classes, or conjucations (XXVII), distinguished from one another by the stem
+vowel before the ending *-re* of the present infinitive active.
+
+                    PRESENT         PRESENT         DISTINGUISHING
+                    INFINITIVE      STEM            VOWEL
+    _First Conj._   amā're          amā-            *ā*
+    _Second Conj._  monē're         monē-           *ē*
+    _Third Conj._   re'gere         rege-           *ĕ*
+    _Fourth Conj._  audī're         audī-           *ī*
+
+39. *The Present Indicative Active of the First Conjugation.*
+
+                    SINGULAR                                            PERSONAL ENDINGS
+    _1st Pers._     a'm*ō*, _I love, am loving, do love_                *-ō*, _I_
+    _2d Pers._      a'mā*s*, _you love, are loving, do love_            *-s*, _you_
+    _3d Pers._      a'ma*t*, _he, she, it loves, is loving, does love_  *-t*, _he_, _she_, _it_
+
+                    PLURAL
+    _1st Pers._     amā'*mus*, _we love, are loving, do love_           *-mus*, _we_
+    _2d Pers._      amā'*tis*, _you love, are loving, do love_          *-tis*, _you_
+    _3d Pers._      a'ma*nt*, _they love, are loving, do love_          *-nt*, _they_
+
+a. Observe that in *amō* the final *a* of the stem disappears, giving *amō*
+instead of *amaō*. In what forms is this *a* of the stem not long (13)?
+
+b. When the subject of a verb is a personal pronoun, it is seldom expressed in
+Latin unless emphatic. Why is the omission of the subject possible? Translate
+*puellās convocātis* and *nautam vident*.
+
+c. Inflect like *amō* the present indicative active of *ambulō*, *appropinquō*,
+*cantō*, *convocō*, labōrō*, *laudō*, and *natō*.
+
+40. VOCABULARY
+
+    *dō*, _pres. stem *dă-* (the *a* of *dō* is regularly short, but long in *dās*), give (_dative_)
+    *in'cola*, inhabitant
+    *sae'pe*, _adv._, often
+    *sed*, _conj._, but
+    *spec'tō*, _pres. stem *spectā-*_, look at (_spectator_)
+
+EXERCISES
+
+41. 1. Ambulat, convocat, cantat. 2. Convocantne? cantantne? laudantne? 3.
+Natās, labōrās, ambulās. 4. Amāmus, appropinquāmus, ambulāmus. 5. Convocātis,
+cantātis, amātis. 6. Amant, dat, laudāmus. 7. Quem spectās? 8. Incolās laudō. 9.
+Iūliam saepe laudātis. 10. Sed litterās laudāmus. 11. Quid nunc datis?
+
+42. 1. I swim, he swims, I am swimming. 2. Are you working? we sing, does she
+praise? 3. They are approaching, they give, you walk. 4. You are praising, they
+swim, he does labor. 5. We call together the inhabitants, but you call together
+the sailors. 6. The girls are now looking at the water.
+
+[Image: RUINS OF A ROMAN AQUEDUCT]
