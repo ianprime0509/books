@@ -1206,9 +1206,8 @@ by the Romans at the beginning of the Christian era.
 
 LESSON I
 
-THE SINGULAR AND PLURAL OF NOUNS AND VERBS
-
-THE NOMINATIVE CASE USED AS SUBJECT
+THE SINGULAR AND PLURAL OF NOUNS AND VERBS · THE NOMINATIVE CASE
+USED AS SUBJECT
 
 25. *The Singular and Plural of Nouns and Verbs.*
 
@@ -1493,3 +1492,171 @@ free? 4. Do they praise Galba's daughters? 5. We are now waiting
 for the farmers. 6. Whom does the fortune of the farmers delight?
 
 [Illustration: A STREET IN POMPEII TO-DAY]
+
+
+
+LESSON V
+
+THE PRESENT INDICATIVE ACTIVE OF THE SECOND CONJUGATION · CAUSAL
+CLAUSE WITH _QUOD_
+
+48. *The Present Indicative Active of the Second Conjugation.*
+
+  SINGULAR
+
+  _1st Pers._ mo'ne*ō*,  _I advise, am advising, do advise_
+  _2d Pers._  mo'nē*s*,  _you advise, are advising, do advise
+  _3d Pers._  mo'ne*t*,  _he, she, it advises, is advising, does advise_
+
+  PLURAL
+
+  _1st Pers._ monē'*mus* _we advise, are advising, do advise_
+  _2d Pers._  monē'*tis* _you advise, are advising, do advise_
+  _3d Pers._  mo'ne*nt*  _they advise, are advising, do advise_
+
+a. What verbs belong to the second conjugation (38)?
+
+b. Observe that to the stem *monē-* the same personal endings are
+added to inflect *moneō* that were added to the stem *amā-* to
+inflect *amō*. Observe the three forms in which the present tense
+has the *e* of the stem not marked long. Compare the forms of the
+present tense of *amō* (39).
+
+c. To the stems *docē-*, *habē-*, *terrē-*, and *vidē-* add the
+personal endings and thus inflect their present indicative
+active.
+
+49. VOCABULARY
+
+  *pecū'nia*, money (_pecuniary_)
+  *pīrā'ta*, pirate (_piratical_)
+  *prae'da*, booty, plunder (_predatory_)
+  *cūr*, _adv._, why?
+  *do'ceō*, *docēre*, teach, show (_docile_)
+  *ha'beō*, *habēre*, have, hold (_habit_)
+  *mo'neō*, *monēre*, advise, warn (_admonition_)
+  *ter'reō*, *terrēre*, scare, frighten (_terror_)
+  *vi'deō*, *vidēre*, see (_improvident_)
+  *quod*, _conj._, because
+
+50. *Causal Clause.* For the kinds of clauses in a complex
+sentense see XIX, XX.
+
+  *Incolās monet quod pīrātae appropinquant*, _he warns the
+    inhabitants because the pirates are approaching.
+
+a. Observe that *quod* introduces a dependent clause, which tells
+the reason, or cause, of what is stated in the independent part
+of the sentence. Such a *quod* clause is called a _causal
+clause_.
+
+51. _*Rule for a Causal Clause with Quod.* The cause of an action
+may be expressed by a dependent clause introduced by *quod*._
+
+EXERCISES
+
+52. 1. Pecūniam habēs. 2. Iūliam doceō. 3. Incolās saepe monēs.
+4. Puellāsne terrent? 5. Quem vident? 6. Monēmus et docēmus. 7.
+Quid habēmus? 8. Praedam nunc videō. 9. Tubam vidētis. 10.
+Agricolāsne monētis? 11. Litterās habent. 12. Iūlia fīliās poētae
+docet. 13. Etiam pecūniam agricolārum habent pirātae. 14.
+Fīliārum fortūna fēminam dēlectat. 15. Cūr Iūliam et Cornēliam
+monet? 16. Quem docēs et monēs? 17. Fēminae puellās laudant quod
+labōrant.
+
+53. 1. They are advising. 2. They have. 3. I am warning. 4. You
+frighten. 5. We see. 6. Does he teach the girls? 7. Do Cornelia
+and Julia look at the pirate? 8. Why do the pirates frighten the
+inhabitants? 9. They have the money and the booty. 10. We praise
+the woman because she teaches the girls. 11. What do you see?
+What are you looking at?
+
+[Illustration: A ROMAN COIN]
+
+
+
+LESSON VI
+
+THE DATIVE CASE USED AS THE INDIRECT OBJECT · THE ABLATIVE USED
+IN PREPOSITIONAL PHRASES TO SHOW PLACE WHERE
+
+54. *The Dative and Ablative Cases.* Besides the three cases that
+you have already studied, there are in Latin in common use two
+other cases, the _dative_ and the _ablative_. For the general
+character of these cases see XXIV, a, 4; b.
+
+55. VOCABULARY
+
+  *do'mina*, lady, mistress (of slaves) (_dominant_)
+  *fā'bula*, story (_fable_)
+  *īn'sula*, island (_peninsula_)
+  *vi'a*, way, road, street (_viaduct_)
+  *in*, _prep. with abl._, in, on
+  *dēmōn'strō*, *dēmōnstrāre*, point out, show (_demonstrate_)
+  *ha'bitō*, *habitāre*, dwell, live (_inhabitant_)
+  *ma'neō*, *manēre*, remain (_mansion_)
+  *nār'rō*, *nārrāre*, tell, relate (_narrator_)
+  *cui*, _dat. of *quis* and of *quid*_, to whom? for whom? to
+    what? for what?
+
+56. *The Dative used as Indirect Object.*
+
+  *Cornēliae et puellīs fābulam nārrō*, _I am telling a story to
+    Cornelia and the girls_, or _I am telling Cornelia and the
+    girls a story_.
+
+a. Observe that what is being told is a story, *fābulam*, the
+direct object; and that the _persons to whom_ the story is told
+are _Cornelia_ and the _girls_. *Cornēliae* and *puellīs*,
+therefore, are in the dative case, as this is the case which
+expresses the relation of _to_ or _for_ (XXIV, b). This usage,
+which is like the English (XXIV, a, 4), is called the _Dative of
+the Indirect Object_.
+
+b. The case endings of the dative are *-ae*, singular, and *-īs*,
+plural. Form the dative, singular and plural, of the nouns in
+sections 26, 34, and 55.
+
+57. _*Rule for the Dative of the Indirect Object.* The indirect
+object of a verb is in the dative case._
+
+58. *The Ablative used in Prepositional Phrases to show Place
+Where.*
+
+  *In terrā et in īnsulīs habitant*, _they live on the land and
+    on the islands_.
+
+a. Observe taht the phrases (XVI, a) _on the land_, *in terrā*,
+and _on the islands_, *in īnsulīs*, show _place where_. *Terrā*
+and *īnsulīs* are in the ablative case (XXIV, b).
+
+b. The case endings of the ablative are *-ā*, singular, and
+*-īs*, plural.
+
+c. Form the ablative, singular and plural, of the nouns in
+sections 26, 34, and 55.
+
+59. _*Rule for the Ablative of Place Where.* Place where is
+commonly expressed by a phrase consisting of a preposition,
+usually *in*, with the ablative case._
+
+60. *Order of Words.* The indirect object normally stands before
+the direct object. An ablative normally stands before the direct
+object. An ablative normally stands before the direct object.
+Variations from this order give emphasis to the word removed from
+its normal position.
+
+EXERCISES
+
+61. 1. Agricola dominae viam dēmōnstrat. 2. Puellīs etiam
+Cornēlia fābulam nārrat. 3. In īnsulā habitāmus. 4. Quis poētis
+īnsulam dēmōnstrat? 5. Cūr pirātae in aquā manent? 6. Cui
+pecūniam dās? 7. Nautae agricolīs praedam dēmōnstrant. 8. Incolae
+in viīs appropinquant et rēgīnam spectant. 9. Dominam amant quod
+fābulās nārrat.
+
+62. 1. To whom are you pointing out the lady? 2. I am pointing
+out the letter to Julia. 3. They are telling stories to the
+queen. 4. Galba's daughter gives money to the sailors. 5. Do the
+pirates live on the island? 6. Whose daughters are approaching in
+the street?
