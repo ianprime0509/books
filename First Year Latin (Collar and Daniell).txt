@@ -1872,3 +1872,81 @@ showing to Marcus? 6. We see the town and the gardens of the
 town.
 
 [Illustration: RUINS OF AN AMPHITHEATER]
+
+
+
+LESSON IX
+
+ADJECTIVES OF THE FIRST AND SECOND DECLENSIONS
+
+77. *Adjectives in Latin.* Latin adjectives, unlike English
+adjectives, are declined (XXII). There are two declensions of
+adjectives.
+
+78. *Adjectives of the First and Second Declensions.* One class
+of adjectives has in its masculine and neuter forms the case
+endings of the second declension, and in its feminine forms the
+case endings of the first declension: as, *bonus* (masc.), *bona*
+(fem.), *bonum* (neut.), _good_. Learn the full declension of
+*bonus* (643).
+
+79. _*Rule for the Agreement of Adjectives.* Adjectives agree
+with their nouns in gender, number, and case._
+
+          MASCULINE         FEMININE            NEUTER
+  _Nom._  hort*us* bon*us*  puell*a* bon*a*     dōn*um* bon*um*
+  _Gen._  hort*ī* bon*ī*    puell*ae* bon*ae*   dōn*ī* bon*ī*
+  _Dat._  hort*ō* bon*ō*    puell*ae* bon*ae*   dōn*ō* bon*ō*
+          etc.              etc.                etc.
+
+a. Complete the declension of the expressions given above.
+Decline together *amīcus bonus*, _good friend_; *fābula grāta*,
+_pleasing story_; *oppidum magnum*, _large town_.
+
+80. The rule given in 79 does not mean that adjectives must have
+the same case endings as the nouns they modify. An adjective
+modifying a masculine noun of the first declension will not have
+the same case endings as the noun. Thus,
+
+          SINGULAR                PLURAL
+  _Nom._  naut*a* bon*us*         naut*ae* bon*ī*
+  _Gen._  naut*ae* bon*ī*         naut*ārum* bon*ōrum*
+  _Dat._  naut*ae* bon*ō*         naut*īs* bon*īs*
+          etc.                    etc.
+
+a. Complete the declension of *nauta bonus*. Decline *poēta
+grātus*, _pleasing poet_.
+
+81. *Order of Words.* An adjective normally follows the noun
+which it modifies.
+
+82. VOCABULARY
+
+  *car'rus*, *-ī*, _m._, wagon, cart (_car_)
+  *ci'bus*, *-ī*, _m._, food
+  *pī'lum*, *-ī*, _n._, javelin
+  *rē'mus*, *-ī*, _m._, oar (_trireme_)
+  *ven'tus*, *-ī*, _m._, wind (_ventilate_)
+  *pro'bō*, *probāre*, approve, approve of (_approbation_)
+  *bo'nus*, *bo'na*, *bo'num*, good, kind (_bonus_)
+  *grā'tus*, *grā'ta*, *grā'tum*, pleasing, welcome (_gratitude_)
+  *mag'nus*, *mag'na*, *mag'num*, great, large (_magnitude_)
+  *va'lidus*, *va'lida*, *va'lidum*, strong, robust (_valid_)
+  *at'que*, _conj._, and also
+  *nōn*, _adv._, not (_nonexistent_)
+  *ubi*, _adv._, where? (_ubiquitous_)
+
+EXERCISES
+
+83. 1. Equōs magnōs spectāmus atque probāmus. 2. Tribūnus amīcō
+bonō pīlum dat. 3. Dōnum grātum nautae Iūliam dēlectat. 4. Nauta
+validus rēmōs validōs habet. 5. Servōs bonōs videt puella. 6.
+Nautās ventī magnī nōn terrent. 7. Ubi frūmentum agricolārum
+validōrum vidētis? 8. In carrō magnō frūmentum portant. 9.
+Pīrātae agricolās terrent quod pīla habent.
+
+84. 1. I have a large wagon. 2. The good master has a good slave.
+3. And he also gives the good slave a welcome gift. 4. Does the
+slave approve of the gift? 5. They do not live in a large town of
+Greece. 6. He is not calling together the good sailors. 7. Where
+do you see a large forest?
