@@ -1660,3 +1660,215 @@ out the letter to Julia. 3. They are telling stories to the
 queen. 4. Galba's daughter gives money to the sailors. 5. Do the
 pirates live on the island? 6. Whose daughters are approaching in
 the street?
+
+
+
+LESSON VII
+
+THE FIRST DECLENSION · GENDER
+
+63. *The First Declension.* There are five declensions (XXII) of
+Latin nouns. Those nouns which end in *-a* are in the nominative
+singular and in *-ae* in the genitive singular are said to belong
+to the _first declension_. Learn the complete inflection of the
+noun *agricola*:
+
+  SINGULAR                            CASE ENDINGS
+
+  _Nom._ agri'col*a*                  *-a*
+  _Gen._ agri'col*ae*                 *-ae*
+  _Dat._ agri'col*ae*                 *-ae*
+  _Acc._ agri'col*am*                 *-am*
+  _Abl._ agri'col*ā*                  *-ā*
+
+  PLURAL
+
+  _Nom._ agri'col*ae*                 *-ae*
+  _Gen._ agricol*ā'rum*               *-ārum*
+  _Dat._ agri'col*īs*                 *-īs*
+  _Acc._ agri'col*ās*                 *-ās*
+  _Abl._ agri'col*īs*                 *-īs*
+
+a. Observe that the inflection of a noun consists merely in
+adding the case endings to an unchangeable part of the word. This
+unchangeable part is called the _base_. Decline like *agricola*
+the nouns in section 55.
+
+64. *Gender.* Latin nouns are masculine, feminine, or neuter in
+gender (XXV, a, b).
+
+a. Nouns of the first declension are feminine unless they denote
+males. *Nauta*, *agricola*, *Galba*, *poēta*, and *pīrāta* are
+the masculine nouns you have learned. Hereafter the gender of
+nouns will be shown in the vocabularies by the letters _m._,
+_f._, or _n._.
+
+65. VOCABULARY
+
+  *dīligen'tia*, *-ae*, _f._, diligence (_diligent_)
+  *fu'ga*, *-ae*, _f._, flight, rout (_refuge_)
+  *Germā'nia*, *-ae*, _f._, Germany (_Germanic_)
+  *Grae'cia*, *-ae*, _f._, Greece (_Grecian_)
+  *Ita'lia*, *-ae*, _f._, Italy (_Italian_)
+  *por'ta*, *-ae*, _f._, gate (_portal_)
+  *prōvin'cia*, *-ae*, _f._, province (_provincial_)
+  *pug'na*, *-ae*, _f._, fight (_pugnacious_)
+  *sil'va*, *-ae*, _f._, woods, forest (_silvan_)
+  *victō'ria*, *-ae*, _f._, victory (_victorious_)
+
+a. The ending *-ae* of the genitive singular is placed after the
+nouns in the vocabulary to indicate that these nouns belong to
+the first declension.
+
+EXERCISES
+
+66. 1. Cūr poētae in silvīs manent? 2. Cui victōriam rēgīnae
+nārrās? 3. In portā Iūliam et Cornēliam videō. 4. In Germāniā et
+in Graeciā saepe agricolās convocant. 5. Habitantne in prōvinciā?
+6. Victōria nautārum agricolās terret. 7. Dīligentia puellārum
+fēminam dēlectat. 8. In pugnā pīrātās Italiae fugāmus. 9. Galba
+fugam pīrātārum nārrat.
+
+67. 1. I am living in a province of Greece. 2. The forests of the
+provinces delight the poets. 3. He gives money to Julia's
+daughter. 4. To whom do you give water? 5. Whose diligence do you
+praise? 6. They are waiting in the road and looking at the woods.
+
+[Illustration: A WALL DRAWING. PROBABLY THE WORK OF A ROMAN
+SCHOOLBOY]
+
+
+
+FIRST REVIEW LESSON
+
+LESSONS I-VII
+
+68. Give the English meanings of the following words:
+
+  agricola        dō        habitō        -ne           quis
+  ambulō          doceō     in            nunc          quod
+  amō             domina    incola        pecūnia       rēgīna
+  appropinquō     et        īnsula        pīrāta        saepe
+  aqua            etiam     labōrō        poēta         sed
+  cantō           exspectō  laudō         porta         silva
+  convocō         fābula    līberō        portō         spectō
+  cui             fēmina    littera       praeda        terra
+  cuius           fīlia     maneō         prōvincia     terreō
+  cūr             fortūna   moneō         puella        tuba
+  dēlectō         fuga      nārrō         pugna         via
+  dēmōnstrō       fugō      natō          quem          victōria
+  dīligentia      habeō     nauta         quid          videō
+
+
+69. Give the Latin meanings of the following words:
+
+  often                       sing                approach, draw near
+  to whom? to what?           walk                give
+  labor, work, suffer         farmer              booty, plunder
+  whom?                       call together       island
+  wait, wait for, expect      flight, rout        poet
+  put to flight, rout         land                trumpet
+  love, like                  forest, woods       teach, show
+  girl                        diligence           lady, mistress
+  gate                        delight, please     remain
+  and                         who?                way, road, street
+  water                       but                 inhabitant
+  have, hold                  in, on              advise, warn
+  dwell, live                 look at             sailor
+  story                       because             province
+  point out, show             fight               tell, relate, narrate
+  daughter                    victory             letter
+  set free, free, liberate    see                 praise
+  queen                       fortune             what?
+  why?                        carry, bring        scare, frighten
+  money                       woman               whose?
+  even                        pirate              swim
+  now
+
+70. Decline the nouns and conjugate the verbs in 68. Give the
+genitive singular of each noun; give the other cases, in the
+singular and in the plural. Give the third person, singular and
+plural, of the preent indicative of each verb in 68.
+
+71. Following the suggestions in 634, give English words derived
+from the Latin words in 68. Define these derivatives, and
+illustrate each by an English sentence.
+
+72. Give the rule, if there is one, for the following
+constructions, and illustrate each by a brief sentence in Latin:
+
+  1. Nominative as the subject
+  2. Agreement of the verb with its subject
+  3. Accusative as the object
+  4. Genitive of possession
+  5. Causal clause with *quod*
+  6. Dative of the indirect object
+  7. Ablative of place where
+  8. Questions
+
+[Illustration: ROMAN WRITING MATERIALS]
+
+
+
+LESSON VIII
+
+THE SECOND DECLENSION
+
+73. *The Second Declension.* Most nouns of the second declension
+end in *-us* or *-um*. Those ending in *-us* are generally
+masculine; those in *-um* are neuter. *Hortus*, _garden_, and
+*dōnum*, _gift_, are inflected as follows:
+
+  SINGULAR
+
+                        CASE ENDINGS                  CASE ENDINGS
+  _Nom._  hor't*us*     *-us*           dō'n*um*      *-um*
+  _Gen._  hor't*ī*      *-ī*            dō'n*ī*       *-ī*
+  _Dat._  hor't*ō*      *-ō*            dō'n*ō*       *-ō*
+  _Acc._  hor't*um*     *-um*           dō'n*um*      *-um*
+  _Abl._  hor't*ō*      *-ō*            dō'n*ō*       *-ō*
+
+  PLURAL
+
+  _Nom._  hor't*ī*      *-ī*            dō'n*a*       *-a*
+  _Gen._  hort*ō'rum*   *-ōrum*         dōn*ō'rum*    *-ōrum*
+  _Dat._  hor't*īs*     *-īs*           dō'n*īs*      *-īs*
+  _Acc._  hor't*ōs*     *-ōs*           dō'n*a*       *-a*
+  _Abl._  hor't*īs*     *-īs*           dō'n*īs*      *-īs*
+
+a. Learn the case endings first. Then learn the inflection by
+adding the case endings to the base of each noun. Then practice
+the inflection of the nouns in section 74.
+
+b. What do you notice about the dative and the ablative plural of
+the first and second declensions? What cases are alike in the
+second declension?
+
+74. VOCABULARY
+
+  *amī'cus*, *-ī*, _m._, friend (_amicable_)
+  *do'minus*, *-ī*, _m._, master (of slaves) (_domineer_)
+  *dō'num*, *-ī*, _n._, gift, present (_donor_)
+  *e'quus*, *-ī*, _m._, horse (_equine_)
+  *frūmen'tum*, *-ī*, _n._, grain
+  *hor'tus*, *-ī*, _m._, garden (_horticulture_)
+  *Mār'cus*, *-ī*, _m._, Marcus
+  *op'pidum*, *-ī*, _n._, town
+  *ser'vus*, *-ī*, _m._, slave (_servile_)
+  *tribū'nus*, *-ī*, _m._, tribune (_tribunal_)
+
+EXERCISES
+
+75. 1. Oppidum videō. 2. Oppida vidēmus. 3. Dominusne servum
+monet? 4. Equum tribūnus spectat. 5. Equī dominōrum servōs
+dēlectant. 6. Mārcus amīcō fābulam nārrat. 7. Dominī amīcīs
+praedam dant. 8. In oppidīs amīcōs saepe convocāmus. 9. Servī
+appropinquant et frūmentum et aquam portant.
+
+76. 1. Who has the tribune's horse? 2. The servants now have the
+gifts of the masters. 3. Have you friends in the garden? 4. A
+servant carries the grain of the tribune. 5. Whose gift are they
+showing to Marcus? 6. We see the town and the gardens of the
+town.
+
+[Illustration: RUINS OF AN AMPHITHEATER]
