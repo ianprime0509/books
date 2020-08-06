@@ -1950,3 +1950,140 @@ Pīrātae agricolās terrent quod pīla habent.
 slave approve of the gift? 5. They do not live in a large town of
 Greece. 6. He is not calling together the good sailors. 7. Where
 do you see a large forest?
+
+
+
+LESSON X
+
+THE PRESENT INDICATIVE OF _SUM_ · PREDICATE NOUN AND PREDICATE
+ADJECTIVE
+
+85. *The Present Indicative of _Sum_.* The irregular verb *sum*,
+_I am_, is conjugated in the present indicative as follows:
+
+                SINGULAR                  PLURAL
+  _1st Pers._   su*m*, _I am_             su'*mus*, _we are_
+  _2d Pers._    e*s*, _you are_           es'*tis*, _you are_
+  _3d Pers._    es*t*, _he, she, it is_   su*nt*, _they are_
+
+86. *Predicate Noun and Predicate Adjective.* For the definition
+of a predicate noun and of a predicate adjective, see XV.
+
+  1. *Mārcus est agricola*, _Marcus is a farmer_.
+  2. *Nautae sunt amīcī*, _the sailors are friends_.
+  3. *Hortus est magnus*, _the garden is large_.
+  4. *Puellae sunt grātae*, _the girls are welcome_.
+
+a. Observe the case of *agricola*, *amīcī*, *magnus*, and
+*grātae* (XV, c).
+
+87. _*Rule for the Agreement of a Predicate Noun.* A predicate
+noun agrees in case with the subject of the verb._
+
+88. _*Rule for the Agreement of a Predicate Adjective.* A
+predicate adjective agrees in gender, number, and case with the
+subject of the verb._
+
+89. *Order of Words.* The verb *sum* generally has no emphasis
+(unless it begins the sentence), and it is placed in the sentence
+where it sounds best or where it adds clearness.
+
+In Latin phrases consisting of a monosyllabic preposition,
+adjective, and noun the order of the words is often adjective,
+preposition, noun: as, *magnō in oppidō*, _in the large town_.
+
+[Illustration: WITHIN A ROMAN HOUSE]
+
+90. VOCABULARY
+
+  *bel'lum*, *-ī*, _n._, war (_belligerent_)
+  *Britan'nia*, *-ae*, _f._, Britain (_Britannic_)
+  *de'a*, *-ae*, _f._, goddess (_deity_)
+  *de'us*, *-ī*, _m._, god (_deify_)
+  *Eurō'pa*, *-ae*, _f._, Europe (_European_)
+  *Rō'ma*, *-ae*, _f._, Rome
+  *Rōmā'nus*, *-ī*, _m._, a Roman (_Roman_)
+  *Ves'ta*, *-ae*, _f._, Vesta (_vestal_)
+  *lā'tus*, *lā'ta*, *lā'tum*, wide, broad (_latitude_)
+  *lon'gus*, *lon'ga*, *lon'gum*, long (_longitude_)
+  *me'us*, *me'a*, *me'um*, my, mine
+  *no'vus*, *no'va*, *no'vum*, new (_novelty_)
+  *par'vus*, *par'va*, *par'vum*, small, little
+  *tu'us*, *tu'a*, *tu'um*, your, yours (referring to one owner)
+  *e'rat*, he, she, it was
+  *e'rant*, they were
+
+EXERCISES
+
+91. 1. Galba agricola est. 2. Galba est validus. 3. Iūlia et
+Cornēlia sunt fīliae meae. 4. Fīlia mea est parva. 5. Estne
+oppidum tuum magnum? 6. Britannia est īnsula Eurōpae. 7. Vesta
+erat dea Rōmae. 8. Carrī Rōmānōrum bonī et validī erant. 9. Nōn
+grātum est bellum. 10. Bella nōn grāta sunt. 11. Graecia est
+terra parva Eurōpae. 12. Sumus amīcī tribūnī. 13. Magnō in oppidō
+viās lātās vidēmus.
+
+92. 1. The streets of the town are long. 2. The streets of Rome
+were not broad. 3. The roads of Britain are broad and long. 4.
+Where are you? 5. The new gifts of the tribune are pleasing. 6.
+We praise the gods because they give gifts. 7. We are Romans, but
+we are living in Britain.
+
+[Illustration: PUERI PUELLAEQUE]
+
+
+
+LESSON XI
+
+APPOSITION
+
+93. *Apposition.*
+
+  1. *Galba, tribūnus, pīlum habet*, _Galba, the tribune, has a
+    javelin_.
+  2. *Mārcum amīcum amō*, _I love (my) friend Marcus_.
+
+a. Observe that *tribūnus* denotes the same person as *Galba*,
+and is joined to *Galba* as a descriptive or explanatory noun;
+and that *amīcum* is related in the same way to *Mārcum*. Such
+words are called _appositives_.
+
+94. _*Rule for Apposition.* An appositive agrees in case with the
+noun which it explains._
+
+95. VOCABULARY
+
+  *clā'rus*, *-a*, *-um*, famous, clear (_clarify_)
+  *dē*, _prep. with abl._, from, concerning (_depend_)
+  *ōce'anus*, *-ī*, _m._, ocean (_oceanic_)
+  *pa'rō*, *parāre*, prepare, get ready (_prepare_)
+  *pa'tria*, *-ae*, _f._, native land, country (_patriotism_)
+  *tem'plum*, *-ī*, _n._, temple
+
+CORNELIA ET IULIA
+
+96. Cornēlia et Iūlia puellae parvae sunt. Ubi habitant? Nōn in
+Graeciā, sed clārō in oppidō Italiae habitant. Incolae Rōmae
+sunt. Italia patria Rōmānōrum est. Rōma viās lātās et templa
+magna habet. Rōmānī bella amant et probant.
+
+Poētae fīlia est Cornēlia. Poēta lātīs in hortīs saepe ambulat.
+Atque dē bellō longō et fugā incolārum Germāniae cantat, quod
+victōriam Rōmānōrum probat.
+
+Iūlia fīlia agricolae validī est. Agricola equōs et carrōs novōs
+habet. Cibum et frūmentum equī agricolae portant. Servī agricolae
+equīs aquam dant. Iūlia equōs amat et servōs laudat. Bonus
+dominus est agricola.
+
+Mārcus et Galba, tribūnī, amīcī puellārum sunt. Mārcus poētae
+amīcus est et fābulās grātās Cornēliae nārrat. Galba Iūliae
+silvās et īnsulās ōceani dēmōnstrat.
+
+Fēmina bona puellās docet. Dīligentia Cornēliae fēminam dēlectat.
+In hortō poētae puellās convocat et fābulās nārrat. Fābulae dē
+bellō puellās parvās terrent.
+
+Saepe Vestae dōna parant. Quis est Vesta? Vesta dea Rōmānōrum est
+et templum habet. Saepe in viīs Rōmae puellae ambulant et praedam
+Germāniae et Britanniae spectant.
