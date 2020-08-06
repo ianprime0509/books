@@ -2087,3 +2087,76 @@ bellō puellās parvās terrent.
 Saepe Vestae dōna parant. Quis est Vesta? Vesta dea Rōmānōrum est
 et templum habet. Saepe in viīs Rōmae puellae ambulant et praedam
 Germāniae et Britanniae spectant.
+
+
+
+LESSON XII
+
+THE SECOND DECLENSION: NOUNS IN _-ER_, _-IR_, _-IUS_, AND _-IUM_
+
+97. *Nouns of the Second Declension in _-er_ and _-ir_.* Some
+nouns of the second delcension end in *-er* and *-ir*. They are
+slightly different from *hortus* in their inflection:
+
+  SINGULAR
+
+  _Nom._  pu'er             a'ger             vir
+  _Gen._  pu'er*ī*          a'gr*ī*           vi'r*ī*
+  _Dat._  pu'er*ō*          a'gr*ō*           vi'r*ō*
+  _Acc._  pu'er*um*         a'gr*um*          vi'r*um*
+  _Abl._  pu'er*ō*          a'gr*ō*           vi'r*ō*
+
+  PLURAL
+
+  _Nom._  pu'er*ī*          a'gr*ī*           vi'r*ī*
+  _Gen._  puer*ō'rum*       agr*ō'rum*        vir*ō'rum*
+  _Dat._  pu'er*īs*         a'gr*īs*          vi'r*īs*
+  _Acc._  pu'er*ōs*         a'gr*ōs*          vi'r*ōs*
+  _Abl._  pu'er*īs*         a'gr*īs*          vi'r*īs*
+
+a. Observe that these nouns are declined in the same way as
+*hortus* except that they lack the ending *-us* in the nominative
+singular. *Ager* is like *puer* except that *e* before *r* occurs
+only in the nominative singular.
+
+98. *Nouns of the Second Declension in _-ius_ and _-ium_.* Nouns
+of the second declension ending in *-ius* and *-ium* contract the
+genitive ending *-iī* to *-ī*. The accent remains on the same
+syllable as in the nominative: *auxi'lium*, gen. *auxi'lī*. Learn
+the declension of *fīlius* and *proelium* (637).
+
+99. *Gender of Nouns of the Second Declension.* Nouns of the
+second declension ending in *-um* are neuter; most others are
+masculine.
+
+100. VOCABULARY
+
+  *a'ger*, *agrī*, _m._, field (_agriculture_) [1]
+  *auxi'lium*, *auxi'lī*, _n._, aid, help (_auxiliary_)
+  *fī'lius*, *fīlī*, _m._, son (_filial_)
+  *gla'dius*, *gladī*, _m._, sword (_gladiator_)
+  *nūn'tius*, *nūntī*, _m._, messenger (_pronunciation_)
+  *prae'mium*, *praemī*, _n._, reward (_premium_)
+  *proe'lium*, *proelī*, _n._, battle
+  *pu'er*, *puerī*, _m._, boy (_puerile_)
+  *so'cius*, *socī*, _m._, comrade, ally (_associate_)
+  *vir*, *virī*, _m._, man (_virile_)
+
+EXERCISES
+
+101. 1. Fīliī virōrum in Britanniā sunt. 2. Virī erant sociī. 3.
+Nūntius sociōrum sum. 4. Puerōs parvōs, fīliōs tribūnī,
+exspectāmus. 5. Puerī gladium et pīlum Mārcī habent. 6. Quis virō
+viam dēmōnstrat? 7. Proelium est longum et sociī auxilium
+exspectant. 8. In agrō labōrant vir et fīliī nūntī. 9. Cūr virīs
+praemia nunc datis?
+
+102. 1. The son of the messenger is a small boy. 2. We see your
+sword, but we have not your javelin. 3. They frighten the little
+boys and the woman. 4. The men are putting the allies to flight.
+5. Where do the messengers live? 6. I have my son's sword. 7.
+Wars and battles delight the Romans.
+
+[1] The spelling of the English derivatives _agriculture_,
+_puerile_, and _virile_ will help you to recall the spelling of
+the genitives of *ager*, *puer*, and *vir*.
