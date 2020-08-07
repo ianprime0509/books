@@ -1365,12 +1365,13 @@ into four classes, or conjucations (XXVII), distinguished from
 one another by the stem vowel before the ending *-re* of the
 present infinitive active.
 
-                  PRESENT         PRESENT         DISTINGUISHING
-                  INFINITIVE      STEM            VOWEL
-  _First Conj._   amā're          amā-            *ā*
-  _Second Conj._  monē're         monē-           *ē*
-  _Third Conj._   re'gere         rege-           *ĕ*
-  _Fourth Conj._  audī're         audī-           *ī*
+                      PRESENT         PRESENT      DISTINGUISHING
+                      INFINITIVE      STEM         VOWEL
+  _First Conj._       amā're          amā-         *ā*
+  _Second Conj._      monē're         monē-        *ē*
+  _Third Conj._       re'gere         rege-        *ĕ*
+  _Fourth Conj._      audī're         audī-        *ī*
+
 
 39. *The Present Indicative Active of the First Conjugation.*
 
@@ -1673,21 +1674,19 @@ singular and in *-ae* in the genitive singular are said to belong
 to the _first declension_. Learn the complete inflection of the
 noun *agricola*:
 
-  SINGULAR                            CASE ENDINGS
+         SINGULAR                                    CASE ENDINGS
+  _Nom._ agri'col*a*                                 *-a*
+  _Gen._ agri'col*ae*                                *-ae*
+  _Dat._ agri'col*ae*                                *-ae*
+  _Acc._ agri'col*am*                                *-am*
+  _Abl._ agri'col*ā*                                 *-ā*
 
-  _Nom._ agri'col*a*                  *-a*
-  _Gen._ agri'col*ae*                 *-ae*
-  _Dat._ agri'col*ae*                 *-ae*
-  _Acc._ agri'col*am*                 *-am*
-  _Abl._ agri'col*ā*                  *-ā*
-
-  PLURAL
-
-  _Nom._ agri'col*ae*                 *-ae*
-  _Gen._ agricol*ā'rum*               *-ārum*
-  _Dat._ agri'col*īs*                 *-īs*
-  _Acc._ agri'col*ās*                 *-ās*
-  _Abl._ agri'col*īs*                 *-īs*
+         PLURAL
+  _Nom._ agri'col*ae*                                *-ae*
+  _Gen._ agricol*ā'rum*                              *-ārum*
+  _Dat._ agri'col*īs*                                *-īs*
+  _Acc._ agri'col*ās*                                *-ās*
+  _Abl._ agri'col*īs*                                *-īs*
 
 a. Observe that the inflection of a noun consists merely in
 adding the case endings to an unchangeable part of the word. This
@@ -1745,44 +1744,44 @@ LESSONS I-VII
 
 68. Give the English meanings of the following words:
 
-  agricola        dō        habitō        -ne           quis
-  ambulō          doceō     in            nunc          quod
-  amō             domina    incola        pecūnia       rēgīna
-  appropinquō     et        īnsula        pīrāta        saepe
-  aqua            etiam     labōrō        poēta         sed
-  cantō           exspectō  laudō         porta         silva
-  convocō         fābula    līberō        portō         spectō
-  cui             fēmina    littera       praeda        terra
-  cuius           fīlia     maneō         prōvincia     terreō
-  cūr             fortūna   moneō         puella        tuba
-  dēlectō         fuga      nārrō         pugna         via
-  dēmōnstrō       fugō      natō          quem          victōria
-  dīligentia      habeō     nauta         quid          videō
+  agricola        dō           habitō      -ne           quis
+  ambulō          doceō        in          nunc          quod
+  amō             domina       incola      pecūnia       rēgīna
+  appropinquō     et           īnsula      pīrāta        saepe
+  aqua            etiam        labōrō      poēta         sed
+  cantō           exspectō     laudō       porta         silva
+  convocō         fābula       līberō      portō         spectō
+  cui             fēmina       littera     praeda        terra
+  cuius           fīlia        maneō       prōvincia     terreō
+  cūr             fortūna      moneō       puella        tuba
+  dēlectō         fuga         nārrō       pugna         via
+  dēmōnstrō       fugō         natō        quem          victōria
+  dīligentia      habeō        nauta       quid          videō
 
 
 69. Give the Latin meanings of the following words:
 
-  often                       sing                approach, draw near
-  to whom? to what?           walk                give
-  labor, work, suffer         farmer              booty, plunder
-  whom?                       call together       island
-  wait, wait for, expect      flight, rout        poet
-  put to flight, rout         land                trumpet
-  love, like                  forest, woods       teach, show
-  girl                        diligence           lady, mistress
-  gate                        delight, please     remain
-  and                         who?                way, road, street
-  water                       but                 inhabitant
-  have, hold                  in, on              advise, warn
-  dwell, live                 look at             sailor
-  story                       because             province
-  point out, show             fight               tell, relate, narrate
-  daughter                    victory             letter
-  set free, free, liberate    see                 praise
-  queen                       fortune             what?
-  why?                        carry, bring        scare, frighten
-  money                       woman               whose?
-  even                        pirate              swim
+  often                     sing             approach, draw near
+  to whom? to what?         walk             give
+  labor, work, suffer       farmer           booty, plunder
+  whom?                     call together    island
+  wait, wait for, expect    flight, rout     poet
+  put to flight, rout       land             trumpet
+  love, like                forest, woods    teach, show
+  girl                      diligence        lady, mistress
+  gate                      delight, please  remain
+  and                       who?             way, road, street
+  water                     but              inhabitant
+  have, hold                in, on           advise, warn
+  dwell, live               look at          sailor
+  story                     because          province
+  point out, show           fight            tell, relate, narrate
+  daughter                  victory          letter
+  set free, free, liberate  see              praise
+  queen                     fortune          what?
+  why?                      carry, bring     scare, frighten
+  money                     woman            whose?
+  even                      pirate           swim
   now
 
 70. Decline the nouns and conjugate the verbs in 68. Give the
@@ -2224,3 +2223,155 @@ erant templa multa deōrum et deārum. In viīs oppidōrum statuae
 miserī. Quis incolās Graeciae nōn laudat?
 
 [Illustration: A RESTORATION OF THE ROMAN FORUM]
+
+
+
+LESSON XIV
+
+THE IMPERFECT AND FUTURE INDICATIVE OF _SUM_ · THE DATIVE WITH
+ADJECTIVES
+
+108. *The Imperfect Indicative of _Sum_.* The imperfect
+indicative of *sum* is inflected as follows:
+
+     SINGULAR                               PLURAL
+  1. e'ra*m*, _I was                        erā'*mus*, _we were_
+  2. e'rā*s*, _you were_                    erā'*tis*, _you were_
+  3. e'ra*t*, _he, she, it was_             e'ra*nt*, _they were_
+
+
+109. *The Future Indicative of _Sum_.* The future indicative of
+*sum* is inflected as follows:
+
+     SINGULAR                               PLURAL
+  1. e'r*ō*, _I shall be_                   e'ri*mus*, _we shall be_
+  2. e'ri*s*, _you will be_                 e'ri*tis*, _you will be_
+  3. e'ri*t*, _he, she, it will be_         e'ru*nt*, _they will be_
+
+
+110. *The Dative with Adjectives.*
+
+  *Dōnum puerō erit grātum*, _the gift will be pleasing to the
+    boy_.
+
+a. Observe that *puerō* is translated with the adjective
+*grātum*, _pleasing to the boy_. Certain Latin adjectives,
+particularly those meaning _near_, _fit_, _friendly_, _pleasing_,
+_like_, and their opposites, are thus followed by the case
+expressing _to_ or _for_, exactly as they are followed in English
+by a phrase beginning with _to_ or _for_: as, _fit for war_,
+_unfriendly to us_. This usage is known as the _Dative with
+Adjectives_.
+
+111. _*Rule for the Dative with Adjectives.* Certain adjectives
+meaning *near*, *fit*, *friendly*, *pleasing*, *like*, and their
+opposites, may be accompanied by a dative to show the person or
+the thing toward which the quality of the adjective is directed._
+
+112. VOCABULARY
+
+  *amī'cus*, *-a*, *-um*, friendly
+  *cer'te*, _adv._, certainly
+  *fīni'tiumus*, *-a*, *-um*, neighboring, near (_affinity_)
+  *idō'neus*, *-a*, *-um*, fit, suitable
+  *inimī'cus*, *-a*, *-um*, unfriendly, hostile (_inimical_)
+  *iniū'ria*, *-ae*, _f._, injustice, wrong (_injury_)
+  *in'terim*, _adv._, meanwhile (_interim_)
+  *li'ber*, *librī*, _m._, book (_library_)
+  *propin'quus*, *-a*, *-um*, near (_propinquity_)
+  *pro'ximus*, *-a*, *-um*, nearest, next, very near
+    (_proximity_)
+
+EXERCISES
+
+113. 1. Est, erat, erit. 2. Sunt, erant, erunt. 3. Sumus, erāmus,
+erimus. 4. Sum, eram, erō. 5. Es, erās, eris. 6. Estis, erātis,
+eritis. 7. Certē erāmus inimīcī Mārcō, vestrō fīliō. 8. Proximī
+oppidō erant multī agrī. 9. Iniūriae sociōrum multae erunt. 10.
+Īnsulam terrae propinquam videō. 11. Ventī nautīs nōn erunt
+grātī. 12. Agricolae bellō longō idōneī nōn erant. 13. Interim
+vestrīs fīliīs erimus amīcī. 14. Gladiī atque pīla proeliō idōnea
+[1] sunt.
+
+114. 1. I am, we are. 2. Where were we? I was in the town. 3. I
+shall be, we shall be. 4. Is he a tribune? They are allies. 5.
+Meanwhile you will be a free man. 6. Our towns are near Greece.
+7. In our towns the men are unfriendly to Rome. 8. There will be
+[2] a great battle in Britain. 9. The books will certainly be
+welcome to my friend Marcus.
+
+[1] The predicate adjective *idōnea* is neuter because the two
+subjects are things without life.
+
+[2] Express _there will be_ by *erit*, and place *erit* at the
+beginning of the sentence. How do you say _there are_? _there
+is_? _there were_?
+
+[Illustration: GLADIUS]
+
+
+
+SECOND REVIEW LESSON
+
+LESSONS VIII-XIV
+
+115. Give the English meanings of the following words:
+
+  ager             deus        interim   nūntius      rēmus
+  amīcus, _noun_   dominus     lātus     ōceanus      servus
+  amīcus, _adj._   dōnum       liber     oppidum      socius
+  atque            equus       līber     parō         superō
+  auxilium         fīlius      longus    parvus       templum
+  bellum           fīnitimus   magnus    patria       tribūnus
+  bonux            frūmentum   meus      pīlum        tuus
+  carrus           gladius     mister    praemium     ubi
+  certē            grātus      multus    probō        validus
+  cibus            hortus      multī     proelium     ventus
+  clārus           idōneus     nōn       propinquus   vester
+  dē               inimīcus    noster    proximus     vir
+  dea              iniūria     novus     puer         vocō
+
+116. Give the Latin meanings of the following words:
+
+  garden               from, concerning                    strong, robust
+  many                 where?                              native land, country
+  oar                  son                                 great, large
+  man                  war                                 your (_sing._)
+  call                 comrade, ally                       slave
+  god                  meanwhile                           aid, help
+  long                 horse                               near
+  sword                wind                                nearest, next
+  goddess              boy                                 javelin
+  food                 good, kind                          unfriendly
+  much                 not                                 new
+  grain                messenger                           battle
+  approve, approve of  famous                              get ready
+  injustice, wrong     friendly                            certainly
+  friend               field                               book
+  tribune              small, little                       fit, suitable
+  your (_plur._)       gift                                free
+  temple               pleasing, welcome                   our
+  my, mine             surpass, defeat, overcome, conquer  town
+  master               wide, broad                         reward
+  cart                 neighboring, near                   ocean
+  and also             poor, unhappy, wretched
+
+117. Decline each noun and adjective in 115. Conjugate each verb
+in the present indicative active. Give the genitive singular of
+each noun; give the other cases, in the singular and the plural.
+Conjugate *sum* in the imperfect and future indicative.
+
+118. Following the suggestions in 634, give English words derived
+from the Latin words in 115. Define these derivatives, and
+illustrate each by an English sentence.
+
+119. Give the rule for the following constructions, and
+illustrate each by a sentence in Latin:
+
+  1. Agreement of adjectives
+  2. Predicate noun
+  3. Predicate adjective
+  4. Apposition
+  5. Dative with adjectives
+
+[Illustration: A ROMAN BOY · A ROMAN GIRL]
