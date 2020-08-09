@@ -3220,3 +3220,262 @@ horsement. 4. I shall hasten from Italy into the province. 5.
 Both women and girls were fleeing from the fields. 6. They have
 hastened from Germany into Italy. 7. He led the tribune to the
 conference.
+
+
+
+LESSON XXV
+
+THE ABLATIVE OF CAUSE · PREPOSITIONAL PHRASES EXPRESSING CAUSE
+
+183. VOCABULARY
+
+  *centuriō*, *centuriōnis*, _m._, centurion
+  *corpus*, *corporis*, _n._, body (_corporal_) [1]
+  *doleō*, *dolēre*, *doluī*, *dolitūrus*, grieve (_doleful_)
+  *explōrātor*, *explōrātōris*, _m._, scout (_explore_)
+  *homō*, *hominis*, _m._, man (_homicide_)
+  *inopia*, *-ae*, _f._, want, lack
+  *ob*, _prep. with acc._, on account of
+  *pater*, *patris*, _m._, father (_paternal_)
+  *propter*, _prep. with acc._, on account of
+  *soror*, *sorōris*, _f._, sister (_sorority_)
+  *vulnus*, *vulneris*, _n._, wound (_vulnerable_)
+
+a. Decline *centuriō mister*, *corpus magnum*, *homō dēfessus*,
+*id vulnus*.
+
+184. *The Ablative of Cause.*
+
+  1. *Lēgātus mīlitem virtūte laudāvit*, _the lieutenant praised
+    the soldier for (because of, on account of) his valor.
+  2. *Peditēs viā longā sunt dēfessī*, _the foot soldiers are
+    tired out with (from, because of) the long march.
+
+a. Observe that the ablatives *virtūte* and *viā* denote _cause_
+or _reason_. Observe the various prepositions used in translating
+these ablatives: _for_, _with_, _from_, _because of_, _on account
+of_. this ablative answers the question _why?_ and is known as
+the _Ablative of Cause_.
+
+185. _*Rule for the Ablative of Cause.* The ablative without a
+preposition is used to express cause._
+
+186. *Prepositional Phrases expressing Cause.* Cause may also be
+expressed by a prepositional phrase consisting of *ob* or
+*propter* with the accusative, or of *dē* or *ex* with the
+ablative:
+
+  1. *Lēgātus mīlitem ob (propter) virtūtem laudāvit*, _the
+    lieutenant praised the soldier on account of his courage_.
+  2. *Multīs dē causīs in Italiam properābunt*, _for many reasons
+    they will hurry into Italy_.
+
+EXERCISES
+
+187. 1. Multīs dē causīs Rōmānī auxilium nōn mīsērunt. 2.
+Lapidibus pīlīsque eōs hominēs vulnerāvērunt. 3. Multa vulnera in
+capitibus et in corporibus habent. 4. Hodiē patrēs vulneribus
+fīliōrum dolēbunt. 5. Dux noster magnā victōriā centuriōnēs
+laudābit. 6. Perīculum explōrātōrum mīlitēs terruit. 7. Tum in
+mūrōs oppidī ob iniūriās nōn fugiēbātis. 8. Propter inopiam cibī
+[2] magnō in perīculō fuimus. 9. Lēgātus equitēs et peditēs ad
+conloquium dūxit.
+
+188. 1. We have often been tired because of wounds. 2. I shall
+praise our soldiers because of their courage and zeal. 3. Our
+fathers will fight for a long time and will capture much booty.
+4. Which centurion was throwing javelins down from the wall? 5.
+On account of a lack of food and water Marcus and Galba, the
+centurions, did not fight with courage. 6. My sister is now
+grieving because the women of Britain are wretched. 7. In the
+meantime the scouts related the commands of the general.
+
+[1] See 171, a.
+
+[2] This is a new usage of the genitive case. As used here, the
+genitive denotes that of which something consists or is made. It
+is called the _Genitive of Material_.
+
+
+
+LESSON XXVI
+
+THE THIRD DECLENSION: _I_-STEMS
+
+189. *The Third Declension: _i_-Stems.* Certain nouns of the
+third declension have *i*-stems. These include:
+
+  1. Nouns which end in *-is* or *-ēs* in the nominative singular
+    and have no more syllables in the genitive singular than in
+    the nominative.
+  2. Neuters ending in *-e*, *-al*, or *-ar*.
+  3. Nouns ending in *-ns* or *-rs*.
+  4. Monosyllables ending in *-s* or *-x*, with a consonant
+    preceding the *-s* or *-x*.
+
+These nouns show the following peculiarities of declension:
+
+  1. The genitive plural ends in *-ium*.
+  2. The accusative plural of masculines and of feminines ends in
+    *-īs* or *-ēs*.
+  3. The nominative and the accusative plural of neuters end in
+    *-ia*.
+  4. The ablative singular of neuters and of a few other words
+    ends in *-ī*.
+
+The declension of nouns having *i*-stems is illustrated by the
+following paradigms:
+
+              *hostis*, m., _enemy_       *mare*, n., _sea_
+              STEM *hosti-*               STEM *mari-*
+  SINGULAR
+  _Nom._      hos't*is*                   ma'r*e*
+  _Gen._      hos't*is*                   ma'r*is*
+  _Dat._      hos't*ī*                    ma'r*ī*
+  _Acc._      hos't*em*                   ma'r*e*
+  _Abl._      hos't*e*                    ma'r*ī*
+
+  PLURAL
+  _Nom._      hos't*ēs*                   ma'r*ia*
+  _Gen._      hos't*ium*                  ma'r*ium*
+  _Dat._      hos't*ibus*                 ma'r*ibus*
+  _Acc._      hos't*īs* (*-ēs*)           ma'r*ia*
+  _Abl._      hos't*ibus*                 ma'r*ibus*
+
+              *cohors*, f., _cohort_      *mōns*, m., _mountain_
+              STEM *cohorti-*             STEM *monti-*
+  SINGULAR
+  _Nom._      co'hor*s*                   mōn*s*
+  _Gen._      cohor't*is*                 mon't*is*
+  _Dat._      cohor't*ī*                  mon't*ī*
+  _Acc._      cohor't*em*                 mon't*em*
+  _Abl._      cohor't*e*                  mon't*e*
+
+  PLURAL
+  _Nom._      cohor't*ēs*                 mon't*ēs*
+  _Gen._      cohor't*ium*                mon't*ium*
+  _Dat._      cohor't*ibus*               mon't*ibus*
+  _Acc._      cohor't*īs* (*-ēs*)         mon't*īs* (*-ēs*)
+  _Abl._      cohor't*ibus*               mon't*ibus*
+
+a. For the guidance of the learner, in the succeeding
+vocabularies nouns having *i*-stems will be followed by the stem.
+
+b. Decline each noun in 190.
+
+190. VOCABULARY
+
+  *cīvis*, *cīvis* (*cīvi-*), _m._, citizen (_civil_)
+  *cohors*, *cohortis* (*cohorti-*), _f._, cohort
+  *collis*, *collis* (*colli-*), _m._, hill
+  *fīnis*, *fīnis*, (*fīni-*), _m._, end; _plur., territories
+    (_finish_)
+  *hostis*, *hostis* (*hosti-*), _m._, enemy (_hostile_)
+  *ignis*, *ignis* (*igni-*), _m._, fire (_ignite_)
+  *mare*, *maris* (*mari-*), _n._, sea (_maritime_)
+  *mōns*, *montis* (*monti-*), _m._, mountain (_mount_)
+  *nāvis*, *nāvis* (*nāvi-*), _f._, ship (_navigate_)
+  *urbs*, *urbis* (*urbi-*), _f._, city (_urban_)
+
+EXERCISES
+
+191. 1. Victōria hostium cīvīs urbis Rōmae terruit. 2. Collīs et
+montīs Italiae nōn vīdī. 3. Explōrātōrēs et centuriōnēs ex
+fīnibus Sabīnōrum fūgērunt. 4. Rōmānī multās nāvīs et nāvigia in
+marī habuērunt. 5. Magnō perīculō cīvēs cibum frūmentumque in
+urbem portant. 6. Cohortēs quoque mittēmus et hostīs superābimus.
+7. Propinquum montī erat oppidum. 8. Virtūs cīvium grāta ducī
+fuit.
+
+192. 1. Have we many ships to-day? 2. Formerly they lived on the
+hills and mountains. 3. The territories of the Romans were wide.
+4. These citizens are not fit for war. 5. Our soldiers have
+captured many cities of Greece. 6. Who are throwing javelins down
+from the walls of the cities? 7. Boys see great fires in the
+city.
+
+
+
+LESSON XXVII
+
+THE ACCUSATIVE AND THE ABLATIVE WITH PREPOSITIONS · ADJECTIVES
+USED AS NOUNS
+
+193. *Prepositions with the Accusative.* The following
+prepositions are used with the accusative:
+
+  *ad*, to, toward, against (_adverse_)
+  *ante*, before, in front of (_antecedent_)
+  *apud*, near, with, among
+  *contrā*, against (_contradict_)
+  *in*, into, against (_inspire_)
+  *inter*, between (of two objects), among (of more than two
+    objects) (_intervene_)
+  *ob*, on account of, because of
+  *per*, through (_perennial_)
+  *post*, after, behind (_postpone_)
+  *propter*, on account of, because of
+  *trāns*, across (_transatlantic_)
+
+194. *Prepositions with the Ablative.* The following prepositions
+are used with the ablative:
+
+  *ā*, *ab*, away from, from, by (_ablative_)
+  *cum*, with (_compete_)
+  *dē*, down from, concerning (_depose_)
+  *e*, *ex*, out of, from (_expose_)
+  *in*, in, at, on (_insist_)
+  *prō*, in front of, in behalf of (_protect_)
+  *sine*, without (_sinecure_)
+
+a. Which preposition is used with both cases? With what
+difference in meaning?
+
+b. Learn the meanings of all these prepositions.
+
+195. *Methods of saying "to," "on account of," "because of," and
+"with" in Latin:*
+
+a. _To:_ If the phrase expresses the _indirect object_, use the
+dative.
+
+b. _On account of, because of:_ Use either *ob* or *propter* with
+the accusative, or use the ablative.
+
+Remember that the preposition *dē* or *ex* is used in certain
+phrases (as, *multīs dē causīs, _for many reasons_).
+
+c. _With:_ If the phrase expresses _means_, use the ablative.
+
+If the phrase expresses _manner_, use the ablative with *cum*;
+omit *cum*, if you wish, when there is an adjective in the
+phrase.
+
+If the phrase expresses _accompaniment_, use the ablative with
+*cum*.
+
+If the phrase expresses _cause_, use either *ob* or *propter*
+with the accusative, or use the ablative of cause.
+
+196. *Adjectives used as Nouns.* Adjectives are often used as
+nouns (III, f); as *amīcus*, *-ī*, m., _a friend_, from *amīcus*,
+*a*, *-um*, _friendly; *multa*, *-ōrum*, n., _many things_, from
+*multī, -ae, -a*, _many_. So also *fīnitimī*, _neighbors_, and
+*nostrī*, _our men_.
+
+EXERCISES
+
+197. 1. Nostrī centuriōnem inter captīvōs vīdērunt. 2. Fīnitimī
+propter eam victōriam Rōmānōrum dolent. 3. Cūr cohortēs per
+silvās ad oppidum fugiēbant? 4. Cum cūrā vestrās fīliās librīs
+docuistis. 5. Equitēs et peditēs ante portam sunt. 6. Sine
+perīculō in urbe manēbimus. 7. Atque multa ex eā urbe
+portāvērunt. 8. Trāns agrum lātum explōrātōrēs dūcit. 9. In
+prōvinciā cum multīs mīlitibus fuit.
+
+198. 1. After this battle he will send our men into Germany. 2.
+They captured the town without help. 3. The neighbors were
+fighting bravely against the enemy. 4. In front of the town was a
+hill. 5. Near the lieutenant a messenger was waiting. 6. We shall
+hurry through Italy and shall spend the winter among those
+mountains.
