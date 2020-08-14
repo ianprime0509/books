@@ -3836,3 +3836,165 @@ pugnābimus," respondit Spartānus.
 of the lessons may be found in the general vocabulary.
 
 [Illustration: AESTATE AGRICOLA IN AGRIS LABORAT]
+
+
+
+LESSON XXXII
+
+THE PLUPERFECT AND FUTURE PERFECT INDICATIVE ACTIVE OF ALL
+CONJUGATIONS
+
+223. *The Formation of the Pluperfect and Future Perfect Tenses.*
+The pluperfect (XXXIII, b) and the future perfect (XXXIII, b)
+indicative active of *amō* are inflected as follows:
+
+  PLUPERFECT
+
+  1. amā'v*eram*,                          amāv*erā'mus*,
+     _I had loved_                         _we had loved_
+  2. amā'v*erās*,                          amāv*erā'tis*,
+     _you had loved_                       _you had loved_
+  3. amā'v*erat*,                          amā'v*erant*,
+     _he had loved_                        _they had loved_
+
+  FUTURE PERFECT
+
+  1. amā'v*erō*,                           amāv*e'rimus*,
+     _I shall have loved_                  _we shall have loved_
+  2. amā'v*eris*,                          amāv*e'ritis*,
+     _you will have loved_                 _you will have loved_
+  3. amā'v*erit*,                          amā'v*erint*,
+     _he will have loved_                  _they will have loved_
+
+a. Observe that the pluperfect is formed by adding the imperfect
+of *sum* (108) to the perfect stem; and the future perfect by
+adding the future of *sum* to the perfect stem. One form,
+however, is not spelled as it is in the inflection of *sum*.
+Which form?
+
+b. The tense sign of the pluperfect is *-erā-*; of the future
+perfect, *-eri-*.
+
+c. What are the perfect stems of *moneō*, *regō*, *capiō*,
+*audiō*, and *sum*? Inflect the pluperfect and future perfect
+tenses of these verbs, and of the verbs in 203.
+
+d. What auxiliary verbs (IV, f) are to be used in translating
+these tenses? What English tense is the same as the pluperfect?
+
+e. The perfect, pluperfect, and future perfect use the perfect
+stem, and so belong to the perfect system of the verb. Make
+synopses (671) in this system of the model verbs.
+
+224. VOCABULARY
+
+  *cīvitās*, *cīvitātis*, _f._, state, clan
+  *Labiēnus*, *-ī*, _m._, Labienus, a Roman officer
+  *populus*, *-ī*, _m._, people (_population_)
+  *prīnceps*, *prīncipis*, _m._, chief (_principal_)
+  *Rōmānus*, *-a*, *-um*, Roman
+  *tēlum*, *-ī*, _n._, weapon
+
+EXERCISES
+
+225. 1. Ēmerint, gesseram, hiemāverātis. 2. Dēmōnstrāverant,
+audīveris, superāverāmus. 3. Tenuerō, complēveram, amrāverās. 4.
+Habitāveris, vocāverat, mānserō. 5. Nārrāverātis, mīserās,
+fūgerimus. 6. Exspectāveram, doluerō, cōnfirmāverit. 7.
+Susinuerat, rēxeram, properāveris.
+
+8. Labiēnus prīncipem virtūte laudāverat. 9. Fortis homō amīcōs
+multōs et ācrīs habuerit. 10. Caesar bella nōn sōlum in Galliā
+sed etiam in Britanniā gesserat. 11. Quō tempore noctis arma
+cēperis? 12. Gallī oppida magnā cum virtūte dēfenderant. 13.
+Populus Rōmānus cīvēs eius cīvitātis līberāverat.
+
+226. 1. We shall have frightened, you (_sing._) had come, you
+(_plur._) will have dismissed. 2. He will have fought, he had
+captured, they had defended. 3. We had led, they will have
+wounded, he will have thrown. 4. You (_sing._) will have built,
+we had found, they will have carried.
+
+5. The Roman people had long held the Gauls in check. 6. The
+chiefs had called together all the clans. 7. Labienus will have
+found many weapons in that place. 8. The Gauls had waited for
+aid. 9. At last we had attacked that hill.
+
+[Illustration: A GALLIC CHIEFTAIN]
+
+
+
+LESSON XXXIII
+
+THE DEMONSTRATIVES _HIC_ AND _ILLE_ · PLACE FROM WHICH AND TO
+WHICH, IN NAMES OF TOWNS
+
+227. *The Demonstratives _Hic_ and _Ille_.* Review the declension
+of *is* (654), and learn the declension of *hic* and *ille*
+(654).
+
+a. Decline *hic prīnceps*, *haec cīvitās*, *hoc tēlum*, *ille
+Gallus*, *illa nox*, and *illud tempus*.
+
+228. *The Distinction between _Is_, _Hic_, and _Ille_.* *Is* is
+used indifferently for _this_ or _that_ without emphasis (148).
+*Hic* means _this_, and *ille* _that_, with a certain emphasis.
+*Hic* is applied to what is _near_ the speaker in place, time, or
+thought. *Ille* is applied to what is _not near_ the speaker in
+place, time, or thought. *Hic* and *ille*, like *is*, are used
+both as demonstrative adjectives and as demonstrative pronouns:
+as, *hoc dōnum meum, illud tuum est*, _this gift is mine, that is
+yours_. Demonstratives, when used as adjectives, regularly
+precede their nouns.
+
+229. *Place from Which and to Which, in Names of Towns.* You have
+already learned that _place from which_ is expressed by the
+ablative with *ā (ab)*, *dē*, *ē (ex)* (178); and that _place
+to which_ is expressed by the accusative with *ad* or *in* (180).
+If, however, the _place from which_ or _to which_ is the name of
+a town, the prepositions are omitted: as, *Rōmā vēnit*, _he came
+from Rome_; *Rōmam vēnit*, _he came to Rome_. *Domus*, _home_,
+also omits the preposition: *domum vēnit*, _he came home
+(homeward)_.
+
+230. _*Complete Rules for Place from Which and to Which.*_
+
+a. _Place from which is usually expressed by the ablative with *ā
+(ab)*, *dē*, *ē (ex)*; but with the names of towns, and with
+*domus*, the preposition is omitted._
+
+b. _Place to which is usually expressed by the accusative with
+*ad* or *in*; but with the names of towns, and with *domus*, the
+preposition is omitted._
+
+231. VOCABULARY
+
+  *Athēnae*, *-ārum*, _f. plur._, Athens
+  *Capua*, *-ae*, _f._, Capua
+  *Carthāgō*, *-inis*, _f._, Carthage
+  *Corinthus*, *ī*, _f._, Corinth [1]
+  *Delphī*, *-ōrum*, _m. plur._, Delphi
+  *domum*, _acc._, home, homeward
+  *domō*, _abl._, from home
+  *frāter*, *frātris*, _m._, brother (_fraternal_)
+  *hic*, *haec*, *hoc*, _dem. pron. or adj._, this
+  *ille*, *illa*, *illud*, _dem. pron. or adj._, that
+
+EXERCISES
+
+232. 1. Dux illōs equitēs peditēsque Capuam mīsit. 2. Tandem ex
+Italiā Carthāginem propter commūne perīculum properāvit. 3. Hī
+mīlitēs Athēnīs vēnerant et in Galliā pugnābant. 4. Secundā
+illīus noctis hōrā nūntium Corinthum mīsit. 5. Illī lēgātī
+praedam Rōmam portāverant. 6. Populus audāx in hāc īnsulā
+habitāverat. 7. Huic centruiōnī amīcus fueram. 8. Ex hīs fīnibus
+omnēs prīncipēs Delphōs fūgerant, quod illō tempore hostēs bellum
+parābant.
+
+233. 1. From Delphi they had come to Athens. 2. From home my
+brother hastened to Corinth. 3. Cæsar had sent messengers through
+those states. 4. In these years the Gauls had been friendly to
+the Roman people. 5. These enemies will have fought with Cæsar
+with great courage. 6. This is a javelin, that is a sword.
+
+[1] Most names of towns are feminine.
