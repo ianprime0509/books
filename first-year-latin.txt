@@ -3998,3 +3998,275 @@ the Roman people. 5. These enemies will have fought with Cæsar
 with great courage. 6. This is a javelin, that is a sword.
 
 [1] Most names of towns are feminine.
+
+
+
+LESSON XXXIV
+
+READING LESSON
+
+VICTORIA CAESARIS
+
+234. In Galliā multae et fortēs cīvitātēs erant. Prīncipēs hārum
+cīvitātum potestātem imperiaque Rōmānōrum timuērunt. Multōs
+mīlitēs igitur convocāverant et inter montīs et collīs Rōmānōs
+exspectābant.
+
+Prīmō annō bellī populus Rōmānus Caesarem contrā Gallōs mīsit. Is
+dux, cum Labiēnō et peditibus et paucīs equitibus, ex Italiā
+aestāte properāvit et sine perīculō in fīnīs Gallōrum vēnit. Hīs
+in locīs explōrātōrēs Caesaris hostēs repperērunt.
+
+Prīmā lūce mīlitēs Rōmānī Gallōs oppugnāvērunt. Ācre erat
+proelium. Gallī lapidibus et tēlīs gravibus locum dēfendēbant.
+Nostrī pīla iaciēbant et gladiīs hostīs sustinēbant. Tandem Gallī
+dēfessī ob inopiam tēlōrum et vulnera trāns flūmen fūgērunt.
+
+Decem annīs Caesar multa bella in Galliā gessit et multōs
+captīvōs Rōmam mīsit.
+
+[Illustration: MILITES ROMANI]
+
+235. VOCABULARY
+
+  *Britannī*, *-ōrum*, _m. plur._, the Britons
+  *Cassivellaunus*, *-ī*, _m._, Cassivellaunus
+  *obses*, *obsidis*, _m._, hostage
+  *tamen*, _adv._, yet, but, nevertheless
+  *nāvigō*, *nāvigāre*, *nāvigāvī*, *nāvigātus*, sail
+    (_navigation_)
+  *occupō*, *occupāre*, *occupāvī*, *occupātus*, seize, take
+    possession of (_occupy_)
+  *vāstō*, *vāstāre*, *vāstāvī*, *vāstātus*, lay waste
+    (_devastate_)
+
+DE CAESARE ET BRITANNIS
+
+236. Quod Britannī ad Gallōs auxilium saepe mīserant, Caesar in
+īnsulam Britanniam nāvigāvit. Territī (_although frightened_)
+magnō numerō nāvium et virōrum, Britannī fortēs magnā cum virtūte
+prō patriā pugnāvērunt. Tandem tamen ab lītore fūgērunt. Post hoc
+proelium Rōmānī agrōs hostium vāstāvērunt et oppida occupāvērunt
+et multam praedam cēpērunt. Cassivellaunus, prīnceps Britannōrum,
+lēgātōs ad Caesarem mīsit. Caesar obsidēs postulāvit. Cum hīs
+obsidibus et captīvīs multīs ex Britanniā in Galliam vēnit.
+Propter hanc victōriam magna erat potestās Rōmānōrum in
+Britanniā.
+
+[Illustration: IN BRITANNIAM CAESAR NAVIGAT]
+
+
+
+LESSON XXXV
+
+THE PRESENT, IMPERFECT, AND FUTURE INDICATIVE PASSIVE OF THE
+FIRST AND SECOND CONJUGATIONS · THE ABLATIVE OF AGENT
+
+237. *The Passive Voice.* In the active voice the subject of the
+verb is _acting_; in the passive voice it is _acted on_ (XXVIII):
+as
+
+  _The general praises the soldier_ (active).
+  _The soldier is praised by the general_ (passive).
+
+238. *The Present Indicative Passive of the First Conjugation.*
+The present indicative passive of *amō* is inflected as follows:
+
+  SINGULAR                                          PERS. ENDINGS
+  1. a'mo*r*, _I am loved (I am being loved)        *-r*
+  2. amā'*ris*, _you are loved_                     *-ris*
+  3. amā'*tur*, _he, she, it is loved_              *-tur*
+
+  PLURAL                                            PERS. ENDINGS
+  1. amā'*mur*, _we are loved_                      *-mur*
+  2. amā'*minī*, _you are loved_                    *-minī*
+  3. ama*n'tur*, _they are loved_                   *-ntur*
+
+a. Observe that these passive forms differ from the active only
+in the personal endings. The endings are added to the present
+stem *amā-* exactly as they were in the active voice.
+
+239. *The Imperfect and Future Indicative Passive of the First
+Conjugation.* Compare the imperfect and the future active and
+passive of *amō* (658). Observe that the passive endings are
+added to the tense stems *amābā-* and *amābi-*, exactly as in the
+active voice, except in the second person singular of the future,
+where *-bi-* is changed to *-be-*. Learn these tenses of *moneō*
+(659).
+
+EXERCISES
+
+240. 1. Amat, amātur. 2. Amābat, amābātur. 3. Amābit, amābitur.
+4. Amant, amantur. 5. Amābant, amābantur. 6. Amābuntne?
+amābunturne? 7. Amāmus, amāmur. 8. Moneō, moneor. 9. Monēbam,
+monēbar. 10. Monēbō, monēbor. 11. Monēbitis, monēbiminī. 12.
+Monētis, monēminī.
+
+241. 1. You praise, you are praised. 2. They were praising, they
+were being praised. 3. You will praise, you will be praised. 4. I
+teach, I am taught. 5. We teach, we are taught. 6. We shall
+teach, we shall be taught. 7. They teach, they are taught.
+
+242. *The Ablative of Agent.*
+
+  1. *Labiēnus mīlitem laudat*, _Labienus praises the soldier_.
+  2. *Mīles ab Labiēnō laudātur*, _the soldier is being praised
+    by Labienus_.
+
+a. Observe the changes made in turning the active sentence into
+the passive: (1) the object in the active becomes the subject in
+the passive; (2) the subject of the active is expressed in the
+passive by the ablative with *ab*. This ablative is known as the
+_Ablative of Agent_.
+
+b. The _agent_ is the person doing something. The ablative of
+_agent_ should not be confused with the ablative of _means_
+(122), which has no preposition: as *mīles lapide vulnerātur*,
+_the soldier is wounded by a stone_; *mīles ā Gallō vulnerātur*,
+_the soldier is wounded by a Gaul_.
+
+243. _*Rule for the Ablative of Agent.* The personal agent with a
+passive verb is expressed by the ablative with *ā* or *ab*._
+
+EXERCISES
+
+244. 1. Hic puer ā frātre meō laudābātur. 2. Haec praeda Rōmam ā
+Caesare portābitur. 3. Ā quō nōn amātur potestās? 4. Fābulae
+multae dē Britanniā ab iīs nūniīs nārrābuntur. 5. Oppidum ab
+mīlitibus oppugnātur. 6. In hāc pugnā decem hominēs ā Gallīs
+vulterantur. 7. Nāvibus frūmentum portābitur.
+
+245. 1. All these Gauls will be held in check by those horsemen.
+2. My brothers were praised by that boy. 3. Aid is being awaited
+by the enemy. 4. A few cohorts were seen by the chief. 5. Rome
+was loved by all the Romans.
+
+
+
+LESSON XXXVI
+
+THE RELATIVE _QUI_
+
+246. *The Relative _Quī_.* The relative *quī*, _who_, _which_,
+_that_, is declined as follows:
+
+  SINGULAR                             PLURAL
+  _Nom._   quī     quae    quod        quī      quae     quae
+  _Gen._   cuius   cuius   cuius       quōrum   quārum   quōrum
+  _Dat._   cui     cui     cui         quibus   quibus   quibus
+  _Acc._   quem    quam    quod        quōs     quās     quae
+  _Abl._   quō     quā     quō         quibus   quibus   quibus
+
+a. Compare the declension of the relative *quī* with that of the
+interrogative *quī* (154).
+
+247. *Agreement of the Relative with its Antecedent.*
+
+  1. *Puellae quās laudāvimus bonae erant*, _the girls whom we
+    praised were good_.
+  2. *Praemium quod ille homō portat laudātur*, _the reward which
+    that man is bringing is praised_.
+  3. *Homō cuius gladium habeō est nauta*, _the man whose sword I
+    have is a sailor_.
+
+a. Observe that the relative (II, d) in each sentence refers to a
+certain word. This word is called its _antecedent_ (II, b).
+Observe that the relative has the same gender and number as its
+antecedent, but that its case is different. Thus, in sentences 1
+and 2 it is accusative because it is the object of *laudāvimus*
+or of *portat*; in sentence 3 it is genitive because it indicates
+the possessor of *gladium*.
+
+b. A relative clause modifies its antecedent as an adjective
+modifies its noun.
+
+248. _*Rule for the Agreement of the Relative.* A relative
+pronoun agrees with its antecedent in gender and number but its
+case depends on the way it is used in its own clause._
+
+249. VOCABULARY
+
+  *cōnsilium*, *cōnsi'lī*, _n._, advice, plan (_counsel_)
+  *frūstrā*, _adv._, in vain (_frustrate_)
+  *legiō*, *legiōnis*, _f._, legion (_legionary_)
+  *māter*, *mātris*, _f._, mother (_maternal_)
+  *mercātor*, *mercātōris*, _m._, trader, merchant
+    (_merchandise_)
+  *quī*, *quae*, *quod*, _rel. pron._, who, which, that, as
+  *turris*, *turris* (*turri-*), _f._, tower (_turret_)
+
+EXERCISES
+
+250. 1. Illa fēmina quam vidēs est māter Cornēliae. 2. Mercātōrēs
+multa in Germāniam portant. 3. Hostēs ācrēs, ā quibus nostra
+patria vāstātur, sunt Rōmānī. 4. Iī hominēs, quōrum virtūte et
+cōnsiliīs urbs tenēbātur, domum ē bellō venient. 5. Turrēs, quae
+cum cūrā aedificābantur, ab hostibus vāstābuntur. 6. Obsidēs quī
+ā Rōmānīs līberantur Athēnās properābunt. 7. Dux legiōnis quam
+Caesar trāns flūmen mīsit erat Labiēnus.
+
+251. 1. The weapons which we have brought are not good. 2. This
+summer you will fight with Caesar, who is defending the province.
+3. I shall praise the plan by which that town is being laid
+waste. 4. Caesar had ten legions in the wars which he carried on
+with the Gauls. 5. The woman to whom I showed the way is the
+mother of this unhappy hostage.
+
+[Illustration: MATER CUM PUERIS]
+
+
+
+FIFTH REVIEW LESSON
+
+LESSONS XXIX-XXXVI
+
+252. Give the English meanings of the following words:
+
+  ācer          decem       hōra         nox          quī
+  aestās        flūmen      ille         obses        reperiō
+  annus         fortis      labor        occupō       secundus
+  audāx         frāter      legiō        omnis        tamen
+  audiō         frūstrā     lūx          oppugnō      tēlum
+  brevis        gerō        māter        populus      tempus
+  cīvitās       gravis      mercātor     potestās     turris
+  commūnis      hic         nāvigō       prīmus       vāstō
+  cōnsilium     hiems       nōbilis      prīnceps     veniō
+
+253. Give the Latin meanings of the following words:
+
+  legion     this                      find
+  come       brother                   toil, hardship
+  that       who, which, that, as      sail
+  ten        all                       advice, plan
+  summer     mother                    in vain
+  hostage    second                    short, brief
+  time       brave, strong             trader
+  year       hour                      power
+  river      night                     chief
+  winter     bold                      tower
+  first      manage, carry on, wage    yet, nevertheless
+  common     state, clan               heavy
+  light      noble, of high birth      people
+  weapon     attack                    seize, take possession of
+  hear       keen, eager, sharp        lay waste
+
+254. Decline each noun and each adjective in 252. Give the
+principal parts of each verb. Conjugate each verb of the fourth
+conjugation throughout the indicative mood. Make synopses (671)
+of each verb in the third person singular and plural. Decline
+*hic*, *ille*, and *quī*.
+
+255. Following the suggestions in 634, give English words derived
+from the Latin words in 252. Define these derivatives, and
+illustrate each by an English sentence.
+
+256. Give the rule for the following constructions, and
+illustrate each by a sentence in Latin:
+
+  1. Ablative of time
+  2. Place from which, in names of towns
+  3. Place to which, in names of towns
+  4. Ablative of agent
+  5. Agreement of the relative
+
+[Illustration: HOSTES CONTRA ROMANOS OPPIDUM DEFENDUNT]
