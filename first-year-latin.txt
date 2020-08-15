@@ -4749,3 +4749,154 @@ to the harbor. 6. Rome was at once fortified by the hands of the
 citizens. 7. Why are you hurrying home?
 
 [Illustration: PLAN OF A ROMAN HOUSE]
+
+
+
+LESSON XLIII
+
+THE COMPARISON OF ADJECTIVES
+
+296. *Degrees of Comparison.* Latin adjectives have three degrees
+of comparison, the positive, the comparative, and the
+superlative. But in Latin, as in English, there are certain
+adjectives which are not compared.
+
+  POSITIVE
+  *lātus*, *-a*, *-um*, _wide_ (BASE *lāt-*)
+  *brevis*, *-e*, _short_ (BASE *brev-*)
+  *audāx*, _bold_ (BASE *audāc-*)
+
+  COMPARATIVE
+  *lātior*, *lātius*, _wider_
+  *brevior*, *brevius*, _shorter_
+  *audācior*, *audācius*, _bolder_
+
+  SUPERLATIVE
+  *lātissimus*, *-a*, *-um*, _widest_
+  *brevissimus*, *-a*, *-um*, _shortest_
+  *audācissimus*, *-a*, *-um*, _boldest_
+
+a. Observe that the comparative is formed by adding to the base
+of the positive the endings *-ior* for the masculine and the
+feminine, and *-ius* for the neuter; the superlatvie by adding to
+the base of the positive *-issimus*, *-issima*, *-issimum*.
+
+b. Compare *cārus*, *grātus*, *longus*, *fortis*, and *gravis*.
+
+c. The comparative may be translated _wider_, _more wide_,
+_rather wide_, _too wide_; the superlative _widest_, _most wide_,
+_very wide_.
+
+297. *The Declension of the Comparative.* The comparative is
+declined as follows:
+
+         SINGULAR                  PLURAL
+         M. AND F.    N.           M. AND F.          N.
+  _Nom._ lā'tior      lā'tius      lātiō'rēs          lātiō'ra
+  _Gen._ lātiō'ris    lātiō'ris    lātiō'rum          lātiō'rum
+  _Dat._ lātiō'rī     lātiō'rī     lātiō'ribus        lātiō'ribus
+  _Acc._ lātiō'rem    lā'tius      lātiō'rēs (-īs)    lātiō'ra
+  _Abl._ lātiō're     lātiō're     lātiō'ribus        lātiō'ribus
+
+a. The superlative is declined like *bonus* (643).
+
+b. Decline the positive, the comparative, and the superlative of
+the adjectives in 296, b.
+
+298. VOCABULARY
+
+  *amīcitia*, *-ae*, _f._, friendship
+  *equitātus*, *-ūs*, _m._, cavalry
+  *impetus*, *-ūs*, _m._, attack (_impetuous_)
+  *iter*, *itineris*, _n._, way, march, journey (642)
+    (_itinerary_)
+  *senātus*, *-ūs*, _m._, senate (_senator_)
+  *faciō*, *facere*, *fēcī*, *factus*, make; *impetum facere*, to
+    make an attack; *iter facere*, to march, travel
+  *peto*, *petere*, *petīvī* (*petiī*), *petītus*, seek, ask
+    (_petition_)
+
+EXERCISES
+
+299. 1. Quod iter brevius est? 2. Quod iter brevissimum est? 3.
+Equitātus autem iter per vīcōs propinquōs fēcerat. 4. Germānī dē
+senātū Rōmānō pācem petīvērunt. 5. Amīcitia sociōrum populō
+Rōmānō grātissima erit. 6. Noster exercitus impetum in (_against,
+upon_) hostēs faciet. 7. Hoc flūmen est lātum, sed mare lātius
+est. 8. Gallī in bellō certē fortissimī erant. 9. Ubi cīvīs
+fortiōrēs vīdistī?
+
+300. 1. Your house is very new. 2. The general sent the cavalry
+by a longer way. 3. The summer in Britain is not very short. 4.
+This javelin is too heavy. 5. Peace, however, will be sought by
+all the clans of Gaul. 6. They are making an attack against the
+turret with little zeal. 7. The army was marching through the
+woods and swamps.
+
+[Illustration: ROMAN SHOES]
+
+
+
+SIXTH REVIEW LESSON
+
+LESSONS XXXVII-XLIII
+
+301. Give the English meanings of the following words:
+
+  adventus          ego                 iter            praebeō
+  aedificium        enim                lacus           prīvō
+  amīcitia          equitātus           manus           prohibeō
+  autem             exercitus           maximē          recipiō
+  careō             faciō               mora            reliquī
+  castra            ibi                 mūniō           reliquus
+  commeātus         impedīmentum        nōn iam         senātus
+  concilium         impediō             palūs           statim
+  cōnsul            imperātor           pāx             suī
+  cornū             impetus             perturbō        suus
+  cotīdiē           incitō              petō            tempestās
+  dēsistō           interclūdō          pōnō            tū
+  dīcō              interficiō          portus          verbum
+  domus             is                  posteā          vincō
+
+302. Give the Latin meanings of the following words:
+
+  daily              horn, wing  but, however, besides
+  senate             put, place  cause, furnish, show
+  say                I           seek, ask
+  army               camp        greatly, very much
+  lack, want         lake        keep from, deprive of
+  no longer          kill        he, she, it, they
+  for                hinder      disturb, throw into confusion
+  peace              make        leave off, cease
+  hand, band         meeting     harbor
+  cut off, shut off  delay       his (own), her (own), its (own)
+  you                the rest    rest of, remaining
+  at once            fortify     arouse, impel
+  house, home        afterwards  keep away, restrain
+  marsh, swamp       word        cavalry
+  weather, storm     consul      hindrance, baggage
+  receive, welcome   coming      general, commander
+  supplies           building    way, march, journey
+  there              attack      of himself, of herself, etc.
+  defeat, conquer    friendship
+
+303. Decline each noun in 301. Give the principal parts of each
+verb. Inflect those tenses of *dīcō*, *impediō*, *pōnō*, and
+*prīvō* which are formed from the present stem. Make synopses of
+each verb in 301 in the third person singular and plural. Decline
+*ego*, *is*, and *tū*.
+
+304. Following the suggestions in 634, give English words derived
+from the Latin words in 301. Define these derivatives, and
+illustrate each by an English sentence.
+
+305. Give the rule, if there is one, for each of the following
+constructions, and illustrate each by a sentence in Latin:
+
+  1. A personal pronoun of each person as the object of a verb
+  2. A personal pronoun of each person as the subject of a verb
+  3. A reflexive pronoun of the third person as the object of a
+    verb
+  4. Ablative of separation
+
+[Illustration: MILITES CASTRA MUNIUNT]
