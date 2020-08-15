@@ -4500,3 +4500,252 @@ sinū (_in the arms_) mātris dormiēbat.
 
 [2] *interficere volēbat*, _wished to kill_. The infinitive used
 in this way is called a complementary infinitive (394).
+
+
+
+LESSON XL
+
+THE POSSESSIVE ADJECTIVES · THE ABLATIVE OF SEPARATION
+
+278. *The Possessive Adjectives.* The possessive adjectives are
+as follows:
+
+  meus, -a, -um, _my_
+  noster, -tra, -trum, _our_
+  tuus, -a, -um, _your_ (sing.)
+  vester, -tra, -trum, _your_ (plur.)
+  suus, -a, -um, _his_, _her_, _its_, _their (own)_, used
+    reflexively
+
+a. To show possession the possessive adjectives are used instead
+of the genitives *meī*, *tuī*, *nostrum*, *vestrum*, and *suī*.
+They may also be used as possessive pronouns: as, *mea*, _mine_;
+*nostrī*, _our men_.
+
+279. *The Distinction between _Suus_ and the Possessive Genitive
+of _Is_.*
+
+  1. *Mīles scūtum eius habet*, _the soldier has his shield_
+    (i.e. somebody else's shield).
+  2. *Mīles suum scūtum habet*, _the soldier has his own shield_.
+
+a. *Eius* (sentence 1) does not refer to the subject; *suum*
+(sentence 2) does refer to the subject. *Suus* is always
+reflexive, but the genitives of *is*, *ea*, *id* are never
+reflexive.
+
+280. *When Possessive Adjectives are used in Latin.* When the
+meaning is clear, a possessive adjective is omitted unless
+emphatic: as,
+
+  1. *Caesar mīlitēs in castra redūxit*, _Cæsar led his soldiers
+    back into camp_.
+  2. *Caesar suōs mīlitēs in castra redūxit*, _Cæsar led his
+    (own) soldiers back into camp_ (but the others he left
+    outside).
+
+281. *The Ablative of Separation.*
+
+  1. *Hic homō cibō caret*, _this man lacks (is separated from)
+    food_.
+  2. *Germānī Rōmānōs ā fīnibus suīs prohibēbant*, _the Germans
+    were keeping the Romans away from their lands_.
+
+a. Observe that the ablative here is used to denote that from
+which there is freedom, removal, or separation, or that which is
+lacking. The ablative so used answers the questions _from what?_
+_of what?_ and is called the _Ablative of Separation_. It is of
+the same nature as the ablative of _place whence_.
+
+282. _*Rule for the Ablative of Separation.* Words signifying
+*privation*, *removal*, or *separation* are followed by the
+ablative without a preposition, or with the prepositions *ā
+(ab)*, *dē*, *ē (ex)*._
+
+283. VOCABULARY
+
+  *posteā*, _adv._, afterwards
+  *suus*, *-a*, *-um*, his (own), her (own), its (own), their
+    (own)
+  *careō*, *carēre*, *caruī*, *caritūrus*, lack, want (_caret_)
+  *dēsistō*, *dēsistere*, *dēstitī*, *dēstitūrus*, leave off,
+    cease (_desist_)
+  *interclūdō*, *interclūdere*, *interclūsī*, *interclūsus*, cut
+    off, shut off (_conclude_)
+  *prīvō*, *prīvāre*, *prīvāvī*, *prīvātus*, keep from, deprive
+    of (_privation_)
+  *prohibeō*, *prohibēre*, *prohibuī*, *prohibitus*, keep away
+    (from), restrain (_prohibit_)
+
+EXERCISES
+
+284. 1. Caesar autem suōs mīlitēs trāns flūmen mīsit. 2. Caesar
+eius frātrem in castrīs reperiet. 3. Ill vir aeger aquā
+prīvābātur. 4. Posteā ea cīvitās cibō et frūmentō carēbat. 5. Ab
+aedificiīs et pecūniā huius populī mīlitēs diū prohibuit. 6. Ob
+inopiam armōrum proeliō Germānī dēstitērunt. 7. Nostrī, quī in
+castra Germānōrum properāverant, eōs tēlīs prīvāvērunt. 8. Flūmen
+nostrōs viā interclūdēbat. 9. Apud flūmen nāvigia ab hostibus eō
+tempore aedificābantur.
+
+285. 1. Our friends lacked money. 2. The enemy will defend their
+own buildings. 3. You will free us from care. 4. Cæsar announced
+to his (men) his plans concerning peace. 5. They will afterwards
+deprive the Germans of all power. 6. The rest of the chiefs were
+being shut off from their towns.
+
+
+
+LESSON XLI
+
+THE PERFECT, PLUPERFECT, AND FUTURE PERFECT INDICATIVE PASSIVE OF
+ALL CONJUGATIONS
+
+286. *The Perfect, Pluperfect, and Future Perfect of All
+Conjugations.*
+
+a. Review the principal parts of *amō*, and notice especially the
+perfect passive participle. Examine the formation of the perfect
+indicative passive (658). Observe that it is formed by using the
+present tense of *sum* with the perfect passive participle
+*amātus*. Those tenses which are formed with the help of the
+perfect passive participle belong to the participial system of
+the verb (671).
+
+b. Examine the pluperfect and the future perfect indicative
+passive. Observe that they are formed by using the imperfect and
+the future of *sum* with the perfect passive participle.
+
+c. The perfect, pluperfect, and future perfect indicative passive
+of all verbs are formed in the same way.
+
+d. The participle *amātus* is declined like *bonus*; and so in
+the nominative singular and plural it is changed to agree with
+the subject of the verb in number and gender. These changes are
+made because a participle is an adjective in its nature. Observe
+these changes as illustrated in 287.
+
+e. Recall the principal parts of *moneō*, *regō*, *capiō*, and
+*audiō*, and inflect the perfect, pluperfect, and future perfect
+passive of these verbs and of those in 252.
+
+EXERCISES
+
+287. 1. Vir amātus est, fēmina amāta est, bellum amātum est. 2.
+Virī amātī sunt, fēminae amātae sunt, bella amāta sunt. 3.
+Mīlitēs monitī erant, puer monitus erit, oppidum monitum erat. 4.
+Agricola captus est, urbs rēcta est, prōvincia rēcta erat. 5.
+Captus sum, captus eram, captus erō. 6. Audītus es, audītus erās,
+audītus eris. 7. Audītī sumus, audītī erāmus, audītī erimus.
+
+288. 1. The Gaul was warned, had been warned, will have been
+warned. 2. The buildings have been taken, had been taken, will
+have been taken. 3. The territories had been ruled by the
+Germans. 4. The cities will have been defended. 5. And so we
+(_fem._) shall have been heard.
+
+289. VOCABULARY
+
+  *concilium*, *conci'lī*, _n._, meeting (_council_)
+  *ibi*, _adv._, there
+  *impedīmentum*, *-ī*, _n._, hindrance; _plur._, baggage
+    (_impediment_)
+  *imperātor*, *imperātōris*, _m._, general, commander
+    (_emperor_)
+  *mora*, *-ae*, _f._, delay (_moratorium_)
+  *verbum*, *-ī*, _n._, word (_verbal_)
+
+EXERCISES
+
+290. 1. Multa in Italiā oppida ā Rōmānīs aedificāta sunt. 2.
+Paucī Germānī ibi tēlīs nostrōrum interfectī sunt. 3. Tua verba ā
+mē audīta erunt. 4. Eō tempore imperātor ab impedīmentīs
+carrīsque interclūsus erat. 5. Bellum, quod ā Caesare gestum est,
+longum fuit. 6. Mīlitēs, quī ab eō in Galliam missī sunt,
+frūmentō caruērunt. 7. Praeda, quae ab imperātōre nostrō capta
+erat, sine morā Rōmam portāta est. 8. In conciliō suīs Caesar
+dīxit, "Cōnsilia mea ab hostibus nōn impedīta sunt."
+
+IUPPITER PERSEUM SERVAT (CONTINUED FROM 277)
+
+291. Iuppiter tamen haec omnia vīdit, et fīlium suum servāre
+cōnstituit (_determined to save_). Tranquillum igitur fēcit mare,
+et arcam ad īnsulam Serīphum dūxit. Huius īnsulae Polydectēs tum
+rēx erat. Postquam [1] arca ad lītus ducta est, Danaē in harēnā
+dormiēbat. Post breve tempus ā virō reperta est, et ad rēgem
+adducta est. Ille mātrem et puerum bene recēpit, et eīs sēdem
+tūtam in fīnibus suīs praebuit.
+
+[1] *Postquam* introduces a subordinate clause of time (XX, e).
+
+
+
+LESSON XLII
+
+THE FOURTH DECLENSION
+
+292. *The Fourth Declension.* Nouns of the fourth declension end
+in the nominative singular in *-us* or *-ū*. Those ending in
+*-us* are masculine, with a few exceptions; those ending in *-ū*
+are neuter. These nouns are inflected as follows:
+
+         *exercitus*, m.       *cornū*, n.
+         _army_                _horn_, _wing_  CASE ENDINGS
+
+  SINGULAR
+  _Nom._ exer'cit*us*          cor'n*ū*        *-us*              *-ū*
+  _Gen._ exer'cit*ūs*          cor'n*ūs*       *-ūs*              *-ūs*
+  _Dat._ exerci't*uī*, (*-ū*)  cor'n*ū*        *-uī* (*-ū*)       *-ū*
+  _Acc._ exer'cit*um*          cor'n*ū*        *-um*              *-ū*
+  _Abl._ exer'cit*ū*           cor'n*ū*        *-ū*               *-ū*
+
+  PLURAL
+  _Nom._ exer'cit*ūs*          cor'nu*a*       *-ūs*              *-ua*
+  _Gen._ exerci't*uum*         cor'n*uum*      *-uum*             *-uum*
+  _Dat._ exerci't*ibus*        cor'n*ibus*     *-ibus* (*-ubus*)  *-ibus*
+  _Acc._ exer'cit*ūs*          cor'n*ua*       *-ūs*              *-ua*
+  _Abl._ exerci't*ibus*        cor'n*ibus*     *-ibus* (*-ubus*)  *-ibus*
+
+a. A few nouns of this declension may have the dative and the
+ablative plural in *-ubus*; such nouns in this book are *lacus*,
+_lake_, and *portus*, _harbor_.
+
+b. *Domus*, _house_, and *manus*, _hand_, are the only feminine
+nouns of this declension used in this book; and *cornū* is the
+only neuter so used. Learn the declension of *domus*, which has
+forms of the second declension as well as those of the fourth
+(642).
+
+c. Decline *exercitus magnus*, *mea manus*, and *cornū longum*.
+
+293. VOCABULARY
+
+  *adventus*, *-ūs*, _m._, coming (_advent_)
+  *commeātus*, *-ūs*, _m._, supplies
+  *cornū*, *-ūs*, _n._, horn, wing (of an army) (_cornucopia_)
+  *domus*, *-ūs*, _f._, house, home (_domicile_)
+  *exercitus*, *-ūs*, _m._, army (_exercise_)
+  *lacus*, *-ūs*, _m._, lake (_lake_)
+  *manus*, *-ūs*, _f._, hand, handful, band (of men)
+    (_manufacture_)
+  *palūs*, *palūdis*, _f._, marsh, swamp
+  *portus*, *-ūs*, _m._, harbor (_port_)
+  *mūniō*, *mūnīre*, *mūnīvī*, *mūnītus*, fortify (_munitions_)
+
+EXERCISES
+
+294. 1. Adventus legiōnem nōs dēlectat. 2. Noster exercitus tamen
+Germānōs commeātibus interclūsit. 3. Inter nostrōs et hostīs erat
+lacus. 4. Cōnsulēs erant exercituum Rōmānōrum imperātōrēs. 5. In
+cornibus diū et fortiter pugnāverant. 6. Castra Labiēnī palūde et
+lacū mūniēbantur. 7. Graeciae in portubus nāvēs multās hieme
+vīdimus. 8. Manūs hostium spectāvimus.
+
+295. 1. They fight both with feet and with horns. 2. Many lakes
+are seen by them among the mountains. 3. We had been delighted by
+the coming of the traders. 4. This house is mine, that is yours.
+5. However, at daybreak they carried the supplies from the camp
+to the harbor. 6. Rome was at once fortified by the hands of the
+citizens. 7. Why are you hurrying home?
+
+[Illustration: PLAN OF A ROMAN HOUSE]
