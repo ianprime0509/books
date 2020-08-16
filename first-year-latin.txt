@@ -8,7 +8,20 @@ Italics are represented using _underscores_ and boldface using
 *asterisks*.
 
 The footnotes have been renumbered so that all footnotes can be
-given at the end of the chapter.
+given at the end of each chapter.
+
+In Lesson XLVIII, in the table of case endings for nouns of the
+fifth declension, the genitive and dative singular were listed as
+*-̆̄eī*, where the first letter uses a combining macron and a
+combining breve to produce both diacritics on the same letter
+'e'. For readability, I expanded this contracted notation to
+*-ĕī*, *-ēī* separately.
+
+Occasionally, curly braces were used to abbreviate repetitive
+tables of conjugations or declensions (e.g. 342). While this made
+the original text more concise, it doesn't translate well to a
+plain-text format, so I expanded the tables at the expense of
+conciseness.
 
 END OF NOTES
 
@@ -5068,3 +5081,631 @@ capita anguibus omnīnō contēcta [7] erant. Manūs autem ex aere
 [7] *contēcta*, from *contegō*.
 
 [8] *aere*, from *aes*.
+
+
+
+LESSON XLVI
+
+IRREGULAR COMPARISON OF ADJECTIVES · THE ABLATIVE OF DEGREE OF
+DIFFERENCE
+
+317. *Adjectives Compared Irregularly.* Both the comparative and
+the superlative of several common adjectives are irregular.
+Commit to memory the following:
+
+  bonus, -a, -um, _good_
+  melior, melius, _better_
+  optimus, -a, -um, _best_
+
+  magnus, -a, -um, _large_
+  maior, maius, _larger_
+  maximus, -a, -um, _largest_
+
+  malus, -a, -um, _bad_
+  peior, peius, _worse_
+  pessimus, -a, -um, _worst_
+
+  multus, -a, -um, _much_
+  ------, plūs, _more_
+  plūrimus, -a, -um, _most_
+
+  multī, -ae, -a, _many_
+  plūrēs, plūra, _more_
+  plūrimī, -ae, -a, _most_
+
+  parvus, -a, -um, _little_, _small_
+  minor, minus, _less_, _smaller_
+  minimus, -a, -um, _least_, _smallest_
+
+318. *The Declension of _Plūs_.* In the singular *plūs*, _more_,
+is used only as a neuter noun. Learn the declension of *plūs*
+(648).
+
+319. *Other Adjectives Compared Irregularly.* There are other
+adjectives that are compared irregularly, some of which have no
+positive, but form their comparative and superlative from
+prepositions or adverbs, and others of which have two forms in
+the superlative. See 649. These should be learned as they occur
+in the vocabularies.
+
+320. *The Ablative of Degree of Difference.*
+
+  1. *Pater pede altior est quam fīlius*, _the father is a foot
+    taller than his son_.
+  2. *Pāx multō grātior erit quam bellum*, _peace will be much
+    more welcome than war_.
+
+a. Observe that the ablatives *pede* and *multō* answer the
+question _(by) how much?_ They denote the _degree of difference_
+between the objects compared. This usage is called the _Ablative
+of Degree of Difference_.
+
+321. _*Rule for the Ablative of Degree of Difference.* The degree
+of difference is expressed by the ablative._
+
+322. VOCABULARY
+
+  *centum*, _adj._, _indecl._, a hundred (_century_)
+  *īnferus*, *-a*, *-um*, low, below (649) (_inferior_)
+  *interdum*, _adv._, sometimes
+  *malus*, *-a*, *-um*, bad (_malice_)
+  *opera*, *-ae*, _f._, work, activity (_opera_)
+  *quam*, _conj._, than
+  *sex*, _adj._, _indecl._, six (_sextant_)
+  *superus*, *-a*, *-um*, high, above (649) (_superior_)
+
+EXERCISES
+
+323. 1. In īnferiōrem partem prōvinciae sex legiōnēs ā Caesare
+dūcuntur. 2. Viae urbis nostrae pedibus multīs angustiōrēs sunt.
+3. Maximae manūs hostium convocātae erant et Rōmānōs itinere
+prohibēbant. 4. Dē locīs superiōribus plūrima tēla iēcērunt. 5.
+Illa turris decem pedibus altior quam mūrus est. 6. Minōra castra
+ā centum mīlitibus dēfendēbantur. 7. Tua operae pars est maior
+quam mea. 8. Interdum amīcī nōbīs cōnsilium malum dant. 9. Summum
+montem [1] videō. 10. Italiae pars īnferior propter multās
+Graecōrum urbēs Magna Graecia appellābātur; superior pars
+Italiae, quod ibi Gallī incolēbant, Gallia Cisalpīna vel (_or_)
+Gallia Citerior appellābātur.
+
+324. 1. The best men sometimes do not have the most friends. 2.
+On the journey a great many men were killed; the rest fled into a
+very large forest. 3. Cornelia was a foot taller than Julia. 4.
+The Gauls had more horsemen than the Romans. 5. Part of the army
+was waiting in higher places. 6. A better plan was shown to the
+senate. 7. The largest towns sent a hundred hostages to Cæsar.
+
+[1] *summum montem*, _top of the mountain_.
+
+
+
+LESSON XLVII
+
+THE FORMATION AND THE COMPARISON OF ADVERBS
+
+325. *The Formation of Adverbs.* Many adverbs are formed from
+adjectives. From adjectives of the first and second declensions
+adverbs are formed by the addition of *-ē* to the base of the
+positive; from adjectives of the third declension they may be
+formed by the addition of *-iter* to the base: as, *cārē*,
+_dearly_, from *cārus*, _dear_; *miserē*, _wretchedly_, from
+*miser*, _wretched_; *ācriter*, _eagerly_, from *ācer*, _eager_;
+but most adjectives of one ending add *-ter* to the base: as,
+*audācter*, from *audāx*.
+
+a. Form adverbs from *grātus*, *lātus*, *longus*, *līber*,
+*aeger*, *brevis*, *fortis*, *gravis*.
+
+326. *The Irregular Formation of Adverbs.* Some adverbs are the
+accusative or ablative singular neuter of the adjective: as,
+*multum*, _much_, from *multus*; *multō*, _much_, from *multus*;
+*facile*, _easily_, from *facilis*.
+
+327. *The Comparison of Adverbs.*
+
+  POSITIVE                COMPARATIVE                SUPERLATIVE
+  cārē                    cārius                     cārissimē
+  miserē                  miserius                   miserrimē
+  ācriter                 ācrius                     ācerrimē
+  facile                  facilius                   facillimē
+  bene                    melius                     optimē
+  male                    peius                      pessimē
+  multum                  plūs                       plūriumum
+
+a. Observe that the comparative of the adverb is the same as the
+neuter singular comparative of the adjective; and that the
+superlative, with one exception, is formed from the superlative
+of the adjective by changing final *-us* to *-ē*.
+
+328. VOCABULARY
+
+  *amplus*, *-a*, *-um*, large, spacious (_ample_)
+  *arbor*, *arboris*, _f._, tree (_arboreal_)
+  *dīligenter*, _adv._, diligently (_diligent_)
+  *diū* (*diūtius*, *diūtissimē*), _adv._, long
+  *hinc*, _adv._, hence, from here, from this place
+  *līberī*, *-ōrum*, _m. plur._, children (_liberty_)
+  *multitūdō*, *-inis*, _f._, great number (_multitude_)
+  *subitō*, _adv._, suddenly
+  *praemittō*, *praemittere*, *praemīsī*, *praemissus*, send
+    ahead (_premise_)
+  *relinquō*, *relinquere*, *relīquī*, *relictus*, leave behind,
+    leave (_relinquish_)
+
+EXERCISES
+
+329. 1. Patrēs et mātrēs suōs līberōs maximē amant. 2. Eīs
+cōnsilia optima dant et prō eīs dīligentissimē labōrant. 3. Tum
+in illam silvam amplam, quam hinc vidēmus, multitūdinem peditum
+praemittēmus. 4. Ex hōc summō monte facile videō sex urbēs
+centumque viās. 5. In īmīs terrae partibus sunt flūmina minima.
+6. Diūtius lacū quam montibus impedītae sunt cōpiae nostrae. 7.
+Plūrimī mīlitēs apud portum relictī erant; reliquī impetum in
+hostīs subitō fēcērunt. 8. Arboribus et lapidibus mūrōs facient.
+9. Hoc flūmen centum pedibus lātius est quam illud.
+
+330. 1. Sometimes Cæsar's enemies fought much more bravely than
+the Roman soldiers. 2. But his soldiers fought very eagerly and
+boldly. 3. He carried on wars with the Gauls for a very long
+time. 4. Often he gave ample rewards to his centurions because
+they had captured much booty. 5. He was killed in the city of
+Rome by his personal enemies (*inimīcus*).
+
+[Illustration: GALLIC SWORD]
+
+
+
+LESSON XLVIII
+
+THE FIFTH DECLENSION · THE ACCUSATIVE OF EXTENT
+
+331. *The Fifth Declension.* Nouns of the fifth declension end in
+*-ēs*. They are feminine, with the exception of *diēs*, _day_,
+which is usually masculine. They are inflected as follows:
+
+         SING.    PLUR.      SING.   PLUR.     CASE ENDINGS
+  _Nom._ di'*ēs*  di'*ēs*    r*ēs*   r*ēs*     *-ēs*         *-ēs*
+  _Gen._ di*ē'ī*  di*ē'rum*  r*e'ī*  r*ē'rum*  *-ēī*, *-ĕī*  *-ērum*
+  _Dat._ di*ē'ī*  di*ē'bus*  r*e'ī*  r*ē'bus*  *-ēī*, *-ĕī*  *-ēbus*
+  _Acc._ di'*em*  di'*ēs*    r*em*   r*ēs*     *-em*         *-ēs*
+  _Abl._ di'*ē*   di*ē'bus*  r*ē*    r*ē'bus*  *-ē*          *-ēbus*
+
+a. The vowel *e* of the case endings is regularly long. It is
+shortened, however, in the ending *-eī* after a consonant, and in
+the ending *-em*: as, *rĕī* and *rem*.
+
+b. Only *diēs* and *rēs* are complete in the plural. A few other
+nouns have the nominative and the accusative plural. Decline
+*aciēs*, *fidēs*, and *spēs*.
+
+332. *The Accusative of Extent.*
+
+  1. *Decem annōs urbs oppugnābātur*, _the city was besieged for
+    ten years_.
+  2. *Turris est centum pedēs alta*, _the tower is a hundred feet
+    high_.
+
+a. The accusative *decem annōs* denotes _extent of time_; the
+accusative *centum pedēs* denotes _extent_ of _space_. Such
+accusatives answer the questions _how long?_ _how far?_ in time
+or in space. This usage is called the _Accusative of Extent_.
+
+333. _*Rule for the Accusative of Extent.* Extent of time or of
+space is expressed by the accusative._
+
+334. VOCABULARY
+
+  *aciēs*, *-ēī*, _f._, line of battle
+  *altus*, *-a*, *-um*, high, deep (_alto_)
+  *diēs*, *-ēī*, _m._, day (_diary_)
+  *fidēs*, *-eī*, _f._, trust, confidence (_fidelity_)
+  *plānitiēs*, *-ēī*, _f._, plain (_plane_)
+  *posterus*, *-a*, *-um*, next (649)
+  *rēs*, *-eī*, _f._, thing, event, fact (_reality_)
+  *spēs*, *-eī*, _f._, hope
+  *īnstruō*, *īnstruere*, *īnstrūxī*, *īnstrūctus*, draw up,
+    marshal (_instruct_)
+  *castra pōnere*, to pitch camp
+
+EXERCISES
+
+335. 1. Caesar castra summō in monte prīmum posuit. 2. Castra
+summō in monte ā Caesare posita sunt. 3. Hinc hostēs magnā in
+plānitiē vīsī sunt. 4. Inter hunc montem et illam plānitiem erat
+flūmen, quod centum pedēs lātum et quīnque pedēs altum erat. 5.
+Caesar autem aciem īnstrūxit et impetum hostium exspectābat. 6.
+Eius equitēs maiōrem partem diēī in cornibus manēbant. 7. Sed
+hostēs impetum nōn fēcērunt, quod parvam victōriae spem
+habuērunt. 8. Tum adulēscentēs frūmentō plūrīs diēs caruērunt. 9.
+Collēs post castra nostra multis pedibus altiōrēs sunt.
+
+336. 1. Cæsar heard about this fact from very many messengers. 2.
+The confidence of the Gauls was very slight on that day. 3. The
+river was ten feet deep at this place; and so they left all the
+baggage on the shore. 4. This fact deprived our soldiers of all
+hope. 5. We shall remain six days in Italy.
+
+[Illustration: AN OFFERING TO THE GODS]
+
+
+
+LESSON XLIX
+
+READING LESSON
+
+A LETTER FROM POMPEII
+
+337. Sī tū valēs, bene est; ego quoque valeō. Hās litterās ad tē
+laetus [1] scrībō. Medicī cōnsiliō cum parentibus in Italiā
+hiemāvī. Apud [2] vōs nivēs (_snow_) omnia complent, sed nōs hīc
+nivēs rārō vidēmus. Āēr est lēnissimus; caelum rīdet. Interdum in
+lītore ambulō vel in hortīs amplīs errō, nam grāmen arborēsque
+iam virent. Hinc videō Vesuvium montem hinc tōtam ferē urbem,
+hinc pulchrās īnsulās in marī sitās. Linguae Latīnae cotīdiē
+multum operae dō. Eam linguam multō facilius quam Graecam discō.
+Sed iam fīnem faciam epistulae; mox cōram omnia tibi nārrābō.
+Valē, [4] mī amīce. [5]
+
+[Illustration: A VIEW IN POMPEII]
+
+338. VOCABULARY
+
+  *cōnspectus*, *-ūs*, _m._, look, view, sight (_conspectus_)
+  *modus*, *-ī*, _m._, way, manner (_mood_)
+  *saxum*, *-ī*, _n._, stone, rock
+  *excēdō*, *excēdere*, *excessī*, *excessūrus*, go out, withdraw
+  *prōcēdō*, *prōcēdere*, *prōcessī*, *prōcessūrus*, go forward,
+    advance (_proceed_)
+  *vertō*, *vertere*, *vertī*, *versus*, turn, change (_convert_)
+
+PERSEUS MEDUSAM INTERFICIT (CONTINUED FROM 316)
+
+339. Rēs difficillima erat caput Gorgonis abscīdere, [6] eius
+enim cōnspectū hominēs in saxum vertēbantur. Propter hanc causam
+Minerva speculum Perseō dederat. Ille igitur tergum vertit, et in
+speculum īnspiciēbat; hōc modō ad locum prōcessit ubi Medūsa
+dormiēbat. Tum falce suā caput eius ūnō ictū abscīdit. Reliquae
+Gorgones statim ē somnō excitātae sunt, et, ubi [7] rem vīdērunt,
+perturbātae sunt. Arma rapuērunt, et Perseum interficere
+volēbant. [8] Ille autem dum fugit, [9] galeam magicam induit;
+et, ubi hoc fēcit, statim ē cōnspectū eārum excessit.
+
+[Illustration: HEAD OF MEDUSA]
+
+[1] *laetus*, _gladly_.
+
+[2] *apud*, _with_.
+
+[3] *sitās*, _situated_.
+
+[4] *valē*, _farewell_. This form is the imperative singular of
+*valeō*. See XXXI, a.
+
+[5] *mī amīce*, _my friend_. These words are in the vocative case
+(XXIV, b). When a person is addressed in Latin, a special case,
+called the vocative, is used. Generally it is the same in
+spelling as the nominative.
+
+[6] *abscīdere*, _to cut off_. The infinitive is here used as the
+subject of *erat* (393).
+
+[7] What two meanings has *ubi* in this paragraph? What kind of
+clause does it introduce here?
+
+[8] *interficere volēbant*, _wished to kill_.
+
+[9] *dum fugit*, _while he was fleeing_. The present tense with
+*dum* is translated as if it were the imperfect tense.
+
+
+
+LESSON L
+
+THE SUBJUNCTIVE MOOD · THE PRESENT SUBJUNCTIVE PURPOSE CLAUSES
+WITH _UT_ AND _NE_
+
+340. *The Subjunctive Mood.* The Latin subjunctive is used in
+both independent and dependent clauses, but the kinds of
+dependent clauses in which the subjunctive is used are far more
+numerous than the independent. In this book only some uses in
+dependent clauses will be studied.
+
+341. *The Tenses of the Subjunctive.* There are four tenses of
+the subjunctive: present, imperfect, perfect, and pluperfect. No
+meanings are given for the tenses of the subjunctive, because the
+translation varies with the use of the mood (cf. 343, 357, 372).
+
+342. *The Present Subjunctive.* The present subjunctive of the
+several conjugations and of *sum* is inflected as follows:
+
+     ACTIVE                          PASSIVE
+  1. a'm*em*        am*ē'mus*        a'm*er*          am*ē'mur*
+  2. a'm*ēs*        am*ē'tis*        am*ē'ris*        am*ē'minī*
+  3. a'm*et*        a'm*ent*         am*ē'tur*        am*en'tur*
+
+  1. mone*am*       mone*āmus*       mone*ar*         mone*āmur*
+  2. mone*ās*       mone*ātis*       mone*āris*       mone*āminī*
+  3. mone*at*       mone*ant*        mone*ātur*       mone*antur*
+
+  1. reg*am*        reg*āmus*        reg*ar*          reg*āmur*
+  2. reg*ās*        reg*ātis*        reg*āris*        reg*āminī*
+  3. reg*at*        reg*ant*         reg*ātur*        reg*antur*
+
+  1. capi*am*       capi*āmus*       capi*ar*         capi*āmur*
+  2. capi*ās*       capi*ātis*       capi*āris*       capi*āminī*
+  3. capi*at*       capi*ant*        capi*ātur*       capi*antur*
+
+  1. audi*am*       audi*āmus*       audi*ar*         audi*āmur*
+  2. audi*ās*       audi*ātis*       audi*āris*       audi*āminī*
+  3. audi*at*       audi*ant*        audi*ātur*       audi*antur*
+
+  1. sim            sīmus            ------           ------
+  2. sīs            sītis            ------           ------
+  3. sit            sint             ------           ------
+
+a. Observe that the mood sign of the present subjunctive of the
+regular verbs is *-ē-* in the first conjugation, and *-ā-* in the
+others.
+
+b. Learn the present subjunctive of the verbs above. Then inflect
+the present subjunctive active and passive of *dūcō*, *mittō*,
+*recipiō*, *reperiō*, and *videō*. The present subjunctive
+belongs in the present system (671).
+
+343. *Purpose Clauses.*
+
+  1. *Cīvēs sē armant ut pugnent*, _the citizens arm themselves
+    that they may fight_ (or, _in order that they may fight_, _in
+    order to fight_, _for the purpose of fighting_, _to fight_).
+  2. *Cīvēs sē armant nē superentur*,  _the citizens arm
+    themselves that they may not be overcome_ (or, _in order not
+    to be overcome_, _so that they may not be overcome_, _lest
+    they be overcome_).
+
+a. Observe that the dependent clauses express the _purpose_ of
+the action of the principal clause, *ut*, _that_, introducing the
+affirmative clause, and *nē*, _that not_, the negative clause.
+
+b. Observe the various ways of translating *ut* and *nē* and the
+subjunctive in these clauses. In English, purpose is most often
+expressed by the infinitive. In the best Latin prose, however,
+the purpose of an action is not expressed by the infinitive.
+
+344. _*Rule for Purpose Clauses.* The subjunctive is used with
+*ut* or *nē* in a dependent clause to express the purpose of the
+action stated in the independent clause._
+
+EXERCISES
+
+345. 1. Nūntium mittit ut cīvēs moneat. 2. Adulēscēns mittitur ut
+cīvēs moneantur. 3. Legiō mittitur nē oppidum ab hostibus
+capiātur. 4. Legiōnēs fortiter pugnant ut oppidum capiant. 5.
+Puer venit ut fābulam audiat. 6. Puerī veniunt ut verba tua
+audiant. 7. Eōs mittimus ut prōvinciam regant. 8. Eōs mittimus ut
+prōvincia ab eīs regātur. 9. In Galliam properātis ut bellum
+gerātis. 10. Centum mīlitēs praemittimus ut castra mūniant.
+
+346. 1. He is sent to fight. 2. We sent them to find the way. 3.
+You are sent that the enemy may not make an attack on the city.
+4. The soldiers are led out of the camp that a line of battle may
+be drawn up. 5. I am coming to see you and your mother. 6. He
+fights to defend himself.
+
+
+
+LESSON LI
+
+THE IMPERFECT SUBJUNCTIVE · SEQUENCE OF TENSES
+
+347. *The Imperfect Subjunctive.* The imperfect subjunctive may
+be formed by adding the personal endings to the present
+infinitive active; but the final *-e* of the infinitive is
+lengthened in certain forms.
+
+a. Learn the imperfect subjunctive of the model verbs and of
+*sum* (658-663). The imperfect subjunctive belongs in the present
+system (671).
+
+348. *Sequence of Tenses.* Examine the following English
+sentences:
+
+  1. He _comes (is coming)_ that he _may_ fight.
+  2. He _will come_ that he _may_ fight.
+  3. He _came_ that he _might_ fight.
+
+a. Observe that in sentences 1 and 2 the verbs in the independent
+clauses are present and future, and that in sentence 3 the verb
+in the independent clause is past. Observe the change from _may_
+(present) to _might_ (past) when a past tense takes the place of
+a present or a future in the verb of the independent clause. This
+following of one tense by another of the same kind is called
+_Sequence of Tenses_.
+
+349. *Primary and Secondary Tenses.* Those tenses of the
+indicative which refer to present or to future time (present,
+future, and future perfect) are called _Primary Tenses_. Those
+tenses of the indicative which refer to past time (imperfect,
+perfect, and pluperfect) are called _Secondary Tenses_.
+
+350. _*Rule for Primary Sequence.* When the verb of the
+independent clause of a sentence is in a primary tense, a verb in
+the dependent clause is in the present tense if its action is
+incomplete, but in the perfect tense if its action is completed._
+
+351. _*Rule for Secondary Sequence.* When the verb of the
+independent clause of a sentence is in a secondary tense, a verb
+in the dependent clause is in the imperfect tense if its action
+is incomplete, but in the pluperfect if its action is completed._
+
+a. Observe that all the verbs in the independent clauses in 345
+are in the present tense, and that all the verbs in the dependent
+clauses are in the present subjunctive. If the verbs in the
+independent clauses should be changed to the future or the future
+perfect tense, what would be the tense of the subjunctive in the
+dependent clauses?
+
+352. _*Rule for the Tense of the Subjunctive in Purpose Clauses.*
+Since a purpose clause expresses an incomplete action, its verb
+will be in the present subjunctive if the verb in the independent
+clause is in a primary tense, and in the imperfect subjunctive if
+the verb of the independent clause is in a secondary tense._
+
+EXERCISES
+
+353. 1. Veniunt ut pācem petant. 2. Veniēbant ut pācem peterent.
+3. Venient ut pācem petant. 4. Vēnerant ut pācem peterent. 5.
+Fortiter pugnābant nē ā Gallīs vincerentur. 6. Trāns flūmen
+properāverant ut oppidum oppugnārent. 7. Legiōnēs mittentur ut
+hostēs commeātibus interclūdantur. 8. Ut portum dēfenderent
+nostrī praemissī sunt. 9. Cōnsul audācissimē dīcet ut populum
+Rōmānum incitet.
+
+354. 1. They labor that they may be praised. 2. They were
+laboring that they might be praised. 3. They will labor that they
+may be praised. 4. They had labored that they might be praised.
+5. They threw weapons from the higher places in order to hinder
+the Romans. 6. He had called together the chiefs to hear the new
+plan. 7. They will desist from battle that they may not be
+killed.
+
+[Illustration: A GLIMPSE INTO A ROMAN THEATER]
+
+
+
+LESSON LII
+
+SUBSTANTIVE CLAUSES OF PURPOSE · RESULT CLAUSES
+
+355. *Substantive Clauses of Purpose.* A substantive clause is a
+clause used like a noun (XX, d); it may be the subject or the
+object of a verb. Purpose clauses with *ut* and *nē* are often
+used in Latin as the objects of certain verbs: as,
+
+  *Petit ut obsidēs dent*, _he asks them to give hostages (that
+    they give hostages)_.
+
+a. Observe that the clause *ut obsidēs dent* is the object of
+*petit*. This is, therefore, a noun clause. The purpose clauses
+in the preceding lessons were adverbial in nature (XX, c).
+
+356. _*Rule for Substantive Clauses of Purpose.* Verbs meaning
+*ask*, *command*, *persuade*, and *urge* may have for their
+object a clause of purpose with its verb in the subjunctive._
+
+a. In English an infinitive is generally used in the object
+clause.
+
+357. *Result Clauses.*
+
+  1. *Iter tam longum est ut puer sit dēfessus*, _the journey is
+    so long that the boy is tired out_.
+  2. *Puer tam malus fuit ut ā patre nōn laudārētur*, _the boy
+    was so bad that he was not praised by his father_.
+
+a. Observe that the dependent clauses beginning with *ut* express
+the result of the statements in the independent clauses, and that
+the subjunctive is translated by an English indicative.
+
+b. Observe that the sequence is the same as in purpose clauses,
+but that the negative clause contains *ut nōn* (not *nē*).
+
+358. _*Rule for Result Clauses.* The subjunctive is used with
+*ut* or *ut nōn* in a dependent clause to express the result of
+the action stated in the independent clause. The sequence of
+tenses is generally the same as in purpose clauses._
+
+359. VOCABULARY
+
+  *ita*, _adv._, so, in such a way
+  *tam*, _adv._, so
+  *tantus*, *-a*, *-um*, so great
+  *agō*, *agere*, *ēgī*, *āctus*, act, do (_agent_)
+  *circumveniō*, *circumvenīre*, *circumvēnī*, *circumventus*,
+    surround (_circumvent_)
+  *imperō*, *imperāre*, *imperāvī*, *imperātus*, command, order
+    (_imperative_)
+
+EXERCISES
+
+360. 1. Puer ita ēgit ut ab omnibus amārētur. 2. Urbs vāstāta est
+nē ab hostibus caperētur. 3. Eum monēmus nē mīles sit. 4.
+Imperāvit nē per nostram prōvinciam iter facerent. 5. Tanta est
+inopia cibī ut plūrimī aegrī sint. 6. Urbs tam fortiter dēfēnsa
+est ut decem diēbus nōn caperētur. 7. Hostēs in silvās fūgērunt
+nē ā nostrīs circumvenīrentur. 8. Caesar prīmum postulāvit ut
+nostrīs auxilium darētur.
+
+361. 1. They were so few that they fled. 2. They were so brave
+that they did not flee. 3. I advise him to be more bold. 4. The
+lieutenant led the soldiers out of the camp in order to draw up a
+line of battle. 5. He demands that they pitch camp in this place.
+6. The marsh is so great that our men are hindered.
+
+[Illustration: A ROMAN CUP]
+
+
+
+SEVENTH REVIEW LESSON
+
+LESSONS XLIV-LII
+
+362. Give the English meanings of the following words:
+
+  accipiō        cōpia         īnstruō      opera        rēs
+  aciēs          diēs          interdum     pars         saxum
+  adulēscēns     difficilis    ita          perveniō     sex
+  agō            dīligenter    iūrō         plānitiēs    similis
+  altus          discēdō       līberī       posterus     spēs
+  amplus         dissimilis    lītus        praemittō    subitō
+  angustus       excēdō        malus        prīmum       superus
+  appellō        expugnō       modus        prōcēdō      tam
+  arbor          facilis       multitūdō    quaerō       tantus
+  celer          fidēs         nātūra       quam         ut
+  centum         hinc          nē           quīnque      vertō
+  circumveniō    imperō        omnīnō       relinquō     vīta
+  cōnspectus     īnferus
+
+363. Give the Latin meanings of the following words:
+
+  children       day                  so that, to
+  bad            withdraw             large, spacious
+  hope           hard                 first, at first
+  five           six                  work, activity
+  suddenly       seek, ask            line of battle
+  so great       act, do              swift, quick
+  part           high, above          swear, take oath
+  easy           call, name           so, in such a way
+  than           like                 nature, character
+  unlike         low, below           thing, event, fact
+  tree           surround             leave behind, leave
+  sometimes      high, deep           look, view, sight
+  diligently     turn, change         plenty, supply; troops
+  shore          young man            trust, confidence
+  receive        that not, lest       draw up, marshal
+  life           way, manner          take by storm, capture
+  hundred        send ahead           go forward, advance
+  so             command, order       hence, from here
+  next           stone, rock          come through, reach, arrive
+  plain          wholly, entirely     go out, withdraw
+  narrow         great number
+
+364. Decline each noun and each adjective in 362. Conjugate each
+verb in the present and the imperfect subjunctive, active and
+passive. Make synopses in the third person singular and plural.
+
+365. Following the suggestions in 634, give English words derived
+from the Latin words in 362. Define these derivatives, and
+illustrate each by an English sentence.
+
+366. Give the rule for the following constructions, and
+illustrate each by a sentence in Latin:
+
+  1. Partitive genitive
+  2. Ablative of degree of difference
+  3. Accusative of extent
+  4. Adverbial clause of purpose
+  5. Substantive clause of purpose
+  6. Adverbial clause of result
+  7. Sequence of tenses
+
+[Illustration: THE ATRIUM OF A ROMAN HOUSE]
