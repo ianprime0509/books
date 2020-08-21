@@ -5771,3 +5771,170 @@ perīculō servāre, [3] et ob eam causam imperāta Hammōnis facere
 [3] *servāre*, translate with *volēbat* (394).
 
 [4] *facere*, translate with *cōnstituit* (394).
+
+
+
+LESSON LIV
+
+THE PERFECT AND THE PLUPERFECT SUBJUNCTIVE · INDIRECT QUESTIONS
+
+371. *The Perfect and the Pluperfect Subjunctive.* The perfect
+and the pluperfect subjunctive active are formed on the perfect
+stem (671):
+
+  *amāv* *-erim*, *-erīs*, *-erit*,     *-erīmus*, *-erītis*, *-erint*
+  *amāv* *-isstem*, *-issēs* *-isset*,  *-issēmus*, *-issētis*, *-issent*
+
+The perfect and the pluperfect subjunctive passive belong to the
+participial system (671).
+
+a. Learn these tenses of the model verbs and of *sum* (658-663).
+Inflect the entire subjunctive of *agō*, *pōnō*, *dō*, and
+*videō*.
+
+372. *Indirect Questions.* An indirect question is a subordinate
+clause which contains the substance of a direct question: as,
+
+  1. *Ubi sunt?* _where are they?_
+  2. *Audit ubi sint*, _he hears where they are_.
+
+a. Observe that the dependent clause in 2 begins with an
+interrogative word (*ubi*) and contains the substance of the
+direct question in 1. Observe that the subjunctive mood is used,
+and that the clause is substantive in nature. Every subordinate
+clause introduced by an interrogative word is an indirect
+question.
+
+b. An indirect question, with its verb in the subjunctive, may be
+used as the subject or the object of another verb. Indirect
+questions usually follow the general rule for the sequence of
+tenses: as,
+
+  1. *Audit*, _he hears_
+  2. *Audiet*, _he will hear_
+  3. *Audīverit*, _he will have heard_
+  . . .
+  *ubi sint*, _where they are_
+  *ubi fuerint*, _where they were_ or _where they have been_
+
+  1. *Audiēbat*, _he was hearing_
+  2. *Audīvit*, _he heard_
+  3. *Audīverat*, _he had heard_
+  . . .
+  *ubi essent*, _where they were_
+  *ubi fuissent*, _where they had been_
+
+373. _*Rule for Indirect Questions.* The verb of an indirect
+question is in the subjunctive. If the verb of the independent
+clause is in a primary tense, the verb of the indirect question
+is put in the present subjunctive for an incomplete action, but
+in the perfect for a completed action. If the verb of the
+independent clause is in a secondary tense, the verb of the
+indirect question is put in the imperfect subjunctive for an
+incomplete action, but in the pluperfect for a completed action._
+
+374. VOCABULARY
+
+  *num*, _adv._, whether
+  *quot*, _adv._, how many (_quotient_)
+  *unde*, _adv._, whence
+  *rogō*, *rogāre*, *rogāvī*, *rogātus*, ask (_arrogant_)
+  *sciō*, *scīre*, *scīvī*, *scītus*, know (_science_)
+
+EXERCISES
+
+375. 1. Rogat quid agant, quid ēgerint. 2. Sciēbat quid agerent,
+quid ēgissent. 3. Tibi dīcam cūr labōrent, cūr labōrāverint. 4.
+Audīverant unde mīlitēs venīrent, unde vēnissent. 5. Rogāvērunt
+cūr laudārētur, cūr laudātī essent. 6. Scit cūr maneant, cūr
+mānserint. 7. Nōbīs dīxit quid illī puerī fēcissent. 8. Rogāvī
+num saepe in Italiā fuisset. 9. Scīsne quot annōs Rōmānī
+Britanniam tenuerint?
+
+376. 1. I shall tell you where they were and what they did. 2.
+These come to see, those to be seen. 3. They are so tired that
+they are not working to-day. 4. He asked me why I had come. 5. I
+had heard where he had been. 6. The general asked whether they
+had all come. 7. Do you know how many soldiers are coming?
+
+
+
+LESSON LV
+
+NUMERAL ADJECTIVES · THE OBJECTIVE GENITIVE
+
+377. *Numeral Adjectives.* For the definition of numeral
+adjectives see III, c. A list of Latin cardinal and ordinal
+numerals is given in 651.
+
+378. *The Declension of Numeral Adjectives.* The cardinals
+*ūnus*, _one_, *duo*, _two_, *trēs*, _three_, are declined; so,
+too, are the words for the _hundreds_, as, *ducentī*, _two
+hundred_, *trecentī*, _three hundred_, and (in the plural)
+*mīlle*, _thousand_. The other cardinals are not declined. The
+ordinals are declined as adjectives of the first and second
+declensions.
+
+a. Learn the declension of *ūnus*, *duo*, *trēs*, and *mīlle*
+(646).
+
+379. *The Use of _Mīlle_.* The singular of *mīlle* is
+indeclinable, and is used either as an adjective or as a neuter
+noun: *mīlle _(adj.)_ hominēs*, _a thousand men_, or *mīlle
+_(noun)_ hominum*. The plural is used only as a noun. When used
+as a noun it takes the partitive genitive: *mīlle hominum*, _a
+thousand (of) men_; *quattuor mīlia hominum*, _four thousand(s
+of) men_.
+
+380. *The Objective Genitive.*
+
+  *Spēs praedae hominēs incitat*, _hope of booty impels the men_.
+
+a. Observe that the genitive *praedae* expresses the thing hoped
+for, the object of the hope. This usage of the genitive case is
+called the _Objective Genitive_. The difference between the
+possessive and the objective genitive is illustrated by *timor
+canis*, _fear of the dog_, which may mean the dog's fear
+(possessive) or fear felt for the dog (objective).
+
+381. _*Rule for the Objective Genitive.* Some nouns of action and
+feeling may have with them a genitive to express the object of
+the action or feeling implied in the nouns._
+
+382. VOCABULARY
+
+  *dexter*, *dextra*, *dextrum*, right (_dexterous_)
+  *duo*, *duae*, *duo*, _adj._, two (_dual_)
+  *memoria*, *-ae*, _f._, memory (_memorable_)
+  *mīlle*, _adj. or noun_, thousand (_million_)
+  *mīlle passuum*, mile (a thousand of paces)
+  *octō*, _adj._, _indecl._, eight (_October_)
+  *passus*, *-ūs*, _m._, pace (_pace_)
+  *quārtus*, *-a*, *-um*, _adj._, fourth (_quarto_)
+  *quattuor*, _adj. indecl._, four
+  *sinister*, *sinistra*, *sinistrum*, left (_sinister_)
+  *tertius*, *-a*, *-um*, _adj._, third (_tertiary_)
+  *timor*, *timōris*, _m._, fear (_timorous_)
+  *trēs*, *tria*, _adj._, three (_trio_)
+  *ūnus*, *-a*, *-um*, _adj._, one (_unify_)
+
+EXERCISES
+
+383. 1. In itinere duo flūmina reperientur decem pedēs alta. 2.
+Memoria hārum rērum exercitum incitāverat. 3. Tria mīlia passuum
+iter fēcerant et prīma aciēs īnstruēbātur. 4. Caesar imperāvit ut
+in dextrō cornū tertia, in sinistrō quārta legiō conlocārētur. 5.
+Trium frātrum Mārcus erat fortissimus. 6. Propter studium
+victōriae haec ūna legiō Gallōs sustinuit. 7. Pīlum Rōmānum fuit
+sex pedēs longum. 8. Pesterō diē octō mīlia passuum ex illō locō
+discessērunt. 9. Quattuor explōrātōrēs, quī praemissī erant,
+propter timōrem hostium fūgērunt.
+
+384. 1. Hope of a reward impelled the children of Marcus. 2. On
+that hill were drawn up ten thousand foot soldiers and two
+thousand horsement. 3. The baggage of the army had been left a
+mile from the shore. 4. The general will station the second
+legion in front of the camp. 5. At the arrival of two legions the
+enemy departed from the left flank. 6. Fear of Cæsare and of the
+Romans will hinder one clan. 7. One of the men was unfriendly to
+me.
