@@ -23,6 +23,11 @@ the original text more concise, it doesn't translate well to a
 plain-text format, so I expanded the tables at the expense of
 conciseness.
 
+KNOWN ERRORS
+
+412. *nūntiāvi* should be *nūntiāvī*.
+413.4. Eaedam should be Eaedem.
+
 END OF NOTES
 
 
@@ -319,6 +324,9 @@ CONTENTS
            the Helvetians_ (CONTINUED)
     LXVII. THE ABLATIVE ABSOLUTE
    LXVIII. THE GERUND. THE IRREGULAR VERB *Eō*
+
+           NINTH REVIEW LESSON
+
      LXIX. THE GERUNDIVE. THE IRREGULAR VERB *Ferō*
       LXX. READING LESSON. _The Helvetians leave their Territory_
      LXXI. THE ABLATIVE OF SPECIFICATION. DEPONENT VERBS
@@ -5938,3 +5946,728 @@ legion in front of the camp. 5. At the arrival of two legions the
 enemy departed from the left flank. 6. Fear of Cæsare and of the
 Romans will hinder one clan. 7. One of the men was unfriendly to
 me.
+
+
+
+LESSON LVI
+
+ADJECTIVES HAVING THE GENITIVE IN _-ĪUS_
+
+385. *Adjectives having the Genitive in _-īus_.* The adjectives
+of the following vocabulary end in *-īus* in the genitive
+singular and in *-ī* in the dative singular of all genders
+(except that the genitive of *alter* ends in *-ĭus*).
+
+386. VOCABULARY
+
+  *alius*, *alia*, *aliud*, other, another (_alias_)
+  *alter*, *altera*, *alterum*, the other (of two) (_alternate_)
+  *neuter*, *neutra*, *neutrum*, neither (of two) (_neutrality_)
+  *nūllus*, *-a*, *-um*, no, no one, none (_nullify_)
+  *sōlus*, *-a*, *-um*, alone, sole, only (_solitude_)
+  *tōtus*, *-a*, *-um*, whole, all (_total_)
+  *ūllus*, *-a*, *-um*, any (at all)
+  *ūnus*, *-a*, *-um*, one (_unite_)
+  *uter*, *utra*, *utrum*, which (of two)
+  *uterque*, *utraque*, *utrumque*, each (of two), both
+
+a. Learn the declension of *alius* (646). Decline the other
+words.
+
+b. These adjectives are usually emphatic, and so stand before
+their nouns. They are often used as pronouns.
+
+387. *The Idiomatic Uses of _Alius_ and of _Alter_.* *Alius* and
+*alter*, when repeated in the same sentence, have the following
+meanings:
+
+  *alter . . . alter*, _one . . . the other_ (of two only)
+  *alius . . . alius*, _one . . . another_ (of any number)
+  *aliī . . . aliī*, _some . . . others_
+
+  1. *Alterum oppidum in Italiā, alterum in Galliā est*, _one
+    town is in Italy, the other in Gaul_ (only two towns are
+    thought of).
+  2. *Aliud oppidum magnum, aliud parvum est*, _one town is
+    large, another small_ (here the thought is not limited to two
+    towns).
+  3. *Aliī gladiīs, aliī pīlīs pugnant*, _some are fighting with
+    swords, others with javelins_.
+
+EXERCISES
+
+388. 1. In alterō flūminis lītore urbs, in alterō fuit mōns. 2.
+Duōrum hominum alter imperātor, alter tribūnus erat. 3. Tertiae
+legiōnis sōlīus virtūte tōtus exercitus dēfendēbātur. 4. Altera
+legiō in dextrō, altera in sinistrō cornū ā Caesare conlocāta
+est. 5. Neutrī obsidī cibum dabō. 6. Uter puer est tuus fīlius?
+7. Eā aestāte erant in marī nūllae nāvēs. 8. Cūr utrumque
+incitās?
+
+389. 1. Cæsar had praised the valor of the whole legion. 2. Which
+of the two young men showed the greater courage? 3. Cæsar will
+march without any delay with the second legion alone. 4. Some
+were pitching camp, others were drawing up a line of battle. 5.
+In no place did we find very many trees.
+
+390. VOCABULARY
+
+  *celeritās*, *celeritātis*, _f._, speed (_celerity_)
+  *dolor*, *dolōris*, _m._, grief, pain (_dolorous_)
+  *fremitus*, *-ūs*, _m._, noise
+  *lacrima*, *-ae*, _f._, tear (_lachrymose_)
+  *nec*, *neque*, _conj._, and not, nor
+  *simul*, _adv._, at the same time (_simultaneous_)
+
+MONSTRUM APPROPINQUAT (CONTINUED FROM 370)
+
+391. Tum rēx diem dīxit et omnia parāvit. Ubi is diēs vēnit,
+Andromeda ad lītus ducta est, et in cōnspectū omnium ad rūpem
+adligāta est. Omnēs propter fātum eius dolēbant, nec lacrimās
+tenēbant. Subitō autem, dum mōnstrum exspectant, Perseus ad lītus
+pervenit; et, ubi lacrimās vīdit, causam dolōris quaerit. Illī
+rem tōtam expōnunt et puellam dēmōnstrant. Dum haec geruntur,
+fremitus terribilis audītur; simul mōnstrum saevissimum procul
+vidētur. Eius cōnspectus timōrem maximum praebuit. Magnā
+celeritāte ad lītus mōnstrum properāvit, iamque ad locum
+appropinquābat ubi puella stābat.
+
+
+
+LESSON LVII
+
+THE INFINITIVE AS SUBJECT AND AS COMPLEMENT
+
+392. *The Infinitive.* The infinitives of *amō* are as follows:
+
+  ACTIVE
+  _Pres._ amāre, _to love_
+  _Perf._ amāvisse, _to have loved_
+  _Fut._ amātūrus esse, _to be about to love_, _to be going to
+    love_
+
+  PASSIVE
+  amārī, _to be loved_
+  amātus esse, _to have been loved_
+  (amātum īrī, _to be about to be loved_)
+
+a. Observe that the present infinitive passive is formed from the
+active by changing final *-e* to *-ī*. But in the third
+conjugation final *-ere* is changed to *-ī*.
+
+b. The perfect infinitive active is formed by adding *-isse* to
+the perfect stem.
+
+c. The perfect infinitive passive is formed by using the perfect
+participle with *esse*, the present infinitive of *sum*.
+
+d. The future infinitive active is formed by using the future
+active participle, *amātūrus*, with *esse*. The future active
+participle is made by changing final *-tus* or *-sus* of the
+perfect passive participle to *-tūrus* or *-sūrus*. Form the
+future active participles of *pōnō*, *īnstruō*, *videō*, *mittō*,
+and *gerō*.
+
+e. Learn the infinitives and meanings of the model verbs and
+*sum* (658-663). The future infinitive passive may be omitted. It
+is rare.
+
+393. *The Infinitive as Subject.* Since the infinitive is a noun
+it may be used as the subject or the object of a verb. Since it
+is a _verbal_ noun, it may have a subject or an object of its own
+and be modified by adverbs, adverb phrases, or adverb clauses.
+
+  1. *Laudārī est grātum*, _to be praised is pleasing_.
+  2. *Iter per fīnēs hostium facere erit difficile*, _to march
+    through the territory of the enemy will be difficult_.
+
+a. Observe that *laudārī* is the subject of *est*, and *iter per
+fīnēs hostium facere* of *erit*, while *iter* is the object of
+*facere*. Of what gender are *grātum* and *difficile*? What,
+then, is the gender of the infinitive?
+
+394. *The Complementary Infinitive.*
+
+  1. *Vincere potest*, _he is able to conquer_.
+  2. *Bonī esse dēbēmus*, _we ought to be good_.
+
+a. Observe that *vincere* and *esse* complete the meaning of
+*potest* and *dēbēmus*. An infinitive so used is called a
+_Complementary Infinitive_, and it is common in Latin, as in
+English, with verbs meaning _be able_, _decide_, _ought_, _wish_,
+_begin_, etc. You have already met this usage of the infinitive
+in several of the selections for reading.
+
+b. The predicate adjective used with a complementary infinitive
+agrees in gender, number, and case with the subject of the main
+verb.
+
+395. VOCABULARY
+
+  *coepī*, *coepisse* (_lacks the present system_), began
+  *dēbeō*, *dēbēre*, *dēbuī*, *dēbitus*, ought, be obliged to
+    (_debit_)
+  *decimus*, *-a*, *-um*, tenth (_decimate_)
+  *potest*, is able, can
+  *possunt*, are able, can (_possible_)
+
+EXERCISES
+
+396. 1. Venīre, dare, discēdere potest. 2. Impedīrī, pōnī,
+conlocārī possunt. 3. Praemia recipere saepe est grātum. 4.
+Caesar reliquōs agrōs et oppida illīus cīvitātis vāstāre coepit.
+5. Tua verba audīre est difficillimum. 6. Germānī Rōmānōs
+commeātibus interclūdere nōn possunt. 7. Statim multitūdō pācem
+petere coepit. 8. Sē dēfendere dēbent. 9. Quis tōtīus exercitūs
+tam fortis fuit ut impetum hostium sustinēret? 10. Hieme diēs
+quīnque hōrīs breviōrēs quam aestāte sunt.
+
+397. 1. It will be easy to fortify the camp with a high wall. 2.
+You ought to offer help. 3. He is not able to arouse the soldiers
+of the tenth legion. 4. To carry on a war is not often best. 5.
+We ought to be brave and good. 6. Some have begun to fight,
+others to flee.
+
+
+
+LESSON LVIII
+
+THE INFINITIVE AS OBJECT · THE ACCUSATIVE AS SUBJECT OF THE
+INFINITIVE · INDIRECT STATEMENTS
+
+398. *The Infinitive as Object.*
+
+  *Mē venīre iussit*, _he ordered me to come_.
+
+a. Observe that in the English sentence the object of _ordered_
+is _me to come_; and that _me_ is in the objective case and
+subject of the infinitive _to come_. The Latin sentence is like
+the English; *mē* is in the accusative case. Verbs meaning
+_order_ and _wish_ are the commonest verbs having an infinitive
+as their object; but *imperō*, _order_, takes a substantive
+clause of purpose (356). The objective infinitive is also used in
+indirect statements (400-402).
+
+399. _*Rule for the Accusative as Subject of the Infinitive.* The
+subject of the infinitive is in the accusative._
+
+400. *Indirect Statements.* A direct statement gives the exact
+words used by a speaker or writer: as, _He says_ (or _said_)
+_"Soldiers are coming." In an indirect statement the words of a
+speaker or writer are made to depend on a verb of _saying_,
+_thinking_, etc., and in English may or may not be the same as
+they were in the original statement or thought: as, _He says that
+soldiers are coming_, _he said that soldiers were coming_.
+Observe the same sentences in Latin:
+
+  1. *Mīlitēs veniunt*, _soldiers are coming_.
+  2. *Dīcit mīlitēs venīre*, _he says that soldiers are coming_.
+  3. *Dīxit mīlitēs venīre*, _he said that soldiers were coming_.
+
+a. Observe that in turning a direct statement into an indirect
+statement in Latin the nominative is changed to the accusative
+(399) and the indicative to the infinitive.
+
+401. _*Rule for Indirect Statements.* Indirect statements, with
+verb in the infinitive and subject in the accusative, are found
+in dependence on verbs of *saying*, *thinking*, *knowing*,
+*perceiving*, and the like._
+
+402. *The Use of the Tenses of the Infinitive in Indirect
+Statements.* The _present_ infinitive is used when the action of
+the indirect statement is going on at the _same_ time as the
+action indicated by the verb of _saying_, _thinking_, etc.: as,
+
+  1. *Dīcit mīlitēs venīre*, _he says that soldiers are coming_.
+  2. *Dīxit mīlitēs venīre*, _he said that soldiers were coming_.
+  3. *Dīcet mīlitēs venīre*, _he will say that soldiers are
+    coming_.
+
+The _perfect_ infinitive is used when the action of the indirect
+statement occurred _before_ that of the verb of _saying_,
+_thinking_, etc.: as,
+
+  1. *Dīcit mīlitēs vēnisse*, _he says that soldiers came_ (or
+    _have come_).
+  2. *Dīxit mīlitēs vēnisse*, _he said that soldiers came_ (or
+    _had come_).
+  3. *Dīcet mīlitēs vēnisse*, _he will say that soldiers came_
+    (or _have come_).
+
+The _future_ infinitive is used when the action of the indirect
+statement occurs _after_ that of the verb of _saying_,
+_thinking_, etc.: as,
+
+  1. *Dīcit mīlitēs ventūrōs esse*, _he says that soldiers will
+    come_.
+  2. *Dīxit mīlitēs ventūrōs esse*, _he said that soldiers would
+    come_.
+  3. *Dīcet mīlitēs ventūrōs esse*, _he will say that soldiers
+    will come_.
+
+403. VOCABULARY
+
+  *cognōscō*, *cognōscere*, *cognōvī*, *cognitus*, learn, know,
+    understand (_recognize_)
+  *cupiō*, *cupere*, *cupīvī (cupiī)*, *cupītus*, desire, wish
+    (_cupidity_)
+  *iubeō*, *iubēre*, *iussī*, *iussus*, bid, order, command
+    (_jussive_)
+  *respondeō*, *respondēre*, *respondī*, *respōnsus*, answer,
+    reply (_respond_)
+
+EXERCISES
+
+404. 1. Caesar per duōs explōrātōrēs cognōvit hostēs sex mīlia
+passuum iter fēcisse. 2. Sociī respondent sē sine morā auxilium
+ad Caesarem missūrōs esse. 3. Imperātor dīxit sē suīs praemia
+ampla datūrum esse. 4. Omnēs cupiunt esse līberī. 5. Omnēs
+cupiunt Italiam esse līberam. 6. Omnēs vident oppidum fortiter
+dēfendī. 7. Statim tertiam aciem īnstruī Caesar iussit. 8.
+Sciēbat Gallōs venīre ut impetum facerent.
+
+405. 1. That lieutenant will order his men to build towers. 2. I
+know that two legions have been sent ahead. 3. From the captives
+he leared that the enemy lacked food. 4. He ordered (*iubeō*)
+them to spend the winter in that state. 5. The traders replied
+that there was no grain in the territory of the Germans.
+
+[Illustration: A ROMAN AND HIS WIFE]
+
+[Illustration: THE ROMAN FORUM TO-DAY]
+
+
+
+LESSON LIX
+
+READING LESSON
+
+CAESAR IN CONCILIO DICIT
+
+406. Post hoc proelium Caesar mīlitibus in conciliō ita dīxit:
+Eōs fortiter pugnāvisse; itaque hostīs omnibus in partibus victōs
+esse et in montīs et palūdēs fugere; praedam eīs sē datūrum esse;
+sē scīre eōs longō bellō esse dēfessōs et statim eōs in Italiam
+missūrum esse; sē velle [1] in Galliā manēre per hiemem, sed
+proximā aestāte suōs in Germānōs ductūrum esse; multōs captīvōs
+Rōmam missōs esse, et populum Rōmānum victōriā eōrum dēlectārī.
+
+407. VOCABULARY
+
+  *paene*, _adv._, nearly, almost (_peninsula_)
+  *regiō*, *regiōnis*, _f._, place (_region_)
+  *undique*, _adv._, from all sides, everywhere
+  *dēpōnō*, *dēpōnere*, *dēposuī*, *dēpositus*, put down, lay
+    aside (_deposit_)
+  *ostendō*, *ostendere*, *ostendī*, *ostentus*, show, display
+    (_ostensible_)
+  *reddō*, *reddere*, *reddidī*, *redditus*, give back, return
+    (_render_)
+  *sentiō*, *sentīre*, *sēnsī*, *sēnsus*, feel, know, perceive
+    (_sentiment_)
+
+PERSEUS CEPHEO ANDROMEDAM REDDIT (CONTINUED FROM 391)
+
+408. At Perseus ubi haec vīdit, gladium suum ēdūxit, et postquam
+tālāria induit, per āera volāvit. Tum dēsuper in mōnstrum impetum
+subitō fēcit, et gladiō suō collum eius graviter vulnerāvit.
+Mōnstrum ubi sēnsit vulnus, fremitum horribilem ēdidit et sine
+morā tōtum corpus in aquam mersit. Perseus dum circum lītus
+volat, reditum eius exspectābat. Mare autem interim undique
+sanguine īnficitur. Post breve tempus bēlua rūrsus caput
+ostendit; mox tamen ā Perseō ictū graviōre vulnerāta est. Tum
+iterum sē in undās mersit, neque posteā vīsa est.
+
+Perseus postquam ad lītus dēscendit, prīmum tālāria exuit; tum ad
+rūpem vēnit ubi Andromeda vīncta erat. Ea autem omnem spem
+salūtis dēposuerat, et ubi Perseus pervēnit, terrōre paene
+exanimāta erat. Ille vincula statim solvit, et puellam patrī
+reddidit. Cēpheus ob hanc rem maximō gaudiō adfectus est. Itaque
+Andromedam Perseō in mātrimōnium dedit. Paucōs annōs Perseus cum
+uxōre in eā regiōne habitābat, et in magnō honōre erat apud omnīs
+Aethiopēs.
+
+[Illustration: IMPERATOR ET CAPTIVI]
+
+[1] *velle*, infin. of *volō*, _wish_.
+
+
+
+LESSON LX
+
+THE DEMONSTRATIVES _IDEM_, _IPSE_, _ISTE_ · THE IRREGULAR VERB
+_POSSUM_
+
+409. *The Demonstratives _Īdem_, _Ipse_, and _Iste_.* Review the
+declension of *is*, *hic*, and *ille* (654), and learn the
+declension of *īdem*, _same_, *ipse*, _-self_, and *iste*, _this
+of yours_, _that of yours_ (654).
+
+a. Observe that *īdem* is declined like *is* with *-dem* added,
+except that in the accusative singular and the genitive plural
+*m* is changed to *n*, and in the nominative and accusative
+singular *is* is changed to *ī*, *id* to *i*.
+
+b. Decline together *īdem diēs*, *rēs ipsa*, and *istud
+cōnsilium*.
+
+410. *The Distinction between _Īdem_, _Ipse_, and _Iste_.
+
+a. *Īdem* and *iste* may be used both as demonstrative adjectives
+and as demonstrative pronouns.
+
+b. *Iste* is used of that which has some relation to the second
+person, and is translated _this of yours_, _that of yours_,
+_your_: as, *istam dīligentiam laudō*, _I praise that diligence
+of yours (your diligence)_.
+
+c. *Ipse* means _-self (himself, herself, itself, themselves)_.
+It is an intensive word, used to emphasize a noun or pronoun,
+expressed or understood, with which it agrees as an adjective:
+as, *amīcus ipse ad mē vēnit*, _my friend himself came to me_. It
+must be distinguished from *sē*, _-self_, which is reflexive, not
+emphatic (266). Sometimes *ipse* may be translated _even_ or
+_very_: as, *in flūmine ipsō pugnant*, _they are fighting in the
+very river_.
+
+411. *The Irregular Verb _Possum_.* The irregular verb *possum*,
+_I can_, is a compound of *potis*, _able_, and *sum*, _I am_;
+*pot-sum* changed to *possum*. Wherever, in the inflection of
+this verb, *t* comes before *s*, it is changed to *s*, and
+wherever it comes before *f*, *f* is dropped. Learn the principal
+parts and the complete inflection (664).
+
+412. VOCABULARY
+
+  *difficultās*, *difficultātis*, _f._, difficulty
+  *īdem*, *eadem*, *idem*, same (_identity_)
+  *item . . . quī*, same . . . as
+  *ipse*, *ipsa*, *ipsum*, _intensive_, -self
+  *iste*, *ista*, *istud*, this of yours, that of yours
+  *nihil*, _n._, _indecl._, nothing (_annihilate_)
+  *ōrātiō*, *ōrātiōnis*, _f._, speech, plea (_oration_)
+  *rūrsus*, _adv._, again
+  *nūntiō*, *nūntiāre*, *nūntiāvi*, *nūntiātus*, report, announce
+    (_annunciator_)
+  *possum*, *posse*, *potuī*, *------*, be able, can (_potent_)
+  *putō*, *putāre*, *putāvī*, *putātus*, think, believe, reckon
+    (_compute_)
+  *spērō*, *spērāre*, *spērāvī*, *spērātus*, hope (_prosperous_)
+
+EXERCISES
+
+413. 1. Potest, poterat, poterit. 2. Potuimus, potuerant,
+poterant. 3. Scīsne cūr ista verba audīrī nōn possint? 4. Eaedam
+erant difficultātēs bellī quās vōbīs nūntiāre potuī. 5. Labiēnus
+ipse scīvit causās bellī plūrimās esse. 6. Putō mē hodiē nihil
+ēmptūrum esse. 7. Nōn iam postulant ut populus Rōmānus nāvēs
+praebeat. 8. Centuriō, quī cum octō explōrātōribus missus erat ut
+viam cognōsceret, nūntiāvit sē viam cognōscere nōn potuisse. 9.
+Omnēs spērābant Caesarem eā aestāte Gallōs victūrum esse. 10.
+Virī ipsī dīcunt tēla iacī nōn posse.
+
+414. 1. They have been able, he will be able, I could. 2. He had
+been able, they will have been able, we could. 3. The very
+children no longer desired peace. 4. They say that our allies are
+in the same danger to-day. 5. I think that I can stay two days
+with that friend of yours. 6. The traders reported that many
+bands of horsemen had been sent into the mountains. 7. I think
+that you can fight. 8. You thought that I could not come.
+
+
+
+EIGHTH REVIEW LESSON
+
+LESSONS LIII-LX
+
+415. Give the English meanings of the following words:
+
+  alius        difficultās      nec        putō         sōlus
+  alter        dolor            neque      quārtus      spērō
+  cēdō         duo              neuter     quattuor     tertius
+  celeritās    ēdūcō            nihil      quot         timor
+  coepī        fremitus         nūllus     reddō        tōtus
+  cognōscō     īdem             num        regiō        trādō
+  conlocō      ipse             nūntiō     respondeō    trēs
+  cōnstituō    iste             octō       rogō         ūllus
+  cōnsulō      iubeō            ōrātiō     rūrsus       unde
+  cupiō        iuvō             ostendō    sciō         undique
+  dēbeō        lacrima          paene      sentiō       ūnus
+  decimus      memoria          passus     simul        uter
+  dēpōnō       mīlle            possum     sinister     uterque
+  dexter       mīlle passuum
+
+416. Give the Latin meanings of the following words:
+
+  two      answer, reply      memory      give way, retire
+  one      nearly, almost     the other   think, believe, reckon
+  left     and not, nor       know        put down, lay aside
+  tear     give back, return  began       from all sides, everywhere
+  speed    other, another     three       no, no one, none
+  eight    how many           whence      lead out, lead forth
+  again    be able, can       help, aid   at the same time
+  four     show, display      hope        bid, order, command
+  mile     which (of two)     difficulty  this of yours, that of yours
+  ask      speech, plea       place       establish, determine
+  third    place, station     noise       alone, sole, only
+  neither  desire, wish       thousand    learn, know, understand
+  pace     report, announce   right       ought, be obliged to
+  nothing  whole, all         -self       give over, surrender
+  same     each, both         whether     feel, know, perceive
+  fourth   any (at all)       fear        plan, deliberate, consult
+  tenth    grief, pain
+
+417. Decline each noun, adjective, and pronoun in 415. Conjugate
+each verb in all tenses of the subjunctive mood. Make synopses.
+Give the infinitives of each verb.
+
+418. Following the suggestions of 634, give English words derived
+from the Latin words in 415. Define these derivatives, and
+illustrate each by an English sentence.
+
+419. Give the rule for the following constructions, and
+illustrate each by a sentence in Latin:
+
+  1. Indirect questions
+  2. Objective genitive
+  3. Infinitive as subject
+  4. Infinitive as complement
+  5. Infinitive as object
+  6. Indirect statements
+  7. Accusative as subject of the infinitive
+
+[Illustration: INTERIOR OF A ROMAN HOUSE]
+
+
+
+LESSON LXI
+
+THE INDEFINITE PRONOUNS
+
+420. *The Indefinite Pronouns.* The indefinite pronouns (II, g)
+are compounds of *quis* and of *quī*. The following indefinite
+pronouns will be used in this book:
+
+  aliquis, aliqua, aliquid, aliquod, _some_, _some one_, _any_,
+    _any one_
+  quīdam, quaedam, quiddam, quoddam, _a certain one_, _a certain_
+  quisquam, ------, quidquam (no plural), _any one (at all)_
+  quisque, quaeque, quidque, quodque, _each_, _each one_,
+    _every_, _every one_
+
+a. Learn the meanings and the declensions of these pronouns
+(657).
+
+b. The meanings of the neuters (_something_, _anything_, etc.)
+are easily inferred.
+
+c. Observe how *aliqua*, which is both the feminine nominative
+singular and the neuter nominative and accusative plural of
+*aliquis*, differs from the corresponding forms of *quis*.
+
+d. Observe that *quīdam* (*quī* + *dam*) is declined like *quī*,
+except that in the accusative singular and genitive plural *m* is
+changed to *n*; also that the neuter has *quiddam* and *quoddam*
+in the nominative and accusative singular.
+
+e. In the neuter of all indefinites the *quid* forms are used as
+pronouns, and the *quod* forms as adjectives.
+
+EXERCISES
+
+421. 1. Duo nova flūmina ā quibusdam virīs audācibus reperta
+sunt. 2. Nōn iam quemquam ante domum vidēre possum. 3. Ut cīvēs
+timōre līberāret, arma statim trādī iussit. 4. Quīdam captīvus
+idem rūrsus nūntiāvit. 5. Quisque aliquid respondēre potuerit. 6.
+Aliquae fēminae nōn sōlum perturbātae erant, sed etiam fūgerant.
+7. Lēgātus quemque ex fīnibus frūmentum portāre iubēbit. 8.
+Quaedam legiō spē victōriae Delphōs properābat. 9. Īnsulae
+similis est ista terra.
+
+422. 1. Each says that the Gauls are approaching. 2. He does not
+demand anything at all. 3. That girl has something in her right
+hand. 4. A part of each summer we live among the mountains and
+hills. 5. To-day a story was told to us by somebody. 6. At the
+same time certain (men) came to Cæsar to demand help. 7. I know
+what each is able to do.
+
+THE NATIONS OF GAUL
+
+423. Gallia est omnis dīvīsa (_divided_) in partīs trēs, quārum
+ūnam incolunt Belgae, aliam Aquītānī, tertiam eī quī Gallī
+appellantur. Hōrum omnium fortissimī sunt Belgae, quod prōvinciae
+Rōmānae propinquī nōn sunt neque mercātōrēs ad eōs saepe
+perveniunt; proximīque sunt Germānīs quī trāns Rhēnum incolunt,
+quibuscum bellum gerunt. Quī dē causā (_for this reason_, 186)
+Helvētiī quoque fortiōrēs quam reliquī Gallī sunt. Cotīdiānīs
+ferē proeliīs cum Germānīs contendunt, cum (_when_) aut
+(_either_) suis fīnibus eōs prohibent aut (_or_) ipsī in eōrum
+fīnibus bellum gerunt. Ea pars quam Gallī obtinent īnitium capit
+ā flūmine Rhodanō; continētur Garumnā (_Garonne_) flūmine,
+ōceanō, fīnibus Belgārum.
+
+
+
+LESSON LXII
+
+THE DATIVE WITH COMPOUNDS · THE DATIVES OF PURPOSE AND REFERENCE
+
+424. *The Dative with Compounds.*
+
+  1. *Quis equitibus praefuit?* _who commanded the horsemen?_
+  2. *Hic legiōnī lēgātum praefēcit*, _he put a lietenant in
+    charge of this legion_.
+
+a. Observe that *praefuit*, which is a compound of *sum*, is
+intransitive. It does not admit a direct object, but does admit
+the indirect object *equitibus*. There are a number of Latin
+verbs which in their simple form take neither a direct nor an
+indirect object; when these verbs are compounded with a
+preposition, they have a meaning which may take an indirect
+object. Some compound verbs take both a direct and an indirect
+object: as, *praefēcit* in sentence 2.
+
+425. _*Rule for the Dative with Compounds.* Some verbs compounded
+with *ad*, *ante*, *con*, *dē*, *in*, *inter*, *ob*, *post*,
+*prae*, *prō*, *sub*, and *super*, take a dative of the indirect
+object. Transitive compounds may take both an accusative and a
+dative._
+
+426. *The Datives of Purpose and Reference.*
+
+  1. *Mīlitēs ibi erant praesidiō*, _soldiers were there as (for)
+    a defense_.
+  2. *Mīlitēs auxiliō eīs mittuntur*, _soldiers are sent as (for)
+    a help to them_.
+
+a. Observe that the datives *praesidiō* and *auxiliō* are used to
+express the purpose for which something serves. This usage is
+called the _Dative of Purpose_. Often the dative of purpose is
+accompanied by another dative, called the _Dative of Reference_,
+denoting the person or thing served: as, *eīs* in sentence 2.
+This combination is known as the _Double Dative_.
+
+427. _*Rule for the Dative of Purpose.* The dative is used to
+denote the purpose for which a thing serves._
+
+428. _*Rule for the Dative of Reference.* The dative is used to
+denote the person (or, rarely, the thing) affected by the action
+or situation expressed by the verb._
+
+429. VOCABULARY
+
+  *mūnītiō*, *mūnītiōnis*, _f._, fortification, defense
+    (_ammunition_)
+  *praesidium*, *praesi'dī*, _n._, defense, protection, guard
+  *subsidium*, *subdi'dī*, _n._, help, aid
+  *ūsus*, *-ūs*, _m._, use, benefit, advantage (_useful_)
+  *dēsum*, *deesse*, *dēfuī*, *dēfutūrus*, be lacking, be
+    wanting, fail
+  *occurrō*, *occurrere*, *occurrī*, *occursūrus*, run toward,
+    meet (_occur_)
+  *praeficiō*, *praeficere*, *praefēcī*, *praefectus*, place in
+    command of (_prefect_)
+  *praestō*, *praestāre*, *praestitī*, *praestitus*, surpass, be
+    superior to
+  *praesum*, *praeesse*, *praefuī*, *praefutūrus*, be at the head
+    of, command
+  *supersum*, *superesse*, *superfuī*, *superfutūrus*, be left
+    over, survive
+
+EXERCISES
+
+430. 1. Ūnum oppidum sociōrum ab hostibus diū oppugnātum erat, et
+mūnītiōnēs cotīdiē vāstābantur. 2. Quod cibus et arma cīvibus
+deesse coepērunt, sociī rogāvērunt ut Caesar cōpiās auxiliō
+mitteret. 3. Itaque Caesar Labiēnum ūnī legiōnī praefēcit et eum
+subsidiō cīvibus mīsit. 4. In itinere Labiēnus hostibus occurrit,
+quī omnibus ex partibus vēnerant ut oppidum caperent. 5. Pīla
+impedīmentō nostrīs, sed magnō ūsuī gladiī erant. 6. Nostrī
+hostibus praestitērunt et eōs superāvērunt. 7. Labiēnus dīxit sē
+cīvibus praesidiō futūrum esse. 8. Scīsne quis eī oppidō
+praefuerit?
+
+431. 1. Courage did not often fail Cæsar. 2. He commanded brave
+men. 3. He was a protection to his country. 4. He did not survive
+his last (*proximus*) wars many years. 5. He was superior to the
+chiefs of the Gauls and the Germans. 6. He placed lieutenants in
+charge of the nations which had been conquered. 7. The sea is
+many feet deeper than this lake.
+
+
+
+LESSON LXIII
+
+THE DATIVE WITH SPECIAL INTRANSITIVE VERBS · THE IRREGULAR VERBS
+_VOLO_, _NOLO_, _MALO_
+
+432. *The Dative with Special Intransitive Verbs.*
+
+  1. *Legiōnī imperat*, _he commands a legion_.
+  2. *Amīcō meō persuādet*, _he persuades my friend_.
+
+a. Observe that *legiōnī* and *amīcō* are in the dative case,
+while the English equivalents are in the objective case. It is
+obvious, therefore, that the Latin verbs *imperō* and *persuādeō*
+are intransitive, and that they admit an indirect object.
+
+433. _*Rule for the Dative with Special Intransitive Verbs.* Most
+verbs meaning *believe*, *favor*, *help*, *please*, *trust*, and
+their opposites, also *command*, *obey*, *pardon*, *persuade*,
+*resist*, *serve*, *spare*, and the like, take a dative of the
+indirect object._
+
+a. Such verbs used in this book are *crēdō*, _believe_; *faveō*,
+_favor_; *imperō*, _command_; *noceō*, _harm_; *persuādeō*,
+_persuade_; *placeō*, _please_; *resistō*, _resist_; and
+*studeō*, _desire_, _be eager for_.
+
+b. Observe that *imperō* has an indirect object, while *iubeō*
+takes a direct object.
+
+434. *The Irregular Verbs _Volō_, _Nōlō_, and _Mālō_.* Learn the
+principal parts and the conjugation of *volō*, _wish_, *nōlō*
+(*nē* + *volō*), _be unwilling_, and *mālō* (*magis volō*), _be
+more willing_, _prefer_, in the indicative, subjunctive, and
+infinitive (665).
+
+435. VOCABULARY
+
+  *mulier*, *mulieris*, _f._, woman
+  *neque . . . neque*, neither . . . nor
+  *occāsus*, *-ūs*, _m._, setting (_occasion_)
+  *sōl*, *sōlis*, _m._, sun (_solstice_)
+  *crēdō*, *crēdere*, *crēdidī*, *crēditus*, believe, trust
+    (_creditor_)
+  *faveō*, *favēre*, *fāvī*, *fautūrus*, favor (_favor_)
+  *mālō*, *mālle*, *māluī*, *------*, be more willing, prefer
+  *noceō*, *nocēre*, *nōluī*, *------*, be unwilling
+  *persuādeō*, *persuādēre*, *persuāsī*, *persuāsus*, persuade
+    (_persuasive_)
+  *placeō*, *placēre*, *placuī*, *placitūrus*, please, be
+    pleasing to (_placidly_)
+  *resistō*, *resistere*, *restitī*, *------*, resist, oppose
+    (_resistance_)
+  *studeō*, *studēre*, *studuī*, *------*, be eager for, desire
+    (_student_)
+  *volō*, *velle*, *voluī*, *------*, be willing, wish
+    (_volition_)
+
+EXERCISES
+
+436. 1. Vultis, nōlumus, māvīs. 2. Mercātōribus nōn crēdidit. 3.
+Nōlle, māluisse. 4. Vōbīs persuādēre volunt. 5. Vult mihi favēre.
+6. Neque nōlunt tibi nocēre. 7. Tibi auxiliō esse mālumus. 8. Cūr
+nōn vīs mātrī tuae esse praesidiō? 9. Putāmus eum voluisse
+equitātuī praeesse. 10. Sōlis occāsū mīlitēs castra hostium
+capient. 11. Paucae enim ex hīs nātiōnibus bellō student. 12.
+Mīlitibus imperāvit ut fortiter Gallīs resisterent. 13. Neque
+mulierēs neque līberī timēbant.
+
+437. 1. They were wishing, I shall be unwilling, she will prefer.
+2. They were not willing to help our men. 3. They were not able
+to please your friends. 4. And they did not persuade the general.
+5. He will command them not to harm the women. 6. Neither the
+Gauls nor the Germans desired war at that time.
+
+[Illustration: WALL DECORATION OF A ROMAN HOUSE]
