@@ -6878,3 +6878,98 @@ cōnsilia Orgetorīgis prohibērent. Sed eō tempore Orgetorīx subitō
 mortuus est (_died_).
 
 [Illustration: ROMAN STYLES OF HAIRDRESSING]
+
+
+
+LESSON LXVII
+
+THE ABLATIVE ABSOLUTE
+
+452. *The Ablative Absolute.*
+
+  1. *Cōnsul, catrīs mūnītīs, Rōmam vēnit*, _with the camp
+    fortified, the consul came to Rome_.
+  2. *Caesare dūcente, semper vincimus*, _with Cæsar leading, we
+    always conquer_.
+  3. *Caesare duce, vincēmus*, _with Cæsar as leader, we shall
+    conquer_.
+
+a. Observe that the ablatives in these sentences are so loosely
+connected with the rest of the sentence that they are
+gramatically independent. Because of its loose connection with
+the sentence this usage of the ablative is known as the _Ablative
+Absolute_ (*ab* + *solvō*).
+
+453. *How to translate the Ablative Absolute.* The ablative
+absolute is usually translated, not as above, but by a clause:
+thus,
+
+  1. _When (because, although, if) the camp had been fortified,
+    the consul came to Rome._
+  2. _When (because, although, if) Cæsar is leading, we always
+    conquer._
+  3. _When (because, although, if) Cæsr is leader, we shall
+    conquer._
+
+The method of translation in any particular sentence must be
+determined by asking which kind of clause best expresses the
+thought of the sentence as a whole.
+
+454. *The Formation of the Ablative Absolute.* The ablative
+absolute may be formed by a noun or pronoun with a participle (as
+in 452, 1 and 2); or by a noun or pronoun with another noun or an
+adjective (as in 452, 3). The present active and perfect passive
+participles are used in this construction. Since the verb *sum*
+has no present participle, a participle is not expressed when the
+ablative absolute is formed as it is in 452, 3: *Caesare duce*,
+_Cæsar (being) leader_.
+
+a. An ablative absolute containing a perfect passive participle
+expresses an action that occurred before the action expressed by
+the main verb of the sentence; one containing a present
+participle expresses an action occurring at the same time as that
+of the main verb.
+
+b. The Latin perfect participle is not found in the active voice.
+Accordingly such a sentence as _Cæsar, having defeated the Gauls,
+returned to Rome_ has to be recast into the form _Cæsar, the
+Gauls having been defeated, returned to Rome_, *Caesar Gallīs
+victīs, Rōmam rediit*.
+
+c. The noun of the ablative absolute is always a different person
+or thing from the subject or object of the sentence.
+
+455. _*Rule for the Ablative Absolute.* The ablative of a noun or
+pronoun, with a participle, a noun, or an adjective in agreement,
+is used to express time, cause, concession, condition, or other
+relations._
+
+456. VOCABULARY
+
+  *dēditiō*, *dēditiōnis*, _f._, surrender
+  *ēruptiō*, *ēruptiōnis*, _f._, sally, sortie (_eruption_)
+  *medius*, *-a*, *-um*, middle of (_medium_)
+  *rīpa*, *-ae*, _f._, bank (_riparian_)
+
+EXERCISES
+
+457. 1. Hostibus victīs, per mediam prōvinciam iter facere
+cōnstituit. 2. Caesare cōnsule, cum Gallīs longum erat bellum. 3.
+Oppidō quōdam expugnātō, castra in rīpīs ipsīs huius flūminis
+posuērunt. 4. Helvētiī omnium rērum inopiā adductī lēgātōs dē
+dēditiōne ad Caesarm mīsērunt. Hīs rēbus repertīs, omnēs bellō
+studēbant. 6. Hoc oppidum, paucīs dēfendentibus, Rōmānī capere
+nōn potuērunt. 7. Captīvīs in dēditiōnem acceptīs, dux subsidiō
+castrīs trēs cohortēs relīquit. 8. Hī captīvī eīdem fortissimē
+pugnantēs captī erant. 9. Quis praefuit equitibus quī imperātōrī
+auxiliō missī sunt? 10. Urbe mūnītā, cīvēs nōn iam terrēbantur.
+
+458. 1. When he had heard these words, he was much disturbed. 2.
+When the city had been taken, the soldiers set the prisoners
+free. 3. The enemy resisted our men all day. 4. If Labienus is
+leader, our army will be able to injure the enemy. 6. Labienus,
+having captured the mountain, was waiting for our men. 6.
+Although a sortie was made, they were not able to approach our
+first line.
+
+[Illustration: A COUNTRY VILLA]
