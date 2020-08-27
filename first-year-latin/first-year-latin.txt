@@ -6973,3 +6973,141 @@ Although a sortie was made, they were not able to approach our
 first line.
 
 [Illustration: A COUNTRY VILLA]
+
+
+
+LESSON LXVIII
+
+THE GERUND · THE IRREGULAR VERB _EO_
+
+459. *The Gerund.* The gerund (XXXII, c) is a verbal noun used in
+the genitive, dative, accusative, and ablative singular. It is
+formed by adding *-ndī*, *-ndō*, *-ndum*, *-ndō* to the present
+stem, with certain changes in quantity and spelling. Learn the
+gerunds of the model verbs (658-662).
+
+460. *What the Gerund is.* The gerund is like the English verbal
+noun in _-ing_, as, _loving_; but it lacks a nominative case. For
+the nominative the infinitive is used.
+
+  _Nom._ amāre, _to love_, _loving_
+  _Gen._ amandī, _of loving_
+  _Dat._ amandō, _for loving_
+  _Acc._ amandum, _loving_
+  _Abl._ amandō, _by loving_
+
+461. *The Uses of the Gerund.* The gerund is used in the various
+constructions of nouns. Since it is a _verbal_ noun, it may have
+a direct or an indirect object: as, *vincendō hostēs*, _by
+overcoming the enemy_; *resistendō hostibus*, _by resisting the
+enemy_. Also observe the following:
+
+  1. *Ad pugnandum vēnērunt*, _they came for fighting, for the
+    purpose of fighting, to fight_.
+  2. *Pugnandī causā vēnērunt*, _they came for the sake of
+    fighting, to fight_.
+
+a. Observe that the accusative of the gerund with *ad*, or the
+genitive of the gerund with *causā*, is used to express purpose.
+*Causā* when so used follows its genitive. This method of
+expressing purpose is used in brief statements.
+
+462. *The Irregular Verb _Eō_.* Learn the principal parts and
+conjugation of the irregular verb *eō* (667).
+
+a. Observe where *ī* (the root of *eō*) is changed to *e* in the
+present indicative and subjunctive, in the present participle,
+and in the gerund. In the perfect system *-v-* is regularly
+dropped. For the declension of the present participle see 645.
+
+463. VOCABULARY
+
+  *causā*, _abl. of *causa*_, for the sake of, to
+  *nōmen*, *nōminis*, _n._, name (_nominate_)
+  *spatium*, *spatī*, _n._, room, space, time, opportunity
+    (_spacious_)
+  *vāllum*, *-ī*, _n._, rampart, earthworks (_interval_)
+  *accēdō*, *accēdere*, *accessī*, *accessūrus*, come near,
+    approach (_accession_)
+  *coniciō*, *conicere*, *coniēcī*, *coniectus*, throw, hurl
+    (_conjecture_)
+  *eō*, *īre*, *iī (īvī)*, *itūrus*, go (_initial_)
+  *ōrō*, *ōrāre*, *ōrāvī*, *ōrātus*, speak, plead, bed (_orator_)
+
+EXERCISES
+
+464. 1. It, īmus, ībant. 2. Īre, īsse, ībunt. 3. Eunt, ierant,
+iit. 4. Difficultātem nāvigandī nūntiāvit. 5. Haec est causa
+mittendī. 6. Litterās mittendī causā vēnit. 7. Dīligentia in
+agendō ducī placet. 8. Spatium pugnandī nōn datum est. 9. Caesar
+fīnem ōrandī fēcit. 10. Spatium pīla in hostīs coniciendī breve
+fuit. 11. Accessērunt ad dīcendum. 12. Vōbīscum ībit ut nōmina
+eōrum roget. 13. Voluit cognōscere quō īssent. 14. Labiēnus
+imperāvit ut castra vāllō mūnīrentur.
+
+465. 1. You are going, they were going, he had gone. 2. We shall
+go, you will have gone. 3. Whither have they gone? 4. He
+persuades them to go. 5. He ordered them to go. 6. They came near
+for the sake of seeking peace. 7. Time was not given for
+pleading. 8. They went toward the sea for the purpose of sailing.
+9. That day they went three miles, and at sunset pitched camp.
+
+
+
+NINTH REVIEW LESSON
+
+LESSONS LXI-LXVIII
+
+466. Give the English meanings of the following words:
+
+  accēdō    ēruptiō            nōlō        praestō   sōl
+  addūcō    faveō              nōmen       praesum   spartium
+  aliquis   hīberna            obtineō     quīdam    studeō
+  causā     mālō               occāsus     quisquam  subsidium
+  commoveō  medius             occurrō     quisque   supersum
+  coniciō   moveō              ōrō         redūcō    suscipiō
+  crēdō     mulier             persuādeō   rēgnum    ūsus
+  dēditiō   mūnītiō            placeō      resistō   vāllum
+  dēsum     neque . . . neque  praeficiō   rīpa      volō
+  eō        noceō              praesidium
+
+467. Give the Latin meanings of the following words:
+
+  neither . . . nor      kingdom       use, benefit, advantage
+  be unwilling           bank          each, each one, every, every one
+  be left over, survive  throw, hurl   possess, occupy, hold
+  be willing, wish       favor         disturb, move, arouse
+  resist, oppose         sun           surpass, be superior to
+  believe, trust         surrender     rampart, earthworks
+  place in command       move          be at the head of, command
+  for the sake of, to    harm, injure  some, some one, any, any one
+  be eager for, desire   help, aid     be more willing, prefer
+  speak, plead, beg      middle of     defense, protection, guard
+  sally, sortie          name          be lacking, be wanting, fail
+  lead to, influence     woman         come near, approach
+  winter quarters        persuade      please, be pleasing to
+  take up, undertake     lead back     room, space, time, opportunity
+  run towards, meet      setting       a certain one, a certain
+  any one (at all)       go            fortification, defense
+
+468. Decline the nouns in 466. Decline the indefinite pronouns.
+Give the principal parts of each verb. Give the participles of
+each verb. Make synopses in the third person singular and plural.
+Conjugate *volō*, *nōlō*, and *eō* throughout.
+
+469. Following the suggestions in 634, give English words derived
+from the Latin words in 466. Define these derivatives, and
+illustrate each by an English sentence.
+
+470. Give the rule, if there is one, for the following
+constructions, and illustrate each by a sentence in Latin:
+
+  1. Dative with compounds
+  2. Dative of purpose
+  3. Dative of reference
+  4. Dative with special intrasitive verbs
+  5. Participles as the equivalent of certain clauses
+  6. Ablative absolute
+  7. Gerund
+
+[Illustration: WALL DECORATION OF A ROMAN HOUSE]
