@@ -7335,3 +7335,74 @@ will set out at daybreak in order to follow the enemy. 9.
 Although they promised grain, they were unable to bring it
 because of a lack of carts. 10. The poor soldiers are tired in
 body, but they surpass the enemy in speed.
+
+
+
+LESSON LXXII
+
+TEMPORAL CLAUSES WITH _CUM_ · THE IRREGULAR VERB _FIO_
+
+487. *Temporal Clauses with _Cum_.* The Latin conjunction *cum*,
+_when_, _while_, introduces temporal clauses (XX, e).
+
+  1. *Cum Caesar in Italiā erat, bellum in Galliā ortum est*,
+    _when (while) Cæsar was in Italy, a war began in Gaul_.
+  2. *Caesar, cum id nūntiātum esset, in Galliam contendit*,
+    _Cæsar, when this had been reported, hastened into Gaul_.
+  3. *Cum nūntius pervēnerit, Caesar prōgrediētur*, _when the
+    messenger arrives, Cæsar will advance_.
+
+a. Observe that the temporal clause in sentence 1 _fixes the
+time_ at which the war began, and that its verb is in the
+indicative. Observe that the clause in sentence 2 _describes the
+circumstances_ under which Cæsar was impelled to hasten into
+Gaul, and that its verb is in the subjunctive. Observe that the
+temporal clause in sentence 3 _refers to future time_, and that
+its verb is in the indicative.
+
+488. _*Rule for Temporal Clauses with Cum.* Temporal clauses
+referring to past time, when introduced by *cum*, have their verb
+in the indicative if they fix the time of an action, but in the
+subjunctive if they describe the circumstances of an action. The
+indicative is used in temporal clauses introduced by *cum*
+referring to present or to future time._
+
+489. *The Irregular Ver _Fīō_.* The verb *faciō*, which you have
+frequently used in the active voice, forms its present system in
+the passive from the irregular verb *fīō*. Learn the principal
+parts of *fīō* and its conjugation (668). Review the complete
+inflection of *faciō*. The passive voice of the compounds of
+*faciō* is inflected regularly.
+
+490. VOCABULARY
+
+  *certus*, *-a*, *-um*, certain, sure
+  *cum*, _conj._, when, while
+  *frūmentārius*, *-a*, *-um*, of grain; *rēs frūmentāria*, grain
+    supply, provisions
+  *nē . . . quidem*, not even (_the word or words between *nē*
+    and *quidem* are emphasized_)
+  *paulō*, _adv._, a little
+  *fīō*, *fierī*, *factus sum*, be made, be done, happen
+  *certiōrem facere* (to make more sure), to inform
+  *certior fierī* (to be made more sure), to be informed
+
+EXERCISES
+
+491. 1. Fit, fīunt. 2. Fierī, factus esse. 3. Fīet, fīēbant, fīō.
+4. Fīētis, fīēmus. 5. Eum certiōrem fēcimus. 6. Certior fit dē
+hīs rēbus. 7. Gallī, cum oppidum cēpissent, omnēs captīvōs
+interfēcērunt. 8. Cum dē inopiā reī frūmentāriae certior factus
+esset, in ulteriōrem partem prōvinciae paulō ante mediam noctem
+profectus est. 9. Nē amīcī quidem dē adventū tuō ceritōrēs fīent.
+10. Cum proelī fīnem nox fēcisset, quīdam ad Caesarem vēnit. 11.
+Cum equitātum hostium vīdērunt, nostrī in eōs impetum fēcērunt.
+
+492. 1. You are becoming, they become. 2. It happens, to be made,
+it will be made. 3. When you come, you will learn this. 4. They
+have been informed. 5. I shall inform them. 6. When he was not
+able to persuade them, he went to the general. 7. Not even the
+general had been informed about this. 8. When the lieutenant had
+exhorted the soldiers, he gave the signal for battle.
+
+[Illustration: A ROMAN STOVE]
