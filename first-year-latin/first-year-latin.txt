@@ -28,6 +28,9 @@ KNOWN ERRORS
 412. *nūntiāvi* should be *nūntiāvī*.
 413.4. Eaedam should be Eaedem.
 
+TODO: fix all explicit page references to point to sections
+instead
+
 END OF NOTES
 
 
@@ -7774,3 +7777,195 @@ these uses the particular noun or verb has. Then translate
 accordingly.
 
 [Illustration: THE CAMPAIGN AGAINST THE HELVETIANS]
+
+
+
+SELECTIONS FOR READING
+
+CÆSAR: THE CAMPAIGN AGAINST THE HELVETIANS (CONTINUED FROM 494)
+
+_The Helvetians are allowed to proceed through the land of the
+Sequani_
+
+514. Helvētiī, eā spē dēiectī, vadīs Rhodanī, quā minima altitūdō
+flūminis erat, trānsīre cōnātī sunt, sed mūnītiōne et tēlīs
+replusī hōc cōnātū dēstitērunt. Relinquēbātur ūna per Sēquanōs
+via. Hīs cum persuādēre nōn possent, lēgātōs ad Dumnorīgem
+Haeduum mīsērunt. Dumnorīx apud Sēquanōs plūrimum poterat [1] et
+Helvētiīs erat amīcus, quod ex eā cīvitāte Orgetorīgis fīliam in
+mātrimōnium dūxerat. Etiam cupiditāte rēgnī adductus est. Itaque
+Sēquanīs persuāsit ut per fīnēs suō Helvētiōs īre permitterent et
+obsidēs inter sēsē darent: Sēquanī, nē itinere Helvētiōs
+prohibērent; Helvētiī, ut sine iniūriā trānsīrent.
+
+_Cæsar opposes this plan of the Helvetians and crosses the Rhone_
+
+515. Caesar certior factus est Helvētiōs cōnstituisse per agrum
+Sēquanōrum et Haeduōrum iter in Santonum fīnēs facere, quī nōn
+longē ā Tolōsātium fīnibus aberant, quae cīvitās erat in
+prōvinciā. Inimīcōs populī Rōmānī eam regiōnem incolere nōlēbat.
+Ob eam causam eī mūnītiōnī quam fēcerat Labiēnum lēgātum
+praefēcit; ipse in Italiam magnīs itineribus [2] contendit
+duāsque ibi legiōnēs cōnscrīpsit, et trēs quae circum Aquilēiam
+hiemābant ex hībernīs ēdūxit, et, quā proximum iter in ulteriōrem
+Galliam per Alpēs erat, cum hīs quīnque legiōnibus īre contendit.
+Ibi quaedam cīvitātēs, locīs superiōribus occupātīs, itinere
+exercitum prohibēre cōnātae sunt. Complūribus hīs proeliīs
+victīs, [3] ab Ocelō, quod est oppidum citeriōoris prōvinciae [4]
+extrēmum, in fīnēs Vocontiōrum ulteriōris prōvinciae diē septimō
+pervēnit; inde in Allobrogum fīnēs, ab Allobrogibus in
+Seguasiāvōs exercitum dūxit. Hī sunt extrā prōvinciam trāns
+Rhodanum prīmī.
+
+_The Hædui and other tribes ask for Cæsar's help against the
+Helvetians_
+
+516. Helvētiī interim per fīnēs Sēquanōrum suās cōpiās dūxerant,
+et in Haeduōrum fīnēs pervēnerant eōrumque agrōs vāstābant.
+Haeduī sē suaque [5] ab eīs dēfendere nōn poterant. Itaque
+lēgātōs ad Caesarem mīsērunt ut auxilium rogārent. Eī dīxērunt
+paene in cōnspectū exercitūs nostrī agrōs vāstārī, līberōs in
+servitūtem abdūcī, oppida expugnārī nōn dēbuisse. [6] Eōdem
+tempore Ambarrī Caesarem certiōrem fēcērunt sēsē, vāstātīs agrīs,
+nōn facile ab oppidīs vim hostium prohibēre. Item Allobrogēs, quī
+trāns Rhodanum vīcōs habēbant, fugā sē ad Caesarem recēpērunt.
+Quibus rēbus adductus Caesar diūtius nōn exspectandum esse [7]
+cōnstituit.
+
+_Cæsr destroys one division of the Helvetians_
+
+517. Flūmen est Arar, quod per fīnēs Haeduōrum et Sēquanōrum in
+Rhodanum fluit. Id Helvētiī trānsībant. Ubi per explōrātōrēs
+Caesar certior factus est trēs iam partēs cōpiārum Helvētiōs id
+flūmen trādūxisse, quārtam fere partem citrā flūmen Ararim
+relictam esse, dē tertiā vigiliā cum legiōnibus tribus ē castrīs
+profectus ad eam partem pervēnit quae nōn dum flūmen trānsierat.
+Eōs impedītōs adgressus magnam partem interfēcit; reliquī sēsē
+fugae mandāvērunt atque in proximās silvās abdidērunt.
+
+_The Helvetians send an embassy to Cæsar_
+
+518. Hōc proliō factō, reliquās cōpiās Helvētiōrum ut cōnsequī
+posset, pontem in Ararī [8] fēcit atque ita exercitum trādūxit.
+Helvētiī repentīnō eius adventū commōtī, cum illum ūnō diē flūmen
+trānsīsse intellegerent, lēgātōs ad eum mīsērunt; cuius
+lēgātiōnis Dīvicō prīnceps fuit. In conloquiō Caesar imperāvit ut
+obsidēs populō Rōmānō darentur. Dīvicō resondit Helvētiōs obsidēs
+accipere, nōn dare cōnsuēvisse. Hōc respōnsō datō discessit.
+
+_Cæsar follows the Helvetians_
+
+519. Posterō diē castra ex eō locō mōvērunt. Idem fēcit Caesar,
+equitātumque omnem, ad numerum quattuor mīlium, quem ex omnī
+prōvinciā et Haeduīs atque eōrum sociīs coēgerat, praemīsit, ut
+vidērent quās in partēs hostēs iter facerent. Quī cupidius
+novissimum agmen [9] secūtī aliēnō locō cum equitātū Helvētiōrum
+proelium commīsērunt; et paucī dē nostrīs interfectī sunt. Quō
+proeliō dēlectātī Helvētiī, quod paucīs equitibus tantam
+multitūdinem equitum vīcerant, audācius in nostrōs impetum facere
+coepērunt. Caesar suōs ā proeliō continēbat, et ita diēs circiter
+XV iter fēcērunt ut inter novissimum hostium agmen et nostrum
+prīmum [10] quīnque mīlia passuum interessent.
+
+_Cæsar prepares to attack the Helvetians_
+
+520. Tandem ab explōrātōribus cerior factus est hostēs mīlia
+passuum ab ipsīus castrīs octō abesse. Dē tertiā vigiliā Labiēnum
+lēgātum cum duābus legiōnibus et eīs ducibus quī iter
+cognōverant, summum iugum montis ascendere iussit. Ipse dē quārtā
+vigiliā eōdem itinere quō hostēs ierant ad eōs contendit,
+equitātumque omnem ante sē mīsit. Cōnsidius cum explōrātōribus
+praemissus est.
+
+_Considius becomes panic-stricken_
+
+521. Prīmā lūce, cum summus mōns ā Labiēnō tenērētur, ipse ab
+hostium castrīs mīlle passuum abesset, neque (ut posteā ex
+captīvīs intellēxit) aut ipsīus adventus aut Labiēnī cognitus
+esset, Cōnsidius equō admissō [11] ad eum properāvit. Dīxit
+montem quem Caesar ā Labiēnō occupārī voluisset ab hostibus
+tenērī; id sē ā Gallicīs armīs cognōvisse. Caesar suās cōpiās ad
+proximum collem dūxit et aciem īnstrūxit. Labiēnus interim, monte
+occupātō, nostrōs exspectābat. Multō diē [12] per explōrātōrēs
+Caesar cognōvit et montem ā suīs tenērī et Helvētiōs castra
+mōvisse et Cōnsidium timōre perterritum quod nōn vīdisset prō
+vīsō sibi nūntiāvisse. Eō diē, quō cōnsuēverat intervāllō, hostēs
+secūtus est et mīlia passuum tria ab eōrum castrīs castra posuit.
+
+_The battle between Cæsar and the Helvetians_
+
+522. Posterō diē cōpiās suās Caesar in proximum collem dūxit
+equitātumque, ut sustinēret hostium impetum, mīsit. Ipse interim
+in colle mediō aciem legiōnum quattuor īnstrūxit. In summō iugō
+duās legiōnēs, quās in Galliā citeriōre proximā aestāte
+cōnscrīpserat, et omnia auxilia [13] conlocāvit. Helvētiī cum
+omnibus suīs carrīs secūtī impedīmenta in ūnum locum contulērunt;
+ipsī sub prīmam nostram aciem successērunt. Caesar hortātus suōs
+proelium commīsit. Mīlitēs ē locō superiōre pīlīs missīs in
+hostēs impetum fēcērunt. Tandem vulneribus dēfessī hostēs ad
+montem, quī circiter mīlle passuum aberat, sē recipere coepērunt.
+Diū atque ācriter pugnāvērunt. Diūtius cum sustinēre nostrōrum
+impetūs nōn possent, alterī sē, ut coeperant, in montem
+recēpērunt, alterī [14] ad impedīmenta et carrōs suōs iērunt. Ad
+multam noctem [15] etiam ad impedīmenta contendērunt, quod
+Helvētiī prō vāllō carrōs conlocāverant et ē locō superiōre in
+nostrōs venientēs tēla coniciēbant. Tandem nostrī impedīmenta et
+castra cēpērunt. Ibi Orgetorīgis fīlia atque ūnus ē fīliīs captus
+est.
+
+_The Helvetians retreat and offer to surrender_
+
+523. Ex eō proeliō circiter hominum mīlia CXXX superfuērunt,
+eāque tōtā nocte continenter iērunt. In fīnēs Lingonum diē quārtō
+pervēnērunt. Nostrī autem propter vulnera mīlitum eōs sequī nōn
+potuērunt. Caesar litterās nūntiōsque ad Lingonēs mīsit et
+imperāvit nē eōs frūmentō nēve aliā rē iuvārent. Ipse trīduō
+intermissō cum omnibus cōpiīs eōs sequī coepit.
+
+Helvētiī omnium rērum inopiā adductī lēgātōs dē dēditiōne ad eum
+mīsērunt. Quī cum eum in itinere convēnissent sēque ad pedēs [16]
+prōiēcissent pācemque petīssent atque eōs in eō locō quō tum
+erant suum adventum exspectāre iussisset, pāruērunt. Eō cum
+Caesar pervēnisset, obsidēs et arma postulāvit. Obsidibus
+armīsque trāditīs, eōs in dēditiōnem accēpit. Helvētiōs in fīnēs
+suōs, unde erant profectī, revertī iussit. Id eā maximē ratiōne
+fēcit, quod nōluit eum locum unde Helvētiī discesserant vacāre,
+nē propter bonitātem agrōrum Germānī, quī trāns Rhēnum incolunt,
+ex suīs fīnibus in Helvētiōrum fīnēs trānsīrent et fīnitimī
+Galliae prōvinciae Allobrogibusque essent.
+
+[Illustration: CARRI]
+
+[1] *plūrimum poterat*, _had a great deal of influence_
+
+[2] *magnīs itineribus*, _by long journeys_. See p. 185, note 1.
+
+[3] Translate *complūribus* with *proliīs* and *hīs* with
+*victīs*.
+
+[4] The Roman province on the Italian side of the Alps.
+
+[5] *suaque*, _and their possessions_.
+
+[6] *vāstārī . . . nōn dēbuisse*, _ought not to have been_ etc.
+
+[7] *nōn exspectandum esse*, _that he must not wait_. The verb,
+however, is used impersonally.
+
+[8] *in Ararī*, _over the Arar_.
+
+[9] *novissimum agmen*, _the rear_.
+
+[10] *prīmum (agmen)*, _vanguard_.
+
+[11] *equō admissō*, _at full gallop_.
+
+[12] *multō diē*, _late in the day_.
+
+[13] *auxilia*, _auxiliaries_.
+
+[14] *alterī . . . alterī*, _one body . . . the other_.
+
+[15] *ad multam noctem*, _until late at night_.
+
+[16] *ad pedēs*, _at his feet_.
