@@ -9658,3 +9658,331 @@ Compare *celeriter* and decline *initium*. Inflect *moror* and
 *revertor* throughout. What uses do you know for each case of
 nouns (512)? How have you used the subjunctive mood (513)? the
 infinitie (513)? the participle (513)?
+
+
+
+
+APPENDIX I
+
+RULES OF SYNTAX
+
+NOTE. These rules are here numbered consecutively for the
+convenience of teachers and pupils. The number in parentheses
+following a rule is its section number.
+
+619. *Agreement.*
+
+  1. A verb agrees with its subject in person and number (29).
+  2. A predicate noun agrees in case with the subject of the verb
+    (87).
+  3. A predicate adjective agrees in gender, number, and case
+    with the subject of the verb (88).
+  4. An appositive agrees in case with the noun which it explains
+    (94).
+  5. Adjectives agree with their nouns in gender, number, and
+    case (79).
+  6. A predicate adjective used with a complementary infinitive
+    agrees in gender, number, and case with the subject of the
+    main verb (394, b).
+  7. A relative pronoun agrees with its antecedent in gender and
+    number, but its case depends on the way it is used in its own
+    clause (248).
+
+620. *Nominative Case.*
+
+  8. The subject of a verb is in the nominative case (28).
+
+621. *Genitive Case.*
+
+  9. The word denoting the owner or possessor is in the genitive
+    case (44).
+  10. Words denoting a part may have with them a genitive of the
+    whole from which the part is taken (309).
+  11. Some nouns of action and feeling may have with them a
+    genitive to express the object of the action or feeling
+    implied in the nouns (381).
+  12. The genitive denotes that of which something consists or is
+    made (p. 79, note 1).
+
+622. *Dative Case.*
+
+  13. The indirect object of a verb is in the dative case (57).
+  14. Certain adjectives meaning _near_, _fit_, _friendly_,
+    _pleasing_, _like_, and their opposites, may be accompanied
+    by a dative to show the person or the thing toward which the
+    quality of the adjective is directed (111).
+  15. Some verbs compounded with *ad*, *ante*, *con*, *dē*, *in*,
+    *inter*, *ob*, *post*, *prae*, *prō*, *sub*, and *super*,
+    take a dative of the indirect object. Transitive compounds
+    may take both an accusative and a dative (425).
+  16. The dative is used to denote the purpose for which a thing
+    serves (427).
+  17. The dative is used to denote the person (or, rarely, the
+    thing) affected by the action or situation expressed by the
+    verb (428).
+  18. Most verbs meaning _believe_, _favor_, _help_, _please_,
+    _trust_, and their opposites, also _command_, _obey_,
+    _pardon_, _persuade_, _resist_, _serve_, _spare_, and the
+    like, take a dative of the indirect object (433).
+
+623. *Accusative Case.*
+
+  19. The object of a verb is in the accusative case (33).
+  20. Place _to which_ is usually expressed by the accusative
+    with *ad* or *in*; but with the names of towns, and with
+    *domus*, the preposition is omitted (230, b).
+  21. The accusative is used with certain prepositions (193).
+  22. Extent of time or of space is expressed by the accusative
+    (333).
+  23. The subject of the infinitive is in the accusative (399).
+
+624. *Ablative Case.*
+
+  24. Place _where_ is commonly expressed by a phrase consisting
+    of a preposition, usually *in*, with the ablative case (59).
+  25. The means by which an action is accomplished is expressed
+    by the ablative without a preposition (122).
+  26. The ablative with *cum* is used with abstract nouns to
+    denote the manner of an action; but *cum* may be omitted if
+    an adjective modifies the noun of the phrase (129).
+  27. The ablative with *cum* is used to show accompaniment
+    (143).
+  28. Place _from which_ is usually expressed by the ablative
+    with *ā (ab)*, *dē*, *ē (ex)*; but with the names of towns,
+    and with *domus*, the preposition is omitted (230, a).
+  29. The ablative without a preposition is used to express cause
+    (185).
+  30. The ablative is used with certain prepositions (194).
+  31. The time at which or within which a thing happens is
+    expressed by the ablative without a preposition (219).
+  32. The personal agent with a passive verb is expressed by the
+    ablative with *ā* or *ab* (243).
+  33. Words signifying _privation_, _removal_, or _separation_
+    are followed by the ablative without a preposition, or with
+    the prepositions *ā (ab)*, *dē*, *ē (ex)* (282).
+  34. The degree of difference is expressed by the ablative
+    (321).
+  35. The ablative of a noun or pronoun, with a participle, a
+    noun, or an adjective in agreement, is used to express
+    _time_, _cause_, _concession_, _condition_, or other
+    relations (455).
+  36. The ablative without a preposition is used to denote in
+    what respect something is true (481).
+
+625. *Adverbial Clauses.*
+
+  37. The cause of an action may be expressed by a dependent
+    clause introduced by *quod* (51).
+  38. The subjunctive is used with *ut* or *nē* in a dependent
+    clause to express the purpose of the action stated in the
+    independent clause (344).
+  39. The subjunctive is used with *ut* or *ut nōn* in a
+    dependent clause to express the result of the action stated
+    in the independent clause (358).
+  40. Temporal clauses referring to past time, when introduced by
+    *cum*, have their verb in the indicative if they fix the time
+    of an action, but in the subjunctive if they describe the
+    circumstances of an action (488).
+  41. Adverbial clauses introduced by *quā* and *ut* (= _as_)
+    have their verbs in the indicative (497).
+
+626. *Adjective Clauses.*
+
+  42. A relative clause modifies its antecedent as an adjective
+    modifies its noun (247, b).
+
+627. *Substantive Clauses.*
+
+  43. Verbs meaning _ask_, _command_, _persuade_, and _urge_ may
+    have for their object a clause of purpose with its verb in
+    the subjunctive (356).
+  44. An indirect question, with its verb in the subjunctive, may
+    be used as the subject or the object of another verb (372,
+    b).
+  45. An infinitive with subject accusative may be used as the
+    subject of another verb (393).
+  46. An infinitive with subject accusative may be used as the
+    object of another verb (393).
+  47. An infinitive with subject accusative may be used with
+    verbs meaning _say_, _think_, _know_, _perceive_, and the
+    like, to express an indirect statement (401).
+  48. The indicative is used with *quod* in a substantive clause
+    to state something which is regarded as a fact (496).
+
+628. *Participles, the Gerund, and the Gerundive.*
+
+  49. A participle may be used as an adjective to modify a noun;
+    or it may express the idea that might otherwise be expressed
+    by a clause of _time_, _concession_, _cause_, or _condition_,
+    or by a _relative_ clause (443-445).
+  50. The gerund is a verbal noun used in the genitive, dative,
+    accusative, and ablative singular, with the constructions of
+    regular nouns (461).
+  51. When a gerund with an object might be used, the gerundive
+    is the more usual construction. The gerundive is a verbal
+    adjective in agreement with the noun (471, 472).
+  52. The gerund or the gerundive with *ad* or *causā* may be
+    used to express the purpose of an action (461, 472).
+  53. The gerundive is used with the forms of the verb *sum* to
+    express necessary action (473).
+
+629. *Subordinate Clauses in Indirect Statements.*
+
+  54. The verbs of the subordinate clauses of an indirect
+    statement are in the subjunctive (502).
+
+
+
+FORMATION OF LATIN WORDS
+
+During the first year of the study of Latin the pupil should
+learn the force of the prefixes and suffixes given below.
+
+630. *Prefixes.*
+
+  *ā- (ab-, abs-)*, _away from_, _from_
+    *ab* + *dūcō* = *abdūcō*, _lead away_
+
+  *ad-*, _to_, _toward_, _against_
+    *ad* + *dūcō* = *addūcō*, _lead to_
+
+  *con-*, _together_; _completely_
+    *con* + *dūcō* = *condūcō*, _lead together_
+
+  *dē-*, _down from_; _from_
+    *dē* + *dūcō* = *dēdūcō*, _lead down_
+
+  *ex- (ē-)*, _out from_, _out of_; _completely_
+    *ē* + *dūcō* = *ēdūcō*, _lead out_
+
+  *in-*, _in_, _into_, _on_, _toward_
+    *in* + *dūcō* = *indūcō*, _lead in_, _lead on_
+
+  *in-*, _not_; like English _un-_, _in-_
+    *in* + *amīcus* = *inimīcus*, _unfriendly_
+
+  *inter-*, _between_
+    *inter* + *cēdō* = *intercēdō*, _go between_
+
+  *per-*, _through_; _thoroughly_
+    *per* + *dūcō* = *perdūcō*, _lead through_
+
+  *prae-*, _in front of_, _in advance_
+    *prae* + *mittō* = *praemittō*, _send ahead_
+
+  *prō-*, _forward_, _forth_, _for_
+    *prō* + *dūcō* = *prōdūcō*, _lead forth_
+
+  *re- (red-)*, _back_, _again_
+    *re* + *dūcō* = *redūcō*, _lead back_
+
+  *sub- (subs-)*, _under_, _from under_, _up_
+    *su(b)s* + *teneō* = *sustineō*, _hold up_, _sustain_
+
+  *trāns- (trā-)*, _across_, _through_
+    *trā* + *dūcō* = *trādūcō*, _lead across_
+
+632. *Suffixes.*
+
+a. The suffixes *-tās*, *-tūs*, and *-ia*, when added to the
+stems of nouns, make other nouns denoting _condition_ or
+_characterstic_:
+
+  *cīvi* (stem of *cīvis*, _citizen_) + *tās* = *cīvitās*,
+    _citizenship_ (the condition or characteristic of a citizen);
+    _state_, _tribe_.
+  *vir* (weakened stem of *vir*, _man_) + *tūs* = *virtūs*,
+    _manliness_, _valor_ (the characteristic of a man).
+
+b. The suffixes *-ia*, *-tia*, *-tās*, and *-tūdō*, when added to
+the stems of adjectives, make abstract nouns denoting _quality_
+or _condition_:
+
+   *alti* (weakened stem of *altus*, _high_) + *tūdō* =
+     *altitūdō*, _height_ (the quality or condition of being
+     high)
+
+c. The suffixes *-iō*, *-tiō*, *-tus*, and *-ium*, when added to
+the stems of verbs, make verbal nouns denoting an _act_ or the
+_result of an act_:
+
+  *mūnī* (stem of *mūniō*, _fortify_) + *tiō* = *mūnītiō*, _a
+    fortifying_, _a fortification_ (the act of fortifying, or the
+    result of the act of fortifying).
+
+633. Explain the formation of the following nouns:
+
+  victōria    nātiō      aedificium  celeritās    dēditiō
+  praemium    cōnsilium  adventus    difficultās  ēruptiō
+  studium     legiō      exercitus   mūnītiō      altitūdō
+  imperium    multitūdō  equitātus   praesidium   facultās
+  virtūs      cīvitās    cōnspectus  subsidium    lēgātiō
+  conloquium  tempestās  memoria     occāsus      condiciō
+
+
+
+ENGLISH DERIVATIVES
+
+634. *Suggestions for a Notebook.* In making a collection of the
+English words that are derived from the Latin words of the
+vocabularies, the pupil should keep the results of his work in a
+notebook. Such a book should contain, in addition to the list of
+derivatives, the definition of each derivative, and a brief
+sentence illustrating its use. A suggested form of arrangement
+for the notebook follows:
+
+  DERIVATIVES OF *Vocō*, _call_
+
+  *vocō, vocāre, vocāvī, vocātus*
+
+  vocation, vocational, vocal, evoke, convoke, convocation,
+    vocative, revoke, invoke, vociferous, invocation
+
+  vocation: a _calling_, occupation
+  vocational: pertaining to a vocation or _calling_
+  vocal: pertaining to the voice
+  evoke: _call_ out
+  convoke: _call_ together
+  convocation: a _calling_ together, an assembly
+  vocative: case of _calling_, case of addresse
+  revoke: _call_ back
+  invoke: _call_ upon, ask for
+  vociferous: of large _calling_ power, with a loud voice
+  invocation: a _calling_ upon, a prayer
+
+  vocation: The choice of a vocation is not always easy
+  vocational: Vocational guidance is often necessary
+  vocal: He is receiving vocal instruction
+  evoke: His remarks evoked applause
+  convoke: He will convoke the council
+  convocation: Convocation day is at hand
+  vocative: The vocative is not common in Cæsar
+  revoke: Their punishment will be revoked
+  invoke: The ancients invoked many gods
+  vociferous: The audience became vociferous
+  invocation: The invocation was then made
+
+635. The following verbs are especially worthy of study in the
+manner suggested above because of the large number of English
+words derived from them:
+
+  amō       dūcō               audiō    locō (conlocō)    nāvigō
+  videō     mittō              dīcō     cēdō              pōnō
+  habeō     capiō              vincō    parō              cognōscō
+  doceō     iaciō              faciō    pugnō             putō
+  moneō     sedeō (obsideō)    dō       teneō             moveō
+  terreō    timeō              agō      veniō             sūmō
+
+The prefixes listed in 630, and also *ante*, _before_, *circum*,
+_around_, *ob*, _toward_, and *super*, _above_, usually are
+evident in the English derivatives of Latin words. But sometimes
+the prefix appears in a different spelling: thus,
+
+  *ab-* appears as *a-*, *abs-*, *as-* (_abstain_)
+  *ad-* appears as *ac-*, *ag-*, *al-*, *ap-*, *ar-*, *as-*,
+    *at-* (_apparatus_)
+  *con-* appears as *com-*, *co-*, *col-*, *cor-* (_composition_)
+  *in-* appears as *im-*, *ir-*, *il-* (_impose_)
+  *ob-* appears as *oc-*, *of-*, *obs-*, *o-* (_occur_)
+  *sub-* appears as *suc-*, *suf-*, *sug-*, *sup-*, *sur-*
+    (_suppose_)
