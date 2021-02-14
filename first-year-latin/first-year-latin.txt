@@ -9986,3 +9986,562 @@ the prefix appears in a different spelling: thus,
   *ob-* appears as *oc-*, *of-*, *obs-*, *o-* (_occur_)
   *sub-* appears as *suc-*, *suf-*, *sug-*, *sup-*, *sur-*
     (_suppose_)
+
+
+
+
+APPENDIX II
+
+DECLENSION, CONJUGATION, ETC.
+
+NOUNS
+
+636. FIRST DECLENSION
+
+           SINGULAR                     PLURAL
+                      CASE ENDINGS                   CASE ENDINGS
+  _Nom._   hast*a*    *-a*              hast*ae*     *-ae*
+  _Gen._   hast*ae*   *-ae*             hast*ārum*   *-ārum*
+  _Dat._   hast*ae*   *-ae*             hast*īs*     *-īs*
+  _Acc._   hast*am*   *-am*             hast*ās*     *-ās*
+  _Abl._   hast*ā*    *-ā*              hast*īs*     *-īs*
+
+637. SECOND DECLENSION
+
+           SINGULAR                     PLURAL
+                      CASE ENDINGS                   CASE ENDINGS
+  _Nom._   hort*us*   *-us*             hort*ī*      *-ī*
+  _Gen._   hort*ī*    *-ī*              hort*ōrum*   *-ōrum*
+  _Dat._   hort*ō*    *-ō*              hort*īs*     *-īs*
+  _Acc._   hort*um*   *-um*             hort*ōs*     *-ōs*
+  _Abl._   hort*ō*    *-ō*              hort*īs*     *-īs*
+
+           SINGULAR                     PLURAL
+                      CASE ENDINGS                   CASE ENDINGS
+  _Nom._   dōn*um*    *-um*             dōn*a*       *-a*
+  _Gen._   dōn*ī*     *-ī*              dōn*ōrum*    *-ōrum*
+  _Dat._   dōn*ō*     *-ō*              dōn*īs*      *-īs*
+  _Acc._   dōn*um*    *-um*             dōn*a*       *-a*
+  _Abl._   dōn*ō*     *-ō*              dōn*īs*      *-īs*
+
+            SINGULAR
+  _Nom._    puer          ager         vir          fīli*us*
+  _Gen._    puer*ī*       agr*ī*       vir*ī*       fīl*ī*
+  _Dat._    puer*ō*       agr*ō*       vir*ō*       fīli*ō*
+  _Acc._    puer*um*      agr*um*      vir*um*      fīli*um*
+  _Abl._    puer*ō*       agr*ō*       vir*ō*       fīli*ō*
+
+            PLURAL
+  _Nom._    puer*ī*       agr*ī*       vir*ī*       fīli*ī*
+  _Gen._    puer*ōrum*    agr*ōrum*    vir*ōrum*    fīli*ōrum*
+  _Dat._    puer*īs*      agr*īs*      vir*īs*      fīli*īs*
+  _Acc._    puer*ōs*      agr*ōs*      vir*ōs*      fīli*ōs*
+  _Abl._    puer*īs*      agr*īs*      vir*īs*      fīli*īs*
+
+              SINGULAR        PLURAL
+  _Nom._      proeli*um*      proeli*a*
+  _Gen._      proel*ī*        proeli*ōrum*
+  _Dat._      proeli*ō*       proeli*īs*
+  _Acc._      proeli*um*      proeli*a*
+  _Abl._      proeli*ō*       proeli*īs*
+
+638. THIRD DECLENSION
+
+                                            SINGULAR
+                                                                                CASE ENDINGS
+                                                                           M. AND F.        N.
+  _Nom._  rēx             mīle*s*           virtūt*is*      capit*is*      *-ī*             *-is*
+  _Gen._  rēg*is*         mīlit*is*         virtūt*ī*       capit*ī*       *-em*            *-ī*
+  _Dat._  rēg*ī*          mīlit*ī*          virtūt*em*      caput          *-e*             *---*
+  _Acc._  rēg*em*         mīlit*em*         virtūt*e*       capit*e*       *-ēs*            *-e*
+  _Abl._  rēg*e*          mīlit*e*          virtūt*ēs*      capit*a*       *-um*            *-a*
+
+                                            PLURAL
+  _Nom._  rēg*ēs*         mīlit*ēs*         virtūt*um*      capit*um*      *-ibus*          *-um*
+  _Gen._  rēg*um*         mīlit*um*         virtūt*ibus*    capit*ibus*    *-ēs*            *-ibus*
+  _Dat._  rēg*ibus*       mīlit*ibus*       virtūt*ēs*      capit*a*       *-ibus*          *-a*
+  _Acc._  rēg*ēs*         mīlit*ēs*         virtūt*ibus*    capit*ibus*    *-s (-is, -ēs)*  *-ibus*
+  _Abl._  rēg*ibus*       mīlit*ibus*       mōn*s*          mar*e*         *-is*            *---*
+
+639. _I_-STEMS
+
+                                            SINGULAR
+                                                                                CASE ENDINGS
+                                                                           M. AND F.        N.
+  _Nom._  host*is*        cohor*s*          mont*is*        mar*is*        *-ī*             *-is*
+  _Gen._  host*is*        cohort*is*        mont*ī*         mar*ī*         *-em (-im)*      *-ī*
+  _Dat._  host*ī*         cohort*em*        mont*em*        mar*ia*        *e (-ī)*         *---*
+  _Acc._  host*em*        cohort*e*         mont*e*         mar*ium*       *-ēs*            *-ī*
+  _Abl._  host*e*         cohort*ēs*        mont*ēs*        mar*ibus*      *-ium*           *-ia*
+
+                                            PLURAL
+  _Nom._  host*ēs*        cohort*ium*       mont*ium*       mar*ia*        *-ibus*          *-ium*
+  _Gen._  host*ium*       cohort*ibus*      mont*ibus*      mar*ibus*      *-īs (-ēs)*      *-ibus*
+  _Dat._  host*ibus*      cohort*īs (-ēs)*  mont*īs (-ēs)*  *-s* or *---*  *-ibus*          *-ia*
+  _Acc._  host*īs (-ēs)*  cohort*ibus*      mont*ibus*      *-is*          *---*            *-ibus*
+  _Abl._  host*ibus*      virtū*s*          caput
+
+          SING.        PLUR.              SING.           PLUR.
+  _Nom._  ign*is*      ign*ēs*            turr*is*        turr*ēs*
+  _Gen._  ign*is*      ign*ium*           turr*is*        turr*ium*
+  _Dat._  ign*ī*       ign*ibus*          turr*ī*         turr*ibus*
+  _Acc._  ign*em*      ign*īs (-ēs)*      turr*im (-em)*  turr*īs (-ēs)*
+  _Abl._  ign*ī (-e)*  ign*ibus*          turr*ī (-e)*    turr*ibus*
+
+640. FOURTH DECLENSION
+
+                                    SINGULAR
+                            CASE ENDINGS                     CASE ENDINGS
+                            MASC.                            NEUT.
+  _Nom._  exercit*us*       *-us*                corn*ū*     *-ū*
+  _Gen._  exercit*ūs*       *-ūs*                corn*ūs*    *-ūs*
+  _Dat._  exercit*uī (-ū)*  *uī (-ū)*            corn*ū*     *-ū*
+  _Acc._  exercit*um*       *-um*                corn*ū*     *-ū*
+  _Abl._  exercit*ū*        *-ū*                 corn*ū*     *-ū*
+
+                                     PLURAL
+                            CASE ENDINGS                     CASE ENDINGS
+                            MASC.                            NEUT.
+  _Nom._  exercit*ūs*       *-ūs*                corn*ua*    *-ua*
+  _Gen._  exercit*uum*      *-uum*               corn*uum*   *-uum*
+  _Dat._  exercit*ibus*     *-ibus (-ubus)*      corn*ibus*  *-ibus*
+  _Acc._  exercit*ūs*       *-ūs*                corn*ua*    *-ua*
+  _Abl._  exercit*ibus*     *-ibus (-ubus)*      corn*ibus*  *-ibus*
+
+641. FIFTH DECLENSION
+
+                                                    CASE ENDINGS
+          SING.   PLUR.       SING.  PLUR.      SING.         PLUR.
+  _Nom._  di*ēs*  di*ēs*      r*ēs*  r*ēs*      *-ēs*         *-ēs*
+  _Gen._  di*ēī*  di*ērum*    r*eī*  r*ērum*    *-ĕī*, *-ēī*  *-ērum*
+  _Dat._  di*ēī*  di*ēbus*    r*eī*  r*ēbus*    *-ĕī*, *-ēī*  *-ēbus*
+  _Acc._  di*em*  di*ēs*      r*em*  r*ēs*      *-em*         *-ēs*
+  _Abl._  di*ē*   di*ēbus*    r*ē*   r*ēbus*    *-ē*          *-ēbus*
+
+642. SPECIAL PARADIGMS
+
+                                    SINGULAR
+  _Nom._  de*us*                  dom*us*           iter          v*īs*
+  _Gen._  de*ī*                   dom*ūs (-ī)*      itiner*is*    v*īs*
+  _Dat._  de*ō*                   dom*uī (-ō)*      itiner*ī*     v*ī*
+  _Acc._  de*um*                  dom*um*           iter          v*im*
+  _Abl._  de*ō*                   dom*ō (-ū)*       itiner*e*     v*ī*
+
+                                     PLURAL
+  _Nom._  de*ī* (di*ī*, d*ī*)     dom*ūs*           itiner*a*     vīr*ēs*
+  _Gen._  de*ōrum* (de*um*)       dom*uum (-ōrum)*  itiner*um*    vīr*ium*
+  _Dat._  de*īs* (di*īs*, d*īs*)  dom*ibus*         itiner*ibus*  vīr*ibus*
+  _Acc._  de*ōs*                  dom*ōs (-ūs)*     itiner*a*     vīr*īs (-ēs)*
+  _Abl._  de*īs* (di*īs*, d*īs*)  dom*ibus*         itiner*ibus*  vīr*ibus*
+
+      SINGULAR
+  _Nom._  Iuppiter
+  _Gen._  Iov*is*
+  _Dat._  Iov*ī*
+  _Acc._  Iov*em*
+  _Abl._  Iov*e*
+
+
+
+ADJECTIVES
+
+643. FIRST AND SECOND DECLENSIONS
+
+                              SINGULAR
+                MASC.              FEM.               NEUT.
+  _Nom._        bon*us*            bon*a*             bon*um*
+  _Gen._        bon*ī*             bon*ae*            bon*ī*
+  _Dat._        bon*ō*             bon*ae*            bon*ō*
+  _Acc._        bon*um*            bon*am*            bon*um*
+  _Abl._        bon*ō*             bon*ā*             bon*ō*
+
+                               PLURAL
+  _Nom._        bon*ī*             bon*ae*            bon*a*
+  _Gen._        bon*ōrum*          bon*ārum*          bon*ōrum*
+  _Dat._        bon*īs*            bon*īs*            bon*īs*
+  _Acc._        bon*ōs*            bon*ās*            bon*a*
+  _Abl._        bon*īs*            bon*īs*            bon*īs*
+
+                              SINGULAR
+  _Nom._        līber              līber*a*           līber*um*
+  _Gen._        līber*ī*           līber*ae*          līber*ī*
+  _Dat._        līber*ō*           līber*ae*          līber*ō*
+  _Acc._        līber*um*          līber*am*          līber*um*
+  _Abl._        līber*ō*           līber*ā*           līber*ō*
+
+                               PLURAL
+  _Nom._        līber*ī*           līber*ae*          līber*a*
+  _Gen._        līber*ōrum*        līber*ārum*        līber*ōrum*
+  _Dat._        līber*īs*          līber*īs*          līber*īs*
+  _Acc._        līber*ōs*          līber*ās*          līber*a*
+  _Abl._        līber*īs*          līber*īs*          līber*īs*
+
+                              SINGULAR
+  _Nom._        noster             nostr*a*           nostr*um*
+  _Gen._        nostr*ī*           nostr*ae*          nostr*ī*
+  _Dat._        nostr*ō*           nostr*ae*          nostr*ō*
+  _Acc._        nostr*um*          nostr*am*          nostr*um*
+  _Abl._        nostr*ō*           nostr*ā*           nostr*ō*
+
+                               PLURAL
+  _Nom._        nostr*ī*           nostr*ae*          nostr*a*
+  _Gen._        nostr*ōrum*        nostr*ārum*        nostr*ōrum*
+  _Dat._        nostr*īs*          nostr*īs*          nostr*īs*
+  _Acc._        nostr*ōs*          nostr*ās*          nostr*a*
+  _Abl._        nostr*īs*          nostr*īs*          nostr*īs*
+
+644. THIRD DECLENSION
+
+                 SINGULAR                            SINGULAR
+          M. AND F.        N.                M. AND F.       N.
+  _Nom._  audāx            audāx             brev*is*        brev*e*
+  _Gen._  audāc*is*        audāc*is*         brev*is*        brev*is*
+  _Dat._  audāc*ī*         audāc*ī*          brev*ī*         brev*ī*
+  _Acc._  audāc*em*        audāx             brev*em*        brev*e*
+  _Abl._  audāc*ī (-e)*    audāc*ī (-e)*     brev*ī*         brev*ī*
+
+                  PLURAL                              PLURAL
+  _Nom._  audāc*ēs*        audāc*ia*         brev*ēs*        brev*ia*
+  _Gen._  audāc*ium*       audāc*ium*        brev*ium*       brev*ium*
+  _Dat._  audāc*ibus*      audāc*ibus*       brev*ibus*      brev*ibus*
+  _Acc._  audāc*īs (-ēs)*  audāc*ia*         brev*īs (-ēs)*  brev*ia*
+  _Abl._  audāc*ibus*      audāc*ibus*       brev*ibus*      brev*ibus*
+
+                 SINGULAR                              PLURAL
+          MASC.    FEM.     NEUT.        MASC.          FEM.           NEUT.
+  _Nom._  ācer     ācr*is*  ācr*e*       ācr*ēs*        ācr*ēs*        ācr*ia*
+  _Gen._  ācr*is*  ācr*is*  ācr*is*      ācr*ium*       ācr*ium*       ācr*ium*
+  _Dat._  ācr*ī*   ācr*ī*   ācr*ī*       ācr*ibus*      ācr*ibus*      ācr*ibus*
+  _Acc._  ācr*em*  ācr*em*  ācr*e*       ācr*īs (-ēs)*  ācr*īs (-ēs)*  ācr*ia*
+  _Abl._  ācr*ī*   ācr*ī*   ācr*ī*       ācr*ibus*      ācr*ibus*      ācr*ibus*
+
+645. PRESENT ACTIVE PARTICIPLES
+
+                  SINGULAR                      PLURAL
+          M. AND F.      N.            M. AND F.        N.
+  _Nom._  amān*s*        amān*s*       amant*ēs*        amant*ia*
+  _Gen._  amant*is*      amant*is*     amant*ium*       amant*ium*
+  _Dat._  amant*ī*       amant*ī*      amant*ibus*      amant*ibus*
+  _Acc._  amant*em*      amān*s*       amant*īs (-ēs)*  amant*ia*
+  _Abl._  amant*e (-ī)*  amant*e (-ī)  amant*ibus*      amant*ibus*
+
+                  SINGULAR                      PLURAL
+          M. AND F.      N.            M. AND F.        N.
+  _Nom._  iēn*s*         iēn*s*        eunt*ēs*         eunt*ia*
+  _Gen._  eunt*is*       eunt*is*      eunt*ium*        eunt*ium*
+  _Dat._  eunt*ī*        eunt*ī*       eunt*ibus*       eunt*ibus*
+  _Acc._  eunt*em*       iēn*s*        eunt*īs (-ēs)*   eunt*ia*
+  _Abl._  eunt*e (-ī)*   eunt*e (-ī)*  eunt*ibus*       eunt*ibus*
+
+646. IRREGULAR ADJECTIVES
+
+                  SINGULAR                          PLURAL
+          MASC.    FEM.     NEUT.        MASC.      FEM.       NEUT.
+  _Nom._  ali*us*  ali*a*   ali*ud*      ali*ī*     ali*ae*    ali*a*
+  _Gen._  al*īus*  al*īus*  al*īus*      ali*ōrum*  ali*ārum*  ali*ōrum*
+  _Dat._  ali*ī*   ali*ī*   ali*ī*       ali*īs*    ali*īs*    ali*īs*
+  _Acc._  ali*um*  ali*am*  ali*ud*      ali*ōs*    ali*ās*    ali*a*
+  _Abl._  ali*ō*   ali*ā*   ali*ō*       ali*īs*    ali*īs*    ali*īs*
+
+          MASC.           FEM.      NEUT.         M. AND F.        N.
+  _Nom._  ūn*us*          ūn*a*     ūn*um*        tr*ēs*           tr*ia*
+  _Gen._  ūn*īus*         ūn*īus*   ūn*īus*       tr*ium*          tr*ium*
+  _Dat._  ūn*ī*           ūn*ī*     ūn*ī*         tr*ibus*         tr*ibus*
+  _Acc._  ūn*um*          ūn*am*    ūn*um*        tr*īs* (tr*ēs*)  tr*ia*
+  _Abl._  ūn*ō*           ūn*ā*     ūn*ō*         tr*ibus*         tr*ibus*
+
+          MASC.           FEM.      NEUT.         SING.            PLUR.
+  _Nom._  du*o*           du*ae*    du*o*         mīl*le*          mīl*ia*
+  _Gen._  du*ōrum*        du*ārum*  du*ōrum*      mīl*le*          mīl*ium*
+  _Dat._  du*ōbus*        du*ābus*  du*ōbus*      mīl*le*          mīl*ibus*
+  _Acc._  du*ōs* (du*o*)  du*ās*    du*o*         mīl*le*          mīl*ia*
+  _Abl._  du*ōbus*        du*ābus*  du*ōbus*      mīl*le*          mīl*ibus*
+
+647. COMPARISON OF ADJECTIVES
+
+  POSITIVE  COMPARATIVE             SUPERLATIVE
+  lāt*us*   lāt*ior*, lāt*ius*      lāt*issimus*, *-a*, *-um*
+  brev*is*  brev*ior*, brev*ius*    brev*issimus*, *-a*, *-um*
+  audāx     audāc*ior*, audāc*ius*  audāc*issimus*, *-a*, *-um*
+  miser     miser*ior*, miser*ius*  miser*rissimus*, *-a*, *-um*
+  ācer      ācr*ior*, ācr*ius*      ācer*rimus*, *-a*, *-um*
+
+648. DECLENSION OF COMPARATIVES
+
+                 SINGULAR                           PLURAL
+          M. AND F.       N.              M. AND F.         N.
+  _Nom._  lātior          lātius          lātiōr*ēs*        lātiōr*a*
+  _Gen._  lātiōr*is*      lātiōr*is*      lātiōr*um*        lātiōr*um*
+  _Dat._  lātiōr*ī*       lātiōr*ī*       lātiōr*ibus*      lātiōr*ibus*
+  _Acc._  lātiōr*em*      lātius          lātiōr*ēs (-īs)*  lātiōr*a*
+  _Abl._  lātiōr*e (-ī)*  lātiōr*e (-ī)*  lātiōr*ibus*      lātiōr*ibus*
+
+          M. AND F.       N.              M. AND F.         N.
+  _Nom._  ------          plūs            plūr*ēs*          plūr*a*
+  _Gen._  ------          plūr*is*        plūr*ium*         plūr*ium*
+  _Dat._  ------          ------          plūr*ibus*        plūr*ibus*
+  _Acc._  ------          plūs            plūr*īs (-ēs)*    plūr*a*
+  _Abl._  ------          plūr*e*         plūr*ibus*        plūr*ibus*
+
+649. IRREGULAR COMPARISON
+
+  POSITIVE                 COMPARATIVE              SUPERLATIVE
+  bon*us*, *-a*, *-um*     mel*ior*, mel*ius*       opt*imus*, *-a*, *-um*
+  mal*us*, *-a*, *-um*     pe*ior*, pe*ius*         pess*imus*, *-a*, *-um*
+  magn*us*, *-a*, *-um*    ma*ior*, ma*ius*         max*imus*, *-a*, *-um*
+  mult*us*, *-a*, *-um*    ------, plūs             plūr*imus*, *-a*, *-um*
+  mult*ī*, *-ae*, *-a*     plūr*ēs*, plūr*a*        plūr*imī*, *-ae*, *-a*
+  parv*us*, *-a*, *-um*    min*or*, min*us*         min*imus*, *-a*, *-um*
+  facil*is*, *-e*          facil*ior*, *-ius*       facil*limus*, *-a*, *-um*
+  difficil*is*, *-e*       difficil*ior*, *-ius*    difficil*limus*, *-a*, *-um*
+  simil*is*, *-e*          simil*ior*, *-ius*       simil*limus*, *-a*, *-um*
+  dissimil*is*, *-e*       dissimil*ior*, *-ius*    dissimil*limus*, *-a*, *-um*
+
+  exter*us*                exter*ior*               extr*ēmus*, ext*imus*
+    _outward_                _outer_, _exterior_      _outermost_, _last_
+  īnfer*us*                īnfer*ior*               īnf*imus*, ī*mus*
+    _below_                  _lower_                  _lowest_
+  poster*us*               poster*ior*              postr*ēmus*, post*umus*
+    _following_              _later_                  _last_
+  super*us*                super*ior*               supr*ēmus*, sum*mus*
+    _above_                  _higher_                 _highest_
+  cis, citrā               citer*ior*               cit*imus*
+    _on this side_           _hither_                 _hithermost_
+  in, intrā                inter*ior*               cit*imus*
+    _in_, _within_           _inner_                  _inmost_
+  prae, prō                pr*ior*                  pr*-īmus*
+    _before_                 _former_                 _first_
+  prope                    prop*ior*                prox*imus*
+    _near_                   _nearer_                 _next_
+  ultrā                    ulter*ior*               ult*imus*
+    _beyond_                 _farther_                _farthest_
+
+650. COMPARISON OF ADVERBS
+
+  POSITIVE                         COMPARATIVE       SUPERLATIVE
+  cār*ē* (*cārus*)                 cār*ius*          cār*issimē*
+  miser*ē* (*miser*)               miser*ius*        miser*rimē*
+  ācri*ter* (*ācer*)               ācr*ius*          ācer*rimē*
+  facil*e* (*facilis*)             facil*ius*        facil*limē*
+  ben*e* (*bonus*)                 mel*ius*          opt*imē*
+  mal*e* (*malus*)                 pe*ius*           pess*imē*
+  mult*um* (*multus*)              plūs              plūr*imum*
+
+  parum, _little_                  min*us*           min*imē*
+  diū, _long_, _a long time_       diūt*ius*         diūt*issimē*
+  saepe, _often_                   saep*ius*         saep*issimē*
+
+651. NUMERALS
+
+  1.        ūnus, -a, -um                      prīmus, -a, -um
+  2.        duo, duae, duo                     secundus (_or_ alter)
+  3.        trēs, tria                         tertius
+  4.        quattuor                           quārtus
+  5.        quīnque                            quīntus
+  6.        sex                                sextus
+  7.        septem                             septimus
+  8.        octō                               octāvus
+  9.        novem                              nōnus
+  10.       decem                              decimus
+  11.       ūndecim                            ūndecimus
+  12.       duodecim                           duodecimus
+  13.       tredecim                           tertius decimus
+  14.       quattuordecim                      quārtus decimus
+  15.       quīndecim                          quīntus decimus
+  16.       sēdecim                            sextus decimus
+  17.       septendecim                        septimus decimus
+  18.       duodēvīgintī                       duodēvīcēnsimus
+  19.       ūndēvīgintī                        ūndēvīcēnsimus
+  20.       vīgintī                            vīcēnsimus
+  21.       vīgintī ūnus _or_ ūnus et vīgintī  vīcēnsimus prīmus _or_ ūnus et vīcēnsimus
+  22.       vīgintī duo _or_ duo et vīgintī    vīcēnsimus secundus _or_ alter et vīcēnsimus
+  28.       duodētrīgintā                      duodētrīcēnsimus
+  29.       ūndētrīgintā                       ūndētrīcēnsimus
+  30.       trīgintā                           trīcēnsimus
+  40.       quadrāgintā                        quadrāgēnsimus
+  50.       quīnquāgintā                       quīnquāgēnsimus
+  60.       sexāgintā                          sexāgēnsimus
+  70.       septuāgintā                        septuāgēnsimus
+  80.       octōgintā                          octōgēnsimus
+  90.       nōnāgintā                          nōnāgēnsimus
+  100.      centum                             centēnsimus
+  101.      centum ūnus _or_ centum et ūnus    centēnsimus prīmus _or_ centēnsimus et prīmus
+  200.      ducentī, -ae, -a                   ducentēnsimus
+  300.      trecentī                           trecentēnsimus
+  400.      quadringentī                       quadringentēnsimus
+  500.      quīngentī                          quīngentēnsimus
+  600.      sescentī                           sescentēnsimus
+  700.      septingentī                        septingentēnsimus
+  800.      octingentī                         octingentēnsimus
+  900.      nōngentī                           nōngentēnsimus
+  1000.     mīlle                              mīllēnsimus
+  2000.     duo mīlia                          bis mīllēnsimus
+  100,000.  centum mīlia                       centiēns mīllēnsimus
+
+
+
+PRONOUNS
+
+652. PERSONAL
+
+                       SING.                     PLUR.
+  _Nom._               ego, _I_                  nōs, _we_
+  _Gen._               meī                       nostrum (-trī)
+  _Dat._               mihi                      nōbīs
+  _Acc._               mē                        nōs
+  _Abl._               mē                        nōbīs
+
+                       SING.                     PLUR.
+  _Nom._               tū, _you_                 vōs, _you_
+  _Gen._               tuī                       vestrum (-trī)
+  _Dat._               tibi                      vōbīs
+  _Acc._               tē                        vōs
+  _Abl._               tē                        vōbīs
+
+                       SING.                     PLUR.
+  _Nom._               is, _he_                  iī (eī), _they_
+  _Gen._               eius, _his_               eōrum, _their_
+  _Dat._               eī                        iīs (eīs)
+  _Acc._               eum                       eōs
+  _Abl._               eō                        iīs (eīs)
+
+                       SING.                     PLUR.
+  _Nom._               ea, _she_                 eae, _they_
+  _Gen._               eius, _her_               eārum, _their_
+  _Dat._               eī                        iīs (eīs)
+  _Acc._               eam                       eās
+  _Abl._               eā                        iīs (eīs)
+
+                       SING.                     PLUR.
+  _Nom._               id, _it_                  ea, _they_
+  _Gen._               eius, _its_               eōrum, _their_
+  _Dat._               eī                        iīs (eīs)
+  _Acc._               id                        ea
+  _Abl._               eō                        iīs (eīs)
+
+a. *Hic* (654) and *ille* (654) are also used as pronouns of the
+third person.
+
+653. REFLEXIVE
+
+          SING.                               PLUR.
+  _Nom._  ------                              ------
+  _Gen._  meī, _of myself_                    nostrī, _of ourselves_
+  _Dat._  mihi                                nōbīs
+  _Acc._  mē                                  nōs
+  _Abl._  mē                                  nōbīs
+
+          SING.                               PLUR.
+  _Nom._  ------                              ------
+  _Gen._  tuī, _of yourself_                  vestrī, _of yourselves_
+  _Dat._  tibi                                vōbīs
+  _Acc._  tē                                  vōs
+  _Abl._  tē                                  vōbīs
+
+          SING.                               PLUR.
+  _Nom._  ------                              ------
+  _Gen._  suī, _of himself, herself, itself_  suī, _of themselves_
+  _Dat._  sibi                                sibi
+  _Acc._  sē (sēsē)                           sē (sēsē)
+  _Abl._  sē (sēsē)                           sē (sēsē)
+
+654. DEMONSTRATIVE
+
+                 SINGULAR                               PLURAL
+          MASC.    FEM.     NEUT.        MASC.           FEM.            NEUT.
+  _Nom._  hic      haec     hoc          hī              hae             haec
+  _Gen._  huius    huius    huius        hōrum           hārum           hōrum
+  _Dat._  huic     huic     huic         hīs             hīs             hīs
+  _Acc._  hunc     hanc     hoc          hōs             hās             haec
+  _Abl._  hōc      hāc      hōc          hīs             hīs             hīs
+
+  _Nom._  ille     illa     illud        illī            illae           illa
+  _Gen._  illīus   illīus   illīus       illōrum         illārum         illōrum
+  _Dat._  illī     illī     illī         illīs           illīs           illīs
+  _Acc._  illum    illam    illud        illōs           illās           illa
+  _Abl._  illō     illā     illō         illīs           illīs           illīs
+
+  _Nom._  is       ea       id           iī (eī)         eae             ea
+  _Gen._  eius     eius     eius         eōrum           eārum           eōrum
+  _Dat._  eī       eī       eī           iīs (eīs)       iīs (eīs)       iīs (eīs)
+  _Acc._  eum      eam      id           eōs             eās             ea
+  _Abl._  eō       eā       eō           iīs (eīs)       iīs (eīs)       iīs (eīs)
+
+  _Nom._  iste     ista     istud        istī            istae           ista
+  _Gen._  istīus   istīus   istīus       istōrum         istārum         istōrum
+  _Dat._  istī     istī     istī         istīs           istīs           istīs
+  _Acc._  istum    istam    istud        istōs           istās           ista
+  _Abl._  istō     istā     istō         istīs           istīs           istīs
+
+  _Nom._  īdem     e'adem   idem         iīdem, eīdem    eaedem          e'adem
+  _Gen._  eiusdem  eiusdem  eiusdem      eōrundem        eārundem        eōrundem
+  _Dat._  eīdem    eīdem    eīdem        iīsdem, eīsdem  iīsdem, eīsdem  iīsdem, eīsdem
+  _Acc._  eundem   eandem   idem         eōsdem          eāsdem          e'adem
+  _Abl._  eōdem    eādem    eōdem        iīsdem, eīsdem  iīsdem, eīsdem  iīsdem, eīsdem
+
+  _Nom._  ipse     ipsa     ipsum        ipsī            ipsae           ipsa
+  _Gen._  ipsīus   ipsīus   ipsīus       ipsōrum         ipsārum         ipsōrum
+  _Dat._  ipsī     ipsī     ipsī         ipsīs           ipsīs           ipsīs
+  _Acc._  ipsum    ipsam    ipsum        ipsōs           ipsās           ipsa
+  _Abl._  ipsō     ipsā     ipsō         ipsīs           ipsīs           ipsīs
+
+655. RELATIVE
+
+                   SINGULAR                          PLURAL
+          MASC.       FEM.   NEUT.            MASC.   FEM.    NEUT.
+  _Nom._  quī         quae   quod             quī     quae    quae
+  _Gen._  cuius       cuius  cuius            quōrum  quārum  quōrum
+  _Dat._  cui         cui    cui              quibus  quibus  quibus
+  _Acc._  quem        quam   quod             quōs    quās    quae
+  _Abl._  quō         quā    quō              quibus  quibus  quibus
+
+656. INTERROGATIVE
+
+                   SINGULAR                          PLURAL
+          MASC.       FEM.   NEUT.            MASC.   FEM.    NEUT.
+  _Nom._  quis (quī)  quae   quid (quod)      quī     quae    quae
+  _Gen._  cuius       cuius  cuius            quōrum  quārum  quōrum
+  _Dat._  cui         cui    cui              quibus  quibus  quibus
+  _Acc._  quem        quam   quid (quod)      quōs    quās    quae
+  _Abl._  quō         quā    quō              quibus  quibus  quibus
+
+657. INDEFINITE
+
+                                SINGULAR
+             MASC.                FEM.          NEUT.
+  _Nom._     aliquis (aliquī)     aliqua        aliquid (aliquod)
+  _Gen._     alicuius             alicuius      alicuius
+  _Dat._     alicui               alicui        alicui
+  _Acc._     aliquem              aliquam       aliquid (aliquod)
+  _Abl._     aliquō               aliquā        aliquō
+
+                                 PLURAL
+  _Nom._     aliquī               aliquae       aliqua
+  _Gen._     aliquōrum            aliquārum     aliquōrum
+  _Dat._     aliquibus            aliquibus     aliquibus
+  _Acc._     aliquōs              aliquās       aliqua
+  _Abl._     aliquibus            aliquibus     aliquibus
+
+                                SINGULAR
+  _Nom._     quīdam               quaedam       quiddam (quoddam)
+  _Gen._     cuiusdam             cuiusdam      cuiusdam
+  _Dat._     cuidam               cuidam        cuidam
+  _Acc._     quendam              quandam       quiddam (quoddam)
+  _Abl._     quōdam               quādam        quōdam
+
+                                 PLURAL
+  _Nom._     quīdam               quaedam       quedam
+  _Gen._     quōrundam            quārundam     quōrundam
+  _Dat._     quibusdam            quibusdam     quibusdam
+  _Acc._     quōsdam              quāsdam       quaedam
+  _Abl._     quibusdam            quibusdam     quibusdam
+
+                                       SINGULAR
+          MASC.     FEM.      NEUT.              MASC. AND FEM.  NEUT.
+  _Nom._  quisque   quaeque   quidque (quodque)  quisquam        quicquam (quidquam)
+  _Gen._  cuiusque  cuiusque  cuiusque           cuiusquam       cuiusquam
+  _Dat._  cuique    cuique    cuique             cuiquam         cuiquam
+  _Acc._  quemque   quamque   quidque (quodque)  quemquam        quicquam (quidquam)
+  _Abl._  quōque    quāque    quōque             quōquam         quōquam
+
+                _Plural rare_                          _Plural missing_
