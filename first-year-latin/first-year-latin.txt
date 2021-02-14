@@ -10545,3 +10545,211 @@ third person.
   _Abl._  quōque    quāque    quōque             quōquam         quōquam
 
                 _Plural rare_                          _Plural missing_
+
+
+
+REGULAR VERBS
+
+658. FIRST CONJUGATION --- *Ā-Verbs*
+
+  *amō*, _love_
+
+  PRINCIPAL PARTS: *a'mō*, *amā're*, *amā'vī*, *amā'tus*
+
+  _Pres. Stem_ *amā-*
+  _Perf. Stem_ *amāv-*
+  _Part. Stem_ *amāt-*
+
+                               INDICATIVE
+        ACTIVE VOICE                          PASSIVE VOICE
+                                PRESENT
+  _I love, am loving, do love_, etc.        _I am loved_, etc.
+  a'm*ō*        am*ā'mus*               a'mo*r*          am*ā'mur*
+  a'm*ās*       am*ā'tis*               am*ā'ris*        am*ā'minī*
+  a'm*at*       a'm*ant*                am*ā'tur*        am*an'tur*
+
+                            IMPERFECT (PAST)
+  _I loved, was loving, did love_, etc.    _I was loved_, etc.
+  am*ā'bam*     am*ābā'mus*             am*ā'bar*        am*ābā'mur*
+  am*ā'bās*     am*ābā'tis*             am*ābā'ris*      am*ābā'minī*
+  am*ā'bat*     am*ā'bant*              am*ābā'tur*      am*āban'tur*
+
+                                 FUTURE
+    _I shall love_, etc.                  _I shall be loved_, etc.
+  am*ā'bō*      am*ā'bimus*             am*ā'bor*        am*ā'bimur*
+  am*ā'bis*     am*ā'bitis*             am*ā'beris*      am*ābi'minī*
+  am*ā'bit*     am*ā'bunt*              am*ā'bitur*      am*ābun'tur*
+
+                                PERFECT
+  _I have loved, loved, did love_, etc. _I have been (was) loved_, etc.
+  amā'v*ī*      amā'v*imus*             amāt*us sum*     amā't*ī sumus*
+  amāv*is'tī*   amāv*īs'tis*            amā't*us es*     amā't*ī estis*
+  amā'v*it*     amāv*ē'runt*            amāt*us est*     amā't*ī sunt*
+
+                        PLUPERFECT (PAST PERFECT)
+     _I had loved_, etc.                    _I had been loved_, etc.
+  amā'v*eram*   amāv*erā'mus*           amā't*us eram*   amā't*ī erāmus*
+  amā'v*erās*   amāv*erā'tis*           amā't*us erās*   amā't*ī erātis*
+  amā'v*erat*   amā'v*erant*            amā't*us erat*   amā't*ī erant*
+
+                            FUTURE PERFECT
+   _I shall have loved_, etc.           _I shall have been loved_, etc.
+  amā'v*erō*    amāv*e'rimus*           amā't*us erō*    amā't*ī erimus*
+  amā'v*eris*   amāv*e'ritis*           amā't*us eris*   amā't*ī eritis*
+  amā'v*erit*   amā'v*erint*            amā't*us erit*   amā't*ī erunt*
+
+                              SUBJUNCTIVE
+                                PRESENT
+  a'm*em*       am*ē'mus*               a'm*er*          am*ē'mur*
+  a'm*ēs*       am*ē'tis*               am*ē'ris*        am*ē'minī*
+  a'm*et*       a'm*ent*                am*ē'tur*        am*en'tur*
+
+                            IMPERFECT (PAST)
+  am*ā'rem*     am*ārē'mus*             am*ā'rer*        am*ārē'mur*
+  am*ā'rēs*     am*ārē'tis*             am*ārē'ris*      am*ārē'minī*
+  am*ā'ret*     am*ā'rent*              am*ārē'tur*      am*āren'tur*
+
+                                PERFECT
+  amā'v*erim*   amāv*erī'mus*           amā't*us sim*    amā't*ī sīmus*
+  amā'v*erīs*   amāv*erī'tis*           amā't*us sīs*    amā't*ī sītis*
+  amā'v*erit*   amā'v*erint*            amā't*us sit*    amā't*ī sint*
+
+                        PLUPERFECT (PAST PERFECT)
+  amāv*is'sem*  amāv*issē'mus*          amā't*us essem*  amā't*ī essēmus*
+  amāv*is'sēs*  amāv*issē'tis*          amā't*us essēs*  amā't*ī essētis*
+  amāv*is'set*  amāv*is'sent*           amā't*us esset*  amā't*ī essent*
+
+                               IMPERATIVE
+                                PRESENT
+  a'm*ā*, _love thou_                             am*ā're*, _be thou loved_
+  am*ā'te*, _love ye_                             am*ā'minī*, _be ye loved_
+
+                                 FUTURE
+  am*ātō*, _thou shalt love_                      am*ātor*, _thou shalt be loved_
+  am*ātō*, _he shall love_                        am*ātor*, _he shall be loved_
+  am*ātōte*, _you shall love_                     ------------
+  am*antō*, _they shall love_                     am*antor*, _they shall be loved_
+
+                                INFINITIVE
+  PRES. am*ā're*, _to love_                       am*ā'rī*, _to be loved_
+  PERF. amāv*is'se*, _to have loved_              amā't*us esse*, _to have been loved_
+  FUT. amāt*ū'rus esse*, _to be about to love_    [amā't*um īrī*, _to be about to be loved_]
+
+                               PARTICIPLES
+  PRES. a'm*āns*, *-antis*, _loving_              PRES. ------------
+  FUT. amāt*ū'rus*, *-a*, *-um*, _about to love_  GER.[1] am*an'dus*, *-a*, *-um*, _to be loved_
+  PERF. ------------                              PERF. amā't*us*, *-a*, *-um*, _having been loved_, _loved_
+
+                                 GERUND
+                      _Nom._ ------------
+                      _Gen._ am*an'dī*, _of loving_
+                      _Dat._ am*an'dō*, _for loving_
+                      _Acc._ am*an'dum*, _loving_
+                      _Abl._ am*an'dō*, _by loving_
+                      
+                                 SUPINE
+                      _Acc._ [amāt*um*, _to love_]
+                      _Abl._ [amāt*ū*, _to love_, _in the loving_]
+
+[1] Gerundive, sometimes called _future passive participle_.
+
+659. SECOND CONJUGATION --- *Ē-Verbs*
+
+  *moneō*, _advise_
+
+  PRINCIPAL PARTS: *mo'neō*, *monē're*, *mo'nuī*, *mo'nitus*
+
+  _Pres. Stem_ *monē-*
+  _Perf. Stem_ *monu-*
+  _Part. Stem_ *monit-*
+
+                               INDICATIVE
+        ACTIVE VOICE                            PASSIVE VOICE
+                                PRESENT
+      _I advise_, etc.                       _I am advised_, etc.
+  mo'n*eō*      mon*ē'mus*              mo'n*eor*         mon*ē'mur*
+  mo'n*ēs*      mon*ē'tis*              mon*ē'ris*        mon*ē'minī*
+  mo'n*et*      mo'n*ent*               mon*ē'tur*        mon*en'tur*
+
+                            IMPERFECT (PAST)
+    _I was advising_, etc.                   _I was advised_, etc.
+  mon*ē'bam*    mon*ēbā'mus*            mon*ē'bar*        mon*ēbā'mur*
+  mon*ē'bās*    mon*ēbā'tis*            mon*ēbā'ris*      mon*ēbā'minī*
+  mon*ē'bat*    mon*ē'bant*             mon*ēbā'tur*      mon*ēban'tur*
+
+                                FUTURE
+    _I shall advise_, etc.                 _I shall be advised_, etc.
+  mon*ē'bō*     mon*ē'bimus*            mon*ē'bor*        mon*ē'bimur*
+  mon*ē'bis*    mon*ē'bitis*            mon*ē'beris*      mon*ēbi'minī*
+  mon*ē'bit*    mon*ē'bunt*             mon*ē'bitur*      mon*ēbun'tur*
+
+                               PERFECT
+  _I have advised_, _I advised_, etc.    _I have been (was) advised_, etc.
+  mo'nu*ī*      monu'*imus*             mo'nit*us sum*    mo'nit*ī sumus*
+  monu*is'tī*   monu*is'tis*            mo'nit*us es*     mo'nit*ī estis*
+  mo'nu*it*     monu*ē'runt*            mo'nit*us est*    mo'nit*ī sunt*
+
+                       PLUPERFECT (PAST PERFECT)
+     _I had advised_, etc.                 _I had been advised_, etc.
+  monu'*eram*   monu*erā'mus*           mo'nit*us eram*   mo'nit*ī erāmus*
+  monu'*erās*   monu*erā'tis*           mo'nit*us erās*   mo'nit*ī erātis*
+  monu'*erat*   monu'*erant*            mo'nit*us erat*   mo'nit*ī erant*
+
+                            FUTURE PERFECT
+  _I shall have advised_, etc.          _I shall have been advised_, etc.
+  monu'*erō*    monu*e'rimus*           mo'nit*us erō*    mo'nit*ī erimus*
+  monu'*eris*   monu*e'ritis*           mo'nit*us eris*   mo'nit*ī eritis*
+  monu'*erit*   monu'*erint*            mo'nit*us erit*   mo'nit*ī erunt*
+
+                              SUBJUNCTIVE
+                                PRESENT
+  mo'n*eam*     mon*eā'mus*             mo'n*ear*         mon*eā'mur*
+  mo'n*eās*     mon*eā'tis*             mon*eā'ris*       mon*eā'minī*
+  mo'n*eat*     mo'n*eant*              mon*eā'tur*       mon*ean'tur*
+
+                            IMPERFECT (PAST)
+  mon*ē'rem*    mon*ērē'mus*            mon*ē'rer*        mon*ērē'mur*
+  mon*ē'rēs*    mon*ērē'tis*            mon*ērē'ris*      mon*ērē'minī*
+  mon*ē'ret*    mon*ē'rent*             mon*ērē'tur*      mon*ēren'tur*
+
+                                PERFECT
+  monu'*erim*   monu*erī'mus*           mo'nit*us sim*    mo'nit*ī sīmus*
+  monu'*erīs*   monu*erī'tis*           mo'nit*us sīs*    mo'nit*ī sītis*
+  monu'*erit*   monu'*erint*            mo'nit*us sit*    mo'nit*ī sint*
+
+                       PLUPERFECT (PAST PERFECT)
+  monu*is'sem*  monu*issē'mus*          mo'nit*us essem*  mo'nit*ī essēmus*
+  monu*is'sēs*  monu*issē'tis*          mo'nit*us essēs*  mo'nit*ī essētis*
+  monu*is'set*  monu*is'sent*           mo'nit*us esset*  mo'nit*ī essent*
+
+                               IMPERATIVE
+                                PRESENT
+  mo'n*ē*, _advise thou_                             mon*ē're*, _be thou advised_
+  mon*ē'te*, _advise ye_                             mon*ē'minī*, _be ye advised_
+  mon*ētō*, _thou shalt advise_                      mon*ētor*, _thou shalt be advised_
+
+                                FUTURE
+  mon*ētō*, _he shall advise_                        mon*ētor*, _he shall be advised_
+  mon*ētōte*, _you shall advise_                     ------------
+  mon*entō*, _they shall advise_                     mon*entor*, _they shall be advised
+
+                               INFINITIVE
+  PRES. mon*ē're*, _to advise_                       mon*ē'rī*, _to be advised_
+  PERF. monu*is'se*, _to have advised_               mo'nit*us esse*, _to have been advised_
+  FUT. monit*ū'rus esse*, _to be about to advise_    [mo'nit*um īrī*, _to be about to be advised_]
+
+                               PARTICIPLES
+  PRES. mo'n*ēns*, *-entis*, _advising               PRES. ------------
+  FUT. monit*ū'rus*, *-a*, *-um*, _about to advise_  GER. mon*en'dus*, *-a*, *-um*, _to be advised_
+  PERF. ------------                                 PERF. mo'nit*us*, *-a*, *-um*, _having been advised_, _advised_
+
+                                GERUND
+                _Nom._ ------------
+                _Gen._ mon*en'dī*, _of advising_
+                _Dat. mon*en'dō*, _for advising_
+                _Acc._ mon*en'dum*, _advising_
+                _Abl._ mon*en'dō*, _by advising_
+
+                                SUPINE
+                _Acc._ [monit*um*, _to advise_]
+                _Abl._ [monit*ū*, _to advise_, _in the advising_]
