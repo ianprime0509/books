@@ -10753,3 +10753,710 @@ REGULAR VERBS
                                 SUPINE
                 _Acc._ [monit*um*, _to advise_]
                 _Abl._ [monit*ū*, _to advise_, _in the advising_]
+
+
+660. THIRD CONJUGATION --- *Ĕ-Verbs*
+
+  *regō*, _rule_
+
+  PRINCIPAL PARTS: *re'gō*, *re'gere8, *rē'xī*, *rēc'tus*
+
+  _Pres. Stem_ *rege-*
+  _Perf. Stem_ *rēx-*
+  _Part. Stem_ *rēct-*
+
+                         INDICATIVE
+         ACTIVE VOICE                  PASSIVE VOICE
+                           PRESENT
+      _I rule_, etc.                  _I am ruled_, etc.
+  re'g*ō*       re'g*imus*      re'g*or*          re'g*imur*
+  re'g*is*      re'g*itis*      re'g*eris*        reg*i'minī*
+  re'g*it*      re'g*unt*       re'g*itur*        reg*un'tur*
+
+                       IMPERFECT (PAST) 
+    _I was ruling_, etc.              _I was ruled_, etc.
+  reg*ē'bam*    reg*ēbā'mus*    reg*ē'bar*        reg*ēbā'mur*
+  reg*ē'bās*    reg*ēbā'tis*    reg*ēbā'ris*      reb*ēbā'minī*
+  reg*ē'bat*    reg*ē'bant*     reb*ēbā'tur*      reg*ēban'tur*
+
+                           FUTURE
+    _I shall rule_, etc.            _I shall be ruled_, etc.
+  re'g*am*      reg*ē'mus*      re'g*ar*          reg*ē'mur*
+  re'g*ēs*      reg*ē'tis*      reg*ē'ris*        reg*ē'minī*
+  re'g*et*      re'g*ent*       reg*ē'tur*        reg*en'tur*
+
+                           PERFECT
+    _I have ruled_, etc.            _I have been ruled_, etc.
+  rē'x*ī*       rē'x*imus*      rēc't*us sum*     rēc't*ī sumus*
+  rēx*is'tī*    rēx*is'tis*     rēc't*us es*      rēc't*ī estis*
+  rē'x*it*      rēx*ē'runt*     rēc't*us est*     rēc't*ī sunt*
+
+                    PLUPERFECT (PAST PERFECT)
+    _I had ruled_, etc.             _I had been ruled_, etc.
+  rē'x*eram*    rēx*erā'mus*    rēct*us eram*     rēc't*ī erāmus*
+  rē'x*erās*    rēx*erā'tis*    rēc't*us erās*    rēc't*ī erātis*
+  rē'x*erat*    rē'x*erant*     rēc't*us erat*    rēc't*ī erant*
+
+                        FUTURE PERFECT
+  _I shall have ruled_, etc.    _I shall have been ruled_, etc.
+  rē'x*erō*     rēx*e'rimus*    rēc't*us erō*     rēc't*ī erimus*
+  rē'x*eris*    rēx*e'ritis*    rēc't*us eris*    rēc't*ī eritis*
+  rē'x*erit*    rē'x*erint*     rēc't*us erit*    rēc't*ī erunt*
+
+                       SUBJUNCTIVE
+                         PRESENT
+  re'g*am*     reg*ā'mus*     re'g*ar*         reg*ā'mur*
+  re'g*ās*     reg*ā'tis*     reg*ā'ris*       reg*ā'minī*
+  re'g*at*     re'g*ant*      reg*ā'tur*       reg*an'tur*
+
+                    IMPERFECT (PAST)
+  re'g*erem*   reg*erē'mus*   re'g*erer*       reg*erē'mur*
+  re'g*erēs*   reg*erē'tis*   reg*erē'ris*     reg*erē'minī*
+  re'g*eret*   re'g*erent*    reg*erē'tur*     reg*eren'tur*
+
+                         PERFECT
+  rē'x*erim*   rēx*erī'mus*   rēc't*us sim*    rēc't*ī sīmus*
+  rē'x*erīs*   rēx*erī'tis*   rēc't*us sīs*    rēc't*ī sītis*
+  rē'x*erit*   rē'x*erint*    rēc't*us sit*    rēc't*ī sint*
+
+                 PLUPERFECT (PAST PERFECT)
+  rēx*is'sem*  rēx*issē'mus*  rēc't*us essem*  rēc't*ī essēmus*
+  rēx*is'sēs*  rēx*issē'tis*  rēc't*us essēs*  rēc't*ī essētis*
+  rēx*is'set*  rēx*is'sent*   rēc't*us esset*  rēc't*ī essent*
+
+  
+                                          IMPERATIVE
+                                            PRESENT
+  re'g*e*, _rule thou_                             re'g*ere*, _be thou ruled_
+  re'g*ite*, _rule ye_                             reg*i'minī*, _be ye ruled_
+
+                                            FUTURE
+  reg*itō*, _thou shalt rule_                      reg*itor*, _thou shalt be ruled_
+  reg*itō*, _he shall rule_                        reg*itor*, _he shall be ruled_
+  reg*itōte*, _ye shall rule_                      ------------
+  reg*untō*, _they shall rule_                     reg*untor*, _they shall be ruled_
+
+                                          INFINITIVE
+  PRES. re'g*ere*, _to rule_                       re'g*ī*, _to be ruled_
+  PERF. rēx*is'se*, _to have ruled_                rēc't*us esse*, _to have been ruled_
+  FUT.t rēct*ūrus esse*, _to be about to rule_     [rēc't*um īrī*, _to be about to be ruled_]
+
+                                          PARTICIPLES
+  PRES. re'g*ēns*, *-entis*, _ruling_              PRES. ------------
+  FUT.t rēct*ū'rus*, *-a*, *-um*, _about to rule_  GER. reg*en'dus*, *-a*, *-um*, _to be ruled_
+  PERF. ------------                               PERF. rēc't*us*, *-a*, *-um*, _having been ruled_, _ruled_
+
+                                             GERUND
+                               _Nom._ ------------
+                               _Gen._ reg*en'dī*, _of ruling_
+                               _Dat._ reg*en'dō*, _for ruling_
+                               _Acc._ reg*en'dum*, _ruling_
+                               _Abl._ reg*en'dō*, _by ruling_
+
+                                             SUPINE
+                               _Acc._ [rēct*um*, _to rule_]
+                               _Abl._ [rēct*ū*, _to rule_, _in the ruling_]
+
+TODO: do the rest of the conjugations later; I can't take any
+more formatting now
+
+
+
+
+LATIN-ENGLISH VOCABULARY
+
+In this vocabulary words inclosed in brackets (except in the
+case of compounds with one or both parts changed in form) are
+sometimes primitives, sometimes cognates.
+
+Translations inclosed within parentheses are not intended to
+be used as such. They are inserted to show literal meanings.
+
+Abbreviations are generally self-explanatory. Cf. (_confer_) =
+compare; irr. = irregular.
+
+Words printed in SMALL CAPITALS are at once derivatives and
+definitions: as, _ABDUCT_, under *abdūcō*. Many other more or
+less remotely derived words, not definitions, are added in
+_italic_ in parentheses: as, (_Accident_), under *accidō*.
+
+It will be seen that comparisons of words in reference to
+meaning are much more frequent than is usual in special
+vocabularies. this has been done fro mthe conviction that the
+pupils should make such comparisons frequently from the
+outset.
+
+  *ā (ab)*, _prep. with abl._, from, by, off
+  *ab-dō*, *abdere*, *abdidī*, *abditus* [*-dō*, put], hide,
+    conceal
+  *ab-dūcō*, *abdūcere*, *abdūxī*, *abductus*, lead away, take
+    off; ABDUCT
+  *ab-eō*, *abīre*, *abiī*, *abitūrus*, go from, go off, go
+    away
+  *ab-iciō*, *abicere*, *abiēcī*, *abiectus* [*-iaciō*], throw
+    off, throw down, cast away. (_Abject_)
+  *ab-ripiō*, *abripere*, *abripuī*, *abreptus* [*-rapiō*],
+    snatch away, carry off
+  *abs-trahō*, *abstrahere*, *abstrāxī*, *abstrāctus*
+    [*ab(s)-*], drag away, draw off. (_Abstract_)
+  *ab-sum*, *abesse*, *āfuī*, *āfutūrus*, be away, be ABSENT,
+    be distant, be off; _with *ā* and abl._
+  *ac*, _conj._, _see *atque*_
+  *ac-cēdō*, *accēdere*, *accessī*, *accessūrus* [*ad-*], go
+    _or_ come near, approach. (_Accession._) _Cf. *adeō* and
+    *appropinquō*_
+  *ac-cendō*, *accendere*, *accendī*, *accēnsus* [*ad-candeō*,
+    shine], kindle, set fire to, light; inflame
+  *ac-cidō*, *accidere*, *accidī*, *------* [*ad-cadō*, fall],
+    fall upon, fall out, happen. (_Accident_.) _Cf. *ēveniō* and
+    *fīō*_
+  *ac-cipiō*, *accipere*, *accēpī*, *acceptus* [*ad-capiō*],
+    (take to), receive, ACCEPT
+  *ac-currō*, *accurrere*, *accurrī (accucurrī)*, *accursūrus*
+    [*ad-*], run up, run toward
+  *ācer*, *ācris*, *ācre*, _adj._, sharp, keen; active, EAGER.
+    (_Acrid_)
+  *acervus*, *-ī*, _m._, pile, heap, mass
+  *aciēs*, *-ēī*, _f._ [*ācer*], edge; line, line of battle,
+    battle array
+  *Ācrisius*, *Ācrisī*, _m._, ACRISIUS, grandfather of Perseus
+  *ācreter*, _adv._ [*ācer*], sharply, EAGERLY, spiritedly,
+    fiercely
+  *ad*, _prep. with acc._, to, toward, near, up to; _with gerund
+    or gerundive_, to, for; *ad hunc modum*, after this manner;
+    _as adv._, about
+  *ad-aequō*, *adaequāre*, *adaequāvī*, *adaequātus*, become
+    EQUAL to, EQUAL. (_Adequate_)
+  *adclīvis*, *-e*, _adj._, sloping toward, rising, ascending
+    (_Acclivity_)
+  *ad-dūcō*, *addūcere*, *addūxī*, *adductus*, lead to, influence
+    (_Adduce_)
+  *ad-eō*, *adīre*, *adiī*, *aditus*, go to, approach, visit.
+    _Cf. *accēdō* and *appropinquō*_
+  *ad-ferō*, *adferre*, *attulī*, *adlātus*, bear to, bring,
+    render
+  *ad-ficiō*, *adficere*, *adfēcī*, *adfectus* [*-faciō*],
+    AFFECT, influence; afflict, oppress
+  *ad-gredior*, *adgredī*, *adgressus sum* [*-gradior*, go],
+    approach, attack. (_Aggressive_)
+  *ad-hibeō*, *adhibēre*, *adhibuī*, *adhibitus* [*-habeō*],
+    apply, employ, use
+  *ad-hūc*, _adv._, hitherto, as yet, still
+  *ad-iciō*, *adicere*, *adiēcī*, *adiectus* [*-iaciō*], add.
+    (_Adjective_)
+  *aditus*, *-ūs*, _m._ [*adeō*], approach, way of access. _Cf.
+    *adventus*_
+  *ad-iungō*, *adiungere*, *adiūnxī*, *adiūnctus*, join to.
+    (_Adjunct_)
+  *ad-ligō*, *adligāre*, *adligāvī*, *adligātus*, bind to, bind
+  *admīrātiō*, *-ōnis*, _f._, [*admīror*], ADMIRATION,
+    astonishment, wonder
+  *ad-mīror*, *admīrārī*, *admīrātus sum* [*admīrātiō*], wonder
+    at, ADMIRE
+  *ad-mittō*, *admittere*, *admīsī*, *admissus*, permit, allow;
+    give rein to. (_Admit_)
+  *admōtus*, _see *admoveō*_
+  *ad-moveō*, *admovēre*, *admōvī*, *admōtus*, (move to), apply,
+    employ
+  *ad-nectō*, *adnectere*, *adnexuī (adnexī)*, *adnexus*, tie to,
+    fasten to, attach. (_Annex_)
+  *ad-olēscō*, *adolēscere*, *adolēvī*, *adultus*, grow up.
+    (_Adult_)
+  *ad-ōrō*, *adōrāre*, *adōrāvī*, *adōrātus*, pray to, worship,
+    ADORE
+  *ad-spiciō*, *adspicere*, *adspexī*, *adspectus* [*-speciō*,
+    look], look at, look upon, behold. (_Aspect_)
+  *ad-stō*, *adstāre*, *adstitī*, *------*, stand near
+  *ad-sum*, *adesse*, *adfuī*, *adfutūrus*, be present, be here;
+    _with dat._
+  *Aduatucī*, *-ōrum*, _m. plur._, the ADUATUCI, a Gallic tribe
+  *adulēscēns*, *-entis*, _m. and f._ [*adolēscō*], youth, young
+    person. (_Adolescence._) _Cf. *iuvenis*_
+  *adultus*, _see *adolēscō*_
+  *advectus*, _see *advehō*_
+  *ad-vehō*, *advehere*, *advexī*, *advectus*, carry to, bring
+    on, bring
+  *adventus*, *-ūs*, _m._, approach, arrival. (_Advent._) _Cf.
+    *aditus*_
+  *adversus*, *-a*, *-um*, _adj._, turned toward, opposite, in
+    front, ADVERSE
+  *adversus*, _prep. with acc._, against
+  *aedēs (aedis)*, *-is*, _f._, building, temple; _plur._, house
+  *aedificium*, *aedificī*, _n._ [*aedificō*], building.
+    (_Edifice_)
+  *aedificō*, *aedificāre*, *aedificāvī*, *aedificātus*
+    [*aedēs-faciō*], build. (_Edify_)
+  *aeger*, *aegra*, *aegrum*, _adj._, sick, weak, feeble
+  *aequus*, *-a*, *-um*, _adj._, EQUAL
+  *āēr*, *āeris*, _m._, (_acc._ *āera*), AIR
+  *aes*, *aeris*, _n._, copper, bronze
+  *aestās*, *-ātis*, _f._, summer
+  *aetās*, *-ātis*, _f._, life, AGE
+  *Aethiopēs*, *-um*, _m. plur._, the ETHIOPIANS
+  *Aetna*, *-ae*, _f._, ÆTNA, a mountain in Sicily
+  *Āfrica*, *-ae*, _f._, AFRICA
+  *Āfricānus*, *-ī*, _m._, AFRICANUS
+  *ager*, *agrī*, _m._, field, territory, land
+  *agger*, *-eris*, _m._, mound, rampart
+  *Āgis*, *-idis*, _m._, AGIS, a king of Sparta
+  *agmen*, *-inis*, _n._, [*agō*], (the thing led), army, host,
+    column
+  *agō*, *agere*, *ēgī*, *āctus*, drive, lead, bring up; ACT, do;
+    treat; celebrate; pass (life)
+  *agricola*, *-ae*, _m._ [*ager-colō*], farmer, husbandman
+  *āla*, *-ae*, _f._, wing
+  *Alba*, *-ae*, _f._, ALBA, an ancient city of Italy
+  *Albānus*, *-a*, *-um*, _adj._, ALBAN; _as noun_, an ALBAN,
+    inhabitant of Alba
+  *albus*, *-a*, *-um*, _adj._, white
+  *Alcmēna*, *-ae*, _f._, ALCMENA, the mother of Hercules
+  *aliās*, _adv._, [*alius*], elsewhere, at another time
+  *aliēnus*, *-a*, *-um*, _adj._, [*alius*], another's;
+    unfavorable. (_Alien_)
+  *ali-quandō*, _adv._ [*alius*], at some time; formerly, once.
+    _Cf. *ōlim*_
+  *aliquis (-quī)*, *-qua*, *-quid (-quod)*, _indef. pron. and
+    adj._, some one, some, any
+  *alius*, *-a*, *-ud*, _adj. and pron._, another, other, else;
+    *alius . . . alius*, one . . . another. (_Alias._) _Cf.
+    *cēterī*_
+  *Allobrogēs*, *-um*, _m. plur._, the ALLOBROGES, a tribe of
+    Gaul
+  *Alpēs*, *-ium*, _f. plur._, the ALPS
+  *altāria*, *-ium*, _n. plur._, ALTAR
+  *alter*, *-era*, *-erum*, _adj. and pron._, the one, the other
+    (of two); second; *alter . . . alter*, the one . . . the
+    other. (_Alternative_)
+  *altitūdō*, *-inis*, _f._ [*altus*], height
+  *altum*, *-ī*, _n._ [*altus*], the sea
+  *altus*, *-a*, *-um*, _adj._, high, deep
+  *alveus*, *-ī*, _m._, hollow vessel, tub, trough
+  *Ambarrī*, *-ōrum*, _m. plur._ the AMBARRI, a tribe of Gaul,
+    near the Hædui
+  *ambulō*, *ambulāre*, *ambulāvī*, *ambulātūrus*, walk, take a
+    walk. (_Perambulate_)
+  *āmentia*, *-ae*, _f._, want of reason, madness
+  *amīcitia*, *-ae*, _f._ [*amīcus*], friendship
+  *amīcus*, *-a*, *-um*, _adj._ [*amō*], friendly; _as noun_,
+    friend. (_Amiable_)
+  *ā-mittō*, *āmittere*, *āmīsī*, *āmissus*, send away; lose
+  *amō*, *amāre*, *amāvī*, *amātus* [*amor*], love, like, be fond
+    of
+  *amor*, *-ōris*, _f._ [*amō*], love
+  *ā-moveō*, *āmovēre*, *āmōvī*, *āmōtus*, move away, put aside
+  *ampliō*, *ampliāre*, *ampliāvī*, *ampliātus* [*amplus*],
+    increase, extend. (_Ampliative_)
+  *amplus*, *-a*, *-um*, _adj._ [*ampliō*], large, wide;
+    honorable. (_Ample_, _Amplify_)
+  *Amūlius*, *Amūlī*, _m._, AMULIUS, father of Rhea Silvia
+  *an*, _conj._, or
+  *ancilla*, *-ae*, _f._, maidservant
+  *ancora*, *-ae*, _f._, ANCHOR
+  *Ancus Mārcius*, *Ancī Mārcī*, _m._, ANCUS MARCIUS, one of the
+    seven kings of Rome
+  *Andromeda*, *-ae*, _f._, ANDROMEDA
+  *anguis*, *-is*, _m. and f._, serpent, snake
+  *angustus*, *-a*, *-um*, _adj._, narrow. (_Anguish_)
+  *anima*, *-ae*, _f._ [*animus*], breath, soul, life. (_Animate_)
+  *anim-advertō*, *adimadvertere*, *animadvertī*, *animadversus*
+    [*animus-*], turn the mind to, notice
+  *animus*, *-ī*, _m._ [*anima*], mind, soul, spirit,
+    disposition. _Cf. *mēns*_
+  *annōna*, *-ae*, _f._ [*annus*], (the year's supply),
+    provisions; price (of provisions), market; scarcity
+  *annus*, *-ī*, _m._, year. (_Annual_)
+  *ante*, _adv. and prep. with acc._, before
+  *anteā*, _adv._ [*ante*], before
+  *ante-cēdō*, *antecēdere*, *antecessī*, *antecessūrus*, go
+    before. (_Antecedent_)
+  *Antemnātēs*, *-ium*, _m. plur._, the inhabitants of Antemnæ
+  *ante-quam*, _conj._, sooner than, before
+  *antīquus*, *-a*, *-um*, _adj._ [*ante*], old, ancient.
+    (_Antiquity_)
+  *antrum*, *-ī*, _n._, cave
+  *anxius*, *-a*, *-um*, _adj._, troubled, ANXIOUS
+  *aperiō*, *aperīre*, *aperuī*, *apertus*, open
+  *Apollō*, *-inis*, _m._, APOLLO, a god of the Greeks
+  *appellō*, *appellāre*, *appellāvī*, *appellātus* [*ad-*],
+    address, call, name. (_Appeal_.) _Cf. *vocō*_
+  *ap-pellō*, *appellere*, *appulī*, *appulsus* [*ad-*], (drive
+    to); *nāvem appellere*, land, put in
+  *ap-prehendō*, *apprehendere*, *apprehendī*, *apprehēnsus*
+    [*ad-*], seize. (_Apprehend_)
+  *ap-propinquō*, *appropinquāre*, *appropinquāvī*,
+    *appropinquātūrus* [*ad-*], approach, come near to. _Cf.
+    *adeō* and *accēdō*_
+  *aptō*, *aptāre*, *aptāvī*, *aptātus*, fit. (_Adapt_)
+  *apud*, _prep. with acc._, with, by, near, among
+  *aqua*, *-ae*, _f._, water. (_Aquatic_)
+  *Aquilēiia*, *-ae*, _f._, AQUILEIA, a city at the head of the
+    Adriatic
+  *Aquītānī*, *-ōrum*, _m. plur._, the AQUITANI, a tribe of Gaul
+  *āra*, *-ae*, _f._, altar
+  *Arar*, *-aris*, _m._, the Saône, a river of Gaul, flowing into
+    the Rhone
+  *arbitror< *arbitrārī*, *arbitrātus sum*, think, suppose.
+    (_Arbitrator_.) _Cf. *exīstimō* and *putō*_
+  *arbor*, *-oris*, _f._, tree
+  *arca*, *-ae*, _f._, box, chest, ARK
+  *arcus*, *-ūs*, _m._, bow. (_Arc_)
+  *Ardea*, *-ae*, _f._, ARDEA, a city of Italy
+  *arduus*, *-a*, *-um*, _adj._, steep; difficult, ARDUOUS
+  *Argī*, *-ōrum*, _m. plur._, ARGOS, a city of Greece
+  *Aristotelēs*, *-is*, _m._, ARISTOTLE, a Greek philosopher
+  *arma*, *-ōrum*, _n. plur._ [*armō*], ARMS, weapons, ARMOR
+  *armō*, *armāre*, *armāvī*, *armātus* [*arma*], ARM, equip
+  *ar-ripiō*, *arripere*, *arripuī*, *arreptus* [*ad-rapiō*],
+    seize, snatch
+  *Arrūns*, *Arruntis*, _m._, ARRUNS, a son of Tarquinius
+    Superbus
+  *ars*, *artis*, _f._, ART, skill
+  *a-scendō*, *ascendere*, *ascendī*, *ascēnsus* [*ad-scandō*,
+    climb], climb to, mount, ASCEND
+  *ascēnsus*, *-ūs*, _m._, [*ascendō*], a going up, ASCENT
+  *at*, _conj._, but. _Cf. *sed* and *autem*_
+  *Athēnae*, *-ārum*, _f. plur._, ATHENS
+  *Atlās*, *-antis*, _m._, ATLAS, one of the Titans
+  *at-que*, _conj. used before vowels and consonants, *ac* before
+    consonants only_ [*ad-*], and also, and especially, and; as.
+    _Cf. *et* and *-que*_
+  *atrōx*, *-ōcis*, _adj._, savage, fierce, severe.
+    (_Atrocious_.) _Cf. *saevus* and *trux*_
+  *at-tonitus*, *-a*, *-um*, _adj._ [*ad-*], thunderstruck,
+    astounded, awestruck
+  *auctōritās*, *-ātis*, _f._, power, AUTHORITY, influence
+  *audācia*, *-ae*, _f._, [*audāx*], daring, boldness, AUDACITY
+  *audāx*, *-ācis*, _adj._, daring, bold. (_Audacious_)
+  *audiō*, *audīre*, *audīvī (audiī)*, *audītus*, hear, listen.
+    (_Audience_)
+  *au-ferō*, *auferre*, *abstulī*, *ablātus* [*ab(s)-*], bear
+    off, carry away, take away. (_Ablative_)
+  *augeō*, *augēre*, *auxī*, *auctus* [*auxilium*], increase,
+    enlarge. (_Augment_)
+  *aureus*, *-a*, *-um*, _adj._ [*aurum*], of gold, golden
+  *aurum*, *-ī*, _n._, gold
+  *aut*, _conj._, or; *aut . . . aut*, either . . . or. _Cf.
+    *vel*_
+  *autem*, _conj. (never used as the first word)_, but, however,
+    moreover, now. _Cf. *sed*_
+  *auxilior*, *auxiliārī*, *auxiliātus sum* [*auxilium*], give
+    help, aid, assist, succor
+  *auxilium*, *auxilī*, _n._ [*augeō*], help, aid, support.
+    (_Auxiliary_)
+  *Aventīnus*, *-a*, *-um*, _adj._, AVENTINE, of the AVENTINE
+    (one of the hills of Rome)
+  *ā-vertō*, *āvertere*, *āvertī*, *āversus*, turn away, turn
+    aside, AVERT, remove
+  *avus*, *-ī*, _m._, grandfather
+
+  *barbarus*, *-ī*, _m._, BARBARIAN
+  *Belgae*, *-ārum*, _m. plur._, the BELGIANS _or_ BELGÆ, a
+    Gallic tribe
+  *bellum*, *-ī*, _n._, war. (_Belligerent_)
+  *bēlua*, *-ae*, _f._, beast, monster
+  *bene*, _adv._ [*bonus*], well
+  *beneficium*, *beneficī*, _n._ [*bene-faciō*], kindness,
+    service, BENEFIT
+  *bibō*, *bibere*, *bibī*, *------*, drink. (_Imbibe_)
+  *bis*, _adv._, twice
+  *bonitās*, *-ātis*, _f._ [*bonus*], fertility, goodness
+  *bonus*, *-a*, *-um*, _adj._, good, kind
+  *brevis*, *-e*, _adj._, short, BRIEF
+  *Britannia*, *-ae*, _f._, BRITAIN
+  *Britannus*, *-ī*, _m._, a BRITON, inhabitant of Britannia
+  *Bruttiī* _or_ *Brittiī*, *-ōrum*, _m. plur._, the BRUTTII, a
+    people of southern Italy
+  *Brūtus*, *-ī*, _m._, BRUTUS, a Roman surname
+
+  *C.*, _abbreviation for_ *Gāius*, Caius
+  *caecus*, *-a*, *-um*, _adj._, blind
+  *caedō*, *caedere*, *cecīdī*, *caesus*, cut; kill. (_Suicide_)
+  *Caelius*, *-a*, *-um*, _adj._, CÆLIAN
+  *caelum*, *-ī*, _n._, sky, heaven, heavens
+  *Caenīnēnsēs*, *-ium*, _m. plur._, the inhabitants of Cænina
+  *Caesar*, *-aris*, _m._, Caius Julius CÆSAR, a famous Roman
+  *cale-faciō*, *caelfacere*, *calefēcī*, *calefactus* [*caleō-*,
+    be hot], make hot, heat
+  *Campānia*, *-ae*, _f._, CAMPANIA, a district of Italy
+  *canis*, *-is*, _m. and f._, dog. (_Canine_)
+  *Cannae*, *-ārum*, _f. plur._, CANNÆ, a town of southern Italy
+  *cantō*, *cantāre*, *cantāvī*, *cantātus*, sing. (_Chant_)
+  *capiō*, *capere*, *cēpī*, *captus*, take, seize, CAPTURE; form
+  *Capitōlium*, *Capitōlī*, _n._, the CAPITOL, temple of Jupiter
+    at Rome; the CAPITOLINE Hill
+  *captīva*, *-ae*, _f._ [*capiō*], CAPTIVE, prisoner
+  *captīvus*, *-ī*, _m._ [*capiō*], CAPTIVE, prisoner
+  *Capua*, *-ae*, _f._, CAPUA, a city in Italy
+  *caput*, *-itis*, _n._, head; person (_Capital_)
+  *careō*, *carēre*, *caruī*, *caritūrus*, be in want of, lack,
+    want; _with abl._ (_Caret_)
+  *carō*, *carnis*, _f._, flesh. (_Carnal_)
+  *carrus*, *-ī*, _m._, wagon, CART, CAR
+  *cārus*, *-a*, *-um*, _adj._, dear, precious
+  *casa*, *-ae*, _f._, hut, cottage
+  *Cassivellaunus*, *-ī*, _m._, CASSIVELLAUNUS, a British chief
+  *castellum*, *-ī*, _n._ [_diminuitive of *castrum*_, fortress],
+    redoubt, stronghold. (_Castle_)
+  *Castitus*, *-ī*, _m._, CASTICUS, a Gallic chief
+  *castra*, *-ōrum*, _n. plur._, camp. (_Chester_)
+  *cāsus*, *-ūs*, _m._, a falling; chance; misfortune, loss.
+    (_Case_)
+  *cauda*, *-ae*, _f._, tail.
+  *causa*, *-ae*, _f._, CAUSE, reason; *causā*, _after a
+    genitive_, for the sake
+  *cēdō*, *cēdere*, *cessī*, *cessūrus*, give way, retier.
+    (_Secede_)
+  *celeber*, *-bris*, *-bre*, _adj._ [*celebrō*], frequented,
+    visited; renowned, CELEBRated
+  *celebrō*, *celebrāre*, *celebrāvī*, *celebrātus* [*celeber*],
+    frequent, throng. (_Celebrate_)
+  *celer*, *-eris*, *-ere*, _adj._, swift, quick
+  *celeritās*, *-ātis*, _f._ [*celer*], swiftness, speed,
+    quickness, CELERITY
+  *celeriter*, _adv._ [*celer*], swiftly, quickly
+  *cēlō*, *cēlāre*, *cēlāvī*, *cēlātus*, conCEAL
+  *cēna*, *-ae*, _f._ [*cēnō*], dinner, meal
+  *Cēnaeum*, *-ī*, _n._, CENÆUM, a promontory on the island of
+    Eubœa
+  *cēnō*, *cēnāre*, *cēnāvī*, *cēnātus* [*cēna*], dine, take a
+    meal
+  *cēnsus*, *-ūs*, _m._, a CENSUS
+  *centaurus*, *-ī*, _m._, CENTAUR, a fabled monster, half man,
+    half horse
+  *centum*, _adj. indecl._, hundred. (_Cent_)
+  *centuriō*, *-ōnis*, _m._, CENTURION, an underofficer in the
+    Roman army
+  *Cēpheus*, *-ī*, _m._, CEPHEUS, father of Andromeda
+  *cēra*, *-ae*, _f._, wax. (_Cerate_)
+  *certāmen*, *-inis*, _n._, strife, contest
+  *certē*, _adv._, [*certus*], really, surely, CERTAINly
+  *certus*, *-a*, *-um*, _adj._, fixed, determined, CERTAIN,
+    sure; *certiōrem faciō*, (make more certain), inform
+  *cēterī*, *-ae*, *-a*, _adj. plur._, the rest, the remaining,
+    the others. _Cf. *alius*_
+  *cibus*, *-ī*, _m._, food
+  *Cicerō*, *-ōnis*, _m._, CICERO, a famous Roman orator
+  *Cīneās*, *-ae*, _m._, CINEAS, a friend of Pyrrhus
+  *cingō*, *cingere*, *cīnxī*, *cīnctus*, surround, encircle,
+    gird
+  *circiter*, _adv._, about
+  *circuitus*, *-ūs*, _m._ [*circum-eō*], (a going round),
+    circumference, CIRCUIT
+  *circum*, _prep. with acc._, around
+  *circum-arō*, *circumarāre*, *circumarāvī*, *------*, plough
+    around
+  *circum-dō*, *circumdare*, *circumdedī*, *circumdatus*, place
+    around, surround, inclose
+  *circum-mūniō*, *circummūnīre*, *circummūnīvī*,
+    *circummūnītus*, wall around, surround, fortify, blockade
+  *circum-stō*, *circiumstāre*, *circumstetī (circumstitī)*,
+    *------*, stand around, surround. (_Circumstance_)
+  *circum-veniō*, *circumvenīre*, *circumvēnī*, *circumventus*,
+    surround, CIRCUMVENT
+  *circus*, *-ī*, _m._, the CIRCUS at Rome, in which chariot
+    races and other contests were held
+  *Cisalpīnus*, *-a*, *-um*, _adj._, (this side of the Alps),
+    CISALPINE
+  *citerior*, *-ius*, _adj._, _comp._, hither, nearer
+  *cithara*, *-ae*, _f._, lyre
+  *citrā*, _prep. with acc._, this side of
+  *cīvis*, *-is*, _m. and f._, citizen. (_Civil_)
+  *cīvitās*, *-ātis*, _f._ [*cīvis*], (body of citizens), state;
+    citizenship. (_City_)
+  *clāmor*, *-ōris*, _m._, cry, shout; barking. (_Clamor_)
+  *clārus*, *-a*, *-um*, _adj._, CLEAR, loud; renowned, famous.
+    (_Clarion_)
+  *claudō*, *claudere*, *clausī*, *clausus*, shut, CLOSE.
+    (_Clause_)
+  *cloāca*, *-ae*, _f._, sewer
+  *Cleolia*, *-ae*, _f._, CLŒLIA, a noble Roman maiden
+  *Cocles*, *-itis*, _m._, (blind in one eye), COCLES, surname of
+    Horatius
+  *coepī*, *coepisse*, *coeptus* (_defective; tenses from present
+    stem wanting_), began
+  *co-erceō*, *coercēre*, *coercuī*, *coercitus* [*co(m)-arceō*,
+    keep off], keep back, check, restrain. (_Coerce_)
+  *cōgitō*, *cōgitāre*, *cōgitāvī*, *cōgitātus*, consider
+    thoroughly, reflect. (_Cogitation_)
+  *cognōmen*, *-inis*, _n._ [*co(m)-(g)nōmen*], surname, COGNOMEN
+  *co-gnōscō*, *cognōscere*, *cognōvī*, *cognitus*
+    [*co(m)-(g)nōscō*, know], learn reCOGNIZE, know, understand
+  *cōgō*, *cōgere*, *coēgī*, *coāctus* [*co(m)-agō*], (drive
+    together), collect, drive, compel
+  *cohors*, *-hortis*, _f._, COHORT, a division of the Roman army
+  *Collātīnus*, *-ī*, _m._, COLLATINUS, a Roman
+  *col-ligō*, *colligere*, *collēgī*, *collēctus* [*com-legō*],
+    COLLECT, gather together
+  *collis*, *-is*, _m._, hill. _Cf. *mōns*_
+  *collum*, *-ī*, _n._, neck. (_Collar_)
+  *colō*, *colere*, *coluī*, *cultus*, care for, CULTIVATE, till;
+    honor. _Cf. *agricola* and *incola*_
+  *com- (col-, con-, cor-, co-, cō-)*, _primitive form of *cum*,
+    a prefix denoting completeness or union, sometimes intensive_
+  *comes*, *-itis*, _m. and f._ [*com-eō*], comrade, companion
+  *comitium*, *comitī*, _n._ [*com-eō*], (place of assembling),
+    the COMITIUM, a part of the Roman Forum
+  *commeātus*, *-ūs*, _m._, supplies, provisions
+  *com-mittō*, *committere*, *commīsī*, *commissus*, intrust,
+    COMMIT; *proelium committere*, join battle, engage.
+    (_Commission_)
+  *com-moveō*, *commovēre*, *commōvī*, *commōtus*, (put in
+    violent motion), shake, disturb, agitate, move. (_Commotion_)
+  *commūnis*, *-e*, _adj._, COMMON, general. (_Community_)
+  *com-pāreō*, *compārēre*, *compāruī*, *------*, apPEAR
+  *com-pellō*, *compellere*, *compulī*, *compulsus*, (drive
+    together), force, COMPEL. (_Compulsion_)
+  *com-periō*, *comperīre*, *comperī*, *compertus* [*-pariō*,
+    bring forth], find out, learn
+  *com-plector*, *complectī*, *complexus sum*, embrace
+  *com-pleō*, *complēre*, *complēvī*, *complētus*, fill out, fill
+    up, cover. (_Complete_)
+  *com-plūrēs*, *-a (-ia)*, _adj._, _plur._, very many, many, a
+    number
+  *com-primō*, *comprimere*, *compressī*, *compressus* [*-premō*,
+    press], PRESS together, grasp; check, supPRESS (_Compress_)
+  *compulsus*, _see *compellō*_
+  *con-*, _see *com-*_
+  *cōnātus*, *-ūs*, _m._ [*cōnor*], attempt
+  *con-cēdō*, *concēdere*, *concessī*, *concessus*, allow, grant,
+    permit. (_Concede_)
+  *concilium*, *concilī*, _n._, COUNCIL, assembly
+  *con-citō*, *concitāre*, *concitāvī*, *concitātus*, rouse up,
+    rouse, spur on
+  *con-currō*, *concurrere*, *concurrī*, *concursūrus*, run
+    together, rush together, rally, gather. (_Concourse_)
+  *condiciō*, *-ōnis*, _f._, [*con-dīcō*], (a talking together),
+    agreement, CONDITION, terms
+  *con-dō*, *condere*, *condidī*, *conditus* [*-dō*, put],
+    conceal, hide; found, establish. _Cf. *cēlō*_
+  *con-dōnō*, *condōnāre*, *condōnāvī*, *condōnātus*, give up,
+    surrender; forgive, pardon, CONDONE
+  *cō-nectō*, *cōnectere*, *cōnexuī*, *cōnexus* [*co(m)-*], bind
+    together; join, tie. (_Connect_)
+  *cōn-ferō*, *cōnferre*, *contulī*, *conlātus*, bring together,
+    collect; *sē cōnferre*, betake one's self
+  *cōnfertus*, *-a*, *-um*, _adj._, crowded, thick, dense
+  *cōn-ficiō*, *cōnficere*, *cōnfēcī*, *cōnfectus* [*-faciō*],
+    make, accomplish, carry out, finish; weaken, wear out
+  *cōn-firmō*, *cōnfirmāre*, *cōnfirmāvī*, *cōnfirmātus*, make
+    FIRM, strengthen, steady. (_Confirm_)
+  *cōn-fugiō*, *cōnfugere*, *cōnfūgī*, *------*, flee for refuge,
+    flee
+  *con-iciō*, *conicere*, *coniēcī*, *coniectus* [*-iaciō*],
+    throw together; throw, put, hurl, cast. (_Conjecture_)
+  *con-iungō*, *coniungere*, *coniūnxī*, *coniūnctus*, join
+    together, unite. (_Conjunction_)
+  *coniūnx*, *-iugis*, _m. and f._, [*coniungō*], husband, wife.
+    (_Conjugal_)
+  *coniūrātiō*, *-ōnis*, _f._, [*coniūrō*], conspiracy
+  *con-iūrō*, *coniūrāre*, *coniūrāvī*, *coniūrātus*, unite by
+    oath, conspire. (_Conjure_)
+  *con-locō*, *conlocāre*, *conlocāvī*, *conlocātus*, place,
+    station. _Cf. *pōnō*_
+  *conloquium*, *conloquī*, _n._, [*con-lo-quor*], (a talking
+    together), conversation, conference, COLLOQUY
+  *cōnor*, *cōnārī*, *cōnātus sum*, endeavor, attempt, try.
+    (_Conative_)
+  *cōn-scendō*, *cōnscendere*, *cōnscendī*, *cōnscēnsus*
+    [*-scandō*, climb], climb up, mount, go on board
+  *cōn-scrībō*, *cōnscrībere*, *cōnscrīpsī*, *cōnscrīptus*,
+    enlist, enrol, levy. (_Conscription_)
+  *cōn-secrō*, *cōnsecrāre*, *cōnsecrāvī*, *cōnsecrātus*
+    [*-sacrō*, make sacred], deify, CONSECRATE
+  *cōn-sequor*, *cōnsequī*, *cōnsecūtus sum*, overtake.
+    (_Consecutive_)
+  *cōn-servō*, *cōnservāre*, *cōnservāvī*, *cōnservātus*,
+    preSERVE, save. (_Conserve_)
+  *Cōnsidius*, *Cōnsidī*, _m._, CONSIDIUS, an officer of Cæsar
+  *cōnsilium*, *cōnsilī*, _n._, [*cōnsulō*], advice, COUNSEL,
+    prudence, wisdom; plan, design
+  *cōn-sistō*, *cōnsistere*, *cōnstitī*, *------*, stand firm,
+    take one's stand, halt; depend, rest. (_Consist_)
+  *cōnspectus*, *-ūs*, _m._, look, view, sight
+  *cōn-stituō*, *cōnstituere*, *cōnstituī*, *cōnstitūtus*
+    [*-statuō*, set up], establish, determine, fix, decide,
+    resolve. (_Constitution_)
+  *cōn-suēscō*, *cōnsuēscere*, *cōnsuēvī*, *cōnsuētus*, accustom;
+    become accustomed; _perf._, be accustomed, be wont
+  *cōnsuētūdō*, *-inis*, _f._ [*cōnsuēscō*], custom, habit
+  *cōnsul*, *-ulis*, _m._, CONSUL
+  *cōnsulātus*, *-ūs*, _m._ [*cōnsul*], CONSULship
+  *cōnsulō*, *cōnsulere*, *cōnsuluī*, *cōnsultus* [*cōnsilium*],
+    take counsel, CONSULT
+  *cōn-sūmō*, *cōnsūmere*, *cōnsūmpsī*, *cōnsūmptus*, use up,
+    spend, pass, CONSUME
+  *con-tegō*, *contegere*, *contēxī*, *contēctus*, cover
+  *con-temnō*, *contemnere*, *contempsī*, *contemptus*, despise,
+    CONTEMN. (_Contempt_)
+  *con-tendō*, *contendere*, *contendī*, *contentus*, strain,
+    struggle, strive, hasten. (_Contend_.) _Cf. *mātūrō* and
+    *properō*_
+  *contentiō*, *-ōnis*, _f._ [*contendō*], struggle, exertion.
+    (_Contention_)
+  *continēns*, *-entis*, _f._ [*contineō*], mainland, CONTINENT
+  *continenter*, _adv._ [*contineō*], continuously
+  *con-tineō*, *continēre*, *continuī*, *contentus* [*-teneō*],
+    hold together, keep together, hold, CONTAIN. (_Contents_)
+  *con-tingō*, *contingere*, *contigī*, *contāctus* [*-tangō*,
+    touch], fall to one's lot. (_Contact_)
+  *continuus*, *-a*, *-um*, _adj._ [*contineō*], CONTINUOUS,
+    successive
+  *contrā*, _prep. with acc._, against, CONTRARY to
+  *con-veniō*, *convenīre*, *convēnī*, *conventūrus*, come
+    together, assemble, meet; CONVENE. (_Convention_)
+  *conventus*, *-ūs*, _m._ [*conveniō*], gathering, assembly,
+    meeting
+  *con-vocō*, *convocāre*, *convocāvī*, *convocātus*, call
+    together, summon, CONVOKE
+  *cōpia*, *-ae*, _f._ [*co(m)-ops*], abundance, wealth, plenth;
+    _plur._, troops, forces. (_Copious_)
+  *cōram*, _adv._, face to face, in person
+  *Corinthus*, *-ī*, _f._, CORINTH
+  *Coriolānus*, *-ī*, _m._, CORIOLANUS, a famous Roman warrior
+  *Coriolī*, *-ōrum*, _m. plur._, CORIOLI, an ancient town in
+    Italy
+  *Cornēlia*, *-ae*, _f._, CORNELIA, a Roman name
+  *cornū*, *-ūs*, _n._, horn
+  *corōna*, *-ae*, _f._, CROWN. (_Coronet_)
+  *corpus*, *-oris*, _n._, body. (_Corpse_)
+  *cor-ripiō*, *corripere*, *corripuī*, *correptus*
+    [*com-rapiō*], seize, take hold of
+  *cotīdiānus*, *-a*, *-um*, _adj._ [*cotīdiē*], daily
+  *cotīdiē*, _adv._ [*quot-diēs*], daily
+  *crātēra*, *-ae*, _f._, mixing bowl, bowl
+  *crēber*, *-bra*, *-brum*, _adj._, thick, numerous, frequent
+  *crēdibilis*, *-e*, _adj._, to be believed, CREDIBLE
+  *crēdō*, *crēdere*, *crēdidī*, *crēditus*, believe, think,
+    suppose. (_Credit_)
+  *creō*, *creāre*, *creāvī*, *creātus*, make, CREATE; choose,
+    elect
+  *Crēta*, *-ae*, _f._, CRETE, an island southeast of Greece
+  *cruciātus*, *-ūs*, _m._, torture
+  *Crustumīnī*, *-ōrum*, _m. plur._, the inhabitants of
+    Crustumerium
+  *cubiculum*, *-ī*, _n._ [*cubō*, lie], bedchamber
+  *cum*, _conj._, when
+  *cum*, _prep. with abl._, with
+  *cūnae*, *-ārum*, _f. plur._, cradle
+  *cūnctus*, *-a*, *-um*, _adj._, all together, all. _Cf.
+    *omnis*, *tōtus*, and *ūniversus*_
+  *cupidē*, _adv._ [*cupidus*], eagerly
+  *cupiditās*, *-ātis*, _f._ [*cupidus*], longing, desire.
+    (_Cupidity_)
+  *cupidius*, _adv._ [*cupidē*], too eagerly
+  *cupidus*, *-a*, *-um*, _adj._ [*cupiō*], desirous, fond
+  *cupiō*, *cupere*, *cupīvī (cupiī)*, *cupītus*, desire, be
+    eager for. _Cf. *volō*_
+  *cūr*, _adv._, why, wherefore
+  *cūra*, *-ae*, _f._ [*cūrō*], care, anxiety
+  *Curius*, *Curī*, _m._, CURIUS, a Roman name
+  *cūrō*, *cūrāre*, *cūrāvī*, *cūrātus* [*cūra*], care for, take
+    care; _with gerundive_, have (a thing done)
+  *currō*, *currere*, *cucurrī*, *cursūrus* [*cursus*], run
+  *cursus*, *-ūs*, _m._ [*currō*], COURSE, raceCOURSE
+  *custōdiō*, *custōdīre*, *custōdīvī (custōdiī)*, *custōdītus*
+    [*custōs*], guard, protect, defend
+  *custōs*, *-ōdis*, _m. and f._ [*custōdiō*], guardian, keeper.
+    (_Custodian_)
+  *Cyclōps*, *-ōpis*, _m._, (round eye), a CYCLOPS, one of a
+    fabulous race of giants on the coast of Sicily
