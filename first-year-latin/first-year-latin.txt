@@ -11612,3 +11612,571 @@ outset.
     double. (_Duplicate_)
   *dux*, *ducis*, _m. and f._ [*dūcō*], leader, general.
     (_Duke._) _Cf. *imperātor*_
+
+  *ē*, _see *ex*_
+  *ē-dō*, *ēdere*, *ēdidī*, *ēditus* [*-dō*, put], put forth,
+    raise, utter. (_Edit_)
+  *ēducō*, *ēducāre*, *ēducāvī*, *ēducātus*, bring up, train,
+    EDUCATE
+  *ef-ficiō*, *efficere*, *effēcī*, *effectus* [*ex-faciō*],
+    bring about, EFFECT, accomplish
+  *ef-flō*, *efflāre*, *efflāvī*, *efflātus* [*ex-*], (blow out),
+    breathe out
+  *ef-fundō*, *effundere*, *effūdī*, *effūsus* [*ex-*], pour
+    forth, pour out, shed. (_Effusion_)
+  *effūsus*, _see *effundō*_
+  *ego*, _pers. pron._, I; _plur._ *nōs*, we. (_Egotist_)
+  *ē-gredior*, *ēgredī*, *ēgressus sum* [*-gradior*, go], go out,
+    go forth; *in terram ēgressus*, having gone ashore.
+    (_Egress._) _Cf. *exeō*_
+  *ēgregiē*, _adv._, remarkably, excellently
+  *ēgressus*, _see *ēgredior*_
+  *elephantus*, *-ī*, _m._, ELEPHANT
+  *ē-ligō*, *ēligere*, *ēlēgī*, *ēlēctus* [*-legō*], pick out,
+    choose, SELECT. (_Elect_)
+  *ē-mittō*, *ēmittere*, *ēmīsī*, *ēmissus*, send forth, let
+    loose, let out. (_Emit_)
+  *emō*, *emere*, *ēmī*, *ēmptus*, (take), buy
+  *enim*, _conj. (never the first word)_, for; indded, in fact.
+    _Cf. *nam*_
+  *Ennius*, *Ennī*, _m._, ENNIUS, an early Latin poet
+  *ē-nūntiō*, *ēnūntiāre*, *ēnūntiāvī*, *ēnūntiātus*, proclaim,
+    anNOUNCE, reveal, utter. (_Enunciate_)
+  *eō*, *īre*, *iī (īvī)*, *itūrus*, go
+  *eō*, _adv._ [*is*], to that place, thither, there
+  *Ēpīrus*, *-ī*, _f._, EPIRUS, a division of Greece
+  *epistula*, *-ae*, _f._, letter, EPISTLE
+  *eques*, *-itis*, _m._ [*equus*], horseman, knight
+  *equester*, *-tris*, *-tre*, _adj._ [*eques*], (of horsemen),
+    EQUESTRIan
+  *equitātus*, *-ūs*, _m._ [*eques*], (body of horsemen), cavalry
+  *equus*, *-ī*, _m._, horse. (_Equine_)
+  *ergō*, _adv._, therefore
+  *errō*, *errāre*, *errāvī*, *errātūrus*, wander, ERR
+  *ērudiō*, *ērudīre*, *ērudīvī (ērudiī)*, *ērudītus*, instruct.
+    (_Erudite_)
+  *ēruptiō*, *-ōnis*, _f._, (a bursting forth), sally.
+    (_Eruption_)
+  *Ēsquilīnus*, *-ī*, _m._, the ESQUILINE, one of the hills of
+    Rome
+  *et*, _conj._, and, also; *et . . . et*, both . . . and. _Cf.
+    *atque (ac)* and *-que*_
+  *etiam*, _adv. and conj._ [*et-iam*], (and now), also, even.
+    _Cf. *quoque*_
+  *Etrūscī*, *-ōrum*, _m. plur._ the ETRUSCANS, people of
+    Etruria, in Italy
+  *et-sī*, _conj._, although
+  *Eunomus*, *-ī*, _m._, EUNOMUS, a boy who was killed by
+    Hercules
+  *Eurōpa*, *-ae*, _f._, EUROPE
+  *Eurystheus*, *-ī*, _m._, EURYSTHEUS, king of Tiryns, in Greece
+  *Eurytus*, *-ī*, _m._, EURYTUS, father of Iole
+  *ē-vādō*, *ēvādere*, *ēvāsī*, *ēvāsūrus*, (go out), get away,
+    escape. (_Evade_)
+  *ē-veniō*, *ēvenīre*, *ēvēnī*, *ēventūrus*, (come out), fall
+    out, happen, turn out. (_Event._) _Cf. *accidō* and *fīō*_
+  *ex (ē)*, _prep. with abl._, out of, from, of, off, on; in
+    accordance with
+  *exanimātus*, *-a*, *-um*, _adj._ [*anima*], breathless, out of
+    breath, exhausted
+  *ex-cēdō*, *excēdere*, *excessī*, *excessūrus*, go out, go
+    forth, depart. (_Exceed_)
+  *ex-clāmō*, *exclāmāre*, *exclāmāvī*, *exclāmātus*, cry out,
+    EXCLAIM
+  *excursiō*, *-ōnis*, _f._, (a running out), sally, sortie.
+    (_Excursion_)
+  *exemplum*, *-ī*, _n._, sample, EXAMPLE, warning
+  *ex-eō*, *exīre*, *exiī*, *exitūrus*, go out, go forth, come
+    out. (_Exit._), _Cf. *ēgredior*_
+  *exerceō*, *exercēre*, *exercuī*, *exercitus*, EXERCISE, train
+  *exercitātiō*, *-ōnis*, _f._ [*exerceō*], exercise, training
+  *exercitus*, *-ūs*, _m._ [*exerceō*], (the thing trained), army
+  *ex-igō*, *exigere*, *exēgī*, *exāctus* [*-agō*], drive out,
+    expel. (_Exact_)
+  *exīstimō*, *exīstimāre*, *exīstimāvī*, *exīstimātus*, think,
+    judge, consider, suppose. _Cf. *arbitror* and *putō*_
+  *exitium*, *exitī*, _n._ [*exeō*], ruin, destruction
+  *ex-pellō*, *expellere*, *expulī*, *expulsus*, drive out,
+    EXPEL. (_Expulsion_)
+  *ex-perior*, *experīrī*, *expertus sum* [*perīculum*], try,
+    test; EXPERIENCE. _Cf. *tentō*_
+  *expertus*, _see *experior*_
+  *ex-piō*, *expiāre*, *expiāvī*, *expiātus*, make amends for,
+    EXPIATE
+  *explōrātor*, *-ōris*, _m._ [*explōrō*], scout, spy
+  *ex-plōrō*, *explōrāre*, *explōrāvī*, *explōrātus*
+    [*explōrātor*], examine, EXPLORE, investigate
+  *ex-pōnō*, *expōnere*, *exposuī*, *expositus*, set forth,
+    explain, relate; EXPOSE
+  *expositus*, _see *expōnō*_
+  *ex-pugnō*, *expugnāre*, *expugāvī*, *expugnātus*, take by
+    storm, take, capture. _Cf. *oppugnō*_
+  *expulsus*, _see *expellō*_
+  *ex-spectō*, *exspectāre*, *exspectāvī*, *exspectātus*, (look
+    out for), await, wait for, wait, EXPECT
+  *ex-struō*, *exstruere*, *exstrūxī*, *exstrūctus*, (heap up),
+    build, erect, conSTRUCT
+  *extrā*, _prep. with acc._, outside, beyond
+  *ex-trahō*, *extrahere*, *extrāxī*, *extrāctus*, draw out, drag
+    out. (_Extract_)
+  *extrēmus*, *-a*, *-um*, _adj. superl._, outermost, last,
+    farthest; end of; EXTREME
+  *exuō*, *exuere*, *exuī*, *exūtus*, take off, put off
+
+  *faber*, *-brī*, _m._, workman, artisan, smith
+  *Fabricius*, *Fabricī*, _m._, FABRICIUS, a famous Roman general
+  *fābula*, *-ae*, _f._, story, tale, FABLE
+  *facile*, _adv._ [*facilis*], easily
+  *facilis*, *-e*, _adj._ [*faciō*], (that can be done), easy to
+    do, easy. (_Facility_)
+  *faciō*, *facere*, *fēcī*, *factus*, do, make; form, perform
+  *factum*, *-ī*, _n._ [*faciō*], act, deed, action. (_Fact_)
+  *facultās*, *-ātis*, _f._ [*facilis*], power, opportunity,
+    chance. (_Faculty_)
+  *falx*, *falcis*, _f._, curved sword
+  *fāma*, *-ae*, _f._, rumor, report; FAME, renown
+  *famēs*, *-is*, _f._, hunger, FAMINE
+  *fātum*, *-ī*, _n._, FATE
+  *Faustulus*, *-ī*, _m._, FAUSTULUS, a shepherd
+  *faveō*, *favēre*, *fāvī*, *fautūrus*, be favorable to, FAVOR,
+    befriend; _with dat._
+  *fēlēs*, *-is*, _f._, cat. (_Feline_)
+  *fēlīciter*, _adv._ [*fēlīx*], luckily, fortunate, happy.
+    (_Felicity_)
+  *fēmina*, *-ae*, _f._, woman. (_Feminine._) _Cf. *mulier*_
+  *ferē*, _adv._, nearly, for the most part, almost, about
+  *ferō*, *ferre*, *tulī*, *lātus*, bear, bring; report, say.
+    _Cf. *portō* and *tolerō*_
+  *ferrum*, *-ī*, _n._, iron; sword. _Cf. *gladius*_
+  *Fīdēnātēs*, *-ium*, _m. plur._, the inhabitants of Fidenæ
+  *fidēs*, *-eī*, _f._, trust, confidence. (_Fidelity_)
+  *figūra*, *-ae*, _f._ [*fi(n)gō*], shape, form, FIGURE
+  *fīlia*, *-ae*, _f._ [*fīlius*], daughter
+  *fīlius*, *fīlī*, _m._ [*fīlia*], son. (_Filial_)
+  *fingō*, *fingere*, *fīnxī*, *fictus*, fashion, devise.
+    (_Feign_, _Fiction_)
+  *fīnis*, *-is*, _m._, end, border; _plur._, territories.
+    (_Final_)
+  *fīnitimus*, *-a*, *-um*, _adj._ [*fīnis*], bordering on;
+    _masc. plur. as noun_, neighbors
+  *fīō*, *fierī*, *factus sum* (_supplies pass. to *faciō*_), be
+    made, be done, become, happen. _Cf. *accidō* and *ēveniō*_
+  *firmus*, *-a*, *-um*, _adj._, strong, FIRM
+  *flagrāns*, *-antis*, _adj._, flaming, blazing, burning.
+    (_Flagrant_)
+  *flūmen*, *-inis*, _n._ [*fluō*], (that which flows), river,
+    stream
+  *fluō*, *fluere*, *flūxī*, *fluxūrus*, flow
+  *foculus*, *-ī*, _m._ [*focus*], sacrificial hearth, fire pan,
+    brazier
+  *focus*, *-ī*, hearth. (_Focus_, _Fuel_)
+  *foedus*, *-eris*, _n._, league, treaty, alliance. (_Federal_)
+  *fore*, _for *futūrum esse*_
+  *fors*, *fortis*, _f._, chance, luck
+  *forte*, _adv._ [*fors*], by chance, perhaps
+  *fortis*, *-e*, _adj._ strong, brave, courageous.
+    (_Fortitude._), _Cf. *validus*_
+  *fortiter*, _adv._ [*fortis*], bravely, courageously
+  *fortūna*, *-ae*, _f._ [*fors*], FORTUNE, good FORTUNE
+  *fossa*, *-ae*, _f._, ditch, trench, FOSSE; canal
+  *frāter*, *-tris*, _m._, brother. (_Fraternal_)
+  *fremitus*, *-ūs*, _m._, noise, roaring, roar
+  *frōns*, *frontis*, _f._, forehead, brow. (_Front_)
+  *frūmentārius*, *-a*, *-um*, _adj._ [*frūmentum*], of grain
+  *frūmentum*, *-ī*, _n._, corn, grain
+  *frūstrā*, _adv._, in vain. (_Frustrate_)
+  *fuga*, *-ae*, _f._ [*fugiō*], flight
+  *fugiō*, *fugere*, *fūgī*, *fugitūrus* [*fugō*, *fuga*], run
+    away, flee; flee from. (_Fugitive_)
+  *fugō*, *fugāre*, *fugāvī*, *fugātus* [*fuga*, *fugiō*], put to
+    flight, rout
+  *fūmus*, *-ī*, _m._, smoke. (_Fumes_)
+  *furor*, *-ōris*, _m._, madness, frenzy, FUROR
+
+  *Gabiī*, *-ōrum*, _m. plur._, GABII, a city of Italy
+  *Galba*, *-ae*, _m._, GALBA
+  *galea*, *-ae*, _f._, helmet
+  *Gallia*, *-ae*, _f._, GAUL
+  *Gallicus*, *-a*, *-um*, _adj._, GALLIC
+  *Gallus*, *-ī*, _m._, a GAUL
+  *gaudeō*, *gaudēre*, *gāvīsus sum* (_semi-deponent_)
+    [*gaudium*], be glad, rejoice
+  *gaudium*, *gaudī*, _n._, [*gaudeō*], JOY, gladness. _Cf.
+    *laetitia*_
+  *gāvīsus*, _see *gaudeō*_
+  *geminus*, *-a*, *-um*, _adj._, twin-born, twin-
+  *Genāva*, *-ae*, _f._, GENEVA
+  *gēns, *gentis*, _f._ [*genus*], race, tribe, house, family.
+    (_Gentile_, _Gentle_)
+  *genus*, *-eris*, _n._ [*gēns*], race, lineage; kind, class.
+    (_Generous_)
+  *Germānia*, *-ae*, _f._, GERMANY
+  *Germānus*, *-a*, *-um*, _adj._, GERMAN; _as noun_, a GERMAN
+  *gerō*, *gerere*, *gessī*, *gestus*, bear, carry on, wage
+    (war); manage, do; wear; *sē gerere*, act, behave; _pass._, go
+    on, take place
+  *gigās*, *-antis*, _m._, GIANT
+  *gladius*, *gladī*, _m._, sword. (_Gladiator._) _Cf. *ferrum*_
+  *glōria*, *-ae*, _f._, GLORY, reputation
+  *Gorgō*, *-onis*, _f._, a GORGON
+  *Graeae*, *-ārum*, _f. plur._, the GRÆÆ
+  *Graecia*, *-ae*, _f._, GREECE
+  *Graecus*, *-ī*, _m._, a GREEK
+  *grāmen*, *-inis*, _n._, grass
+  *grātia*, *-ae*, _f._ [*grātus*], favor, kindness; _plur._,
+    thanks, GRATItude
+  *grātus*, *-a*, *-um*, _adj._ [*grātia*], acceptable, pleasing;
+    GRATEful
+  *gravis*, *-e*, _adj._, heavy, severe, serious. (_Grave_)
+  *graviter*, _adv._ [*gravis*], heavily, severely, vehemently,
+    greatly
+  *gravō*, *gravāre*, *gravāvī*, *gravātus* [*gravis*], oppress,
+    burden, overcome. (_Aggravate_)
+  *gustō*, *gustāre*, *gustāvī*, *gustātus*, taste, eat.
+    (_Gustatory_)
+
+  *habeō*, *habēre*, *habuī*, *habitus*, have, hold, keep; _with
+    *ōrātiōnem*_, make, deliver. (_Habit_)
+  *habitō*, *habitāre*, *habitāvī*, *habitātus* [_frequentative
+    of *habeō*_], inHABIT; dwell, live. _Cf. *incolō*_
+  *Haeduus*, *-a*, *-um*, _adj._ HÆDUAN; _masc. plur. as noun_,
+    the HÆDUI, a tribe of Gaul
+  *haereō*, *haerēre*, *haesī*, *haesūrus*, stick, cling, be
+    fixed; be perplexed, HESitate. (_Adhere_)
+  *Hammōn*, *-ōnis*, _m._, HAMMON, an Egyptian god, identified by
+    the Romans with Jupiter
+  *Hannibal*, *-alis*, _m._, HANNIBAL, a famous Carthaginian
+    general
+  *harēna*, *-ae*, _f._, sand, shore. (_Arena_)
+  *hasta*, *-ae*, _f._, spear
+  *haud*, _adv._, not. _Cf. *nōn*_
+  *hauriō*, *haurīre*, *hausī*, *haustus*, drink, drain.
+    (_Exhaust_)
+  *Helvētiī*, *-ōrum*, _m. plur._, the HELVETII, a tribe of Gaul
+  *Herculēs*, *-is*, _m._, HERCULES, son of Jupiter and Alcmena,
+    famous for his strength
+  *Hesperidēs*, *-um*, _f. plur._ the HESPERIDES, daughters of
+    Atlas and Hesperis, and guardians of the golden apples
+  *hesternus*, *-a*, *-um*, _adj._, of yesterday, yester-
+  *hīberna*, *-ōrum*, _n. plur._ [*hiems*], winter quarters.
+    (_Hibernate_)
+  *hic*, *haec*, *hoc*, _dem. adj. and pron._, this this of mind;
+    _as pers. pron._, he, she, it
+  *hīc*, _adv._ [*hic*], here, hereupon
+  *hiemō*, *hiemāre*, *hiemāvī*, *hiemātūrus* [*hiems*], spend
+    the winter
+  *hiems*, *hiemis*, _f._ [*hiemō*], winter; storm
+  *hinc*, _adv._ [*hic*], hence, from here
+  *Hispānia*, *-ae*, _f._, SPAIN
+  *Hispānus*, *-ī*, a SPANIARD
+  *ho-diē*, _adv._ [*hōc-diē*], to-day
+  *homō*, *-inis*, _m. and f._ [*hūmānus*], (human being), man.
+    _Cf. *vir*_
+  *honestās*, *-ātis*, _f._ [*honor*], honorable character,
+    integrity, uprightness, HONESTY
+  *honor*, *-ōris*, _m._, HONOR
+  *hōra*, *-ae*, _f._, HOUR; *in hōrās*, from hour to hour,
+    hourly
+  *Horātius*, *Horātī*, _m._, HORATIUS (Cocles)
+  *horribilis*, *-e*, _adj._, terrible, dreadful, HORRIBLE. _Cf.
+    *terribilis*_
+  *hortor*, *hortārī*, *hortātus sum*, urge, entreat, exHORT
+  *hortus*, *-ī*, _m._, garden. (_Horticulture_)
+  *hospitium*, *hospitī*, _n._, HOSPITality
+  *hostis*, *-is*, _m. and f._, enemy. (_Hostile._) _Cf.
+    *inimīcus*_
+  *hūc*, _adv._ [*hic*], hither
+  *hūmānus*, *-a*, *-um*, _adj._ [*homō*], (pertaining to man),
+    man's, HUMAN
+  *humī*, _locative_, on the ground. (_Exhume_)
+
+  *iaceō*, *iacēre*, *iacuī*, *------* [*iaciō*], (be thrown),
+    lie, lie dead. (_Adjacent_)
+  *iaciō*, *iacere*, *iēcī*, *iactus* [*iaceō*], throw, cast,
+    hurl
+  *iam*, _adv._, already, now, at last; *nōn iam*, no longer.
+    _Cf. *nunc*_
+  *Iāniculum*, *-ī*, _n._, the JANICULUM, one of the hills of
+    Rome
+  *ibi*, _adv._ [*is*], in that place, there
+  *Īcarus*, *-ī*, _m._, ICARUS
+  *ictus*, *-ūs*, _m._, stroke, blow
+  *īdem*, *eadem*, *idem*, _dem. adj. and pron._ [*is*], same;
+    *īdem quī*, same as. (_Identical_)
+  *idōneus*, *-a*, *-um*, _adj._, fit, suitable
+  *igitur*, _conj. (seldom the first word)_, therefore, then.
+    _Cf. *itaque*_
+  *ignōrō*, *ignōrāre*, *ignōrāvī*, *ignōrātus*, not know, be
+    ignorant of. (_Ignore_)
+  *i-gnōtus*, *-a*, *-um*, _adj._ [*in-(g)nōtus*, known],
+    unknown, unfamiliar, strange
+  *ille*, *-a*, *-ud*, _dem. adj. and pron._, that (yonder); _as
+    pers. pron._, he, she, it
+  *illīc*, _adv._ [*ille*], there
+  *illūc*, _adv._ [*ille*], thither
+  *immānitās*, *-ātis*, _f._, savageness, cruelty, barbarity
+  *im-mineō*, *imminēre*, *imminuī*, *------*, [*in-*], hang
+    over, impend. (_Imminent_)
+  *impedīmentum*, *-ī*, _n._ [*impediō*], hindrance; _plur._,
+    baggage. (_Impediment_)
+  *impediō*, *impedīre*, *impedīvī (impediī)*, *impedītus*
+    [*in-pēs*], entangle, hamper, IMPEDE
+  *im-pellō*, *impellere*, *impulī*, *impulsus*, [*in-*], move,
+    induce, drive, IMPEL. (_Impulse_)
+  *im-pendeō*, *impendēre*, *------*, *------* [*in-*], overhang,
+    IMPEND
+  *imperātor*, *-ōris*, _m._ [*imperō*], commander, general.
+    (_Emperor_)
+  *imperātum*, *-ī*, _n._ [*imperō*], order, command. _Cf.
+    *iussum*_
+  *imperium*, *imperī*, _n._ [*imperō*], command, rule, power.
+    (_Empire_)
+  *imperō*, *imperāre*, *imperāvī*, *imperātus* [*imperium*],
+    order, command, demand; rule; _with dat. of person.
+    (Imperative.)_ _Cf. *iubeō*_
+  *impetus*, *-ūs*, _m._, attack, assault. (_Impetuous_)
+  *im-pleō*, *implēre*, *implēvī*, *implētus* [*in-*], fill up,
+    cover, fill
+  *im-pōnō*, *impōnere*, *imposuī*, *impositus* [*in-*], put in
+    _or_ on, place in _or_ on; mount; IMPOSE; _with dat. of
+    person or place_
+  *impositus*, _see *impōnō*_
+  *impudēns*, *-entis*, _adj._, shameless, IMPUDENT
+  *impulsus*, _see *impellō*_
+  *īmus*, *-a*, *-um*, _adj._, _superl. of *īnferus*_
+  *in*, _prep. with acc._, into, to, against, on, toward, for;
+    _with abl._, IN, on, in case of
+  *in-*, _prefix_, into, on, toward, etc.; _also in composition
+    with nouns, adjectives, and participles, often having
+    negative sense._ _Cf. Eng. un-, in-, not_
+  *in-cendō*, *incendere*, *incendī*, *incēnsus* [*-candeō*,
+    shine], set fire to, burn. (_Incendiary_)
+  *incēnsus*, *-a*, *-um*, _adj._ [*incendō*], inflamed, hot,
+    firey. (_Incense_)
+  *in-certus*, *-a*, *-um*, _adj._, UNCERTain, doubtful
+  *in-cidō*, *incidere*, *incidī*, *------* [*-cadō*, fall], fall
+    into; *in īnsāniam incidere*, become insane. (_Incident_)
+  *in-cipiō*, *incipere*, *incēpī*, *inceptus* [*-capiō*], (take
+    in hand), begin. (_Incipient_)
+  *in-citō*, *incitāre*, *incitāvī*, *incitātus*, arouse, stir,
+    INCITE
+  *in-clūdō*, *inclūdere*, *inclūsī*, *inclūsus* [*-claudō*],
+    shut in, confine. (_Include_)
+  *in-cognitus*, *-a*, *-um*, _adj._, unknown
+  *incohō*, *incohāre*, *incohāvī*, *incohātus*, begin.
+    (_Inchoate_)
+  *incola*, *-ae*, _m. and f._ [*incolō*], inhabitant
+  *in-colō*, *incolere*, *incoluī*, *------* [*in-cola*], dwell
+    in, inhabit; live, dwell. _Cf. *habitō*_
+  *incolumis*, *-e*, _adj._, unharmed, safe
+  *increpitō*, *increpitāre*, *------*, *------*, upbraid, taunt,
+    abuse
+  *inde*, _adv._ [*is*], thence, thereupon
+  *indicō*, *indicāre*, *indicāvī*, *indicātus*, inform,
+    disclose, make known. (_Indicate_)
+  *in-dīcō*, *indīcere*, *indīxī*, *indictus*, proclaim, declare,
+    appoint. (_Indict_)
+  *in-dūcō*, *indūcere*, *indūxī*, *inductus*, lead to, draw to,
+    INDUCE, persuade
+  *induō*, *induere*, *induī*, *indūtus*, put on, clothe one's
+    self in, clothe, wrap
+  *in-eō*, *inīre*, *iniī (inīvī)*, *initus*, go in, enter;
+    begin, form
+  *īn-fāns*, *-antis*, _adj._, (not speaking); _as noun_, INFANT,
+    baby
+  *īn-fēlīx*, *-īcis*, _adj._, (not speaking); _as noun_, INFANT,
+    baby
+  *īnferior*, *-ius*, _adj._, _comp. of *īnferus*._ (_Inferior_)
+  *īn-ferō*, *īnferre*, *intulī*, *inlātus*, (bear in _or_
+    against), cause, bring on, inflict. (_Infer_)
+  *(īnferus)* *-a*, *-um*, _adj._, low, below, underneath
+  *īnfestus*, *-a*, *-um*, _adj._, hostile; _as noun_, enemy.
+    (_Infest_)
+  *īn-ficiō*, *īnficere*, *īnfēcī*, *īnfectus* [*-faciō*], soak,
+    imbue, stain. (_Infect_)
+  *īnfīnītus*, *-a*, *-um*, _adj._, many, countless. (_Infinite_)
+  *ingēns*, *-entis*, _adj._, huge, great. _Cf. *magnus*_
+  *in-iciō*, *inicere*, *iniēcī*, *iniectus* [*-iaciō*], throw
+    on, cast on, put on. (_Inject_)
+  *iniectus*, _see *iniciō*_
+  *in-imīcus*, *-a*, *-um*, _adj._ [*-amīcus*], unfriendly,
+    hostile; _as noun_, ENEMY. (_Inimical._) _Cf. *hostis*_
+  *in-īquus*, *-a*, *-um*, _adj._ [*-aequus*], unEQUAL; uneven,
+    unfavorable
+  *initium*, *initī*, _n._ [*ineō*], beginning. (_Initial_)
+  *iniūria*, *-ae*, _f._ [*in-iūs*], wrong, harm, insult, INJURY
+  *inopia*, *-ae*, _f._, want, poverty, lack, need
+  *in-rīdeō*, *inrīdēre*, *inrīsī*, *inrīsus*, laugh at, mock,
+    ridicule
+  *īnsānia*, *-ae*, _f._, INSANity, madness
+  *īn-sideō*, *īnsidēre*, *īnsēdī*, *īnsessūrus* [*-sedeō*], sit
+    on
+  *īnsolēns*, *-entis*, _adj._, arrogant, overbearing.
+    (_Insolent_)
+  *īn-spiciō*, *īnspicere*, *īnspexī*, *īnspectus* [*-speciō*,
+    look], look into, look on, INSPECT
+  *īn-stituō*, *īnstituere*, *īnstituī*, *īnstitūtus* [*-statuō*,
+    set up], set up, fix, arrange. (_Institute_)
+  *īnstrūctus*, _see *īnstruō*_
+  *īn-struō*, *īnstruere*, *īnstrūxī*, *īnstrūctus*, build in,
+    form; INSTRUCT, train; prepare, provide
+  *īnsula*, *-ae*, _f._, island. (_Peninsula_)
+  *intel-legō*, *intellegere*, *intellēxī*, *intellēctus*
+    [*inter-legō*], (choose between), learn, know, perceive,
+    understand. (_Intellect._) _Cf. *cognōscō*_
+  *in-tendō*, *intendere*, *intendī*, *intentus*, (stretch out
+    towards), bend, aim. (_Intend_)
+  *inter*, _prep. with acc._, between, among, amid, during,
+    while; *inter sē*, among themselves, together
+  *inter-clūdō*, *interclūdere*, *interclūsī*, *interclūsus*
+    [*-claudō*], shut off, cut off
+  *inter-dum*, _adv._, sometimes
+  *inter-eā*, _adv._, meanwhile
+  *interfectus*, _see *interficiō*_
+  *inter-ficiō*, *interficere*, *interfēcī*, *interfectus*
+    [*-faciō*], kill, slay, put to death. _Cf. *necō* and
+    *occīdō*_
+  *inter-iciō*, *intericere*, *interiēcī*, *interiectus*
+    [*-iaciō*], place between; _pass._, intervene.
+    (_Interjection_)
+  *interim*, _adv._, meanwhile, in the meantime. (_Interim_)
+  *interior*, *-ius*, _adj._, _comp._, inner, INTERIOR
+  *inter-mittō*, *intermittere*, *intermīsī*, *intermissus*,
+    (send between), leave off; _pass._, intervene, pass.
+    (_Intermittent_)
+  *inter-rogō*, *interrogāre*, *interrogāvī*, *interrogātus*,
+    ask, question. (_Interrogate_)
+  *inter-rumpō*, *interrumpere*, *interrūpī*, *interruptus*,
+    break down. (_Interrupt_)
+  *inter-sum*, *interesse*, *interfuī*, *interfutūrus*, be
+    between
+  *intervāllum*, *-ī*, _n._, space, INTERVAL
+  *intrō*, *intrāre*, *intrāvī*, *intrātus*, go into, ENTER
+  *introitus*, *-ūs*, _m._ [*introeō*, go in], ENTRance
+  *intrō-mittō*, *intrōmittere*, *intrōmīsī*, *intrōmissus*,
+    (send in), let in, adMIT
+  *in-vādō*, *invādere*, *invāsī*, *invāsus*, come upon, attack,
+    INVADE, take possession of
+  *in-veniō*, *invenīre*, *invēnī*, *inventus*, come upon, find,
+    discover. (_Invent._) _Cf. *reperiō*_
+  *in-vicem*, _adv._, in turn, mutually
+  *in-videō*, *invidēre*, *invīdī*, *invīsūrus* (look toward), be
+    jealous of, ENVY
+  *invītō*, *invītāre*, *invītāvī*, *invītātus*, INVITE
+  *Iolē*, *-ēs*, _f._, IOLE, daughter of Eurytus
+  *Īphiclēs*, *-is*, _m._, IPHICLES, brother of Hercules
+  *ipse*, *-a*, *-um*, _dem. adj. and pron._, self, very
+  *īra*, *-ae*, _f._, anger, wrath, IRE
+  *is*, *ea*, *id*, _dem. adj. and pron._, that; _as pers.
+    pron._, he, she, it
+  *iste*, *-a*, *-ud*, _dem. adj. and pron._ [*is*], that (of
+    yours)
+  *ita*, _adv._, so, thus. _Cf. *sīc* and *tam*_
+  *Italia*, *-ae*, _f._, ITALY
+  *ita-que*, _conj._, and so, therefore. _Cf. *igitur*_
+  *item*, _adv._ [*ita*], also, likewise
+  *iter*, *itineris*, _n._ [*eō*, go], way, journey, march, line
+    of march. (_Itinerary_)
+  *iterum*, _adv._, a second time, again. (_Iteration_)
+  *iubeō*, *iubēre*, *iussī*, *iussus*, bid, order, command. _Cf.
+    *imperō*_
+  *iugum*, *-ī*, _n._ [*iungō*], yoke; ridge
+  *Iūlia*, *-ae*, _f._, JULIA, a Roman name
+  *iūnctus*, _see *iungō*_
+  *iungō*, *iungere*, *iūnxī*, *iūnctus*, unite, JOIN, span,
+    cross. (_Junction_)
+  *Iūnius*, *Iūnī*, _m._ JUNIUS, a Roman name
+  *Iūnō*, *-ōnis*, _f._, JUNO, queen of the gods and wife of
+    Jupiter
+  *Iuppiter*, *Iovis*, _m._, JUPITER, the supreme deity of the
+    Romans
+  *Iūra*, *-ae*, _m._, JURA, a chain of mountains in Gaul
+  *iūrō*, *iūrāre*, *iūrāvī*, *iūrātūrus* [*iūs*], swear, take an
+    oath. (_Abjure_)
+  *iūs*, *iūris*, _n._, right, JUStice
+  *iussū*, _adv._ [*iubeō*], by order, by command of
+  *iussum*, *-ī*, _n._ [*iubeō*], order, command. _Cf.
+    *imperātum*_
+  *iussus*, _see *iubeō*_
+  *iūstus*, *-a*, *-um*, _adj._ [*iūs*], JUST
+  *iuvenis*, *-e*, _adj._, young; _as noun_, young man, youth.
+    (_Juvenile._) _Cf. *adulēscēns*_
+  *iuvō*, *iuvāre*, *iūvī*, *iūtus*, help, aid
+
+  *L.*, _abbreviation for *Lūcius*_
+  *Labiēnus*, *-ī*, _m._, LABIENUS, a lieutenant in Cæsar's army
+  *labor*, *-ōris*, _m._ [*labōrō*], LABOR, toil. _Cf. *opus* and
+    *opera*_
+  *labōrō*, *labōrāre*, *labōrāvī*, *labōrātūrus* [*labor*],
+    work, toil; suffer. (_Elaborate_)
+  *lac*, *lactis*, _n._, milk. (_Lacteal_)
+  *Lacaena*, *-ae*, _f._, a Laconian woman, a woman of Sparta
+  *lacrima*, *-ae*, _f._, tear. (_Lachrymal_)
+  *lacus*, *-ūs*, _m._, LAKE, pool
+  *laetitia*, *-ae*, _f._ [*laetus*], joy, gladness
+  *laetus*, *-a*, *-um*, _adj._, glad, merry, pleasant, joyful
+  *Laevīnus*, *-ī*, _m._, LÆVINUS, a Roman consul
+  *lambō*, *lambere*, *------*, *------*, lick, lap
+  *lāmenta*, *-ōrum*, _n. plur._ [*lāmentor*], wailing, LAMENTS,
+    LAMENTation
+  *lāmentor*, *lāmentārī*, *lāmentātus sum* [*lāmenta*], wail,
+    LAMENT
+  *lapis*, *-idis*, _m._, stone, milestone. (_Lapidary_)
+  *lateō*, *latēre*, *latuī*, *------*, lurk, lie hid, be
+    concealed. (_Latent_)
+  *Latīnus*, *-a*, *-um*, _adj._, LATIN; _masc. plur. as noun_,
+    the LATINS
+  *lātitūdō*, *-inis*, _f._ [*lātus*], breadth, width.
+    (_Latitude_)
+  *latrō*, *-ōnis*, _m._, robber, brigand
+  *lātus*, *-a*, *-um*, _adj._, broad, wide
+  *laudō*, *laudāre*, *laudāvī*, *laudātus*, praise, LAUD.
+    (_Laudatory_)
+  *lēctus*, _see *legō*_
+  *lēgātiō*, *-ōnis*, _f._ [*lēgātus*], embassy, LEGATION
+  *lēgātus*, *-ī*, _m._ [*lēgātiō*], ambassador, deputy,
+    lieutenant, LEGATUS. (_Legate_)
+  *legiō*, *-ōnis*, _f._ [*legō*], (a gathering), LEGION
+  *legō*, *legere*, *lēgī*, *lēctus*, gather; seLECT; read
+  *Lemannus*, *-ī*, _m._, the Lake of Geneva
+  *lēnis*, *-e*, _adj._ [*lēniter*], soft, smooth, gentle, mild
+  *lēniter*, _adv._ [*lēnis*], gently, moderately
+  *Lentulus*, *-ī*, _m._, LENTULUS, a Roman name
+  *Leōnidās*, *-ae*, _m._, LEONIDAS, commander of the Greeks at
+    Thermopylæ
+  *lēx*, *lēgis*, _f._, law. (_Legal_)
+  *libenter*, _adv._, willingly, gladly
+  *liber*, *-brī*, _m._, book. (_Library_)
+  *līber*, *-era*, *-erum*, _adj._, free. (_Liberal_)
+  *līberī*, *-ōrum*, _m. plur._ [*līber*]
+  *līberō*, *līberāre*, *līberāvī*, *līberātus* [*līber*], set
+    free, free, LIBERATE; _with abl. of separation_
+  *lībertās*, *-ātis*, _f._ [*līber*], freedom, LIBERTY
+  *Lichās*, *-ae*, _m._, LICHAS, an attendant of Hercules
+  *ligneus*, *-a*, *-um*, _adj._, wooden
+  *lignum*, *-ī*, _n._, wood; stake, stick
+  *Lingonēs*, *-um*, _m. plur._, the LINGONES, a tribe in Gaul
+  *lingua*, *-ae*, _f._, tongue, LANGUAGE
+  *Linus*, *-ī*, _m._, LINUS, teacher of Hercules in music
+  *littera*, *-ae*, _f._, a LETTER (of the alphabet); _plur._,
+    LETTER, epistle. (_Literature_)
+  *lītus*, *-oris*, _n._, shore. (_Littoral_)
+  *locō*, *locāre*, *locāvī*, *locātus* [*locus*], place, put,
+    set. (_Locate_)
+  *locus*, *-ī*, _m._ (_plur. *locī* m., and *loca*, n._), place,
+    position, situation; chance, opportunity. (_Local_)
+  *locūtus*, _see *loquor*_
+  *longē*, _adv._ [*longus*], far, far off, by far
+  *longinquus*, *-a*, *-um*, _adj._ [*longus*], distant, remote,
+    far away
+  *longitūdō*, *-inis*, _f._, length. (_Longitude_)
+  *longus*, *-a*, *-um*, _adj._, long, tedious
+  *loquor*, *loquī*, *locūtus sum*, speak, talk, say.
+    (_Elocution_, _Eloquent_)
+  *Lūcānī*, *-ōrum*, _m. plur._, the LUCANIANS, a people of
+    southern Italy
+  *lūdus*, *-ī*, _m._, game, sport
+  *lūgeō*, *lūgēre*, *lūxī*, *------*, mourn, mourn for
+  *lūmen*, *-inis*, _n._ [*lūx*], light. (_Luminous_)
+  *lupa*, *-ae*, _f._, she-wold
+  *lūx*, *lūcis*, _f._, light. (_Lucid_)
