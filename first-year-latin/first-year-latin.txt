@@ -12180,3 +12180,302 @@ outset.
   *lūmen*, *-inis*, _n._ [*lūx*], light. (_Luminous_)
   *lupa*, *-ae*, _f._, she-wold
   *lūx*, *lūcis*, _f._, light. (_Lucid_)
+
+  *M.*, _abbreviation for *Mārcus*_
+  *māchinātiō*, *-ōnis*, _f._, contrivance, MACHINE, engine
+  *magicus*, *-a*, *-um*, _adj._, MAGIC
+  *magis*, -adv._ [*mag(nus)*], more, rather
+  *magister*, *-trī*, _m._ [*magis*], MASTER, teacher.
+    (_Magistrate_)
+  *magnificus*, *-a*, *-um*, _adj._ [*magnus-faciō*], splendid,
+    MAGNIFICENT
+  *magnitūdō*, *-inis*, _f._ [*magnus*], greatness, size,
+    MAGNITUDE
+  *magnopere*, _adv._ [_abl. of *magnum opus*], greatly,
+    exceedingly, heartily
+  *magnus*, *-a*, *-um*, _adj._, great, large; loud. (_Magnify_)
+  *maior*, *-ius*, _adj._, _comp. of *magnus*_. (_Major_)
+  *male*, _adv._ [*malus*], badly, ill. (_Malevolent_)
+  *mālō*, *mālle*, *māluī*, *------* [*magis-volō*], be more
+    willing, prefer, would rather
+  *malum*, *-ī*, _n._ [*malus*], bad thing, evil
+  *malus*, *-a*, *-um*, _adj._, bad, evil
+  *mandō*, *mandāre*, *mandāvī*, *mandātus* [*manus-dō*], (put in
+    hand), charge, comMAND, intrust. (_Mandate_)
+  *maneō*, *manēre*, *mānsī*, *mānsūrus*, stay, reMAIN, wait.
+    (_Permanent_)
+  *manus*, *-ūs*, _f._, hand; grappling hook; force, band.
+    (_Manual_)
+  *Mārcius*, *Mārcī*, _m._, MARCIUS, a Roman name
+  *Mārcus*, *-ī*, _m._, MARCUS, a Roman first name
+  *mare*, *-is*, _n._, sea. (_Marine_)
+  *marītus*, *-ī*, _m._, husband. (_Marital_)
+  *Mārs*, *Mārtis*, _m._, MARS, the god of war. (_Martial_)
+  *māter*, *-tris*, _f._, mother. (_Maternal_)
+  *mātrimōnium*, *mātrimōnī*, _n._ [*māter*], MATRIMONY,
+    marriage; *in mātrimōnium dūcere*, marry
+  *mātrōna*, *-ae*, _f._ [*māter*], MATRON, woman
+  *mātūrō*, *mātūrāre*, *mātūrāvī*, *mātūrātus*, hasten.
+    (_Mature._) _Cf. *properō* and *contendō*_
+  *maximē*, _adv._ [*maximus*], most, especially, greatly. _Cf.
+    *praecipuē*_
+  *maximus*, *-a*, *-um*, _adj._, _superl. of *magnus*_.
+    (_Maximum_)
+  *mē*, _see *ego*_
+  *medicus*, *-ī*, _m._, doctor, physician. (_Medicine_)
+  *medius*, *-a*, *-um*, _adj._, middle, middle of; *in mediō*,
+    between (them); *in medium*, to the center. (_Medium_)
+  *Medūsa*, *-ae*, _f._, MEDUSA, one of the Gorgons, slain by
+    Perseus
+  *melior*, *-ius*, _adj._, _comp. of *bonus*_, better.
+    (_Ameliorate_)
+  *membrum*, *-ī*, _n._, limb. (_Member_)
+  *memoria*, *-ae*, _f._ [*memorō*], MEMORY
+  *memorō*, *memorāre*, *memorāvī*, *memorātus* [*memoria*],
+    mention, relate, state. (_Commemorate_)
+  *mēns*, *mentis*, _f._, mind. _Cf. *animus*_
+  *mēnsa*, *-ae*, _f._, table
+  *mēnsis*, *-is*, _m._, month
+  *mercātor*, *-ōris*, _m._, trader, MERchant
+  *Mercurius*, *Mercurī*, _m._, MERCURY, the messenger of the
+    gods
+  *mergō*, *mergere*, *mersī*, *mersus*, sink. (_Merge_)
+  *meritum*, *-ī*, _n._, thing deserved, deserts, MERIT
+  *mersus*, _see *mergō*_
+  *meus*, *-a*, *-um*, _possess. adj. and pron._, my, mine
+  *migrō*, *migrāre*, *migrāvī*, *migrātūrus*, depart.
+    (_Migrate_)
+  *mihi*, _see *ego*_
+  *mīles*, *-itis*, _m._, soldier. (_Military_)
+  *mīlitāris*, *-e*, _adj._ [*mīles*], MILITARY
+  *mīlle*, _adj._, _indecl. in sing._; _in plur._, *mīlia*,
+    *-ium*, thousand; _also (supply *passuum*)_, MILES
+  *Minerva*, *-ae*, _f._, MINERVA, the goddess of wisdom
+  *minimē*, _adv._ [*minimus*], least, not at all, by no means
+  *minimus*, *-a*, *-um*, _adj._, _superl. of *parvus*_, least,
+    very little. (_Minimum_)
+  *minor*, *-us*, _adj._, _comp. of *parvus*_, smaller, lesser.
+    (_Minor_, _Minus_)
+  *minus*, _adv._ [*minor*], less
+  *mīrāculum*, *-ī*, _n._ [*mīror*], wonder, marvel, MIRACLE
+  *mīror*, *mīrārī*, *mīrātus sum* [*mīrus*], wonder, wonder at,
+    adMIRE
+  *mīrus*, *-a*, *-um*, _adj._ [*mīror*], wonderful,
+    extraordinary
+  *miser*, *-era*, *-erum*, _adj._, wretched, unhappy, MISERable
+  *miserē*, _adv._ [*miser*], wretchedly, MISERably
+  *misericordia*, *-ae*, _f._, pity, compassion
+  *mittō*, *mittere*, *mīsī*, *missus*, send. (_Mission_)
+  *modo*, _adv._ [*modus*], only; *nōn modo . . . sed etiam*, not
+    only . . . but also
+  *modus*, *-ī*, _m._, way, manner. (_Mood_)
+  *moenia*, *-ium*, _n. plur._ [*mūniō*], walls (of a city). _Cf.
+    *mūrus*_
+  *moneō*, *monēre*, *monuī*, *monitus*, remind, advise, warn.
+    (_Monitor_)
+  *mōns*, *montis*, _m._, MOUNTain, hill. _Cf. *collis*_
+  *mōnstrō*, *mōnstrāre*, *mōnstrāvī*, *mōnstrātus*, show, point
+    out. (_Demonstrate_)
+  *mōnstrum*, *-ī*, _n._, MONSTER
+  *mora*, *-ae*, _f._ [*moror*], delay
+  *morior*, *morī*, *mortuus sum* (_fut. part. *moritūrus*_)
+    [*mors*], die. (_Mortuary_)
+  *moror*, *morārī*, *morātus sum* [*mora*], retard, hinder,
+    delay. (_Moratorium_)
+  *mors*, *mortis*, _f._ [*morior*], death. (_Mortal._), _Cf.
+    *nex*_
+  *mortuus*, *-a*, *-um*, _adj._ [*morior*], dead
+  *mōs*, *mōris*, _m._, manner, habit, custom. (_Moral_)
+  *moveō*, *movēre*, *mōvī*, *mōtus*, MOVE
+  *mox*, _adv._, soon, presently
+  *Mūcius*, *Mūcī*, _m._, MUCIUS, a Roman name
+  *mulier*, *-eris*, _f._, woman. _Cf. *fēmina*_
+  *multitūdō*, *-inis*, _f._ [*multus*], great number, MULTITUDE,
+    quantity
+  *multō*, _adv._ [*multus*], by much, much
+  *multum*, _adv._ [*multus*], much
+  *multus*, *-a*, *-um*, _adj._, much; _plur._, many.
+    (_Multiply_)
+  *mūniō*, *mūnīre*, *mūnīvī (mūniī)* *mūnītus* [*moenia*],
+    fortify, defend
+  *mūnītiō*, *-ōnis*, _f._ [*mūniō*], fortification, defense.
+    (_Munitions_)
+  *mūnus*, *-eris*, _n._, duty, office
+  *mūrus*, *-ī*, _m._, wall. (_Mural_, _Immure._) _Cf. *moenia*_
+  *mūs*, *mūris*, _m. and f._, mouse
+  *Mūs*, *Mūris*, _m._, MUS, a Roman surname
+  *mūsica*, *-ae*, _f._, MUSIC
+  *mūtō*, *mūtāre*, *mūtāvī*, *mūtātus*, change, alter.
+    (_Mutation_)
+
+  *nam*, _conj._, for. _Cf. *enim*_
+  *nārrō*, *nārrāre*, *nārrāvī*, *nārrātus*, tell, relate,
+    NARRATE
+  *nāscor*, *nāscī*, *nātus sum*, be born. (_Native_)
+  *Nāsīca*, *-ae*, _m._, NASICA, a Roman surname
+  *nātiō*, *-ōnis*, _f._, tribe, people, NATION
+  *natō*, *natāre*, *natāvī*, *natātūrus* [_frequentative of
+    *nō*_], swim, float. (_Natatorial_)
+  *nātūra*, *-ae*, _f._, [*nāscor*], (birth), NATURE, character
+  *nātus*, _see *nāscor*_
+  *nauta*, *-ae*, _m._ [_for *nāvita*; *nāvis*], sailor.
+    (_Nautical_)
+  *nāvigium*, *nāvigī*, _n._ [*nāvigō*], boat
+  *nāvigō*, *nāvigāre*, *nāvigāvī*, *nāvigātus* [*nāvis-agō*],
+    sail, cruise, NAVIGATE
+  *nāvis*, *-is*, _f._ (_acc. *-em*, *im*_; _abl. *-ī*, *-e*_),
+    ship. (_Naval_)
+  *-ne*, _interrog. adv._, _enclitic_, _sign of a question_
+  *nē*, _conj._, that not, that; lest; *nē . . . quidem*, not
+    even
+  *nec*, _see *neque*_
+  *necesse*, _neut. adj._, _indecl._, unavoidable, NECESSARY
+  *necessitās*, *-ātis*, _f._ [*necesse*], need, NECESSITY
+  *necō*, *necāre*, *necāvī*, *necātus* [*nex*], kill, slay. _Cf.
+    *interficiō* and *occīdō*_
+  *negōtium*, *negōtī*, _n._, business, labor. (_Negotiate_)
+  *nēmō*, *-inī* (_dat._; _no gen. or abl._), _m. and f._
+    [*nē-homō*], no one, nobody, no man
+  *Neptūnus*, *-ī*, _m._, NEPTUNE, the god of the sea
+  *ne-que* _or_ *nec*, _conj._, and not, nor; *neque . . .
+    neque*, neither . . . nor
+  *Nerviī*, *-ōrum*, _m. plur._, the NERVII, a tribe of
+    northeastern Gaul
+  *Nessus*, *-ī*, _m._, NESSUS, a centaur slain by Hercules
+  *neuter*, *-tra*, *-trum*, _adj. and pron._ [*nē-uter*],
+    neither (of two). (_Neutral_)
+  *nex*, *necis*, _f._ [*necō*], death, slaughter, murder. _Cf.
+    *mors*_
+  *nihil*, _n._, _indecl._, nothing; *nihil cibī*, no food.
+    (_Nihilist_)
+  *ni-si*, _conj._, if not, unless, except
+  *nix*, *nivis*, _f._, snow
+  *nō*, *nāre*, *nāvī*, *------*, swim
+  *nōbilis*, *-e*, _adj._ [*nōscō*, know], well known,
+    celebrated; of high birth; NOBLE
+  *nōbilitās*, *-ātis*, _f._ [*nōbilis*], rank, NOBILITY
+  *noceō*, *nocēre*, *nocuī*, *nocitūrus*, do harm to, injure;
+    _with dat._ (_Noxious_)
+  *noctū*, _adv._ [*nox*], by night
+  *nōlō*, *nōlle*, *nōluī*, *------* [*nē-volō*], be unwilling,
+    will not, not wish
+  *nōmen*, *-inis*, _n._ [*nōscō*, know], (that by which a thing
+    is known), name. (_Nominal_)
+  *nōminō*, *nōmināre*, *nōmināvī*, *nōminātus* [*nōmen*], name,
+    call. (_Nominate_)
+  *nōn*, _adv._ [*nē-ūnum*], not; *nōn iam*, no longer; *nōn
+    sōlum . . . sed etiam*, not only . . . but also.
+    (_Nonentity._) _Cf. *haud*_
+  *nōn-dum*, _adv._, not yet
+  *nōn-nūllus*, *-a*, *-um*, _adj. and pron._, (not none), some,
+    several
+  *nōs*, _see *ego*_
+  *noster*, *-tra*, *-trum*, _possess. adj. and pron._ [*nōs*],
+    our, ours; *nostrī*, our men. (_Nostrum_)
+  *novem*, _adj._, _indecl._, nine
+  *novus*, *-a*, *-um*, _adj._, new. (_Novelty_)
+  *nox*, *noctis*, _f._, night. (_Nocturnal_)
+  *nūbēs*, *-is*, _f._, cloud
+  *nūllus*, *-a*, *-um*, _adj. and pron._ [*nē-ūllus*], no, none,
+    no one. (_Nullity_)
+  *num*, _interrog. adv._, _in an indir. question_, whether
+  *Numa Pompilius*, *Numae Pompilī*, _m._, NUMA POMPILIUS, the
+    second king of Rome
+  *numerus*, *-ī*, _m._, NUMBER. (_Numeral_)
+  *numquam*, _adv._ [*nē-umquam*], never
+  *nunc*, _adv._, now. (_Quidnunc._) _Cf. *iam*_
+  *nūntiō*, *nūntiāre*, *nūntiāvī*, *nūntiātus* [*nūntius*],
+    report, anNOUNCE. (_Annunciation_)
+  *nūntius*, *nūntī*, _m._ [*nūntiō*], bearer of news, messenger.
+    (_Nuncio_)
+  *nūper*, _adv._ [_for *noviper*_, *novus*], recently, lately
+  *nympha*, *-ae*, _f._, NYMPH
+
+  *ob*, _prep. with acc._, on account of
+  *ob-*, _prefix_, against, opposite
+  *ob-iciō*, *obicere*, *obiēcī*, *obiectus* [*-iaciō*], (throw
+    in the way), throw between, interpose. (_Object_)
+  *obiectus*, _see *obiciō*_
+  *oblātus*, _see *offerō*_
+  *obnoxius*, *-a*, *-um*, _adj._, liable to, exposed to.
+    (_Obnoxious_)
+  *obscūrō*, *obscūrāre*, *obscūrāvī*, *obscūrātus*, darken,
+    conceal. (_Obscure_)
+  *obses*, *-idis*, _m. and f._ [*ob-sedeō*], (one who sits or
+    remains as a pledge), hostage
+  *ob-sideō*, *obsidēre*, *obsēdī*, *obsessus* [*-sedeō*], (sit
+    down against), beSIEGE, beset, blockade. (_Obsess._) _Cf.
+    *oppugnō*_
+  *obsolētus*, *-a*, *-um*, _adj._, old. (_Obsolete_)
+  *ob-struō*, *obstruere*, *obstrūxī*, *obstrūctus*, (build up
+    against), block up, bar, barricade, OBSTRUCT
+  *ob-stupefaciō*, *obstupefacere*, *obstupefēcī*,
+    *obstupefactus*, astonish, amaze, astound
+  *ob-tineō*, *obtinēre*, *obtinuī*, *obtentus* [*-teneō*], (hold
+    against), possess, occupy, hold. (_Obtain_)
+  *occāsiō*, *-ōnis*, _f._, chance, opportunity. (_Occasion._)
+    _Cf. *potestās*_
+  *occāsus*, *-ūs*, _m._, setting (of the sun)
+  *oc-cīdō*, *occīdere*, *occīdī*, *occīsus* [*ob-caedō*], cut
+    down, slay, kill. _Cf. *interficiō* and *necō*_
+  *occupō*, *occupāre*, *occupāvī*, *occupātus* [*ob-capiō*],
+    take possession of, seize; OCCUPY
+  *oc-currō*, *occurrere*, *occurrī*, *occursūrus* [*ob-*], run
+    toward; meet, fall in with. (_Occur_)
+  *ōceanus*, *-ī*, _m._, OCEAN
+  *Ocelum*, *-ī*, _n._, OCELUM, a town in Cisalpine Gaul
+  *octingentī*, *-ae*, *-a*, _adj._ [*octō-centum*], eight
+    hundred
+  *octō*, _adj._, _indecl._, eight. (_Octave_)
+  *octōgintā*, _adj._, _indecl._, eighty
+  *odium*, *odī*, _n._, hatred, enmity. (_Odium_)
+  *Oeneus*, *-ī*, _m._, ŒNEUS, father of Deianira
+  *Oeta*, *-ae*, _f._, ŒTA, a mountain in Greece
+  *of-fendō*, *offendere*, *offendī*, *offēnsus* [*ob-*], strike
+    against; come on, find. (_Offend_)
+  *of-ferō*, *offerre*, *obtulī*, *oblātus* [*ob-*], OFFER,
+    present
+  *officīna*, *-ae*, _f._, workshop, laboratory
+  *officium*, *officī*, _n._, duty, task. (_Office_)
+  *ōlim*, _adv._ [*olle*, _old form of *ille*_], (at that time);
+    formerly, once; once upon a time. _Cf. *aliquandō*_
+  *Olympus*, *-ī*, _m._, OLYMPUS, a mountain in Greece, the abode
+    of the gods
+  *o-mittō*, *omittere*, *omīsī*, *omissus* [*ob-*], let go by,
+    disregard, neglect, OMIT
+  *omnīnō*, _adv._ [*omnis*], wholly, altogether, entirely
+  *omnis*, *-e*, _adj._, whole, all, every. (_Omnipresent._) _Cf.
+    *cūnctus*, *tōtus*, and *ūniversus*_
+  *opera*, *-ae*, _f._ [*opus*], labor, care, work. (_Opera._)
+    _Cf. *labor* and *opus*_
+  *oppidānus*, *-ī*, _m._ [*oppidum*], townsman
+  *oppidum*, *-ī*, _n._, town, stronghold
+  *op-primō*, *opprimere*, *oppressī*, *oppressus* [*ob-premō*,
+    press], overcome, crush, OPPRESS
+  *op-pugnō*, *oppugnāre*, *oppugnāvī*, *oppugnātus* [*ob-*],
+    attack, assault, besiege. _Cf. *expugnō* and *obsideō*_
+  *(ops)*, *opis*, _f._, aid, help. _Cf. *auxilium*_
+  *optimus*, *-a*, *-um*, _adj._, _superl. of *bonus*_, best.
+    (_Optimist_)
+  *opus*, *-eris*, _n._, work, labor. (_Operate._) _Cf. *labor*_
+  *ōrāculum*, *-ī*, _n._ [*ōrō*], ORACLE
+  *ōrātiō*, *-ōnis*, _f._ [*ōrō*], speech, plea; ORATION
+  *orbis*, *-is*, _m._, circle, ORB, world; *orbis terrārum*,
+    earth, world. (_Orbit_)
+  *orbō*, *orbāre*, *orbāvī*, *orbātus*, deprive, bereave
+  *ōrdinō*, *ōrdināre*, *ōrdināvī*, *ōrdinātus* [*ōrdō*], plan,
+    arrange. (_Coördinate_, _Ordain_)
+  *ōrdō*, *-inis*, _m._, rank, ORDER; *ex ōrdine*, in succession,
+    one after another; *extrā ōrdinem*, out of the ranks.
+    (_Extraordinary_)
+  *Orgetorīx*, *-īgis*, _m._, ORGETORIX, a Helvetian chief
+  *orior*, *orīrī*, *ortus sum*, arise, spring, descend (from);
+    *ortā lūce*, at daybreak
+  *ōrnō*, *ōrnāre*, *ōrnāvī*, *ōrnātus*, adORN, ORNAment, deck
+  *ōrō*, *ōrāre*, *ōrāvī*, *ōrātus*, (speak), beg, pray, entreat,
+    plead. (_Oratory_)
+  *ortus*, _see *orior*_
+  *os-tendō*, *ostendere*, *ostendī*, *ostentus* [*ob(s)-*],
+    stretch out; show, display. (_Ostensible_)
+  *ōstium*, *ōstī*, _n._, mouth
+  *ovis*, *-is*, _f._, sheep
