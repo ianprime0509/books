@@ -13378,3 +13378,602 @@ outset.
   *vultus*, *-ūs*, _m._, countenance, looks, features
 
   *Zama*, *-ae*, _f._, ZAMA, a town in Africa
+
+
+
+
+ENGLISH-LATIN VOCABULARY
+
+For the principal parts of verbs, and for other details not given
+here, reference may be made to the Latin-English Vocabulary or to
+the special vocabularies. The fitures 1, 2, 3, 4 after verbs
+indicate the conjugation.
+
+  *about*, dē, _with abl._
+  *across*, trāns, _with acc._
+  *act*, agō, 3
+  *advance*, prōgredior, 3
+  *advise*, moneō, 2
+  *after*, post, _with acc._; _implied in a participle_
+  *affterwards*, posteā
+  *against*, contrā _or_ ad; _with acc._
+  *aid*, auxilium, auxilī, _n._
+  *all*, omnis, -e; tōtus, -a, -um
+  *ally*, socius, socī, _m._
+  *alone*, sōlus, -a, -um; ūnus, -a, -um
+  *also*, etiam
+  *although*, _implied in a participle_
+  *among*, inter, _with acc._; in, _with abl._
+  *ample*, amplus, -a, -um
+  *and*, et, -que; *and also*, atque; *and so*, itaque
+  *announce*, nūntiō, 1
+  *another*, alius, -a, -ud
+  *any*, ūllus, -a, -um; aliquī, aliqua, aliquod; *any at all*,
+    quisquam, ------, quidquam; *any one*, aliquis
+  *anything*, aliquid
+  *approach*, appropinquō, 1
+  *approve*, probō, 1
+  *arm*, armō, 1
+  *arms*, arma, -ōrum, _n. plur._
+  *army*, exercitus, -ūs, _m._
+  *arouse*, incitō, 1; commoveō, 2
+  *arrival*, adventus, -ūs, _m._
+  *arrow*, sagitta, -ae, _f._
+  *ask*, rogō, 1; petō, 3
+  *assistance*, auxilium, auxilī, _n._
+  *at*, in, _with acc. or abl._; _abl. of cause_; _abl. of time_;
+    *at last*, tandem; *at once*, statim
+  *Athens*, Athēnae, -ārum, _f. plur._
+  *attack*, _v._, oppugnō, 1; impetum faciō, 3
+  *attack*, _n._, impetus, -ūs, _m._
+  *attempt*, cōnor, 1
+  *await*, exspectō, 1
+  *away from*, ā _or_ ab, _with abl._
+
+  *baggage*, impedīmenta, -ōrum, _n. plur._
+  *band*, manus, -ūs, _f._
+  *bank*, rīpa, -ae, _f._
+  *barbarian*, barbarus, -ī, _m._
+  *battle*, pugna, -ae, _f._; proelium, proelī, _n._
+  *be*, sum, _irr._; *be able*, possum, _irr._; *be made*, fīō,
+    _irr._; *be unwilling*, nōlō, _irr._; *be wanting*, dēsum,
+    _irr._; *be willing*, volō, _irr._
+  *bear*, ferō, _irr._
+  *because*, quod; *because of*, ob _or_ propter, _with acc._;
+    _abl. of cause_
+  *become*, fīō, _irr._
+  *began*, coepī, _defective_
+  *best*, optimus, -a, -um
+  *better*, melior, melius
+  *between*, inter, _with acc._
+  *boat*, nāvigium, nāvigī, _n._
+  *body*, corpus, -oris, _n._
+  *bold*, audāx, -ācis; fortis, -e
+  *book*, liber, -brī, _m._
+  *booty*, praeda, -ae, _f._
+  *both . . . and*, et . . . et
+  *boy*, puer, -erī, _m._
+  *brave*, fortis, -e
+  *bravely*, fortiter; cum virtūte
+  *bravery*, virtūs, -ūtis, _f._
+  *bring*, portō, 1
+  *Britain*, Britannia, -ae, _f._
+  *broad*, lātus, -a, -um
+  *brother*, frāter, -tris, _m._
+  *build*, aedificō, 1
+  *building*, aedificium, aedificī, _n._
+  *but*, sed
+  *buy*, emō, 3
+  *by*, ā _or_ ab, _with abl._; _abl. of means or instrument_
+
+  *Cæsar*, Caesar, -aris, _m._
+  *call together*, convocō, 1
+  *camp*, castra, -ōrum, _n. plur._
+  *can*, possum, _irr._
+  *captive*, captīvus, -ī, _m._
+  *capture*, capiō, 3
+  *care*, cūra, -ae, _f._
+  *carry*, portō, 1; *carry on war*, bellum gerō, 3
+  *cart*, carrus, -ī, _m._
+  *cause*, causa, -ae, _f._
+  *cavalry*, equitātus, -ūs, _m._
+  *centurion*, centuriō, -ōnis, _m._
+  *certain*, quīdam, quaedam, quoddam (quiddam)
+  *certainly*, certē
+  *chief*, prīnceps, -cipis, _m._
+  *children*, līberī, -ōrum, _m. plur._
+  *citizen*, cīvis, -is, _m._
+  *city*, urbs, urbis, _f._
+  *clan*, cīvitās, -ātis, _f._
+  *cohort*, cohors, cohortis, _f._
+  *come*, veniō, 4; *come near*, accēdō, 3; appropinquō, 1
+  *coming*, adventus, -ūs, _m._
+  *command*, _v._, iubeō, 2; imperō, 1, _with dat._
+  *command*, _n._, imperium, imperī, _n._
+  *comrade*, socius, socī, _m._
+  *concerning*, dē, _with abl._
+  *conference*, conloquium, conloquī, _n._
+  *confidence*, fidēs, -eī, _f._
+  *confuse*, perturbō, 1
+  *conquer*, superō, 1; vincō, 3
+  *contend*, pugnō, 1
+  *Corinth*, Corinthus, -ī, _f._
+  *Cornelia*, Cornēlia, -ae, _f._
+  *country*, patria, -ae, _f._
+  *courage*, virtūs, -ūtis, _f._
+  *cut off*, interclūdō, 3
+
+  *daily*, cotīdiē
+  *danger*, perīculum, -ī, _n._
+  *daughter*, fīlia, -ae, _f._
+  *dawn (at)*, prīmā lūce
+  *day*, diēs, -ēī, _m._
+  *daybreak (at)*, prīmā lūce
+  *death*, mors, mortis, _f._
+  *decide*, cōnstituō, 3
+  *deep*, altus, -a, -um
+  *defend*, dēfendō, 3
+  *delay*, _v._, moror, 1
+  *delay*, _n._, mora, -ae, _f._
+  *delight*, dēlectō, 1
+  *Delphi*, Delphī, -ōrum, _m. plur._
+  *demand*, postulō, 1
+  *depart*, discēdō, 3
+  *deprive*, prīvō, 1
+  *desire*, cupiō, 3; studeō, 2, _with dat._
+  *desist*, dēsistō, 3
+  *difficulty*, difficultās, -ātis, _f._
+  *diligence*, dīligentia, -ae, _f._
+  *dismiss*, dīmittō, 3
+  *disturb*, commoveō, 2
+  *do*, faciō, 3; agō, 3
+  *down from*, dē, _with abl._
+  *draw up*, īnstruō, 3
+  *dwell*, habitō, 1; incolō, 3
+
+  *each*, *each one*, quisque; *each of two*, uterque, utraque,
+    utrumque
+  *eager*, ācer, ācris, ācre
+  *easy*, facilis, -e
+  *embassy*, lēgātiō, -ōnis, _f._
+  *enemy*, hostis, -is, _m._
+  *enough*, satis
+  *every one*, quisque; omnēs, -ium, _m. plur._
+  *exhort*, hortor, 1
+  *extend*, pateō, 2
+
+  *fact*, rēs, reī, _f._; *the fact that*, quod, _with a clause
+    of fact_
+  *fail*, dēsum, _irr._, _with dat._
+  *farmer*, agricola, -ae, _m._
+  *father*, pater, -tris, _m._
+  *fear*, _v._, timeō, 2; vereor, 2
+  *fear*, _n._, timor, -ōris, _m._
+  *few*, paucī, -ae, -a, _plur._
+  *field*, ager, agrī, _m._
+  *fight*, _v._ pugnō, 1
+  *fight*, _n._, pugna, -ae, _f._
+  *fill*, compleō, 2
+  *find*, reperiō, 4
+  *fire*, ignis, -is, _m._
+  *first*, prīmus, -a, -um
+  *fit*, idōneus, -a, -um
+  *five*, quīnque
+  *flank*, cornū, -ūs, _n._
+  *flee*, fugiō, 3
+  *follow*, sequor, 3
+  *food*, cibus, -ī, _m._
+  *foot*, pēs, pedis, _m._; *foot soldier*, pedes, peditis, _m._
+  *for*, _sign of the dative_; prō, _with abl._; *for the purpose
+    of*, ad, _with gerundive or gerund_; ut, _with subjunctive_
+  *force*, vīs, vīs, _f._
+  *forest*, silva, -ae, _f._
+  *formerly*, ōlim
+  *fortify*, mūniō, 4
+  *fortune*, fortūna, -ae, _f._
+  *free*, _v._, līberō, 1
+  *free*, _adj._, līber, -era, -erum
+  *friend*, amīcus, -ī, _m._
+  *friendly*, amīcus, -a, -um
+  *frighten*, terreō, 2
+  *from*, dē, _with abl._; *away from*, ā _or ab, _with abl._;
+    *out from*, ē _or_ ex, _with abl._; _abl. of separation_
+
+  *Galba*, Galba, -ae, _m._
+  *garden*, hortus, -ī, _m._
+  *gate*, porta, -ae, _f._
+  *gather together*, cōgō, 3
+  *Gaul*, Gallia, -ae, _f._; *a Gaul*, Gallus, -ī, _m._
+  *general*, dux, ducis, _m._
+  *Germans*, Germānī, -ōrum, _m. plur._
+  *Germany*, Germānia, -ae, _f._
+  *gift*, dōnum, -ī, _n._
+  *girl*, puella, -ae, _f._
+  *give*, dō, 1; dōnō, 1
+  *go*, eō, _irr._; *go away*, discēdō, 3; *go forward*,
+    prōgredior, 3; *go out*, ēgredior, 3
+  *god*, deus, -ī, _m._
+  *good*, bonus, -a, -um
+  *grain*, frūmentum, -ī, _n._
+  *great*, magnus, -a, -um; *great number*, multitūdō, -inis,
+    _f._
+  *greatly*, magnopere
+  *Greece*, Graecia, -ae, _f._
+  *grieve*, doleō, 2
+
+  *hand*, manus, -ūs, _f._
+  *happen*, fīō, _irr._
+  *harbor*, portus, -ūs, _m._
+  *hardship*, labor, -ōris, _m._
+  *harm*, noceō, 2, _with dat._
+  *hasten*, properō, 1
+  *have*, habeō, 2
+  *he*, is, hic, ille
+  *head*, caput, -itis, _n._
+  *hear*, audiō, 4
+  *heavy*, gravis, -e
+  *help*, auxilium, auxilī, _n._; subsidium, subsidī, _n._
+  *Helvetians*, Helvētiī, -ōrum, _m. plur._
+  *her*, (_objective_) eam, hanc, illam; (_possessive_) eius,
+    huius, illīus; (_reflexive possessive_) suus, -a, -um
+  *herself*, suī
+  *high*, altus, -a, -um; superus, -a, -um
+  *hill*, collis, -is, _m._
+  *him*, eum, hunc, illum
+  *himself*, suī
+  *hinder*, impediō, 4
+  *his*, eius, huius, illīus; (_reflexive_) suus, -a, -um
+  *hold*, habeō, 2; teneō, 2; *hold in check*, sustineō, 2
+  *home*, domus, -ūs, _f._
+  *hope*, spēs, speī, _f._
+  *horn*, cornū, -ūs, _n._
+  *horse*, equus, -ī, _m._
+  *horseman*, eques, -itis, _m._
+  *hostage*, obses, -idis, _m._
+  *hour*, hōra, -ae, _f._
+  *house*, domus, -ūs, _f._
+  *how many*, quot
+  *however*, tamen
+  *hundred*, centum
+  *hurl*, iaciō, 3
+  *hurry*, properō, 1
+
+  *I*, ego
+  *if*, _implied in a participle_
+  *impel*, incitō, 1
+  *in*, in, _with abl._; _abl. of specification_; *in defense
+    of*, prō, _with abl._; *in front of*, prō, _with abl._; *in
+    order to*, ut, _with subjunctive_; *in such a way*, ita; *in
+    vain*, frūstrā
+  *increase*, augeō, 2
+  *infantry*, peditātus, -ūs, _m._
+  *inform*, certiōrem faciō, 3
+  *inhabitant*, incola, -ae, _m._
+  *injure*, noceō, 2, _with dat._
+  *into*, in, _with acc._
+  *island*, īnsula, -ae, _f._
+  *it*, id, hoc, illud
+  *Italy*, Italia, -ae, _f._
+
+  *javelin*, pīlum, -ī, _n._
+  *journey*, iter, itineris, _n._
+  *Julia*, Iūlia, -ae, _f._
+
+  *kill*, interficiō, 3
+  *king*, rēx, rēgis, _m._
+  *know*, sciō, 4; cognōscō, 3, _in perf. tenses_
+
+  *Labienus*, Labiēnus, -ī, _m._
+  *labor*, labōrō, 1
+  *lack*, _v._, careō, 2, _with abl._; *dēsum*, _irr._, _with
+    dat._
+  *lack*, _n._, inopia, -ae, _f._
+  *lady*, domina, -ae, _f._
+  *lake*, lacus, -ūs, _m._
+  *land*, terra, -ae, _f._
+  *large*, magnus, -a, -um
+  *last*, proximus, -a, -um
+  *lay waste*, vāstō, 1
+  *lead*, dūcō, 3; *lead back*, redūcō, 3; *lead out*, ēdūcō, 3
+  *leader*, dux, ducis, _m._
+  *learn*, cognōscō, 3
+  *least*, minimus, -a, -um
+  *leave behind*, relinquō, 3
+  *left*, sinister, -tra, -trum
+  *legion*, legiō, -ōnis, _f._
+  *lest*, nē, _with subjunctive_
+  *letter*, litterae, -ārum, _f. plur._
+  *liberate*, līberō, 1
+  *lieutenant*, lēgātus, -ī, _m._
+  *like*, similis, -e
+  *line of battle*, aciēs, -ēī, _f._
+  *little*, parvus, -a, -um
+  *live*, habitō, 1
+  *long*, longus, -a, -um; *for a long time*, diū
+  *look at*, spectō, 1
+  *love*, amō, 1
+
+  *make*, faciō, 3
+  *man*, vir, virī, _m._; homō, -inis, _m._
+  *many*, multī, -ae, -a, _plur._
+  *march*, _v._, iter faciō, 3
+  *march*, _n._, iter, itineris, _n._
+  *Marcus*, Mārcus, -ī, _m._
+  *marsh*, palūs, palūdis, _f._
+  *master*, dominus, -ī, _m._
+  *meanwhile*, interim
+  *messenger*, nūntius, nūntī, _m._
+  *mile*, mīlle passuum
+  *mine*, meus, -a, -um
+  *money*, pecūnia, -ae, _f._
+  *more*, plūs, plūris
+  *most*, plūrimus, -a, -um
+  *mother*, māter, -tris, _f._
+  *mountain*, mōns, montis, _m._
+  *move*, moveō, 2
+  *much*, _adj._, multus, -a, -um
+  *much*, _adv._, multum; multō
+  *must*, _passive periphrastc conjugation_
+  *my*, meus, -a, -um
+
+  *nation*, nātiō, -ōnis, _f._
+  *native land*, patria, -ae, _f._
+  *near*, _adj._, fīnitimus, -a, -um; propinquus, -a, -um
+  *near*, _prep._, apud, _with acc._
+  *neighboring_, fīnitimus, -a, -um
+  *neighbors*, fīnitimī, -ōrum, _m. plur._
+  *neither . . . nor*, neque . . . neque
+  *never*, numquam
+  *new*, novus, -a, -um
+  *night*, nox, noctis, _f._
+  *no*, nūllus, -a, -um; *no longer*, nōn iam
+  *nor*, neque
+  *not*, nōn; *not even*, nē . . . quidem
+  *nothing*, nihil
+  *now*, iam, nunc
+  *number*, numerus, -ī, _m._
+
+  *ocean*, ōceanus, -ī, _m._
+  *of*, _sign of the genitive_; dē, _with abl._; *out of*, ē _or_
+    ex, _with abl._
+  *offer*, dō, 1
+  *often*, saepe
+  *on*, in, _with abl._; _abl. of time_; *on account of*, ob _or_
+    propter, _with acc._
+  *once (upon a time)*, ōlim
+  *one*, ūnus, -a, -um
+  *order*, _v._, iubeō, 2; imperō, 1, _with dat._
+  *order (in order that)*, ut, _with subjunctive_
+  *other*, alius, -a, -ud; *other of two*, alter, -era, -erum
+  *ought*, dēbeō, 2; _passive periphrastic conjugation_
+  *our*, noster, -tra, -trum; *our men*, nostrī, -ōrum, _m.
+    plur._
+  *ourselves*, nōs; ipsī, -ae
+  *out of*, ē _or_ ex, _with abl._
+  *overcome*, superō, 1; vincō, 3
+  *own, (his, her, its, their)*, suus, -a, -um; *(my)* meus, -a,
+    -um; *(our)* noster, -tra, -trum; *(your, _sing._)* tuus, -a,
+    -um; *(your, _plur._)* vester, -tra, -trum
+
+  *part*, pars, partis, _f._
+  *peace*, pāx, pācis, _f._
+  *people*, populus, -ī, _m._; nātiō, -ōnis, _f._
+  *personal enemy*, inimīcus, -ī, _m._
+  *persuade*, persuādeō, 2, _with dat._
+  *pirate*, pīrāta, -ae, _m._
+  *pitch camp*, castra pōnō, 3
+  *place*, _v._, pōnō, 3; conlocō, 1; *place in command*,
+    praeficiō, 3, _with dat. of the object over which_
+  *place*, _n._, locus, -ī (_plur. loca and rarely locī_), _m._
+  *plan*, cōnsilium, cōnsilī, _n._
+  *plead*, ōrō, 1
+  *please*, placeō, 2, _with dat._
+  *pleasing*, grātus, -a, -um
+  *plenty*, cōpia, -ae, _f._
+  *poet*, poēta, -ae, _m._
+  *point out*, dēmōnstrō, 1
+  *poor*, miser, -era, -erum
+  *power*, potestās, -ātis, _f._; vīs, vīs, _f._
+  *praise*, laudō, 1
+  *prefer*, mālō, _irr._
+  *prisoner*, captīvus, -ī, _m._
+  *promise*, polliceor, 2
+  *protection*, subsidium, subsidī, _n._
+  *province*, prōvincia, -ae, _f._
+  *purpose (for the purpose of)*, ut (_neg. nē_), _with
+    subjunctive_; ad, _with gerund or gerundive_; causā,
+    _following a gerund or gerundive_
+  *put in command*, praeficiō, 3, _with dat. of the object over
+    which_; *put to flight*, fugō, 1
+
+  *queen*, rēgīna, -ae, _f._
+
+  *receive*, capiō, 3; recipiō, 3
+  *relate*, nārrō, 1
+  *remain*, maneō, 2
+  *remember*, memoriā teneō, 2
+  *reply*, respondeō, 2
+  *report*, nūntiō, 1
+  *resist*, resistō, 3, _with dat._
+  *rest*, reliquī, -ōrum, _m. plur._; *rest of*, reliquus, -a,
+    -um
+  *return*, revertō, 3; _commonly deponent in the present system_
+  *reward*, praemium, praemī, _n._
+  *right*, dexter, -tra, -trum
+  *river*, flūmen, -inis, _n._
+  *road*, via, -ae, _f._
+  *Roman*, _adj._, Rōmānus, -a, -um
+  *Roman*, _n._, Rōmānus, -ī, _m._
+  *Rome*, Rōma, -ae, _f._
+  *rule*, regō, 3
+
+  *sail*, nāvigō, 1
+  *sailor*, nauta, -ae, _m._
+  *sake (for the sake of)*, causā, _following a genitive_
+  *same*, īdem, eadem, idem
+  *say*, dīcō, 3
+  *scare*, terreō, 2
+  *scout*, explōrātor, -ōris, _m._
+  *sea*, mare, -is, _n._
+  *second, secundus, -a, -um
+  *see*, videō, 2
+  *seek*, petō, 3
+  *self*, ipse, -a, -um; suī
+  *senate*, senātus, -ūs, _m._
+  *send*, mittō, 3; *send ahead*, praemittō, 3
+  *servant*, servus, -ī, _m._
+  *set free*, līberō, 1; *set out*, proficīscor, 3
+  *severe*, gravis, -e
+  *she*, ea, haec, illa
+  *shield*, scūtum, -ī, _n._
+  *ship*, nāvis, -is, _f._
+  *shore*, lītus, -oris, _n._
+  *short*, brevis, -e
+  *show*, dēmōnstrō, 1; praebeō, 2; doceō, 2
+  *shut off*, interclūdō, 3
+  *sick*, aeger, -gra, -grum
+  *signal*, signum, -ī, _n._
+  *since*, _implied in a participle_
+  *sing*, cantō, 1
+  *sister*, soror, -ōris, _f._
+  *six*, sex
+  *slave*, servus, -ī, _m._
+  *slight*, parvus, -a, -um
+  *small*, parvus, -a, -um
+  *so*, tam, ita; *so as not to*, nē, _with subjunctive_; *so
+    great*, tantus, -a, -um; *so that*, ut, _with subjunctive_
+  *soldier*, mīles, -itis, _m._
+  *some . . . others*, aliī . . . aliī
+  *somebody*, *some one*, aliquis
+  *something*, aliquid
+  *sometimes*, interdum
+  *son*, fīlius, fīlī, _m._
+  *sortie*, ēruptiō, -ōnis, _f._
+  *spear*, hasta, -ae, _f._
+  *speed*, celeritās, -ātis, _f._
+  *spend the winter*, hiemō, 1
+  *state*, cīvitās, -ātis, _f._
+  *station*, conlocō, 1
+  *stay*, maneō, 2
+  *story*, fābula, -ae, _f._
+  *street*, via, -ae, _f._
+  *strength*, vīs, vīs, _f._
+  *summer*, aestās, -ātis, _f._
+  *sun*, sōl, sōlis, _m._
+  *sunset*, sōlis occāsus
+  *supplies*, commeātus, -ūs, _m._
+  *surpass*, superō, 1
+  *surrender*, dēditiō, -ōnis, _f._
+  *survive*, supersum, _irr._, _with dat._
+  *swamp*, palūs, palūdis, _f._
+  *swim*, natō, 1
+  *sword*, gladius, gladī, _m._
+
+  *take*, capiō, 3
+  *tall*, altus, -a, -um
+  *teach*, doecō, 2
+  *tell*, nārrō, 1; dīcō, 3
+  *ten*, decem
+  *tenth*, decimus, -a, -um
+  *terms*, condiciō, -ōnis, _f._
+  *territory*, fīnēs, -ium, _m. plur._
+  *than*, quam
+  *that*, _dem. pron._, is, ea, id; ille, illa, illud; *that of
+    yours*, iste, -a, -ud
+  *that*, _rel. pron._, quī, quae, quod
+  *that*, _conj. in purpose or result clauses_, ut, _with
+    subjunctive_; _not expressed after a verb of saying_; *that
+    not*, nē, ut nōn, _with subjunctive_
+  *their*, eōrum, eārum, eōrum; (_reflexive_) suus, -a, -um
+  *them*, eōs, eās, ea
+  *themselves*, sē (sēsē); ipsī, -ae, -a
+  *then*, tum
+  *there*, ibi; _not translated in such expressions as *there
+    is*_
+  *therefore*, itaque
+  *they*, eī, eae, ea; hī, hae, haec; illī, illae, illa
+  *thing*, rēs, reī, _f._; _sometimes omitted_
+  *think*, putō, 1
+  *third*, tertius, -a, -um
+  *this*, is, ea, id; hic, haec, hoc
+  *though*, _implied in a participle_
+  *thousand*, mīlle
+  *three*, trēs, tria
+  *through*, per, _with acc._
+  *throw*, iaciō, 3
+  *time*, tempus, -oris, _n._
+  *tired*, *tired out*, dēfessus, -a, -um
+  *to*, _sign of the dative_; ad _or_ in, _with acc._;
+    _expressing purpose_, ut, _with subjunctive_; ad, _with
+    gerund or gerundive_; causā, _following a gerund or
+    gerundive_
+  *to-day*, hodiē
+  *toward*, ad, _with acc._
+  *tower*, turris, -is, _f._
+  *town*, oppidum, -ī, _n._
+  *trader*, mercātor, -ōris, _m._
+  *tree*, arbor, -oris, _f._
+  *tribune*, tribūnus, -ī, _m._
+  *troops*, cōpiae, -ārum, _f. plur._
+  *trumpet*, tuba, -ae, _f._
+  *turret*, turris, -is, _f._
+  *two*, duo, -ae, -o; *which of two*, uter, utra, utrum; *each
+    of two*, uterque, utraque, utrumque
+
+  *unfriendly*, inimīcus, -a, -um
+  *unhappy*, miser, -era, -erum
+  *unwilling (be)*, nōlō, _irr._
+  *urge*, hortor, 1
+
+  *valor*, virtūs, -ūtis, _f._
+  *very*, _superlative degree_; maximē; ipse, -a, -um
+  *victory*, victōria, -ae, _f._
+  *village*, vīcus, -ī, _m._
+
+  *wage*, gerō, 3
+  *wagon*, carrus, -ī, _m._
+  *wait*, *wait for*, exspectō, 1
+  *walk*, ambulō, 1
+  *wall*, mūrus, -ī, _m._
+  *war*, bellum, -ī, _n._
+  *warn*, moneō, 2
+  *water*, aqua, -ae, _f._
+  *way*, via, -ae, _f._; iter, itineris, _n._
+  *weapon*, tēlum, -ī, _n._
+  *welcome*, _v._, recipiō, 3
+  *welcome*, _adj._, grātus, -a, -um
+  *well*, bene
+  *what*, quis (quī), quae, quid (quod)
+  *when*, cum; _ablative absolute_; _implied in a participle_
+  *whence*, unde
+  *where*, ubi
+  *whether*, num
+  *which*, quī, quae, quod; *which of two*, uter, utra, utrum
+  *while*, cum; _implied in a participle_
+  *whither*, quō
+  *who*, (_rel._) quī, quae; (_interrog._) quis
+  *whole*, tōtus, -a, -um; omnis, -e
+  *why*, cūr
+  *wide*, lātus, -a, -um
+  *width*, lātitūdō, -inis, _f._
+  *wind*, ventus, -ī, _m._
+  *winter*, hiems, hiemis, _f._; *winter quarters*, hīberna,
+    -ōrum, _n. plur._
+  *wish*, volō, _irr._; cupiō, 3
+  *with*, cum, _with abl._; _sometimes abl. alone_
+  *without*, sine, _with abl._
+  *woman*, fēmina, -ae, _f._
+  *woods*, silva, -ae, _f._
+  *word*, verbum, -ī, _n._
+  *work*, labōrō, 1
+  *wound*, _v._, vulnerō, 1
+  *wound*, _n._, vulnus, -eris, _n._
+  *wretched*, miser, -era, -erum
+
+  *year*, annus, -ī, _m._
+  *yet*, tamen
+  *you*, (_sing._) tū; (_plur._) vōs
+  *young man*, adulēscēns, -entis, _m._
+  *your*, (_sing._) tuus, -a, -um; (_plur._) vester, -tra, -trum
+
+  *zeal*, studium, studī, _n._
