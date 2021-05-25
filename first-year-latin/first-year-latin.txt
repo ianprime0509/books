@@ -13977,3 +13977,537 @@ indicate the conjugation.
   *your*, (_sing._) tuus, -a, -um; (_plur._) vester, -tra, -trum
 
   *zeal*, studium, studī, _n._
+
+
+
+
+INDEX
+
+References are to sections unless otherwise indicated
+
+  *ā* or *ab* with ablative of agent, 242, 243
+  *ablative*, XXIV, b
+    of adjectives of third declension, 208, e
+    absolute, 452-455
+    of accompaniment, 142, 143
+    of agent, 242, 243
+    of cause, 184, 185
+    of degree of difference, 320, 321
+    of manner, 128, 129
+    of means, 121, 122
+    of place from which, 177, 229, 230
+    of place where, 58, 59
+    of separation, 281, 282
+    of specification, 480, 481
+    of time, 218, 219
+    with *ex*, equivalent to partitive genitive, 309, a
+    with prepositions, 194
+  *accent*, 20-22
+  *accusative*, XXIV, b
+    in indirect statements, 400, 401
+    object of transitive verbs, 32, 33
+    of extend, 332, 333
+    of place to which, 179, 229, 230
+    subject of the infinitive, 398, 399
+    with prepositions, 193
+  *ācer*, declension, 644
+    comparison, 306, 647
+  *adjectives*, definition, III, a
+    kinds and definitions, III, b-f
+    of first and second declensions, 78, 79, 643; in *-er*, 103,
+      643; with genitive in *-īus* and dative in *-ī*, 385-387,
+      646
+    of third declension, 208, 644; of one, two, and three
+      terminations, 208
+    agreement, 79
+    comparison, 296, 306, 307, 317, 319, 647, 649; irregular,
+      307, 317, 319, 649; by adverbs, XXVI, c
+    declension of comparatives, 297, 640
+    meaning of comparative and superlative, 296, c
+    interrogative, 152, 154
+    possessive, 278; distinction in use: between *suus* and
+      *eius*, 279; between *tuus* and *vester*, 278; omission of
+      *suus*, 280
+    predicate, XV, a; 86, 88; with complementary infinitive, 394,
+      b
+    used as nouns, III, f; 196
+  *adverbial* clauses with *quā* and *ut*, 497
+  *adverbs*, definition, V, a
+    kinds and definitions, V, b-f
+    formation, 325, 326; of the comparative and superlative, 327,
+      a
+    comparison, 327, 650
+  *agent*, expressed by the ablative with *ā* or *ab*, 242, 243
+  *ager*, declension, 97, 637
+  *agreement*, of adjectives, 79; after a complementary
+    infinitive, 394, b
+    of appositives, 93, 94
+    of predicate nouns, XV, c; 87
+    of relative pronouns, 247, 248
+    of verb with its subject, 29
+  *aliquis*, 420, c; 657
+  *alius*, declension, 646
+    *alius . . . alius*, 387
+  *alphabet*, 1
+  *alter . . . alter*, 387
+  *amāns*, declension, 645
+  *amō*, conjugation, 658
+  *antecedent*, definition, II, b
+  *antepenult*, 11
+    when accented, 21
+  *apposition*, 93, 94
+  *article*, not used in Latin, 27, a
+  *audāx*, declension, 644
+    comparison, 296, 647
+  *audiō*, conjugation, 662
+
+  *base*, 63, a
+  *bonus*, declension, 643
+    comparison, 317, 649
+  *brevis*, declension, 644
+    comparison, 296, 647
+
+
+  *capiō*, conjugation, 661
+  *caput*, declension, 171, 638
+  *cardinals*, definition, III, c
+    declension, 378, 646
+    indeclinable forms, 378
+    table of, 651
+  *case*, definition, XXIV
+    of relative pronoun, 247
+  *case endings*, 25, a; 63, 73, 171, 189, 292, 331
+  *cases*, names of English, XXIV, a
+    names of latin, XXIV, b. See under *nominative*, *genitive*,
+      etc.
+    uses, 512
+  *causā* with gerund, 461, a
+    with gerundive, 472
+  *causal* clauses with *quod*, 50, 51
+  *cause*, expressed by the ablative, 184, 185
+    expressed by a prepositional phrase, 186, 195, b
+  *characteristic* vowels of the four conjugations, 38
+  *clauses*, definitions, XX, a-f
+    indirect questions, 372, 373
+    of cause, with *quod*, 50, 51
+    of purpose, with *ut* and *nē*, 343, 344; substantive, 355,
+      356
+    of result, with *ut* and *ut nōn*, 357, 358
+    temporal, with *cum*, 487, 488
+  *cohors*, declension, 189, 639
+  *comparative*, declined, 297, 648
+    formation, 296, a
+    meaning *too*, etc., 296, c
+  *comparison*, definition, XXVI, a
+    methods of, in English and in Latin, XXVI, b, c
+    of adjectives, 296, 306, 307, 317, 319, 647, 649; of
+      adjectives in *-lis*, 307; irregular, 307, 317, 319, 649
+    of adverbs, 327, 650
+  *complement* of verb, XV, b
+  *complementary* infinitive, 394
+  *conjugation*, definition, XXVII, a. See *verbs*
+    in English and Latin verbs, XXVII, b, c
+  *conjunctions*, definition, VII, a
+    kinds and definitions, VII, b, c
+  *consonant-i*, 3
+  *consonants*, how pronounced, 6
+  *contraction* in genitive of nouns in *-ium* and *-ius*, 98
+  *coördinate* clauses, XX, f
+  *copula*, XV, b
+  *cornū*, declension, 292, 640
+  *cum* (conj.) in temporal clauses, 487, 488
+  *cum* (prep.) with ablative of accompaniment, 142, 143
+    with ablative of manner, 128, 129
+    joined to ablative of personal, reflexive, relative, and
+      interrogative pronouns, p. 109, note 1
+
+  *dative*, XXIV, a, 4; b
+    double, 426, a
+    of indirect object, 56, 57
+    of purpose, 426, 427
+    of reference, 426, 428
+    with adjectives, 110, 111
+    with compound verbs, 424, 425
+    with special intransitive verbs, 432, 433
+  *declension*, definition, XXII. See *nouns*, *pronouns*,
+    *adjectives*, and *comparatives*
+  *degree of difference*, expressed by the ablative, 320, 321
+  *demonstrative* adjectives and pronouns, definition, II, f;
+    III, e. See *pronouns*; also *hic*, *īdem*, *ille*, *ipse*,
+    *is*, *iste*
+  *dependent clause*, XIX, note; XX, a-e
+  *deponent verbs*, 482, 483, 669
+  *deus*, declension, 642
+  *diēs*, declension, 331, 641
+    gender, 331
+  *diphthongs*, how pronounced, 5
+  *direct statements*, 400
+  *domō*, used of place from which, 229, 230, a
+  *domum*, used of place to which, 229, 230, b
+  *domus*, declension, 642
+    gender, 292, b
+  *dōnum*, declension, 73, 637
+  *dum* with present indicative, p. 133, note 4
+  *duo*, declension, 646
+
+  *ego*, declension, 652
+  *eius* compared with *suus*, 279
+  *enclitics*, 22
+  *eō*, conjugation, 667
+  *Eutropius, selections from*, 547-551
+  *exercitus*, declension, 292, 640
+  *extent* of time or space, how expressed, 332, 333
+
+  *ferō*, conjugation, 666
+  *fifth declension*, 331, 641
+  *fīlius*, declension, 98, 637
+  *fīō*, conjugation, 668
+  *first declension*, 63, 636
+  *fourth declension*, 292, 640
+  *future active participle*, XXXIV, b
+    formation, 441, a
+    in principal parts, p. 63, note 1
+    use, 444
+  *future perfect tense*, formation of, active, 223, a; passive
+    286, b
+
+  *gender*, in English and in Latin, XXV, a, b; 64
+    in first declension, 64, a
+    in second declension, 99
+    in third declension, 171, b
+    in fourth declension, 292 and b
+    in fifth declension, 331
+  *genitive*, XXIV, a, 2; b
+    objective, 380, 381
+    of material, p. 79, note 1
+    partitive, 308, 309
+    possessive, 43, 44
+  *gerund*, a verbal noun, XXXII, c; 459, 460
+    uses, 461
+  *gerundive*, a verbal adjective, 471
+    agreement of, 471
+    used with *ad* and *causā* to express purpose, 472
+    used with *sum* to form the passive periphrastic conjugation,
+      473; expresses necessary action, 473, a
+
+  *Helvetians, campaign against the*, 440, 451, 479, 494, 514-523
+  *hic*, declension, 654
+    uses, 228, 263
+  *hortor*, conjugation, 669
+  *hortus*, declension, 73, 637
+  *hostis*, declension, 189, 639
+
+  *i* with force of a consonant before a vowel, 3
+  *i-stems*, 189, 639
+  *īdem*, declension, 654
+    use, 410, a
+  *iēns*, declension, 645
+  *ille*, declension, 654
+    uses, 228, 263
+  *in* with accusative and ablative, 193, 194
+  *indefinite pronouns and adjectives*, definition, II, g; III,
+    e. See *pronouns*
+  *independent clause*, XVIII, note
+  *indirect object*, definition, XIV, b
+    case of, 56, 57
+  *indirect questions*, 372, 373
+  *indirect statements*, 400-402
+  *infinitive*, definition and English uses, XXXII, a, b
+    formation, 38, 392; omission of *esse* in compound forms, p.
+      190, note 1
+    as object, 398
+    as subject, 393
+    complementary, 394
+    in indirect statements, 400-402; tenses in, 402
+    not used to express purpose, 343, b
+    takes a subject accusative, 398, 399
+  *inflection*, definition, XXI
+  *interjection*, definition, VIII
+  *interrogative adjective*, 152, 154
+  *interrogative pronoun*, 152, 153
+  *intransitive verb*, definition, IV, c
+    followed by dative, 432, 433
+  *-iō*, verbs in, of the third conjugation, 175, 661
+  *ipse*, declension, 654
+    distinguished from *suī*, 410, c
+    used for emphasis, 410, c
+  *irregular adjectives* (genetives in *-īus*), 385-387, 646
+  *irregular comparison*, 307, 317, 319, 649
+  *irregular verbs*: *eō*, 667; *ferō*, 666; *fīō*, 668;
+    *possum*, 664; *sum*, 663; *volō*, *nōlō*, and *mālō*, 665
+  *is*, declension, 147, 654
+    relation to *hic* and *ille*, 148
+    uses as a demonstrative pronoun and adjective, 148
+    used as a personal pronoun, 263
+  *iste*, declension, 654
+    uses, 410, a, b
+  *iter*, declension, 642
+  *Iuppiter*, declension, 642
+
+  *lātior*, declension, 297, 648
+  *lātus*, comparison, 296, 647
+  *līber*, declension, 643
+  *locative case*, XXIV, b
+
+  *magnus*, comparison, 317, 649
+  *mālō*, conjugation, 665
+  *malus*, comparison, 317, 649
+  *manner*, how expressed, 128, 129
+  *manus*, gender, 292, b
+  *mare*, declension, 189, 639
+  *means*, expressed by the ablative, 121, 122
+  *mīles*, declension, 171, 639
+  *mīlle*, declension, 378, 646
+    use, 379
+  *miser*, comparison, 306, 647
+  *moneō*, conjugation, 659
+  *mōns*, declension, 189, 639
+  *moods*, kinds and definitions, XXIX-XXXI
+  *multus*, comparison, 317, 649
+
+  *-ne*, enclitic, 22, 27, d
+  *nē*, _that not (lest)_, introducing negative clauses of
+    purpose, 343, 344
+  *nōlō*, conjugation, 665
+  *nominative*, XXIV, a, 1; b
+    as subject of a finite verb, 28
+    of pronouns expressed only for emphasis or contrast, 39, b;
+      264
+    predicate, 86-88
+  *nōs*, declension, 652
+  *noster*, declension, 643
+  *nouns*, definition, 1, a
+    kinds and definitions, I, b-f
+    first declension, 63, 636
+    second declension, 73, 97, 98, 637
+    third declension, 171, 189, 638, 639
+    fourth declension, 292, 640
+    fifth declension, 331, 641
+    predicate, 87
+    rules of gender, 64, a; 99, 171, b; 292 and b, 331
+  *number*, singular and plural, XXIII
+  *numerals*, definition, III, c
+    declension, 378
+    table of, 651
+
+  *object*, definition, XIV, a
+    direct and indirect, XIV, b
+    of a transitive verb, 33
+  *on account of*, how expressed in Latin, 195
+  *order of words*, 35, 60, 81, 89, 228, 386, b
+  *ordinals*, definition, III, c
+    declined like *bonus*, 378
+    table of, 651
+
+  *participles*, definition and uses, XXXIV, a-c
+    agreement, 443
+    declension, 442, 645
+    formation, 441, a
+    in deponent verbs, 483; perfect, 483, a
+    no past and perfect active and no present passive, in Latin,
+      XXXIV, b
+    often best rendered as a clause, 445
+    tenses, 444
+  *partitive genitive*, 308, 309
+  *parvus*, comparison, 317, 649
+  *passive voice*, XXVIII, 237
+    formation, 238, a; 239, 286, a, c
+    agent expressed by the ablative with *ā* or *ab*, 242, 243
+  *penult*, definition, 11
+    when accented, 21
+  *perfect tense*, formation of, active, 134 and b; passive, 286,
+    a, c
+    definite and indefinite, 134, a
+  *periphrastic conjugation*, passive, 473
+    synopsis of, 670
+  *person*, distinctions, II, c
+  *personal pronouns*, see *pronouns*
+  *phrase*, definition and kinds, XVI, a-c
+  *place* to which and from which, 229, 230
+  *pluperfect tense*, formation of, active, 223, a; passive, 286,
+    b
+  *plūs*, declension, 648
+  *portus*, irregular dative and ablative plural, 292, a
+  *possessive adjectives*, see *adjectives*
+  *possum*, how compounded, 411
+    conjugation, 664
+  *potior*, conjugation, 669
+  *predicate*, definition XI, c
+    complete, XIII
+    simple, XII
+  *predicate adjective*, agreement, 88
+    definition, XV
+  *predicate nominative*, XV, c
+  *predicate noun*, agreement, 87
+    definition, XV
+  *prefixes*, 630
+  *prepositions*, definition, VI
+    with the ablative, 194
+    with the accusative, 193
+  *primary tenses*, 349
+  *principal parts* of verbs, 132
+  *proelium*, declension, 98, 637
+  *pronouns*, definition, II, a
+    kinds and definitions, II, c-h
+    demonstrative, definition, II, f; declension, 654; *hic* and
+      *ille*, uses, 228; *is*, uses, 228; relation of *is* to
+      *hic* and *ille*, 148; *iste*, *īdem*, *ipse*, 410
+    indefinite, definition, II, g; declension, 657; uses, 420;
+      *quid* forms used as pronouns, *quod* forms as adjectives,
+      420, e
+    interrogative, definition, II, e; declension, 153, 656;
+      followed by *cum*, p. 109, note 1
+    personal, definition, II, c; declension, 652; nominative
+      expressed only for emphasis or contrast, 264; third person
+      supplied by *is*, sometimes by *hic* or *ille*, 263;
+      followed by *cum*, p. 109, note 1
+    possessive, see *possessive adjectives*
+    reflexive, definition, II, h; declension, 653; use, 266;
+      followed by *cum*, p. 109, note 1
+    relative, definition, II, d; agreement, 247, 248; declension,
+      246, 655; followed by *cum*, p. 109, note 1; referring to a
+      personal pronoun, 267
+  *pronunciation*, sounds of letters, 4-6
+  *puer*, declension, 97, 637
+  *purpose*, dative of, 426, 427
+    expressed by the accusative of the gerund or gerundive with
+      *ad*, 461, 472
+    expressed by the genitive of the gerund or gerundive with
+      *causā*, 461, 472
+    expressed by the subjunctive with *ut* and *nē*, 343, 344
+    not expressed by the infinitive, 343, b
+    substantive clauses of, 355, 356
+
+  *quā* in adverbial clauses, 497
+  *-que*, enclitic, 22
+  *question*, indirect, 372, 373
+  *quī*, declension, 246, 655
+  *quīdam*, 420, d; 657
+  *quis*, declension, 153, 656
+  *quisquam*, 420, 657
+  *quisque*, 420, 657
+  *quod clause* of fact, 495, 496
+
+  *reflexive pronouns*, see *pronouns*
+  *regō*, conjugation, 660
+  *relative pronouns*, see *pronouns*
+  *rēs*, declension, 331, 641
+  *result*, expressed by the subjunctive with *ut* and *ut nōn*,
+    357, 358
+  *rēx*, declension, 171, 638
+
+  *sē*, distinguished from *ipse*, 410, c
+  *second declension*, 73, 97, 98, 637
+  *secondary tenses*, 349
+  *sentences*, definition, IX
+    kinds and defintions, X, a-d
+  *separation*, expressed by the ablative, 281, 282
+  *sequence of tenses*, 348-352
+  *sequor*, conjugation, 669
+  *space*, extent of, 332, 333
+  *specification*, ablative of, 480, 481
+  *stems* of verbs, 132, 133
+  *Stories from Roman History*, 552-555
+  *Stories of Hercules*, 529-538
+  *Stories of Perseus*, 277, 291, 316, 339, 370, 391, 408
+  *Stories of Ulysses*, 539-546
+  *Story of the Aduatuci*, 524-528
+  *subject*, definition, XI, b
+    complete, XIII
+    simple, XII
+    agreement of verb with, 29
+    not expressed, 264
+    of an infinitive, 399
+    of a verb, 28
+  *subjunctive*, definition, XXX
+    formation, of present, 342; of imperfect, 347; of perfect and
+      pluperfect, 371
+    in indirect questions, 372, 373
+    in purpose clauses, 343, 344, 355, 356
+    in result clauses, 357, 358
+    in temporal clauses with *cum*, 487, 488
+    tenses, 341; sequence of, 348-352
+  *subordinate clauses* in indirect statements, 501, 502
+  *substantive clauses*, of fact with *quod*, 495, 496
+    of purpose, 355, 356
+  *suffixes*, 632
+  *suī*, declension, 653
+    distinguished from *ipse*, 410, c
+  *sum*, conjugation, 663
+  *summary of uses*, of nouns, 512
+    of verbs, 513
+  *suus*, 278, 279
+    compared with *eius*, 279
+    omission of, 280
+  *syllables*, number of, 8
+    division of, 9, 10; in compound words, 10
+    how named, 11
+    long and short, 17-19
+  *synopsis* of the verb, 671
+
+  *temporal clauses* introduced by *cum*, 487, 488
+  *tense*, XXXIII, a, b
+  *tenses*, distinction in use between the perfect and the
+    imperfect, 134, a
+    of the infinitive in indirect statements, 402
+    primary and secondary, 349
+    sequence of, 348-352
+    sign of the future, 126, a
+    sign of the imperfect, 120, b
+  *terminations*, of first declension, 63
+    of second declension, 73
+    of third declension, 171, 189
+    of fourth declension, 292
+    of fifth declension, 331
+  *third declension*, 171, 638
+    *i*-stems, 189, 639
+  *time*, at which and within which, 218, 219
+    extent of, 332, 333
+  *to*, how expressed in Latin, 195
+  *towns*, names of, expressing place to which and from which,
+    229, 230
+  *transitive verb*, IV, b
+  *trēs*, declension, 646
+  *tū*, declension, 652
+  *tuus*, compared with *vester*, 278
+
+  *-ubus*, in irregular dative and ablative plural, 292, a
+  *ultima*, 11
+  *ūnus*, declension, 646
+  *ut*, in adverbial clauses, 497
+    in clauses of purpose, 343, 344, 355, 356
+    in clauses of result, 357, 358
+    translations, 343, 1 and b
+
+  *verbs*, definition, IV, a
+    kinds and definitions, IV, b-f
+    agreement, 29; in relative clauses, 267
+    case, of subject, 28; of object, 33
+    conjugations, how distinguished, 38
+    deponent, form, meaning, how distinguished, 482; active
+      forms, 483; participles of both voices, 483; perfect
+      participle, active in meaning, 483, a; conjugation, 669
+    intransitive, which are transitive in English, 432, 433
+    irregular, see *eō*, *ferō*, *fīō*, *mālō*, *nōlō*, *possum*,
+      sum*, and *volō*
+    of first conjugation, 658
+    of second conjugation, 659
+    of third conjugation, 660, 661
+    of fourth conjugation, 662
+    passive periphrastic conjugation, 473; synopsis of, 670
+    personal endings, 25, a; 39, 134
+    principal parts, 132
+  *vereror*, conjugation, 669
+  *vester*, compared with *tuus*, 278
+  *vir*, declension, 97, 637
+  *virtūs*, declension, 171, 638
+  *vīs*, declension, 642
+  *vocative case*, XXIV, b
+  *voice*, XXVIII
+  *volō*, conjugation, 665
+  *vōs*, declension, 652
+  *vowels*, how pronounced, 4
+    long, 14, 15
+    short, 12, 13
+
+  *with*, how expressed in Latin, 195
