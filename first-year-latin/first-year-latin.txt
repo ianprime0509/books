@@ -34,7 +34,7 @@ instead
 END OF NOTES
 
 
-[Illustration: A ROMAN CITIZEN SPEAKS]
+[Illustration (006-title.png): A ROMAN CITIZEN SPEAKS]
 
   COLLAR AND DANIELL'S
   FIRST YEAR LATIN
@@ -1031,6 +1031,10 @@ your first year are like English usages.
 difficulties. Go over the lesson again just before the recitation
 and consider the troublesome parts.
 
+[Illustration (035-tobeg.png)]
+
+[Illustration (036-map.png)]
+
 
 
 INTRODUCTION
@@ -1221,7 +1225,8 @@ etc.:
   Neque carpseris sopōrem
   Dōnec vēnit Sōl per auram.
 
-[Illustration: THE ARCH OF TITUS, SHOWING A ROMAN INSCRIPTION]
+[Illustration (041-intro.png): THE ARCH OF TITUS, SHOWING A ROMAN
+INSCRIPTION]
 
 [1] Latin is pronounced to-day substantially as it was pronounced
 by the Romans at the beginning of the Christian era.
@@ -1311,7 +1316,7 @@ approaches? 4. Are the sailors approaching? 5. Does Cornelia
 sing? 6. Cornelia and Julia are walking and singing. 7. The girl
 sings, and the farmer works. 8. Sailors and farmers are working.
 
-[Illustration: TUBA]
+[Illustration (043-les1.png): TUBA]
 
 
 
@@ -1376,7 +1381,7 @@ Does Galba praise the farmers? 6. The girl sees the water and the
 land. 7. The sailors call together the farmers. 8. Julia now has
 the letter.
 
-[Illustration: A SCENE IN A ROMAN STREET]
+[Illustration (045-les2.png): A SCENE IN A ROMAN STREET]
 
 
 
@@ -1450,7 +1455,7 @@ walk. 4. You are praising, they swim, he does labor. 5. We call
 together the inhabitants, but you call together the sailors. 6.
 The girls are now looking at the water.
 
-[Illustration: RUINS OF A ROMAN AQUEDUCT]
+[Illustration (047-les3): RUINS OF A ROMAN AQUEDUCT]
 
 
 
@@ -1516,7 +1521,7 @@ poets' daughters love the land. 3. Whose daughter are you setting
 free? 4. Do they praise Galba's daughters? 5. We are now waiting
 for the farmers. 6. Whom does the fortune of the farmers delight?
 
-[Illustration: A STREET IN POMPEII TO-DAY]
+[Illustration (049-les4.png): A STREET IN POMPEII TO-DAY]
 
 
 
@@ -1596,7 +1601,7 @@ inhabitants? 9. They have the money and the booty. 10. We praise
 the woman because she teaches the girls. 11. What do you see?
 What are you looking at?
 
-[Illustration: A ROMAN COIN]
+[Illustration (051-les5.png): A ROMAN COIN]
 
 
 
@@ -1757,8 +1762,8 @@ provinces delight the poets. 3. He gives money to Julia's
 daughter. 4. To whom do you give water? 5. Whose diligence do you
 praise? 6. They are waiting in the road and looking at the woods.
 
-[Illustration: A WALL DRAWING. PROBABLY THE WORK OF A ROMAN
-SCHOOLBOY]
+[Illustration (055-les7.png): A WALL DRAWING. PROBABLY THE WORK
+OF A ROMAN SCHOOLBOY]
 
 
 
@@ -1829,7 +1834,7 @@ constructions, and illustrate each by a brief sentence in Latin:
   7. Ablative of place where
   8. Questions
 
-[Illustration: ROMAN WRITING MATERIALS]
+[Illustration (057-rev1.png): ROMAN WRITING MATERIALS]
 
 
 
@@ -1894,7 +1899,7 @@ servant carries the grain of the tribune. 5. Whose gift are they
 showing to Marcus? 6. We see the town and the gardens of the
 town.
 
-[Illustration: RUINS OF AN AMPHITHEATER]
+[Illustration (059-les8.png): RUINS OF AN AMPHITHEATER]
 
 
 
@@ -1974,6 +1979,8 @@ slave approve of the gift? 5. They do not live in a large town of
 Greece. 6. He is not calling together the good sailors. 7. Where
 do you see a large forest?
 
+[Illustration (061-les9.png)]
+
 
 
 LESSON X
@@ -2015,8 +2022,6 @@ In Latin phrases consisting of a monosyllabic preposition,
 adjective, and noun the order of the words is often adjective,
 preposition, noun: as, *magnō in oppidō*, _in the large town_.
 
-[Illustration: WITHIN A ROMAN HOUSE]
-
 90. VOCABULARY
 
   *bel'lum*, *-ī*, _n._, war (_belligerent_)
@@ -2052,7 +2057,9 @@ Where are you? 5. The new gifts of the tribune are pleasing. 6.
 We praise the gods because they give gifts. 7. We are Romans, but
 we are living in Britain.
 
-[Illustration: PUERI PUELLAEQUE]
+[Illustration (063-inset1.png): WITHIN A ROMAN HOUSE]
+
+[Illustration (065-les10.png): PUERI PUELLAEQUE]
 
 
 
@@ -2110,6 +2117,8 @@ bellō puellās parvās terrent.
 Saepe Vestae dōna parant. Quis est Vesta? Vesta dea Rōmānōrum est
 et templum habet. Saepe in viīs Rōmae puellae ambulant et praedam
 Germāniae et Britanniae spectant.
+
+[Illustration (067-les11.png): TEMPLUM]
 
 
 
@@ -2184,6 +2193,8 @@ Wars and battles delight the Romans.
 _puerile_, and _virile_ will help you to recall the spelling of
 the genitives of *ager*, *puer*, and *vir*.
 
+[Illustration (069-les12.png)]
+
 
 
 LESSON XIII
@@ -2246,7 +2257,7 @@ erant templa multa deōrum et deārum. In viīs oppidōrum statuae
 (_statues_) multae virōrum clārōrum erant. Incolae nōn erant
 miserī. Quis incolās Graeciae nōn laudat?
 
-[Illustration: A RESTORATION OF THE ROMAN FORUM]
+[Illustration (071-les13.png): A RESTORATION OF THE ROMAN FORUM]
 
 
 
@@ -2331,7 +2342,7 @@ subjects are things without life.
 beginning of the sentence. How do you say _there are_? _there
 is_? _there were_?
 
-[Illustration: GLADIUS]
+[Illustration (073-les14.png): GLADIUS]
 
 
 
@@ -2398,7 +2409,7 @@ illustrate each by a sentence in Latin:
   4. Apposition
   5. Dative with adjectives
 
-[Illustration: A ROMAN BOY · A ROMAN GIRL]
+[Illustration (075-rev2.png): A ROMAN BOY · A ROMAN GIRL]
 
 
 
@@ -2803,7 +2814,7 @@ farmers. 5. You have seen and praised these allies because they
 fought with zeal. 6. Whither were you hastening with this boy? 7.
 The causes of this war have been many.
 
-[Illustration: SCUTA]
+[Illustration (085-les19.png): SCUTA]
 
 
 
@@ -2877,6 +2888,8 @@ earth_) nārrābat. Neptūnum, deum aquārum et ōceanī, naetae
 adōrābant. Fēminae Vestam, deam focī (_hearth_), adōrābant et eī
 deae multa dōna parābant.
 
+[Illustration (087-les20.png): MARS]
+
 
 
 LESSON XXI
@@ -2939,7 +2952,7 @@ you will send, you have sent. 6. The Romans once had many lands.
 sent assistance. 9. What girls spent the winter in Italy? 10. I
 shall send a lieutenant with these captives into Italy.
 
-[Illustration: GLADIATORS ENTERING THE ARENA]
+[Illustration (089-les21.png): GLADIATORS ENTERING THE ARENA]
 
 
 
@@ -2991,7 +3004,7 @@ illustrate each by a sentence in Latin:
   2. Ablative of manner
   3. Ablative of accompaniment
 
-[Illustration: A RACE IN THE CIRCUS MAXIMUS]
+[Illustration (091-rev3.png): A RACE IN THE CIRCUS MAXIMUS]
 
 
 
@@ -3050,7 +3063,7 @@ studiō prō sociīs pugnābunt et Helvētiōs superābunt. Multōs
 captīvōs in oppidum dūcent. Eī captīvī in vīcīs nostrīs
 hiemābunt.
 
-[Illustration: ICARUS IN OCEANUM DECIDIT]
+[Illustration (093-les22.png): ICARUS IN OCEANUM DECIDIT]
 
 
 
@@ -3320,6 +3333,8 @@ meantime the scouts related the commands of the general.
 genitive denotes that of which something consists or is made. It
 is called the _Genitive of Material_.
 
+[Illustration (099-les25.png): CENTURIO]
+
 
 
 LESSON XXVI
@@ -3504,6 +3519,8 @@ hill. 5. Near the lieutenant a messenger was waiting. 6. We shall
 hurry through Italy and shall spend the winter among those
 mountains.
 
+[Illustration (103-les27.png): EQUES ROMANUS]
+
 
 
 LESSON XXVIII
@@ -3579,7 +3596,7 @@ timēbant. Helvētiī nōn sōlum prōvinciae sed etiam Germānīs
 inimīcī erant et cum Germānīs cotīdiānīs ferē proeliīs
 contendēbant.
 
-[Illustration: HORATIUS PONTEM DEFENDIT]
+[Illustration (105-les28.png): HORATIUS PONTEM DEFENDIT]
 
 
 
@@ -3653,7 +3670,7 @@ constructions, and illustrate each by a sentence in Latin:
   6. Prepositions with the ablative
   7. Adjectives used as nouns
 
-[Illustration: NAVIS]
+[Illustration (107-rev4.png): NAVIS]
 
 
 
@@ -3720,7 +3737,7 @@ heavy things. 4. To all my friends I shall give gifts. 5. The
 leader of the eager horsemen was grieving because of many
 hardships. 6. He dismissed all the tribunes from the conference.
 
-[Illustration: CÆSAR]
+[Illustration (109-les29.png): CÆSAR]
 
 
 
@@ -3785,7 +3802,7 @@ defended.
     iaciēbant. Tandem trāns flūmen ad sociōs natāvit. Rōmānī
     Horātium ob eam virtūtem laudāvērunt.
 
-[Illustration: SOLDIERS MARCHING]
+[Illustration (111-les30.png): SOLDIERS MARCHING]
 
 
 
@@ -3859,7 +3876,7 @@ pugnābimus," respondit Spartānus.
 [1] The meanings of words that are not given in the vocabularies
 of the lessons may be found in the general vocabulary.
 
-[Illustration: AESTATE AGRICOLA IN AGRIS LABORAT]
+[Illustration (113-les31.png): AESTATE AGRICOLA IN AGRIS LABORAT]
 
 
 
@@ -3944,7 +3961,7 @@ chiefs had called together all the clans. 7. Labienus will have
 found many weapons in that place. 8. The Gauls had waited for
 aid. 9. At last we had attacked that hill.
 
-[Illustration: A GALLIC CHIEFTAIN]
+[Illustration (115-les32.png): A GALLIC CHIEFTAIN]
 
 
 
@@ -4049,7 +4066,7 @@ dēfessī ob inopiam tēlōrum et vulnera trāns flūmen fūgērunt.
 Decem annīs Caesar multa bella in Galliā gessit et multōs
 captīvōs Rōmam mīsit.
 
-[Illustration: MILITES ROMANI]
+[Illustration (118-les34.png): MILITES ROMANI]
 
 235. VOCABULARY
 
@@ -4077,7 +4094,7 @@ obsidibus et captīvīs multīs ex Britanniā in Galliam vēnit.
 Propter hanc victōriam magna erat potestās Rōmānōrum in
 Britanniā.
 
-[Illustration: IN BRITANNIAM CAESAR NAVIGAT]
+[Illustration (119-les34-2.png): IN BRITANNIAM CAESAR NAVIGAT]
 
 
 
@@ -4236,7 +4253,7 @@ waste. 4. Caesar had ten legions in the wars which he carried on
 with the Gauls. 5. The woman to whom I showed the way is the
 mother of this unhappy hostage.
 
-[Illustration: MATER CUM PUERIS]
+[Illustration (123-les36.png): MATER CUM PUERIS]
 
 
 
@@ -4293,7 +4310,8 @@ illustrate each by a sentence in Latin:
   4. Ablative of agent
   5. Agreement of the relative
 
-[Illustration: HOSTES CONTRA ROMANOS OPPIDUM DEFENDUNT]
+[Illustration (125-rev5.png): HOSTES CONTRA ROMANOS OPPIDUM
+DEFENDUNT]
 
 
 
@@ -4358,7 +4376,7 @@ are being conquered to-day. 5. The new plans of our allies were
 being announced to the neighbors. 6. They will be received by
 Cæsar, who has conquered the Helvetians.
 
-[Illustration: CASTRA ROMANA]
+[Illustration (127-les37.png): CASTRA ROMANA]
 
 
 
@@ -4772,7 +4790,7 @@ the coming of the traders. 4. This house is mine, that is yours.
 to the harbor. 6. Rome was at once fortified by the hands of the
 citizens. 7. Why are you hurrying home?
 
-[Illustration: PLAN OF A ROMAN HOUSE]
+[Illustration (137-les42.png): PLAN OF A ROMAN HOUSE]
 
 
 
@@ -4857,7 +4875,7 @@ all the clans of Gaul. 6. They are making an attack against the
 turret with little zeal. 7. The army was marching through the
 woods and swamps.
 
-[Illustration: ROMAN SHOES]
+[Illustration (139-les43.png): ROMAN SHOES]
 
 
 
@@ -4923,7 +4941,7 @@ constructions, and illustrate each by a sentence in Latin:
     verb
   4. Ablative of separation
 
-[Illustration: MILITES CASTRA MUNIUNT]
+[Illustration (141-rev6.png): MILITES CASTRA MUNIUNT]
 
 
 
@@ -5075,7 +5093,7 @@ cum reliquīs Gorgonibus incolēbat. Gorgones mōnstra erant quārum
 capita anguibus omnīnō contēcta [7] erant. Manūs autem ex aere
 [8] erant factae.
 
-[Illustration: SCIPIO AND HANNIBAL]
+[Illustration (145-les45.png): SCIPIO AND HANNIBAL]
 
 [1] *puer*, _when a boy_.
 
@@ -5262,7 +5280,7 @@ time. 4. Often he gave ample rewards to his centurions because
 they had captured much booty. 5. He was killed in the city of
 Rome by his personal enemies (*inimīcus*).
 
-[Illustration: GALLIC SWORD]
+[Illustration (149-les47.png): GALLIC SWORD]
 
 
 
@@ -5336,7 +5354,7 @@ river was ten feet deep at this place; and so they left all the
 baggage on the shore. 4. This fact deprived our soldiers of all
 hope. 5. We shall remain six days in Italy.
 
-[Illustration: AN OFFERING TO THE GODS]
+[Illustration (151-les48.png): AN OFFERING TO THE GODS]
 
 
 
@@ -5357,7 +5375,7 @@ multum operae dō. Eam linguam multō facilius quam Graecam discō.
 Sed iam fīnem faciam epistulae; mox cōram omnia tibi nārrābō.
 Valē, [4] mī amīce. [5]
 
-[Illustration: A VIEW IN POMPEII]
+[Illustration (152-les49.png): A VIEW IN POMPEII]
 
 338. VOCABULARY
 
@@ -5381,7 +5399,7 @@ perturbātae sunt. Arma rapuērunt, et Perseum interficere
 volēbant. [8] Ille autem dum fugit, [9] galeam magicam induit;
 et, ubi hoc fēcit, statim ē cōnspectū eārum excessit.
 
-[Illustration: HEAD OF MEDUSA]
+[Illustration (153-les49-2.png): HEAD OF MEDUSA]
 
 [1] *laetus*, _gladly_.
 
@@ -5579,7 +5597,7 @@ the Romans. 6. He had called together the chiefs to hear the new
 plan. 7. They will desist from battle that they may not be
 killed.
 
-[Illustration: A GLIMPSE INTO A ROMAN THEATER]
+[Illustration (157-inset2.png): A GLIMPSE INTO A ROMAN THEATER]
 
 
 
@@ -5652,7 +5670,7 @@ lieutenant led the soldiers out of the camp in order to draw up a
 line of battle. 5. He demands that they pitch camp in this place.
 6. The marsh is so great that our men are hindered.
 
-[Illustration: A ROMAN CUP]
+[Illustration (161-les52.png): A ROMAN CUP]
 
 
 
@@ -5719,7 +5737,7 @@ illustrate each by a sentence in Latin:
   6. Adverbial clause of result
   7. Sequence of tenses
 
-[Illustration: THE ATRIUM OF A ROMAN HOUSE]
+[Illustration (163-rev7.png): THE ATRIUM OF A ROMAN HOUSE]
 
 
 
@@ -5749,7 +5767,7 @@ autem tempore hostēs ita superātī sunt ut ex omnibus pugnae
 partibus trāns flūmen fugerent. Eōrum dux captus est et Rōmam
 missus est.
 
-[Illustration: ROMAN HELMETS]
+[Illustration (164-les53.png): ROMAN HELMETS]
 
 369. VOCABULARY
 
@@ -5773,7 +5791,7 @@ ubi haec audīvit, maximē doluit. Volēbat tamen cīvīs suōs ē tantō
 perīculō servāre, [3] et ob eam causam imperāta Hammōnis facere
 [4] cōnstituit.
 
-[Illustration: A ROMAN CHARIOT]
+[Illustration (165-les53-2.png): A ROMAN CHARIOT]
 
 [1] *iussus est*, from *iubeō*.
 
@@ -6235,9 +6253,9 @@ he leared that the enemy lacked food. 4. He ordered (*iubeō*)
 them to spend the winter in that state. 5. The traders replied
 that there was no grain in the territory of the Germans.
 
-[Illustration: A ROMAN AND HIS WIFE]
+[Illustration (176-les58.png): A ROMAN AND HIS WIFE]
 
-[Illustration: THE ROMAN FORUM TO-DAY]
+[Illustration (177-les58-2.png): THE ROMAN FORUM TO-DAY]
 
 
 
@@ -6290,7 +6308,7 @@ Andromedam Perseō in mātrimōnium dedit. Paucōs annōs Perseus cum
 uxōre in eā regiōne habitābat, et in magnō honōre erat apud omnīs
 Aethiopēs.
 
-[Illustration: IMPERATOR ET CAPTIVI]
+[Illustration (179-les59.png): IMPERATOR ET CAPTIVI]
 
 [1] *velle*, infin. of *volō*, _wish_.
 
@@ -6439,7 +6457,7 @@ illustrate each by a sentence in Latin:
   6. Indirect statements
   7. Accusative as subject of the infinitive
 
-[Illustration: INTERIOR OF A ROMAN HOUSE]
+[Illustration (183-rev8.png): INTERIOR OF A ROMAN HOUSE]
 
 
 
@@ -6508,6 +6526,8 @@ ferē proeliīs cum Germānīs contendunt, cum (_when_) aut
 fīnibus bellum gerunt. Ea pars quam Gallī obtinent īnitium capit
 ā flūmine Rhodanō; continētur Garumnā (_Garonne_) flūmine,
 ōceanō, fīnibus Belgārum.
+
+[Illustration (185-les61.png): TABLE, VASE, AND LAMP STANDS]
 
 
 
@@ -6673,7 +6693,7 @@ to please your friends. 4. And they did not persuade the general.
 5. He will command them not to harm the women. 6. Neither the
 Gauls nor the Germans desired war at that time.
 
-[Illustration: WALL DECORATION OF A ROMAN HOUSE]
+[Illustration (189-les63.png): WALL DECORATION OF A ROMAN HOUSE]
 
 
 
@@ -6717,7 +6737,7 @@ multitūdinem hominum et glōriam bellī angustōs sē fīnēs habēre
 putābant, quī in longitūdinem mīlia passuum CCXL (decenta
 quadrāgintā), in lātitūdinem CLXXX (centum octōgintā) patēbant.
 
-[Illustration: MAP OF HELVETIA]
+[Illustration (191-les64.png): MAP OF HELVETIA]
 
 [1] *suādendō*, _offering advice_.
 
@@ -6826,7 +6846,7 @@ who were sent ahead resisted the Gauls long and bravely. 5. If
 asked concerning your plans, I shall say nothing. 6. The leaders
 will be captured and sent to Italy.
 
-[Illustration: GALLI CAPTI IN CASTRA REDUCUNTUR]
+[Illustration (194-les65.png): GALLI CAPTI IN CASTRA REDUCUNTUR]
 
 
 
@@ -6880,7 +6900,7 @@ probāvērunt. Itaque multitūdinem hominum ex agrīs coēgērunt ut
 cōnsilia Orgetorīgis prohibērent. Sed eō tempore Orgetorīx subitō
 mortuus est (_died_).
 
-[Illustration: ROMAN STYLES OF HAIRDRESSING]
+[Illustration (196-les66.png): ROMAN STYLES OF HAIRDRESSING]
 
 
 
@@ -6975,7 +6995,7 @@ having captured the mountain, was waiting for our men. 6.
 Although a sortie was made, they were not able to approach our
 first line.
 
-[Illustration: A COUNTRY VILLA]
+[Illustration (199-les67.png): A COUNTRY VILLA]
 
 
 
@@ -7113,7 +7133,7 @@ constructions, and illustrate each by a sentence in Latin:
   6. Ablative absolute
   7. Gerund
 
-[Illustration: WALL DECORATION OF A ROMAN HOUSE]
+[Illustration (203-rev9.png): WALL DECORATION OF A ROMAN HOUSE]
 
 
 
@@ -7252,7 +7272,7 @@ cognōvērunt, lēgātōs ad eum mīsērunt.
 [1] *quam maximīs potuit itineribus*, _by as long journeys as
 possible_. Sometimes Cæsar traveled a hundred miles a day.
 
-[Illustration: DINING COUCHES]
+[Illustration (207-les70.png): DINING COUCHES]
 
 
 
@@ -7408,7 +7428,7 @@ able to persuade them, he went to the general. 7. Not even the
 general had been informed about this. 8. When the lieutenant had
 exhorted the soldiers, he gave the signal for battle.
 
-[Illustration: A ROMAN STOVE]
+[Illustration (211-les72.png): A ROMAN STOVE]
 
 
 
@@ -7455,7 +7475,8 @@ Ubi ea diēs quam cōnstituerat cum lēgātīs vēnit, et lēgātī ad eum
 vēnērunt, dīxit sē propter cōnsuētūdinem populī Rōmānī iter nūllī
 per prōvinciam dare posse; et eōs prohibitūrum ostendit.
 
-[Illustration: ROMAN ARMY CROSSING A BRIDGE OF BOATS]
+[Illustration (213-les73.png): ROMAN ARMY CROSSING A BRIDGE OF
+BOATS]
 
 [1] Frequently *esse* is omitted in Latin infinitive forms. From
 which infinitives in this lesson is it omitted?
@@ -7531,7 +7552,7 @@ least. 5. Do you know how many miles the lake extends? 6. The
 fact that the enemy were greatly confused was of help to us in
 attacking the town.
 
-[Illustration: ROMAN LAMPS]
+[Illustration (215-les74.png): ROMAN LAMPS]
 
 
 
@@ -7601,7 +7622,7 @@ contended with the Romans have been conquered. 5. The barbarians,
 when they had delayed three days in front of the camp, sent an
 embassy to our general.
 
-[Illustration: ROMAN PITCHERS]
+[Illustration (217-les75.png): ROMAN PITCHERS]
 
 
 
@@ -7776,7 +7797,8 @@ Reading you meet a noun or a verb, at once ask yourself which of
 these uses the particular noun or verb has. Then translate
 accordingly.
 
-[Illustration: THE CAMPAIGN AGAINST THE HELVETIANS]
+[Illustration (222-summary.png): THE CAMPAIGN AGAINST THE
+HELVETIANS]
 
 
 
@@ -7934,7 +7956,7 @@ nē propter bonitātem agrōrum Germānī, quī trāns Rhēnum incolunt,
 ex suīs fīnibus in Helvētiōrum fīnēs trānsīrent et fīnitimī
 Galliae prōvinciae Allobrogibusque essent.
 
-[Illustration: CARRI]
+[Illustration (227-helvetians.png): CARRI]
 
 [1] *plūrimum poterat*, _had a great deal of influence_
 
@@ -8037,7 +8059,7 @@ sectiōnem eius oppidī ūniversam Caesar vēndidit. [27] Ab eīs
 ēmerant capitum [28] numerus ad eum relātus est mīlium
 quīnquāgintā trium. [29]
 
-[Illustration: WITH THE ROMANS AT THE FRONT]
+[Illustration (231-inset3.png): WITH THE ROMANS AT THE FRONT]
 
 [1] The Aduatuci lived about the river Mosa (Meuse), in what is
 now Belgium.
