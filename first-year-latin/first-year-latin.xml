@@ -44,20 +44,25 @@
     <front>
       <figure type="illustration">
         <graphic url="images/006-title.png"/>
+
         <head>A Roman Citizen Speaks</head>
       </figure>
+
       <titlePage>
         <docTitle>
           <titlePart type="sub">Collar and Daniell's</titlePart>
           <titlePart type="main">First Year Latin</titlePart>
         </docTitle>
+
         <docEdition>Revised by<lb/>Thornton Jenkins<lb/>Head Master, High School, Malden, Massachusetts</docEdition>
+
         <docImprint>
           <p><publisher>The Athenaeum Press</publisher></p>
           <p><publisher>Ginn and Company</publisher><lb/><pubPlace>Boston</pubPlace> · <pubPlace>New York</pubPlace> · <pubPlace>Chicago</pubPlace> · <pubPlace>London</pubPlace><lb/><pubPlace>Atlanta</pubPlace> · <pubPlace>Dallas</pubPlace> · <pubPlace>Columbus</pubPlace> · <pubPlace>San Francisco</pubPlace></p>
           <p>Copyright 1901, by William C. Collar and M. Grant Daniell<lb/>Copyright 1918, by Ginn and Company<lb/>Entered at Stationers' Hall<lb/>All rights reserved<lb/>318.4</p>
         </docImprint>
       </titlePage>
+
       <div type="preface">
         <pb n="iii"/>
 
@@ -67,11 +72,11 @@
 
         <p>With these convictions the revision of Collar and Daniell's "First Year Latin" was undertaken. All these principles underlay the plan of "First Year Latin," but the unanimity with which they have been accepted since the publication of that text has made it possible in the revision so to extend their application as to produce what is in effect a new book.</p>
 
-        <p>The vocabulary has been made briefer and more Cæsarian. From the vocabularies of the lessons the pupil is asked to learn the meanings of some five hundred and seventy words.  About ninety per cent of these words are included in the list of one thousand words which Professor Lodge<ptr target="#fn.pref.1" type="noteAnchor"/> suggests should be learned before the end of the second year of the study of Latin. Over sixty per cent occur more than ten times in Cæsar. In the Selections for Reading the pupil has a chance to become acquainted casually with a wider vocabulary.</p>
+        <p>The vocabulary has been made briefer and more Cæsarian. From the vocabularies of the lessons the pupil is asked to learn the meanings of some five hundred and seventy words.  About ninety per cent of these words are included in the list of one thousand words which Professor Lodge<ptr type="noteAnchor" target="#fn.pref.1"/> suggests should be learned before the end of the second year of the study of Latin. Over sixty per cent occur more than ten times in Cæsar. In the Selections for Reading the pupil has a chance to become acquainted casually with a wider vocabulary.</p>
 
         <pb n="iv"/>
 
-        <p>A number of constructions which were taught in the original book have been omitted. With three exceptions the constructions included in the revision are those which Byrne<ptr target="#fn.pref.2" type="noteAnchor"/> recommends for the first year. Similarly, the pupil is no longer required to learn uncommon forms which are not necessary for his second-year reading.</p>
+        <p>A number of constructions which were taught in the original book have been omitted. With three exceptions the constructions included in the revision are those which Byrne<ptr type="noteAnchor" target="#fn.pref.2"/> recommends for the first year. Similarly, the pupil is no longer required to learn uncommon forms which are not necessary for his second-year reading.</p>
 
         <p>Increased attention has been given to derivatives. Related English words are often placed after the Latin words in the vocabularies of the lessons as well as in the general vocabulary.  Everywhere in the reviews this important part of the study of Latin is kept constantly before the pupil. Suggestions are offered for the keeping of notebooks of English derivatives. The force of certain common prefixes and suffixes in the formation and meaning of Latin words is also explained.</p>
 
@@ -93,8 +98,8 @@
 
         <signed>T. J.</signed>
 
-        <note xml:id="fn.pref.1">Vocabulary of High School Latin</note>
-        <note xml:id="fn.pref.2">The Syntax of High School Latin</note>
+        <note xml:id="fn.pref.1" type="footnote">Vocabulary of High School Latin</note>
+        <note xml:id="fn.pref.2" type="footnote">The Syntax of High School Latin</note>
       </div>
       <div type="contents">
         <pb n="vii"/>
@@ -275,1129 +280,1921 @@
           <div>
             <head>Nouns</head>
 
-            <div type="section" n="I"><div type="subsection" n="a"><p>A <term>noun</term> is the name of a person, place, or thing: _boy_, _London_, _ship_; *puer*, *Londīnium*, *nāvis*.</p></div>
+            <div type="section" n="I">
+              <div type="subsection" n="a">
+                <p>A <term>noun</term> is the name of a person, place, or thing: _boy_, _London_, _ship_; *puer*, *Londīnium*, *nāvis*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>A <term>proper noun</term> is the name of a particular person, place, or thing: _Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.</p></div>
+              <div type="subsection" n="b">
+                <p>A <term>proper noun</term> is the name of a particular person, place, or thing: _Cornelia_, _Rome_, _Rhone_; *Cornēlia*, *Rōma*, *Rhodanus*.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>A <term>common noun</term> is a name that may be applied to any one of a class of objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.</p></div>
+              <div type="subsection" n="c">
+                <p>A <term>common noun</term> is a name that may be applied to any one of a class of objects: _boy_, _city_, _day_; *puer*, *urbs*, *diēs*.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>A <term>collective noun</term> is a name that may be applied  to a group of objects, though itself in the singular number (XXIII): _crowd_, _family_; *multitūdō*, *gēns*.</p></div>
+              <div type="subsection" n="d">
+                <p>A <term>collective noun</term> is a name that may be applied  to a group of objects, though itself in the singular number (XXIII): _crowd_, _family_; *multitūdō*, *gēns*.</p>
+              </div>
 
-            <div type="subsection" n="e"><p>A <term>verbal noun</term> is the name of an action: _seeing_, _writing_, _to see_, _to write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.</p></div>
+              <div type="subsection" n="e">
+                <p>A <term>verbal noun</term> is the name of an action: _seeing_, _writing_, _to see_, _to write_; *videndī* (459), *scrībendī*, *vidēre*, *scrībere*.</p>
+              </div>
 
-            <div type="subsection" n="f"><p>An <term>abstract noun</term> is the name of a quality or condition: _goodness_, _truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.</p></div></div>
+              <div type="subsection" n="f">
+                <p>An <term>abstract noun</term> is the name of a quality or condition: _goodness_, _truth_, _poverty_; *bonitās*, *vēritās*, *paupertās*.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Pronouns</head>
 
-            <div type="section" n="II"><div type="subsection" n="a"><p>A _pronoun_ is a word used to take the place of a noun or of another pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*, *quī*.</p></div>
+            <div type="section" n="II">
+              <div type="subsection" n="a">
+                <p>A _pronoun_ is a word used to take the place of a noun or of another pronoun: _I_, _you_, _him_, _this_, _who_; *ego*, *tū*, *eum*, *hoc*, *quī*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>The noun (or pronoun) for which a pronoun stands is called its _antecedent_ (from *antecēdere*, _to go before_). Thus, in the sentence _John goes to school, but he does not study_, the noun _John_ is the antecedent of _he_. The antecedent is especially common with a relative pronoun (II, d). Neither in Latin nor in English does the antecedent necessarily stand in advance of its pronoun: _What he says, he believes_, *quod dīcit, _id_ crēdit*.</p></div>
+              <div type="subsection" n="b">
+                <p>The noun (or pronoun) for which a pronoun stands is called its _antecedent_ (from *antecēdere*, _to go before_). Thus, in the sentence _John goes to school, but he does not study_, the noun _John_ is the antecedent of _he_. The antecedent is especially common with a relative pronoun (II, d). Neither in Latin nor in English does the antecedent necessarily stand in advance of its pronoun: _What he says, he believes_, *quod dīcit, _id_ crēdit*.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>A _personal pronoun_ shows by its form whether it stands (1) for the speaker: _I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for the person spoken to: _thou_, _you_; *tū*, *vōs*, that is, the _second person_; or (3) for the person or thing spoken of: _he_, _she_, _it_, _they_; *is*, *ea*, *id*, *eī*, that is, the _third person_.</p></div>
+              <div type="subsection" n="c">
+                <p>A _personal pronoun_ shows by its form whether it stands (1) for the speaker: _I_, _we_; *ego*, *nōs*, that is, the _first person_; (2) for the person spoken to: _thou_, _you_; *tū*, *vōs*, that is, the _second person_; or (3) for the person or thing spoken of: _he_, _she_, _it_, _they_; *is*, *ea*, *id*, *eī*, that is, the _third person_.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>A _relative pronoun_ connects a subordinate clause, in which it stands, with the antecedent: _The book *that* you have is mine_, *liber _quem_ habēs meus est*. The relative pronouns in English are _who_, _which_, _that_, and _as_; in Latin the relative is *quī*.</p></div>
+              <div type="subsection" n="d">
+                <p>A _relative pronoun_ connects a subordinate clause, in which it stands, with the antecedent: _The book *that* you have is mine_, *liber _quem_ habēs meus est*. The relative pronouns in English are _who_, _which_, _that_, and _as_; in Latin the relative is *quī*.</p>
+              </div>
 
-            <div type="subsection" n="e"><p>An _interrogative pronoun_ is used to ask a question: _*Who* is walking in the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in English are _who_, _which_, and _what_; in Latin, *quis* and *uter*.</p></div>
+              <div type="subsection" n="e">
+                <p>An _interrogative pronoun_ is used to ask a question: _*Who* is walking in the garden?_ *_Quis_ in hortō ambulat?* The interrogative pronouns in English are _who_, _which_, and _what_; in Latin, *quis* and *uter*.</p>
+              </div>
 
-            <div type="subsection" n="f"><p>A _demonstrative pronoun_ points out an object definitely: _this_, _that_, _these_, _those_; *hic*, *ille*, *hī*, *illī*.</p></div>
+              <div type="subsection" n="f">
+                <p>A _demonstrative pronoun_ points out an object definitely: _this_, _that_, _these_, _those_; *hic*, *ille*, *hī*, *illī*.</p>
+              </div>
 
-            <div type="subsection" n="g"><p>An _indefinite pronoun_ refers to an object indefinitely: _some_, _some one_, _any_, _any one_; *aliquis*, *quis*.</p></div>
+              <div type="subsection" n="g">
+                <p>An _indefinite pronoun_ refers to an object indefinitely: _some_, _some one_, _any_, _any one_; *aliquis*, *quis*.</p>
+              </div>
 
-            <div type="subsection" n="h"><p>A _reflexive pronoun refers back to the subject: _He blamed *himself*_, *_sē_ culpāvit*.</p></div></div>
+              <div type="subsection" n="h">
+                <p>A _reflexive pronoun refers back to the subject: _He blamed *himself*_, *_sē_ culpāvit*.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Adjectives</head>
 
-            <div type="section" n="III"><div type="subsection" n="a"><p>An _adjective_ is a word used to qualify or limit a noun or a pronoun: _*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna _pulchra_*, *_quīnque_ puellae*.</p></div>
+            <div type="section" n="III">
+              <div type="subsection" n="a">
+                <p>An _adjective_ is a word used to qualify or limit a noun or a pronoun: _*good* book_, _*beautiful* moon_, _*five* girls_; *liber _bonus_*, *lūna _pulchra_*, *_quīnque_ puellae*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>_A_, _an_, and _the_, really limiting adjectives, are sometimes called _articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite article_. These articles are not used in Latin.</p></div>
+              <div type="subsection" n="b">
+                <p>_A_, _an_, and _the_, really limiting adjectives, are sometimes called _articles_. _The_ is the _definite article_, _a_ or _an_ the _indefinite article_. These articles are not used in Latin.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>_Numeral adjectives_ denote how many persons or things are under consideration. They are either _cardinal_, denoting how many: _one_, _two_, _three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_, denoting which in order: _first_, _second_, _third_, _fourth_; *prīmus*, *secundus*, *tertius*, *quārtus*.</p></div>
+              <div type="subsection" n="c">
+                <p>_Numeral adjectives_ denote how many persons or things are under consideration. They are either _cardinal_, denoting how many: _one_, _two_, _three_, _four_; *ūnus*, *duo*, *trēs*, *quattuor*; or _ordinal_, denoting which in order: _first_, _second_, _third_, _fourth_; *prīmus*, *secundus*, *tertius*, *quārtus*.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>_Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_; *_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently used as possessive pronouns.</p></div>
+              <div type="subsection" n="d">
+                <p>_Possessive adjectives_ denote ownership: _*my* friend_, _*our* house_; *_meus_ amīcus*, *_nostra_ domus*. Possessive adjectives are frequently used as possessive pronouns.</p>
+              </div>
 
-            <div type="subsection" n="e"><p>The demonstrative pronouns, the indefinite pronouns, and the interrogative pronouns _which_ and _what_ may be used as adjectives, and are then called respectively _demonstrative adjectives_: _*this* book_, _*that* house_; *_hic_ liber*, *_illa_ domus*; _indefinite adjectives_: _*some* boys_, *_aliquī_ puerī*; and _interrogative adjectives_: _*Which* way shall we go?_ *_Quā_ viā ībimus?*</p></div>
+              <div type="subsection" n="e">
+                <p>The demonstrative pronouns, the indefinite pronouns, and the interrogative pronouns _which_ and _what_ may be used as adjectives, and are then called respectively _demonstrative adjectives_: _*this* book_, _*that* house_; *_hic_ liber*, *_illa_ domus*; _indefinite adjectives_: _*some* boys_, *_aliquī_ puerī*; and _interrogative adjectives_: _*Which* way shall we go?_ *_Quā_ viā ībimus?*</p>
+              </div>
 
-            <div type="subsection" n="f"><p>Adjectives are often used as nouns: "_The land of the *free*_," *patria _līberōrum_*.</p></div></div>
+              <div type="subsection" n="f">
+                <p>Adjectives are often used as nouns: "_The land of the *free*_," *patria _līberōrum_*.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Verbs</head>
 
-            <div type="section" n="IV"><div type="subsection" n="a"><p>A _verb_ is a word which can declare or assert something about a person, a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.</p></div>
+            <div type="section" n="IV">
+              <div type="subsection" n="a">
+                <p>A _verb_ is a word which can declare or assert something about a person, a place, or a thing: _The man *laughs*_, *vir _rīdet_*; _the town *is captured*_, *oppidum _captum est_*; _the leaf *falls*_, *folium _cadit_*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>A verb which has an object (XIV, a) to complete its meaning is said to be _transitive_, or to be _used transitively_: _The girl *has* a rose_, *puella rosam _habet_*.</p></div>
+              <div type="subsection" n="b">
+                <p>A verb which has an object (XIV, a) to complete its meaning is said to be _transitive_, or to be _used transitively_: _The girl *has* a rose_, *puella rosam _habet_*.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>A verb which does not have an object (XIV, a) to complete its meaning is said to be _intransitive_, or to be _used intransitively_: _Birds *fly*_, *avēs _volant_*; _I *walk*_, *_abmulō_*.</p>
-            <p>NOTE. Thus certain verbs may at one time be transitive and at another intransitive: _The wind *blew* the snow into our faces_; _the wind *blew* furiously_.</p></div>
+              <div type="subsection" n="c">
+                <p>A verb which does not have an object (XIV, a) to complete its meaning is said to be _intransitive_, or to be _used intransitively_: _Birds *fly*_, *avēs _volant_*; _I *walk*_, *_abmulō_*.</p>
+                <p>NOTE. Thus certain verbs may at one time be transitive and at another intransitive: _The wind *blew* the snow into our faces_; _the wind *blew* furiously_.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>Verbs are classified as _regular_ or _irregular_. This distinction is made merely for convenience. A _regular verb_ in English forms its imperfect (past) tense (XXXIII, a) and past participle (XXXIV, b) by the addition of _d_ or _ed_ to the present: present, _love_; past, _loved_; past participle, _loved_. For Latin regular verbs see 658-662.</p></div>
+              <div type="subsection" n="d">
+                <p>Verbs are classified as _regular_ or _irregular_. This distinction is made merely for convenience. A _regular verb_ in English forms its imperfect (past) tense (XXXIII, a) and past participle (XXXIV, b) by the addition of _d_ or _ed_ to the present: present, _love_; past, _loved_; past participle, _loved_. For Latin regular verbs see 658-662.</p>
+              </div>
 
-            <div type="subsection" n="e"><p>An _irregular verb_ in English does not form its imperfect (past) tense by the addition of _d_ or _ed_ to the present: present, _give_; past _gave_; past participle, _given_. For Latin irregular verbs see 663-668.</p></div>
+              <div type="subsection" n="e">
+                <p>An _irregular verb_ in English does not form its imperfect (past) tense by the addition of _d_ or _ed_ to the present: present, _give_; past _gave_; past participle, _given_. For Latin irregular verbs see 663-668.</p>
+              </div>
 
-            <div type="subsection" n="f"><p>An _auxiliary verb_ is used in the conjugation of other verbs: _I *am* loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so used: *missus _est_*, _he has been sent_.</p></div></div>
+              <div type="subsection" n="f">
+                <p>An _auxiliary verb_ is used in the conjugation of other verbs: _I *am* loved_, _he *has* given_. In Latin the verb *esse*, _to be_ (663), is so used: *missus _est_*, _he has been sent_.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Adverbs</head>
 
-            <div type="section" n="V"><div type="subsection" n="a"><p>An _adverb_ is used to modify a verb, an adjective, or another adverb: _He walks *swiftly*_, *_celeriter_ ambulat*.</p></div>
+            <div type="section" n="V">
+              <div type="subsection" n="a">
+                <p>An _adverb_ is used to modify a verb, an adjective, or another adverb: _He walks *swiftly*_, *_celeriter_ ambulat*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_, _hence_; *hīc*, *illīc*, *hinc*.</p></div>
+              <div type="subsection" n="b">
+                <p>An _adverb_ of _place_ answers the question _where?_ -- _here_, _there_, _hence_; *hīc*, *illīc*, *hinc*.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_, _often_; *tum*, *nunc*, *saepe*.</p></div>
+              <div type="subsection" n="c">
+                <p>An _adverb_ of _time_ answers the question _when?_ -- _then_, _now_, _often_; *tum*, *nunc*, *saepe*.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_, _ill_; *sīc*, *bene*, *male*.</p></div>
+              <div type="subsection" n="d">
+                <p>An _adverb_ of _manner_ answers the question _how?_ -- _so_, _well_, _ill_; *sīc*, *bene*, *male*.</p>
+              </div>
 
-            <div type="subsection" n="e"><p>An _adverb_ of _degree_ answers the question _how much?_ -- _little_, _almost_, _enough_; *paulō*, *paene*, *satis*.</p></div>
+              <div type="subsection" n="e">
+                <p>An _adverb_ of _degree_ answers the question _how much?_ -- _little_, _almost_, _enough_; *paulō*, *paene*, *satis*.</p>
+              </div>
 
-            <div type="subsection" n="f"><p>A _modal adverb_ expresses affirmation or negations, or the degree of confidence with which a statement is made: _yes_, _no_, _certainly_, _perhaps_; *certē*, *fortisan*.</p></div></div>
+              <div type="subsection" n="f">
+                <p>A _modal adverb_ expresses affirmation or negations, or the degree of confidence with which a statement is made: _yes_, _no_, _certainly_, _perhaps_; *certē*, *fortisan*.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Prepositions</head>
 
-            <div type="section" n="VI"><p>A preposition is used before a noun or pronoun to show its relation to another word in the sentence. Usually the relation shown is position, direction, or time: _He sent a legion *against* the enemy_, *_in_ hostēs legiōnem mīsit*. In Latin certain phrases which would be introduced in English by a preposition are expressed by the use of one of the cases (XXIV, b) without a preposition: _*At dawn* he sent a legion_, *_prīmā lūce_ legiōnem mīsit*.</p></div>
+            <div type="section" n="VI">
+              <p>A preposition is used before a noun or pronoun to show its relation to another word in the sentence. Usually the relation shown is position, direction, or time: _He sent a legion *against* the enemy_, *_in_ hostēs legiōnem mīsit*. In Latin certain phrases which would be introduced in English by a preposition are expressed by the use of one of the cases (XXIV, b) without a preposition: _*At dawn* he sent a legion_, *_prīmā lūce_ legiōnem mīsit*.</p>
+            </div>
           </div>
 
           <div>
             <head>Conjunctions</head>
 
-            <div type="section" n="VII"><div type="subsection" n="a"><p>A _conjunction_ connects words, phrases (XVI), clauses (XX), and sentences (XVIII): _boys *and* girls_, *puerī _et_ puellae*; _they fought bravely *but* were conquered_, *fortiter pugnāvērunt _sed_ victī sunt*.</p></div>
+            <div type="section" n="VII">
+              <div type="subsection" n="a">
+                <p>A _conjunction_ connects words, phrases (XVI), clauses (XX), and sentences (XVIII): _boys *and* girls_, *puerī _et_ puellae*; _they fought bravely *but* were conquered_, *fortiter pugnāvērunt _sed_ victī sunt*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>A _coördinate conjunction_ connects words, phrases, clauses, and sentences of equal order or rank. The conjunctions in the examples in VII, a are coördinate.</p></div>
+              <div type="subsection" n="b">
+                <p>A _coördinate conjunction_ connects words, phrases, clauses, and sentences of equal order or rank. The conjunctions in the examples in VII, a are coördinate.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>A _subordinate conjunction_ connects a subordinate clause (XX, a) with a principal clause (XX, a): _The boy was praised *because* he was industrious_, *puer laudātus est _quod_ impiger erat*.</p></div></div>
+              <div type="subsection" n="c">
+                <p>A _subordinate conjunction_ connects a subordinate clause (XX, a) with a principal clause (XX, a): _The boy was praised *because* he was industrious_, *puer laudātus est _quod_ impiger erat*.</p>
+              </div>
+            </div>
           </div>
 
           <div>
             <head>Interjections</head>
 
-            <div type="section" n="VIII"><p>An _interjection_ is used to express strong feeling. It is not grammatically related to any other word in the sentence: _oh!_ _ah!_ _alas!_ _hurrah!_ *ēheu!* *ecce!*</p>
-            <p>NOTE. The following couplets have often proved useful to young persons in identifying the parts of speech:
-            <lg><lg><l>Three little words we often see</l><l>Are Articles, _a_, _an_, and _the_.</l></lg>
-            <lg><l>A Noun's the name of anything;</l><l>As _school_ or _garden_, _hoop_ or _swing_.</l></lg>
-            <lg><l>Adjectives tell the kind of noun;</l><l>As _great_, _small_, _pretty_, _white_, or _brown_.</l></lg>
-            <lg><l>Instead of nouns the Pronouns stand;</l><l>_I_ come, _you_ go, as _they_ command.</l></lg>
-            <lg><l>Verbs tell of something being done;</l><l>As _read_, _write_, _spell_, _sing_, _jump_, or _run_.</l></lg>
-            <lg><l>How things are done the Adverbs tell;</l><l>As _slowly_, _quickly_, _ill_, or _well_.</l></lg>
-            <lg><l>They also tell us where and when;</l><l>As _here_ and _there_ and _now_ and _then_.</l></lg>
-            <lg><l>A Preposition stands before A noun;</l><l>as _in_ or _through_ a door.</l></lg>
-            <lg><l>Conjunctions join the words together;</l><l>As rain _and_ sunshine, wind _or_ weather.</l></lg>
-            <lg><l>Conjunctions sentences unite;</l><l>As kittens scratch _and_ puppies bite.</l></lg>
-            <lg><l>An Interjection shows surprise;</l><l>As _Oh!_ how pretty! _Ah!_ how wise!</l></lg></lg></p></div>
+            <div type="section" n="VIII">
+              <p>An _interjection_ is used to express strong feeling. It is not grammatically related to any other word in the sentence: _oh!_ _ah!_ _alas!_ _hurrah!_ *ēheu!* *ecce!*</p>
+              <p>NOTE. The following couplets have often proved useful to young persons in identifying the parts of speech:
+              <lg><lg><l>Three little words we often see</l><l>Are Articles, _a_, _an_, and _the_.</l></lg>
+              <lg><l>A Noun's the name of anything;</l><l>As _school_ or _garden_, _hoop_ or _swing_.</l></lg>
+              <lg><l>Adjectives tell the kind of noun;</l><l>As _great_, _small_, _pretty_, _white_, or _brown_.</l></lg>
+              <lg><l>Instead of nouns the Pronouns stand;</l><l>_I_ come, _you_ go, as _they_ command.</l></lg>
+              <lg><l>Verbs tell of something being done;</l><l>As _read_, _write_, _spell_, _sing_, _jump_, or _run_.</l></lg>
+              <lg><l>How things are done the Adverbs tell;</l><l>As _slowly_, _quickly_, _ill_, or _well_.</l></lg>
+              <lg><l>They also tell us where and when;</l><l>As _here_ and _there_ and _now_ and _then_.</l></lg>
+              <lg><l>A Preposition stands before A noun;</l><l>as _in_ or _through_ a door.</l></lg>
+              <lg><l>Conjunctions join the words together;</l><l>As rain _and_ sunshine, wind _or_ weather.</l></lg>
+              <lg><l>Conjunctions sentences unite;</l><l>As kittens scratch _and_ puppies bite.</l></lg>
+              <lg><l>An Interjection shows surprise;</l><l>As _Oh!_ how pretty! _Ah!_ how wise!</l></lg></lg></p>
+            </div>
           </div>
 
           <div>
             <head>The Sentence</head>
 
-            <div type="section" n="IX"><p>A _sentence_ is a word or a group of words expressing a thought: _Stars shine_; _he walks_; *stellae lūcent*; *ambulat*.</p></div>
+            <div type="section" n="IX">
+              <p>A _sentence_ is a word or a group of words expressing a thought: _Stars shine_; _he walks_; *stellae lūcent*; *ambulat*.</p>
+            </div>
 
-            <div type="section" n="X"><div type="subsection" n="a"><p>A _declarative sentence_ declares or asserts something: _The farmers are plowing the fields_, *agricolae agrōs arant*.</p></div>
+            <div type="section" n="X">
+              <div type="subsection" n="a">
+                <p>A _declarative sentence_ declares or asserts something: _The farmers are plowing the fields_, *agricolae agrōs arant*.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>An _interrogative sentence_ asks a question: _Why are the farmers plowing the fields?_ *Cūr agricolae agrōs arant?*</p></div>
+              <div type="subsection" n="b">
+                <p>An _interrogative sentence_ asks a question: _Why are the farmers plowing the fields?_ *Cūr agricolae agrōs arant?*</p>
+              </div>
 
-            <div type="subsection" n="c"><p>An _imperative sentence_ expresses a command, a request, or an entreaty: _Plow the fields to-day_, *hodiē agrōs arāte*.</p></div>
+              <div type="subsection" n="c">
+                <p>An _imperative sentence_ expresses a command, a request, or an entreaty: _Plow the fields to-day_, *hodiē agrōs arāte*.</p>
+              </div>
 
-            <div type="subsection" n="d"><p>An _exclamatory sentence_ expresses strong feeling or emotion: _Would that he had remained!_ *Utinam mānsisset!*</p></div></div>
+              <div type="subsection" n="d">
+                <p>An _exclamatory sentence_ expresses strong feeling or emotion: _Would that he had remained!_ *Utinam mānsisset!*</p>
+              </div>
+            </div>
 
-            <div type="section" n="XI"><div type="subsection" n="a"><p>A sentence is made up of two parts, one called the _subject_ and the other the _predicate_.</p></div>
+            <div type="section" n="XI">
+              <div type="subsection" n="a">
+                <p>A sentence is made up of two parts, one called the _subject_ and the other the _predicate_.</p>
+              </div>
 
-            <div type="subsection" n="b"><p>The _subject_ represents the person, place, or thing about which something is declared or asserted: _*Birds* sing_, *_avēs_ cantant*.</p></div>
+              <div type="subsection" n="b">
+                <p>The _subject_ represents the person, place, or thing about which something is declared or asserted: _*Birds* sing_, *_avēs_ cantant*.</p>
+              </div>
 
-            <div type="subsection" n="c"><p>The _predicate_ declares or asserts something about the person, place, or thing which the subject represents: _Birds *sing*_, *avēs _cantant_*.</p>
-            <p>NOTE. In English and in Latin either the subject or the predicate, or both, may be enlarged to any extent by the addition of qualifying words and expressions called modifiers: _*My sister's small* birds_ | _sing *sweetly in the morning*_.</p></div>
+              <div type="subsection" n="c">
+                <p>The _predicate_ declares or asserts something about the person, place, or thing which the subject represents: _Birds *sing*_, *avēs _cantant_*.</p>
+                <p>NOTE. In English and in Latin either the subject or the predicate, or both, may be enlarged to any extent by the addition of qualifying words and expressions called modifiers: _*My sister's small* birds_ | _sing *sweetly in the morning*_.</p>
+              </div>
 
-            <div type="section" n="XII"><p>The _simple subject_ is the noun or pronoun which signifies the person, place, or thing about which the assertion is made. The _simple predicate_ is the verb that makes the assertion. _Birds_ is the simple subject, and _sing_ the simple predicate, in the note under XI, c.</p></div>
+              <div type="section" n="XII">
+                <p>The _simple subject_ is the noun or pronoun which signifies the person, place, or thing about which the assertion is made. The _simple predicate_ is the verb that makes the assertion. _Birds_ is the simple subject, and _sing_ the simple predicate, in the note under XI, c.</p>
+              </div>
 
-            <div type="section" n="XIII"><p>The _complete subject_ is the simple subject with all its modifiers. The _complete predicate_ is the simple predicate with all its modifiers. Thus, in the example in the note under XI, c the complete subject is all that precedes the vertical line, and the complete predicate all that follows it.</p></div>
+              <div type="section" n="XIII">
+                <p>The _complete subject_ is the simple subject with all its modifiers. The _complete predicate_ is the simple predicate with all its modifiers. Thus, in the example in the note under XI, c the complete subject is all that precedes the vertical line, and the complete predicate all that follows it.</p>
+              </div>
 
-            <div type="section" n="XIV"><div type="subsection" n="a"><p>The _object_ of a verb is a word or an expression that completes the meaning of the verb, and signifies that which is affected by the action: _He sent *messengers*_, *_nūntiōs_ mīsit*; _he wished *me to go to italy*_, *_mē in Italiam īre_ voluit*.</p></div>
+              <div type="section" n="XIV">
+                <div type="subsection" n="a">
+                  <p>The _object_ of a verb is a word or an expression that completes the meaning of the verb, and signifies that which is affected by the action: _He sent *messengers*_, *_nūntiōs_ mīsit*; _he wished *me to go to italy*_, *_mē in Italiam īre_ voluit*.</p>
+                </div>
 
-            <div type="subsection" n="b"><p>The _direct object_ represents that which is immediately affected by the action of the verb; the _indirect object_ that to or for which the action is performed. Thus, in _He gave *me* a *book*_, *_mihi librum_ dedit*, _book_ is the direct object, and _me_ the indirect.</p></div></div>
+                <div type="subsection" n="b">
+                  <p>The _direct object_ represents that which is immediately affected by the action of the verb; the _indirect object_ that to or for which the action is performed. Thus, in _He gave *me* a *book*_, *_mihi librum_ dedit*, _book_ is the direct object, and _me_ the indirect.</p>
+                </div>
+              </div>
 
-            <div type="section" n="XV"><div type="subsection" n="a"><p>A _predicate noun_ or a _predicate adjective_ is used after certain intransitive or passive verbs to complete their meaning, and to describe or define the subject: _Marcus is a *sailor*_; _the sailor is *brave*_; *Mārcus _nauta_ est*; *nauta _fortis_ est*.</p></div>
+              <div type="section" n="XV">
+                <div type="subsection" n="a">
+                  <p>A _predicate noun_ or a _predicate adjective_ is used after certain intransitive or passive verbs to complete their meaning, and to describe or define the subject: _Marcus is a *sailor*_; _the sailor is *brave*_; *Mārcus _nauta_ est*; *nauta _fortis_ est*.</p>
+                </div>
 
-            <div type="subsection" n="b"><p>The predicate noun or adjective is called the _complement_ of the verb. Intransitive verbs that require a complement are called _copulative verbs_. The verb _be_ (Latin *esse*) in its various forms (_am_, _was_, _has been_, etc.) is often called the _copula_.</p></div>
+                <div type="subsection" n="b">
+                  <p>The predicate noun or adjective is called the _complement_ of the verb. Intransitive verbs that require a complement are called _copulative verbs_. The verb _be_ (Latin *esse*) in its various forms (_am_, _was_, _has been_, etc.) is often called the _copula_.</p>
+                </div>
 
-            <div type="subsection" n="c"><p>The predicate noun or adjective has the same case as the subject; hence the term _predicate nominative_.</p></div></div>
+                <div type="subsection" n="c">
+                  <p>The predicate noun or adjective has the same case as the subject; hence the term _predicate nominative_.</p>
+                </div>
+              </div>
 
-            <div type="section" n="XVI"><div type="subsection" n="a"><p>A _phrase_ is a combination of words (not subject and predicate) used as a single part of speech.</p></div>
+              <div type="section" n="XVI">
+                <div type="subsection" n="a">
+                  <p>A _phrase_ is a combination of words (not subject and predicate) used as a single part of speech.</p>
+                </div>
 
-            <div type="subsection" n="b"><p>An _adjective phrase_ modifies a noun: _A man *of great valor*_, *vir _magnae virtūtis_*.</p></div>
+                <div type="subsection" n="b">
+                  <p>An _adjective phrase_ modifies a noun: _A man *of great valor*_, *vir _magnae virtūtis_*.</p>
+                </div>
 
-            <div type="subsection" n="c"><p>An _adverbial phrase_ modifies a verb: _They work *with great diligence*_, *_magnā cum diligentiā_ labōrant*. In Latin certain cases of nouns are used to express what in English would be prepositional phrases of an adverbial nature (VI).</p></div></div>
+                <div type="subsection" n="c">
+                  <p>An _adverbial phrase_ modifies a verb: _They work *with great diligence*_, *_magnā cum diligentiā_ labōrant*. In Latin certain cases of nouns are used to express what in English would be prepositional phrases of an adverbial nature (VI).</p>
+                </div>
+              </div>
 
-            <div type="section" n="XVII"><p>A _simple sentence_ contains but one statement, that is, one subject and one predicate: _Cæsar drew up a line of battle_, *Caesar aciem īnstrūxit*.</p></div>
+              <div type="section" n="XVII">
+                <p>A _simple sentence_ contains but one statement, that is, one subject and one predicate: _Cæsar drew up a line of battle_, *Caesar aciem īnstrūxit*.</p>
+              </div>
 
-            <div type="section" n="XVIII"><p>A _compound sentence_ contains two or more independent statements: _Cæsar drew up a line of battle, but the enemy fled_, *Caesar aciem īnstrūxit, sed hostēs fūgērunt*.</p>
-            <p>NOTE. An independent statement is one that can stand alone; it does not depend on (qualify or limit) another statement.</p></div>
+              <div type="section" n="XVIII">
+                <p>A _compound sentence_ contains two or more independent statements: _Cæsar drew up a line of battle, but the enemy fled_, *Caesar aciem īnstrūxit, sed hostēs fūgērunt*.</p>
+                <p>NOTE. An independent statement is one that can stand alone; it does not depend on (qualify or limit) another statement.</p>
+              </div>
 
-            <div type="section" n="XIX"><p>A _complex sentence_ contains one independent (principal) statement and one or more dependent (subordinate) statements: _When the messenger had replied, the lieutenant spoke as follows_, *cum nūntius respondisset, lēgātus haec dīxit*.</p>
-            <p>NOTE. A dependent, or subordiate, statement is one that qualifies or limits another in some way; thus, the dependent statement _when the messenger had replied_ limits the verb _spoke_, telling when the lieutenant spoke.</p></div>
+              <div type="section" n="XIX">
+                <p>A _complex sentence_ contains one independent (principal) statement and one or more dependent (subordinate) statements: _When the messenger had replied, the lieutenant spoke as follows_, *cum nūntius respondisset, lēgātus haec dīxit*.</p>
+                <p>NOTE. A dependent, or subordiate, statement is one that qualifies or limits another in some way; thus, the dependent statement _when the messenger had replied_ limits the verb _spoke_, telling when the lieutenant spoke.</p>
+              </div>
 
-            <div type="section" n="XX"><div type="subsection" n="a"><p>The separate statements in a compound or a complex sentence are called _clauses_, and, as has already been seen, they may be either _independent_ (_principal_) or _dependent_ (_subordinate_).</p></div>
+              <div type="section" n="XX">
+                <div type="subsection" n="a">
+                  <p>The separate statements in a compound or a complex sentence are called _clauses_, and, as has already been seen, they may be either _independent_ (_principal_) or _dependent_ (_subordinate_).</p>
+                </div>
 
-            <div type="subsection" n="b"><p>When dependent (subordinate) clauses modify nouns or pronouns they are called _adjective clauses_: _The girls *whom we praised* were good_, *puellae _quās laudāvimus_ bonae erant*.</p></div>
+                <div type="subsection" n="b">
+                  <p>When dependent (subordinate) clauses modify nouns or pronouns they are called _adjective clauses_: _The girls *whom we praised* were good_, *puellae _quās laudāvimus_ bonae erant*.</p>
+                </div>
 
-            <div type="subsection" n="c"><p>When dependent (subordinate) clauses modify verbs they are called _adverbial clauses_: _*When the messenger had replied,* the lietenant spoke as follows_, *_cum nūntius respondisset,_ lēgātus haec dīxit*.</p></div>
+                <div type="subsection" n="c">
+                  <p>When dependent (subordinate) clauses modify verbs they are called _adverbial clauses_: _*When the messenger had replied,* the lietenant spoke as follows_, *_cum nūntius respondisset,_ lēgātus haec dīxit*.</p>
+                </div>
 
-            <div type="subsection" n="d"><p>When dependent (subordinate) clauses are used as nouns they are called _substandtive clauses_: _*That you are here* pleases us_, *_quod ades_ nōs dēlectat*.</p></div>
+                <div type="subsection" n="d">
+                  <p>When dependent (subordinate) clauses are used as nouns they are called _substandtive clauses_: _*That you are here* pleases us_, *_quod ades_ nōs dēlectat*.</p>
+                </div>
 
-            <div type="subsection" n="e"><p>Dependent (subordinate) clauses introduced by _when_ (Latin *cum*, *ubi*, etc.) are called _temporal clauses_; introduced by _because_ (Latin *quod* etc.), they are called _causal clauses_; introduced by _if_ (Latin *sī*), they are called _conditional clauses_; introduced by _although_ (Latin *cum*, *etsī*, etc.), they are called _concessive clauses_; introduced by a relative pronoun (Latin *quī*), they are called _relative clauses_.</p></div>
+                <div type="subsection" n="e">
+                  <p>Dependent (subordinate) clauses introduced by _when_ (Latin *cum*, *ubi*, etc.) are called _temporal clauses_; introduced by _because_ (Latin *quod* etc.), they are called _causal clauses_; introduced by _if_ (Latin *sī*), they are called _conditional clauses_; introduced by _although_ (Latin *cum*, *etsī*, etc.), they are called _concessive clauses_; introduced by a relative pronoun (Latin *quī*), they are called _relative clauses_.</p>
+                </div>
 
-            <div type="subsection" n="f"><p>The independent clause of a complex sentence is called the _principal clause_. Connected clauses that are of the same rank, both independent or both dependent, are said to be _coördinate_.</p></div></div>
-          </div>
-
-          <div>
-            <head>Inflection</head>
-
-            <div type="section" n="XXI"><p>_Inflection_ is a change in the form of a word to indicate a change in its meaning or use: _man_, _men_, _boy_, _boy's_, _love_, _loved_; *vir*, *virī*, *puer*, *puerī*, *amant*, *amābant*.</p></div>
-          </div>
-
-          <div>
-            <head>Declension</head>
-
-            <div type="section" n="XXII"><p>The inflection of a noun or pronoun is called its _declension_. Nouns and pronouns in English are declined to show number and case, and a few nouns to show gender. In Latin the nouns and pronouns are declined; adjectives also are declined in gender, number, and case to agree with the nouns which they modify.</p></div>
-
-            <div>
-              <head>Number</head>
-
-              <div type="section" n="XXIII"><p>A noun or pronoun is in the _singular number_ when it means one person, place, or thing: _town_, _city_, _I_; *oppidum*, *urbs*, *ego*; in the _plural number_ when it means more than one person, place, or thing: _towns_, _cities_, _we_; *oppida*, *urbēs*, *nōs*.</p></div>
+                <div type="subsection" n="f">
+                  <p>The independent clause of a complex sentence is called the _principal clause_. Connected clauses that are of the same rank, both independent or both dependent, are said to be _coördinate_.</p>
+                </div>
+              </div>
             </div>
 
             <div>
-              <head>Case</head>
+              <head>Inflection</head>
 
-              <div type="section" n="XXIV"><div type="subsection" n="a"><p>The several forms taken by words that are declined are called _cases_. In English there are the following cases, to indicate the uses of nouns and pronouns:
-              <list>
-                <item n="1">The _nominative_, primarily used as the subject of a sentence: _*He* throws the ball_.</item>
-                <item n="2">The _possessive_ (genitive), used to denote possession or ownership: _John throws *his* ball_; _see the *queen's* crown_.</item>
-                <item n="3">The _objective_ (accusative), used as the object of a transitive verb or of a preposition: _John throws the *ball* to *him*_.</item>
-                <item n="4">The _dative_, used to express the indirect object of the verb: _John throws *him* the ball_. Only personal pronouns and the pronoun _who_ have separate forms for these cases in English.</item>
-              </list></p>
-              <p>Nouns have the nominative, objective, and dative alike, with a separate form for the possessive.</p></div>
-
-              <div type="subsection" n="b"><p>In Latin there are seven cases: _nominative_, _genitive_, _dative_, _accusative_, _ablative_, _vocative_, and _locative_; but a single form sometimes does duty for several cases (cf. *agricola*, 63). The nominiative, genitive, and accusative cases are used much like the same cases in English. The dative expresses in general that relation of words to other words which is expressed in English by prepositional phrases beginning with _to_ or _for_: _to the farmer_, _for the man_. The ablative expresses in general that relation of words to other words which is expressed in English by prepositional phrases beginning with _from_, _with_, _by_, _in_: _with a spear_, _by a story_.</p></div>
-
-              <div type="subsection" n="c"><p>The direct object of a verb in Latin is the accusative case, but sometimes the direct object in English is expressed in Latin by he dative (425, 433).</p></div></div>
+              <div type="section" n="XXI">
+                <p>_Inflection_ is a change in the form of a word to indicate a change in its meaning or use: _man_, _men_, _boy_, _boy's_, _love_, _loved_; *vir*, *virī*, *puer*, *puerī*, *amant*, *amābant*.</p>
+              </div>
             </div>
 
             <div>
-              <head>Gender</head>
+              <head>Declension</head>
 
-              <div type="section" n="XXV"><div type="subsection" n="a"><p>The gender of English nouns is what is called _natural gender_, and hence has very little to do with grammar. Thus, a noun denoting a male is in the _masculine gender_: _man_, _boy_, _father_; a noun denoting a female is in the _feminine gender_: _woman_, _girl_, _mother_; one denoting either male or female is in the _common gender_: _cat_, _dog_, _parent_; one denoting a sexless object is in the _neuter gender_: _river_, _wind_, _mountain_.</p></div>
+              <div type="section" n="XXII">
+                <p>The inflection of a noun or pronoun is called its _declension_. Nouns and pronouns in English are declined to show number and case, and a few nouns to show gender. In Latin the nouns and pronouns are declined; adjectives also are declined in gender, number, and case to agree with the nouns which they modify.</p>
+              </div>
 
-              <div type="subsection" n="b"><p>In Latin only nouns that denote persons and some animals have natural gender: *nauta*, _sailor_ (masc.); *māter*, _mother_ (fem.). All others have an arbitrary gender, called _grammatical gender_, determined chiefly by the ending: *flūmen*, _river_ (neut.); *ventus*, _wind_ (masc.); *nūbēs*, _cloud_ (fem.).</p></div></div>
-            </div>
-          </div>
+              <div>
+                <head>Number</head>
 
-          <div>
-            <head>Comparison</head>
+                <div type="section" n="XXIII">
+                  <p>A noun or pronoun is in the _singular number_ when it means one person, place, or thing: _town_, _city_, _I_; *oppidum*, *urbs*, *ego*; in the _plural number_ when it means more than one person, place, or thing: _towns_, _cities_, _we_; *oppida*, *urbēs*, *nōs*.</p>
+                </div>
+              </div>
 
-            <div type="section" n="XXVI"><div type="subsection" n="a"><p>English adjectives and adverbs are inflected to show degree. This is called _comparison_. There are three degrees of comparison, the _positive_, the _comparative_, and the _superlative_: positive _wise_, comparative _wiser_, superlative _wisest_; positive _good_, comparative _better_, superlative _best_; positive _often_, comparative _oftener_, superlative _oftenest_.</p></div>
+              <div>
+                <head>Case</head>
 
-            <div type="subsection" n="b"><p>Adjectives and adverbs are also compared in English by prefixing the adverbs _more_ and _most_: _beautiful_, _more beautiful_, _most beautiful_.</p></div>
+                <div type="section" n="XXIV">
+                  <div type="subsection" n="a">
+                    <p>The several forms taken by words that are declined are called _cases_. In English there are the following cases, to indicate the uses of nouns and pronouns:
+                    <list rend="numbered">
+                      <item>The _nominative_, primarily used as the subject of a sentence: _*He* throws the ball_.</item>
+                      <item>The _possessive_ (genitive), used to denote possession or ownership: _John throws *his* ball_; _see the *queen's* crown_.</item>
+                      <item>The _objective_ (accusative), used as the object of a transitive verb or of a preposition: _John throws the *ball* to *him*_.</item>
+                      <item>The _dative_, used to express the indirect object of the verb: _John throws *him* the ball_. Only personal pronouns and the pronoun _who_ have separate forms for these cases in English.</item>
+                    </list></p>
+                    <p>Nouns have the nominative, objective, and dative alike, with a separate form for the possessive.</p>
+                  </div>
 
-            <div type="subsection" n="c"><p>Comparison in Latin is indicated exactly as in English: *sapiēns*, *sapientior*, *sapientissimus*; *bonus*, *melior*, *optimus*; *idōneus*, *magis idōneus*, *maximē idōneus*; *saepe*, *saepis*, *saepissimē*.</p></div></div>
-          </div>
+                  <div type="subsection" n="b">
+                    <p>In Latin there are seven cases: _nominative_, _genitive_, _dative_, _accusative_, _ablative_, _vocative_, and _locative_; but a single form sometimes does duty for several cases (cf. *agricola*, 63). The nominiative, genitive, and accusative cases are used much like the same cases in English. The dative expresses in general that relation of words to other words which is expressed in English by prepositional phrases beginning with _to_ or _for_: _to the farmer_, _for the man_. The ablative expresses in general that relation of words to other words which is expressed in English by prepositional phrases beginning with _from_, _with_, _by_, _in_: _with a spear_, _by a story_.</p>
+                  </div>
 
-          <div>
-            <head>Conjugation</head>
+                  <div type="subsection" n="c">
+                    <p>The direct object of a verb in Latin is the accusative case, but sometimes the direct object in English is expressed in Latin by he dative (425, 433).</p>
+                  </div>
+                </div>
+              </div>
 
-            <div type="section" n="XXVII"><div type="subsection" n="a"><p>The inflection of a verb is called _conjugation_. Verbs are conujugated to show voice, mood, and tense, and the number and person of the subject.</p></div>
+              <div>
+                <head>Gender</head>
 
-            <div type="subsection" n="b"><p>The English verb has but few changes of form. Thus the verb _love_ has in common use only the forms _love_, _loves_, _loving_, and _loved_. Most of the conjugation of the verb is made up of verb phrases formed by the use of auxiliaries (IV, f): _I am loved_, _I shall love_, _I shall have been loved_, etc.</p></div>
+                <div type="section" n="XXV">
+                  <div type="subsection" n="a">
+                    <p>The gender of English nouns is what is called _natural gender_, and hence has very little to do with grammar. Thus, a noun denoting a male is in the _masculine gender_: _man_, _boy_, _father_; a noun denoting a female is in the _feminine gender_: _woman_, _girl_, _mother_; one denoting either male or female is in the _common gender_: _cat_, _dog_, _parent_; one denoting a sexless object is in the _neuter gender_: _river_, _wind_, _mountain_.</p>
+                  </div>
 
-            <div type="subsection" n="c"><p>The Latin verb has many changes in form to show voice, mood, tense, number, and person: *amor*, _I am loved_; *amābō*, _I shall love_; *amātus erō*, _I shall have been loved_.</p></div></div>
-
-            <div>
-              <head>Voice</head>
-
-              <div type="section" n="XXVIII"><p>A verb is in the _active voice_ when it represents the subject as acting (or being): _The man *praised* the boy_, *vir puerum _laudāvit_*. A verb is in the _passive voice_ when it represents the subject as acted on: _The boy *was praised* by the man_, *puer ā virō _laudātus est_*.</p></div>
-            </div>
-
-            <div>
-              <head>Mood</head>
-
-              <div type="section" n="XXIX"><p>A verb is in the _indicative mood_ when it is used in stating a fact or in asking a question: _The citizens *are assembling*_, *cīvēs _conveniunt_*; _why *do* they *carry* arms?_ *cūr arma _portant_?*</p></div>
-
-              <div type="section" n="XXX"><div type="subsection" n="a"><p>In English a verb is in the _subjunctive mood_ when it asserts something doubtfully or conditionally. It is used in subordinate clauses, and is usually introduced by _if_, _though_, and the like: _If he *were* here, I should be glad_; _"Though he *slay* me, yet will I trust in him."_</p>
-              <p>NOTE. The subjunctive is very little used in modern English, its place being taken by the indicative.</p></div>
-
-              <div type="subsection" n="b"><p>In Latin the subjunctive has a great variety of uses, in independent as well as in dependent clauses (344, 358, 373, etc.).</p></div></div>
-
-              <div type="section" n="XXXI"><div type="subsection" n="a"><p>A verb is in the _imperative mood_ when it expresses command, request, or entreaty: _*Fortify* the city_, *urbem _mūnīte_*.</p></div>
-
-              <div type="subsection" n="b"><p>Unless emphatic the subject of the imperative (_thou_ or _you_) is not expressed either in English or in Latin.</p></div></div>
-            </div>
-
-            <div>
-              <head>The Infinitive</head>
-
-              <div type="section" n="XXXII"><div type="subsection" n="a"><p>The _infinitive_ in English (_to love_, _to have loved_, etc.) is a verbal noun. It has neither person nor number. Like a noun it may be the subject or the object or the complement of a verb: _*To see* is *to believe*_; _he wishes *to go* home_. Like a verb it may have a subject, an object, and adverbial modifiers: _We wish *you* to being your *work early*_.</p></div>
-
-              <div type="subsection" n="b"><p>The Latin infinitive is used in the same way that the English infinitive is used. It differs, however, from the English infinitive in not being used in prose in expressions of purpose (_They came *to see* me), and in being used constantly for the verb of a statement that is given indirectly: _He said that *he would come*_, *dīxit _se ventūrum esse_*.</p></div>
-
-              <div type="subsection" n="c"><p>The verbal noun in _-ing_ is sometimes called an infinitive: _*Seeing* is *believing*_ = _to see is to believe_. This verbal noun has its counterpart in the Latin gerund (459).</p></div></div>
+                  <div type="subsection" n="b">
+                    <p>In Latin only nouns that denote persons and some animals have natural gender: *nauta*, _sailor_ (masc.); *māter*, _mother_ (fem.). All others have an arbitrary gender, called _grammatical gender_, determined chiefly by the ending: *flūmen*, _river_ (neut.); *ventus*, _wind_ (masc.); *nūbēs*, _cloud_ (fem.).</p>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <div>
-              <head>Tense</head>
+              <head>Comparison</head>
 
-              <div type="section" n="XXXIII"><div type="subsection" n="a"><p>A verb is in the _present_, _past_ (_imperfect_), or _future_ tense according as it represents an action as taking place in present, past, or future time: _I love_, _I loved (was loving)_, _I shall love_; *amō*, *amābam*, *amābō*.</p></div>
+              <div type="section" n="XXVI">
+                <div type="subsection" n="a">
+                  <p>English adjectives and adverbs are inflected to show degree. This is called _comparison_. There are three degrees of comparison, the _positive_, the _comparative_, and the _superlative_: positive _wise_, comparative _wiser_, superlative _wisest_; positive _good_, comparative _better_, superlative _best_; positive _often_, comparative _oftener_, superlative _oftenest_.</p>
+                </div>
 
-              <div type="subsection" n="b"><p>The _present perfect_ (_perfect_) tense represents an action completed in the present: _I have loved_, *amāvī*; the _past perfect_ (_pluperfect_) an action completed in the past before some other past action or state: _I had loved_, *amāveram*; and the _future perfect_ an action completed in the future before some other future action or state: _I shall have loved_, *amāverō*.</p></div></div>
+                <div type="subsection" n="b">
+                  <p>Adjectives and adverbs are also compared in English by prefixing the adverbs _more_ and _most_: _beautiful_, _more beautiful_, _most beautiful_.</p>
+                </div>
+
+                <div type="subsection" n="c">
+                  <p>Comparison in Latin is indicated exactly as in English: *sapiēns*, *sapientior*, *sapientissimus*; *bonus*, *melior*, *optimus*; *idōneus*, *magis idōneus*, *maximē idōneus*; *saepe*, *saepis*, *saepissimē*.</p>
+                </div>
+              </div>
             </div>
 
             <div>
-              <head>The Participle</head>
+              <head>Conjugation</head>
 
-              <div type="section" n="XXXIV"><div type="subsection" n="a"><p>The _participle_ is a verbal adjective. Like an adjective it may qualify a noun: _*struggling* soldiers_, *mīlitēs _labōrantēs*. Like a verb it may have an object and adverbial modifiers: _Fearing *danger* they remained in the camp_, *_perīculum_ veritī in castrīs mānsērunt*.</p></div>
+              <div type="section" n="XXVII">
+                <div type="subsection" n="a">
+                  <p>The inflection of a verb is called _conjugation_. Verbs are conujugated to show voice, mood, and tense, and the number and person of the subject.</p>
+                </div>
 
-              <div type="subsection" n="b"><p>There are in English three participles in the active voice: present, _loving_; past, _loved_; perfect, _having loved_; and three in the passive voice: present, _(being) loved_; past, _loved_; perfect, _having been loved_. In Latin the past and perfect active and the present passive participles are wanting, but there is a future participle.</p></div>
+                <div type="subsection" n="b">
+                  <p>The English verb has but few changes of form. Thus the verb _love_ has in common use only the forms _love_, _loves_, _loving_, and _loved_. Most of the conjugation of the verb is made up of verb phrases formed by the use of auxiliaries (IV, f): _I am loved_, _I shall love_, _I shall have been loved_, etc.</p>
+                </div>
 
-              <div type="subsection" n="c"><p>The participle in _-ing_ is used with the auxiliary _be_ to make the progressive form of the verb: _you *are loving*_, _he *was loving*_, _they *will be loving*_. Latin has no special tenses for the progressive forms.</p></div></div>
+                <div type="subsection" n="c">
+                  <p>The Latin verb has many changes in form to show voice, mood, tense, number, and person: *amor*, _I am loved_; *amābō*, _I shall love_; *amātus erō*, _I shall have been loved_.</p>
+                </div>
+              </div>
+
+              <div>
+                <head>Voice</head>
+
+                <div type="section" n="XXVIII">
+                  <p>A verb is in the _active voice_ when it represents the subject as acting (or being): _The man *praised* the boy_, *vir puerum _laudāvit_*. A verb is in the _passive voice_ when it represents the subject as acted on: _The boy *was praised* by the man_, *puer ā virō _laudātus est_*.</p>
+                </div>
+              </div>
+
+              <div>
+                <head>Mood</head>
+
+                <div type="section" n="XXIX">
+                  <p>A verb is in the _indicative mood_ when it is used in stating a fact or in asking a question: _The citizens *are assembling*_, *cīvēs _conveniunt_*; _why *do* they *carry* arms?_ *cūr arma _portant_?*</p>
+                </div>
+
+                <div type="section" n="XXX">
+                  <div type="subsection" n="a">
+                    <p>In English a verb is in the _subjunctive mood_ when it asserts something doubtfully or conditionally. It is used in subordinate clauses, and is usually introduced by _if_, _though_, and the like: _If he *were* here, I should be glad_; _"Though he *slay* me, yet will I trust in him."_</p>
+                    <p>NOTE. The subjunctive is very little used in modern English, its place being taken by the indicative.</p>
+                  </div>
+
+                  <div type="subsection" n="b">
+                    <p>In Latin the subjunctive has a great variety of uses, in independent as well as in dependent clauses (344, 358, 373, etc.).</p>
+                  </div>
+                </div>
+
+                <div type="section" n="XXXI">
+                  <div type="subsection" n="a">
+                    <p>A verb is in the _imperative mood_ when it expresses command, request, or entreaty: _*Fortify* the city_, *urbem _mūnīte_*.</p>
+                  </div>
+
+                  <div type="subsection" n="b">
+                    <p>Unless emphatic the subject of the imperative (_thou_ or _you_) is not expressed either in English or in Latin.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <head>The Infinitive</head>
+
+                <div type="section" n="XXXII">
+                  <div type="subsection" n="a">
+                    <p>The _infinitive_ in English (_to love_, _to have loved_, etc.) is a verbal noun. It has neither person nor number. Like a noun it may be the subject or the object or the complement of a verb: _*To see* is *to believe*_; _he wishes *to go* home_. Like a verb it may have a subject, an object, and adverbial modifiers: _We wish *you* to being your *work early*_.</p>
+                  </div>
+
+                  <div type="subsection" n="b">
+                    <p>The Latin infinitive is used in the same way that the English infinitive is used. It differs, however, from the English infinitive in not being used in prose in expressions of purpose (_They came *to see* me), and in being used constantly for the verb of a statement that is given indirectly: _He said that *he would come*_, *dīxit _se ventūrum esse_*.</p>
+                  </div>
+
+                  <div type="subsection" n="c">
+                    <p>The verbal noun in _-ing_ is sometimes called an infinitive: _*Seeing* is *believing*_ = _to see is to believe_. This verbal noun has its counterpart in the Latin gerund (459).</p>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <head>Tense</head>
+
+                <div type="section" n="XXXIII">
+                  <div type="subsection" n="a">
+                    <p>A verb is in the _present_, _past_ (_imperfect_), or _future_ tense according as it represents an action as taking place in present, past, or future time: _I love_, _I loved (was loving)_, _I shall love_; *amō*, *amābam*, *amābō*.</p>
+                  </div>
+
+                  <div type="subsection" n="b">
+                    <p>The _present perfect_ (_perfect_) tense represents an action completed in the present: _I have loved_, *amāvī*; the _past perfect_ (_pluperfect_) an action completed in the past before some other past action or state: _I had loved_, *amāveram*; and the _future perfect_ an action completed in the future before some other future action or state: _I shall have loved_, *amāverō*.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <head>The Participle</head>
+
+                <div type="section" n="XXXIV">
+                  <div type="subsection" n="a">
+                    <p>The _participle_ is a verbal adjective. Like an adjective it may qualify a noun: _*struggling* soldiers_, *mīlitēs _labōrantēs*. Like a verb it may have an object and adverbial modifiers: _Fearing *danger* they remained in the camp_, *_perīculum_ veritī in castrīs mānsērunt*.</p>
+                  </div>
+
+                  <div type="subsection" n="b">
+                    <p>There are in English three participles in the active voice: present, _loving_; past, _loved_; perfect, _having loved_; and three in the passive voice: present, _(being) loved_; past, _loved_; perfect, _having been loved_. In Latin the past and perfect active and the present passive participles are wanting, but there is a future participle.</p>
+                  </div>
+
+                  <div type="subsection" n="c">
+                    <p>The participle in _-ing_ is used with the auxiliary _be_ to make the progressive form of the verb: _you *are loving*_, _he *was loving*_, _they *will be loving*_. Latin has no special tenses for the progressive forms.</p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
 
-    <div type="chapter">
-      <head>To the Beginner in Latin</head>
+      <div type="chapter">
+        <head>To the Beginner in Latin</head>
 
-      <div>
-        <head rend="inline">What Latin is.</head>
+        <div>
+          <head rend="inline">What Latin is.</head>
 
-        <p>Latin is the language that was used by the ancient Romans. It gets its name from the _Lati'ni_, a little tribe living in western Italy more than twenty-five hundred years ago. The Latini, and their successors, the Romans, slowly extended their lands and their power until they gained control of all Italy, and finally of all the civilized world of those days. Their dominions reached from the Atlantic Ocean to Persia and from the Baltic Sea to the deserts of Africa, and their language was spoken wherever they ruled. For about six hundred years the Romans were the most powerful nation on the earth. Their history covers in all a period of twelve centuries; no nation has had a longer history.</p>
+          <p>Latin is the language that was used by the ancient Romans. It gets its name from the _Lati'ni_, a little tribe living in western Italy more than twenty-five hundred years ago. The Latini, and their successors, the Romans, slowly extended their lands and their power until they gained control of all Italy, and finally of all the civilized world of those days. Their dominions reached from the Atlantic Ocean to Persia and from the Baltic Sea to the deserts of Africa, and their language was spoken wherever they ruled. For about six hundred years the Romans were the most powerful nation on the earth. Their history covers in all a period of twelve centuries; no nation has had a longer history.</p>
+        </div>
+
+        <div>
+          <head rend="inline">Why Latin is studied.</head>
+
+          <p>And now why is it that it is worth your while to study a language that is so many centuries old?</p>
+
+          <p>First, a knowledge of Latin helps you to use English more correctly. As more than half the words in the English language are of Latin origin, you yourself in a sense speak Latin to-day. There are the words of your everyday talk, like _animal_; there are the learned words, like _emancipate_; there are the terms of law, of medicine, and of the sciences, like _mandamus_, _delirium_, and _antennae_; and there are the words which are newly come into use, like _tractor_. If you study Latin, you will be helped to know the meaning of many of these words, how to spell them, and how to use them correctly; all of which is quite worth your while, particularly if you are intending to enter one of the professions.</p>
+
+          <p>Again, the study of Latin will train your mind. Latin is somewhat unlike English in the form of its words and much unlike English in the order of words in its sentences. You will therefore be obliged to look carefully, and to think carefully, and to speak carefully whenever you try to read and to translate anything written in Latin. But this close attention will do good to your mind: it will train you powers of observation, of clear thinking, and of clear expression; in fact, no other subject that you study in school can do as much for you as can Latin toward developing these desirable powers.</p>
+
+          <p>Furthermore, the reading of Latin will add to your information. If you are to be a well-informed person, you will need to know something about Rome and the Romans, and what they have meant in the history of the world; and in no other way can you better come to know and to appreciate the literature, the life, the customs, and the civilization of the Romans than by the faithful study of their language and of the things written in that language.</p>
+        </div>
+
+        <div>
+          <head rend="inline">How to study Latin.</head>
+
+          <list rend="numbered">
+            <item><p>Never allow yourself to think that Latin is not worth your best efforts or that it is too hard for you. Industry and confidence will bring you success in this study.</p></item>
+            <item><p>Have a fixed hour each day for the study of your Latin. If possible, prepare your lesson for to-morrow immediately after reciting the lesson of to-day. Your interest will then be greater and your mind better fitted to grasp the subject.</p></item>
+            <item><p>Learn each day's lesson with thoroughness. Neglect no part of the lesson even if it seems to you unimportant.</p></item>
+            <item><p>Before beginning a new lesson recall what you have already learned about the subject to be taught in the new lesson. For example, if you are about to study a new use of one of the cases, recall all the uses of that case which you have previously learned.</p></item>
+            <item><p>Review the vocabularies regularly. A knowledge of the meanings of the words will be a great saving of time to you, as well as a constant encouragement. Aim to know every word you have met, and to this end keep lists of words about the meaning of which you are doubtful.</p></item>
+            <item><p>Recite the declensions and the conjugations by yourself aloud. It will help you to remember them, and you will make better recitations. Read the Latin sentences aloud each day.</p></item>
+            <item><p>Go over the new lesson slowly, and thus avoid mistakes in the spelling of words, in their endings, and in the explanation of Latin constructions.</p></item>
+            <item><p>Recall your English grammar when you are learning Latin constructions; most of the Latin usages that you will learn in your first year are like English usages.</p></item>
+            <item><p>Study the lessons as a whole. Then go back to special difficulties. Go over the lesson again just before the recitation and consider the troublesome parts.</p></item>
+          </list>
+        </div>
+
+        <figure type="illustration">
+          <graphic url="images/035-tobeg.png"/>
+        </figure>
+
+        <figure type="illustration">
+          <graphic url="images/035-tobeg.png"/>
+        </figure>
       </div>
 
-      <div>
-        <head rend="inline">Why Latin is studied.</head>
+      <div type="chapter">
+        <head>Introduction</head>
 
-        <p>And now why is it that it is worth your while to study a language that is so many centuries old?</p>
+        <div>
+          <head>Alphabet</head>
 
-        <p>First, a knowledge of Latin helps you to use English more correctly. As more than half the words in the English language are of Latin origin, you yourself in a sense speak Latin to-day. There are the words of your everyday talk, like _animal_; there are the learned words, like _emancipate_; there are the terms of law, of medicine, and of the sciences, like _mandamus_, _delirium_, and _antennae_; and there are the words which are newly come into use, like _tractor_. If you study Latin, you will be helped to know the meaning of many of these words, how to spell them, and how to use them correctly; all of which is quite worth your while, particularly if you are intending to enter one of the professions.</p>
+          <div type="section" n="1">
+            <p>The Latin alphabet has no _j_ or _w_. Otherwise it is the same as the English.</p>
+          </div>
 
-        <p>Again, the study of Latin will train your mind. Latin is somewhat unlike English in the form of its words and much unlike English in the order of words in its sentences. You will therefore be obliged to look carefully, and to think carefully, and to speak carefully whenever you try to read and to translate anything written in Latin. But this close attention will do good to your mind: it will train you powers of observation, of clear thinking, and of clear expression; in fact, no other subject that you study in school can do as much for you as can Latin toward developing these desirable powers.</p>
+          <div type="section" n="2">
+            <p>The vowels are *a*, *e*, *i*, *o*, *u*. The other letters are consonants.</p>
+          </div>
 
-        <p>Furthermore, the reading of Latin will add to your information. If you are to be a well-informed person, you will need to know something about Rome and the Romans, and what they have meant in the history of the world; and in no other way can you better come to know and to appreciate the literature, the life, the customs, and the civilization of the Romans than by the faithful study of their language and of the things written in that language.</p>
+          <div type="section" n="3">
+            <p>The letter *i* is used both as a vowel and as a consonant. Before a vowel in the same syllable it has the force of a consonant and is called *i*-_consonant_. Thus in *iaciō*, _I throw_, the first *i* is a consonant, and the second a vowel.</p>
+          </div>
+        </div>
+
+        <div>
+          <head>Sounds of the Letters<ptr type="noteAnchor" target="#fn.intro.1"/></head>
+
+          <div type="section" n="4">
+            <p>The vowels are either long or short. In this book the long vowels are marked (-); unmarked vowels are to be regarded as short. The vowels are sounded as follows:
+            <list>
+              <item>*ā* like the last _a_ in _aha'_</item>
+              <item>*ă* like the first _a_ in _aha'_</item>
+              <item>*ē* like _e_ in _they_</item>
+              <item>*ĕ* like _e_ in _met_</item>
+              <item>*ī* like _i_ in _machine_</item>
+              <item>*ĭ* like _i_ in _pin_</item>
+              <item>*ō* like _o_ in _note_</item>
+              <item>*ŏ* like _o_ in _obey_</item>
+              <item>*ū* like _oo_ in _boot_</item>
+              <item>*ŭ* like _oo_ in _foot_</item>
+            </list></p>
+          </div>
+
+          <div type="section" n="5">
+            <p>The diphthongs are sounded as follows:
+            <list>
+              <item>*ae* like _ai_ in _aisle_</item>
+              <item>*au* like _ou_ in _our_</item>
+              <item>*ei* like _ei_ in _eight_</item>
+              <item>*eu* like _eu_ in _feud_</item>
+              <item>*oe* like _oi_ in _boil_</item>
+              <item>*ui* like _we_</item>
+            </list></p>
+          </div>
+
+          <div type="section" n="6">
+            <p>The consonants generally have the same sound as the corresponding consonants in English. But there are the following exceptions:
+            <list>
+              <item>*c* is like _c_ in _come_</item>
+              <item>*g* is like _g_ in _get_</item>
+              <item>*i-consonant* is like _y_ in _yet_</item>
+              <item>*s* is like _s_ in _sun_</item>
+              <item>*t* is like _t_ in _time_</item>
+              <item>*v* is like _w_ in _wine_</item>
+              <item>*x* is like _x_ in _extra_</item>
+              <item>*bs* and *bt* are like _ps_ and _pt_</item>
+              <item>*ch* is like _k_ in _kite_</item>
+              <item>*gu*, *qu*, and sometimes *su* before a vowel are like _gw_, _qw_, and _sw_ (_u_ is not counted as a vowel)</item>
+              <item>*ph* is like _p_</item>
+              <item>*th* is like _t_</item>
+            </list></p>
+
+            <p>When a consonant is doubled (as *ll*), it should be pronounced twice.</p>
+          </div>
+
+          <div>
+            <head>Exercise in Pronunciation</head>
+
+            <div type="section" n="7">
+              <list xml:lang="la" type="exercises">
+                <item>sum, tum</item>
+                <item>cum, dum</item>
+                <item>ad, id</item>
+                <item>in, an</item>
+                <item>at, et, ut</item>
+                <item>hic hīc, hāc</item>
+                <item>hōc, hūc</item>
+                <item>hoc, num</item>
+                <item>is, bis, īs</item>
+                <item>dīc, dūc</item>
+                <item>fac, fer</item>
+                <item>aut, hae</item>
+                <item>ē, ā, ī</item>
+                <item>ex, ab, ob</item>
+                <item>dō, dā, dē</item>
+                <item>pāx, dux</item>
+                <item>nox, vōx</item>
+                <item>pars, sōl</item>
+                <item>trēs, mōs</item>
+                <item>quō, quā</item>
+                <item>iūs, quī</item>
+                <item>quae, quīn</item>
+                <item>quis, sē</item>
+                <item>mē, tē</item>
+                <item>gēns, sīc</item>
+                <item>vel, vir, iam</item>
+              </list>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <head>Syllables</head>
+
+          <div type="section" n="8">
+            <p>A syllable consists of a vowel or a diphthong with or without one or more consonants. Hence a word has as many syllables as it has vowels and diphthongs: *ō-ce'-a-nus*, _ocean_.</p>
+          </div>
+
+          <div type="section" n="9">
+            <p>When a word is divided into syllables, a single consonant between two vowels is joined with the vowel following: *lā-ti-tū'-dō*, _width_.</p>
+          </div>
+
+          <div type="section" n="10">
+            <p>If there are two or more consonants between two vowels, the first is pronounced with the preceding vowel: *im-mor-tā'-lis*, _immortal_.</p>
+
+            <p>But a consonant followed by *l* or *r* is pronounced with the *l* or *r*, except in *ll* and *rr*: *pū'-bli-cus*, _public_; when *ll* or *rr* occurs, one *l* or one *r* is joined to the preceding syllable, and the other to the following syllable: *ter'-ra*, _land_.</p>
+
+            <p>Compound words are divided in such a way as to show the component parts: *ab'-est* (*ab*, _away_, + *est*, _he is_), _he is away_.</p>
+          </div>
+
+          <div type="section" n="11">
+            <p>The last syllable of a word is called the _ultima_; the one next to the last, the _penult_; the one before the penult, the _antepenult_.</p>
+          </div>
+
+          <div type="section" n="12">
+            <p>A vowel is generally short before another vowel or *h*: *pŏ-ē'-ma*, _poem_; *nĭ'-hil*, _nothing_.</p>
+          </div>
+
+          <div type="section" n="13">
+            <p>A vowel is generally short before *nt* or *nd*, and before final *m* or final *t*: *vo'-cănt*, _they call_; *vo-cā'-băm*, _I was calling_.</p>
+          </div>
+
+          <div type="section" n="14">
+            <p>A vowel is long before *nf* or *ns*: *a'-māns*, _loving_.</p>
+          </div>
+
+          <div type="section" n="15">
+            <p>A vowel resulting from the contraction of two vowels is long: *cō'-gō* (*co-agō*), _I bring together_.</p>
+          </div>
+
+          <div type="section" n="16">
+            <p>The quantity of vowels other than those mentioned in the preceding sections must be learned by observation.</p>
+          </div>
+        </div>
+
+        <div>
+          <head>Quantity of Syllables</head>
+
+          <div type="section" n="17">
+            <p>A syllable is _long by nature_ when it contains a long vowel or a diphthong: *vic-tō'-ri-a*, _victory_; *prae'-mi-um*, _reward_.</p>
+          </div>
+
+          <div type="section" n="18">
+            <p>A syllables is _short by nature_ when it does not contain a long vowel or a diphthong: *o-pī'-ni-ō*, _opinion_.</p>
+          </div>
+
+          <div type="section" n="19">
+            <p>A syllable is _long by position_ when it has a short vowel followed by *x* or *z*, or by two or more consonants, unless these two consonants are *p*, *b*, *t*, *d*, *c*, *g*, followed by *l* or *r*; but the short vowel is still pronounced short: *dē-trī-men'-tum*, _loss_.</p>
+          </div>
+        </div>
+
+        <div>
+          <head>Accent</head>
+
+          <div type="section" n="20">
+            <p>Words of two syllables have the accent on the first syllable: *pa'-ter*, _father_.</p>
+          </div>
+
+          <div type="section" n="21">
+            <p>Words of more than two syllables have the accent on the penult when it is long, otherwise on the antepenult: *dē-mōn-strā'-re*, _to point out_; *ce-le'-ri-tās*, _swiftness_; *ē-ven'-tus*, _outcome_ (cf. 19).</p>
+          </div>
+
+          <div type="section" n="22">
+            <p>Several words, of which the commonest are *-ne*, the sign of a question, and *-que*, _and_, are appended to other words. The words so appended are known as enclitics. The words to which they are appended are accented on the syllable preceding the enclitic, whether that syllable is long or short: *a-mat'-ne?* _does he love?_ *ar-mă-que*, _and arms_.</p>
+          </div>
+
+          <div>
+            <head>Exercise in Accent and Pronunciation</head>
+
+            <div type="section" n="23">
+              <p>Divide the following words into syllables, state the rule for the accent, and then pronounce:
+              <list xml:lang="la" rend="numbered">
+                <item>dīvidunt, appellāre</item>
+                <item>īnstitūtis, differēbāmus</item>
+                <item>hūmānitāte, prōvinciā</item>
+                <item>longus, animōs</item>
+                <item>importābunt, bellum</item>
+                <item>causīs, praecēdō</item>
+                <item>fīnis, prohibitus</item>
+                <item>initiō, persuāserāmus</item>
+                <item>tempora, magistrātuum</item>
+                <item>frāternus, conloquium</item>
+              </list></p>
+            </div>
+
+            <div type="section" n="24">
+              <p>The following Latin version of "Twinkle, Twinkle, Little Star" may be used for practice in pronunciation, and for illustration of the preceding statements about syllables, accent, etc.:
+              <lg xml:lang="la">
+                <head>Micā, Micā</head>
+                <lg>
+                  <l>Micā, micā, parva stella!</l>
+                  <l>Mīror quaenam sīs, tam bella!</l>
+                  <l>Splendēns ēminus in illō,</l>
+                  <l>Alba velut gemma, caelō.</l>
+                </lg>
+                <lg>
+                  <l>Quandō fervēns Sōl discessit,</l>
+                  <l>Nec calōre prāta pāscit,</l>
+                  <l>Mox ostendis lūmen pūrum,</l>
+                  <l>Micāns, micāns per obscūrum.</l>
+                </lg>
+                <lg>
+                  <l>Tibi noctū quī vagātur</l>
+                  <l>Ob scintillulam grātātur;</l>
+                  <l>Nī micārēs tū, nōn scīret</l>
+                  <l>Quās per viās errāns īret.</l>
+                </lg>
+                <lg>
+                  <l>Meum saepe thalamum lūce</l>
+                  <l>Speculāris cūriōsā;</l>
+                  <l>Neque carpseris sopōrem</l>
+                  <l>Dōnec vēnit Sōl per auram.</l>
+                </lg>
+              </lg></p>
+            </div>
+          </div>
+
+          <figure type="illustration">
+            <graphic url="images/041-intro.png"/>
+
+            <head>The Arch of Titus, Showing a Roman Inscription</head>
+          </figure>
+
+          <note xml:id="fn.intro.1" type="footnote">Latin is pronounced to-day substantially as it was pronounced by the Romans at the beginning of the Christian era.</note>
+        </div>
       </div>
 
-      <div>
-        <head rend="inline">How to study Latin.</head>
+      <div type="chapter" subtype="lesson" n="I">
+      <head>The Singular and Plural of Nouns and Verbs · The Nominative Case used as Subject</head>
 
-        <list>
-          <item n="1"><p>Never allow yourself to think that Latin is not worth your best efforts or that it is too hard for you. Industry and confidence will bring you success in this study.</p></item>
-          <item n="2"><p>Have a fixed hour each day for the study of your Latin. If possible, prepare your lesson for to-morrow immediately after reciting the lesson of to-day. Your interest will then be greater and your mind better fitted to grasp the subject.</p></item>
-          <item n="3"><p>Learn each day's lesson with thoroughness. Neglect no part of the lesson even if it seems to you unimportant.</p></item>
-          <item n="4"><p>Before beginning a new lesson recall what you have already learned about the subject to be taught in the new lesson. For example, if you are about to study a new use of one of the cases, recall all the uses of that case which you have previously learned.</p></item>
-          <item n="5"><p>Review the vocabularies regularly. A knowledge of the meanings of the words will be a great saving of time to you, as well as a constant encouragement. Aim to know every word you have met, and to this end keep lists of words about the meaning of which you are doubtful.</p></item>
-          <item n="6"><p>Recite the declensions and the conjugations by yourself aloud. It will help you to remember them, and you will make better recitations. Read the Latin sentences aloud each day.</p></item>
-          <item n="7"><p>Go over the new lesson slowly, and thus avoid mistakes in the spelling of words, in their endings, and in the explanation of Latin constructions.</p></item>
-          <item n="8"><p>Recall your English grammar when you are learning Latin constructions; most of the Latin usages that you will learn in your first year are like English usages.</p></item>
-          <item n="9"><p>Study the lessons as a whole. Then go back to special difficulties. Go over the lesson again just before the recitation and consider the troublesome parts.</p></item>
+      <div type="section" n="25">
+        <head>The Singular and Plural of Nouns and Verbs.</head>
+
+        <table rows="3" cols="2">
+          <row role="label">
+            <cell>Noun</cell>
+            <cell>Verb</cell>
+          </row>
+          <row>
+            <cell>_Nom. Sing._ agricol*a*, _farmer_</cell>
+            <cell>_3d Pers. Sing._ labōra*t*, _works_, _is working_, _does work_</cell>
+          </row>
+          <row>
+            <cell>_Nom. Plur._ acricol*ae*, _farmers_</cell>
+            <cell>_3d Pers. Plur._ labōra*nt*, _work_, _are working_, _do work_</cell>
+          </row>
+        </table>
+
+        <div type="subsection" n="a">
+          <p>Observe that the distinction between the singular and the plural is shown by the final letters of the noun and of the verb. These final letters of a noun are called _case endings_; the final letters of a verb are called _personal endings_.</p>
+        </div>
+
+        <div type="subsection" n="b">
+          <p>Form the nominative plural of the nouns in the vocabulary, and the third person plural of the verbs.</p>
+        </div>
+      </div>
+
+      <div type="section" n="26">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">agri'cola</label>
+          <item>farmer (_agriculture_)</item>
+          <label xml:lang="la">Cornē'lia</label>
+          <item>Cornelia</item>
+          <label xml:lang="la">Iū'lia</label>
+          <item>Julia</item>
+          <label xml:lang="la">nau'ta</label>
+          <item>sailor (_nautical_)</item>
+          <label xml:lang="la">puel'la</label>
+          <item>girl</item>
+          <label xml:lang="la">et</label>
+          <item>_conj._, and</item>
+          <label xml:lang="la">-ne</label>
+          <item>_enclitic, sign of a question_</item>
+          <label xml:lang="la">am'bulat</label>
+          <item>walks (_perambulate_)</item>
+          <label xml:lang="la">appropin'quat</label>
+          <item>approaches, draws near (_propinquity_)</item>
+          <label xml:lang="la">can'tat</label>
+          <item>sings (_incantation_)</item>
+          <label xml:lang="la">labō'rat</label>
+          <item>works, labors, suffers (laboratory)</item>
+          <label xml:lang="la">na'tat</label>
+          <item>swims (_natatorium_)</item>
+          <label xml:lang="la">quis</label>
+          <item>_interrog. pron._, who?</item>
+          <label xml:lang="la">quid</label>
+          <item>_interrog. pron._, what?</item>
         </list>
       </div>
 
-      <figure type="illustration">
-        <graphic url="images/035-tobeg.png"/>
-      </figure>
+      <div type="section" n="27">
+        <head>The Nominative Case used as Subject.</head>
+
+        <list type="gloss" subtype="examples" rend="ordered">
+          <label xml:lang="la">Puella cantat</label>
+          <item>the girl sings (is singing, does sing).</item>
+          <label xml:lang="la">Puellae cantant</label>
+          <item>the girls sing (are singing, do sing).</item>
+          <label xml:lang="la">Cantatne puella</label>
+          <item>does the girl sing (is the girl singing)?</item>
+          <label xml:lang="la">Cantantne puellae</label>
+          <item>do the girls sing (are the girls singing)?</item>
+        </list>
+
+        <div type="subsection" n="a">
+          <p>In Latin there is no article (III, b): *puella* may be translated _girl_, _a girl_, or _the girl_; and *puellae*, _girls_ or _the girls_.</p>
+        </div>
+
+        <div type="subsection" n="b">
+          <p>What is the subject (XI, b) of each of the model sentences, and what is the predicate (XI, c)? In what case is the subject of a Latin verb (XXIV)?</p>
+        </div>
+
+        <div type="subsection" n="c">
+          <p>Observe that the verbs agree with their subjects in number.</p>
+        </div>
+
+        <div type="subsection" n="d">
+          <p>Observe that *-ne* is not separately translated. Usually it is attached to the emphatic word in the sentence, and the emphasized word is placed first. When an interrogative word is used, *-ne* is omitted: see sentence 11 below. In English *-ne* is represented on the printed page by the question mark, and in oral translation by the inflection of the voice.</p>
+        </div>
+      </div>
+
+      <div type="section" subtype="rule" n="28">
+        <head>Rule for the Nominative Case as Subject.</head>
+
+        <p>The subject of a verb is in the nominative case.</p>
+      </div>
+
+      <div type="section" subtype="rule" n="29">
+        <head>Rule for the agreement of the Verb with its Subject.</head>
+
+        <p>A verb agrees with its subject in person and number.</p>
+      </div>
+
+      <div>
+        <head>Exercises</head>
+        <div type="section" n="30">
+          <list xml:lang="la" type="exercises">
+            <item>Nauta cantat</item>
+            <item>Nautae cantant</item>
+            <item>Agricola labōrat</item>
+            <item>Agricolae labōrant</item>
+            <item>Puella natat</item>
+            <item>Puellae natant</item>
+            <item>Cornēlia appropinquat</item>
+            <item>Puellaene appropinquant?</item>
+            <item>Cornēlia et puellae cantant</item>
+            <item>Iūlia labōrat et cantat</item>
+            <item>Quid appropinquat?</item>
+            <item>Labōrantne nautae?</item>
+            <item>Quis ambulat?</item>
+          </list>
+        </div>
+
+        <div type="section" n="31">
+          <list xml:lang="la" type="exercises">
+            <item>The sailor is swimming. </item>
+            <item>The girls are singing. </item>
+            <item>Who approaches? </item>
+            <item>Are the sailors approaching? </item>
+            <item>Does Cornelia sing? </item>
+            <item>Cornelia and Julia are walking and singing. </item>
+            <item>The girl sings, and the farmer works. </item>
+            <item>Sailors and farmers are working.</item>
+          </list>
+        </div>
+      </div>
 
       <figure type="illustration">
-        <graphic url="images/035-tobeg.png"/>
+        <graphic url="images/043-les1.png"/>
+
+        <head>Tuba</head>
       </figure>
-    </div>
-
-    <div type="chapter">
-      <head>Introduction</head>
-
-ALPHABET
-
-1. The Latin alphabet has no _j_ or _w_. Otherwise it is the same
-as the English.
-
-2. The vowels are *a*, *e*, *i*, *o*, *u*. The other letters are
-consonants.
-
-3. The letter *i* is used both as a vowel and as a consonant.
-Before a vowel in the same syllable it has the force of a
-consonant and is called *i*-_consonant_. Thus in *iaciō*, _I
-throw_, the first *i* is a consonant, and the second a vowel.
-
-SOUNDS OF THE LETTERS [1]
-
-4. The vowels are either long or short. In this book the long
-vowels are marked (-); unmarked vowels are to be regarded as
-short. The vowels are sounded as follows:
-
-    *ā* like the last _a_ in _aha'_
-    *ă* like the first _a_ in _aha'_
-    *ē* like _e_ in _they_
-    *ĕ* like _e_ in _met_
-    *ī* like _i_ in _machine_
-    *ĭ* like _i_ in _pin_
-    *ō* like _o_ in _note_
-    *ŏ* like _o_ in _obey_
-    *ū* like _oo_ in _boot_
-    *ŭ* like _oo_ in _foot_
-
-5. The diphthongs are sounded as follows:
-
-    *ae* like _ai_ in _aisle_
-    *au* like _ou_ in _our_
-    *ei* like _ei_ in _eight_
-    *eu* like _eu_ in _feud_
-    *oe* like _oi_ in _boil_
-    *ui* like _we_
-
-6. The consonants generally have the same sound as the
-corresponding consonants in English. But there are the following
-exceptions:
-
-    *c* is like _c_ in _come_
-    *g* is like _g_ in _get_
-    *i-consonant* is like _y_ in _yet_
-    *s* is like _s_ in _sun_
-    *t* is like _t_ in _time_
-    *v* is like _w_ in _wine_
-    *x* is like _x_ in _extra_
-    *bs* and *bt* are like _ps_ and _pt_
-    *ch* is like _k_ in _kite_
-    *gu*, *qu*, and sometimes *su* before a vowel are like _gw_,
-      _qw_, and _sw_ (_u_ is not counted as a vowel)
-    *ph* is like _p_
-    *th* is like _t_
-
-When a consonant is doubled (as *ll*), it should be pronounced
-twice.
-
-EXERCISE IN PRONOUNCIATION
-
-7. 1. sum, tum. 2. cum, dum. 3. ad, id. 4. in, an. 5. at, et, ut.
-6. hic hīc, hāc. 7. hōc, hūc. 8. hoc, num. 9. is, bis, īs. 10.
-dīc, dūc. 11. fac, fer. 12. aut, hae. 13. ē, ā, ī. 14. ex, ab,
-ob. 15. dō, dā, dē. 16. pāx, dux. 17. nox, vōx. 18. pars, sōl.
-19. trēs, mōs. 20. quō, quā. 21. iūs, quī. 22. quae, quīn. 23.
-quis, sē. 24. mē, tē. 25 gēns, sīc. 26. vel, vir, iam.
-
-SYLLABLES
-
-8. A syllable consists of a vowel or a diphthong with or without
-one or more consonants. Hence a word has as many syllables as it
-has vowels and diphthongs: *ō-ce'-a-nus*, _ocean_.
-
-9. When a word is divided into syllables, a single consonant
-between two vowels is joined with the vowel following:
-*lā-ti-tū'-dō*, _width_.
-
-10. If there are two or more consonants between two vowels, the
-first is pronounced with the preceding vowel: *im-mor-tā'-lis*,
-_immortal_.
-
-But a consonant followed by *l* or *r* is pronounced with the *l*
-or *r*, except in *ll* and *rr*: *pū'-bli-cus*, _public_; when
-*ll* or *rr* occurs, one *l* or one *r* is joined to the
-preceding syllable, and the other to the following syllable:
-*ter'-ra*, _land_.
-
-Compound words are divided in such a way as to show the component
-parts: *ab'-est* (*ab*, _away_, + *est*, _he is_), _he is away_.
-
-11. The last syllable of a word is called the _ultima_; the one
-next to the last, the _penult_; the one before the penult, the
-_antepenult_.
-
-12. A vowel is generally short before another vowel or *h*:
-*pŏ-ē'-ma*, _poem_; *nĭ'-hil*, _nothing_.
-
-13. A vowel is generally short before *nt* or *nd*, and before
-final *m* or final *t*: *vo'-cănt*, _they call_; *vo-cā'-băm*, _I
-was calling_.
-
-14. A vowel is long before *nf* or *ns*: *a'-māns*, _loving_.
-
-15. A vowel resulting from the contraction of two vowels is long:
-*cō'-gō* (*co-agō*), _I bring together_.
-
-16. The quantity of vowels other than those mentioned in the
-preceding sections must be learned by observation.
-
-QUANTITY OF SYLLABLES
-
-17. A syllable is _long by nature_ when it contains a long vowel
-or a diphthong: *vic-tō'-ri-a*, _victory_; *prae'-mi-um*,
-_reward_.
-
-18. A syllables is _short by nature_ when it does not contain a
-long vowel or a diphthong: *o-pī'-ni-ō*, _opinion_.
-
-19. A syllable is _long by position_ when it has a short vowel
-followed by *x* or *z*, or by two or more consonants, unless
-these two consonants are *p*, *b*, *t*, *d*, *c*, *g*, followed
-by *l* or *r*; but the short vowel is still pronounced short:
-*dē-trī-men'-tum*, _loss_.
-
-ACCENT
-
-20. Words of two syllables have the accent on the first syllable:
-*pa'-ter*, _father_.
-
-21. Words of more than two syllables have the accent on the
-penult when it is long, otherwise on the antepenult:
-*dē-mōn-strā'-re*, _to point out_; *ce-le'-ri-tās*, _swiftness_;
-*ē-ven'-tus*, _outcome_ (cf. 19).
-
-22. Several words, of which the commonest are *-ne*, the sign of
-a question, and *-que*, _and_, are appended to other words. The
-words so appended are known as enclitics. The words to which they
-are appended are accented on the syllable preceding the enclitic,
-whether that syllable is long or short: *a-mat'-ne?* _does he
-love?_ *ar-mă-que*, _and arms_.
-
-EXERCISE IN ACCENT AND PRONUNCIATION
-
-23. Divide the following words into syllables, state the rule for
-the accent, and then pronounce:
-
-  1. dīvidunt, appellāre
-  2. īnstitūtis, differēbāmus
-  3. hūmānitāte, prōvinciā
-  4. longus, animōs
-  5. importābunt, bellum
-  6. causīs, praecēdō
-  7. fīnis, prohibitus
-  8. initiō, persuāserāmus
-  9. tempora, magistrātuum
-  10. frāternus, conloquium
-
-24. The following Latin version of "Twinkle, Twinkle, Little
-Star" may be used for practice in pronunciation, and for
-illustration of the preceding statements about syllables, accent,
-etc.:
-
-  MICĀ, MICĀ
-
-  Micā, micā, parva stella!
-  Mīror quaenam sīs, tam bella!
-  Splendēns ēminus in illō,
-  Alba velut gemma, caelō.
-
-  Quandō fervēns Sōl discessit,
-  Nec calōre prāta pāscit,
-  Mox ostendis lūmen pūrum,
-  Micāns, micāns per obscūrum.
-
-  Tibi noctū quī vagātur
-  Ob scintillulam grātātur;
-  Nī micārēs tū, nōn scīret
-  Quās per viās errāns īret.
-
-  Meum saepe thalamum lūce
-  Speculāris cūriōsā;
-  Neque carpseris sopōrem
-  Dōnec vēnit Sōl per auram.
-
-[Illustration (041-intro.png): THE ARCH OF TITUS, SHOWING A ROMAN
-INSCRIPTION]
-
-[1] Latin is pronounced to-day substantially as it was pronounced
-by the Romans at the beginning of the Christian era.
-    </div>
-
-    <div type="chapter" subtype="lesson" n="I">
-      <head>The Singular and Plural of Nouns and Verbs · The Nominative Case used as Subject</head>
-
-25. *The Singular and Plural of Nouns and Verbs.*
-
-  NOUN
-  _Nom. Sing._ agricol*a*, _farmer_
-  _Nom. Plur._ acricol*ae*, _farmers_
-
-  VERB
-  _3d Pers. Sing._ labōra*t*, _works_, _is working_, _does work_
-  _3d Pers. Plur._ labōra*nt*, _work_, _are working_, _do work_
-
-a. Observe that the distinction between the singular and the
-plural is shown by the final letters of the noun and of the verb.
-These final letters of a noun are called _case endings_; the
-final letters of a verb are called _personal endings_.
-
-b. Form the nominative plural of the nouns in the vocabulary, and
-the third person plural of the verbs.
-
-26. VOCABULARY
-
-  *agri'cola*, farmer (_agriculture_)
-  *Cornē'lia*, Cornelia
-  *Iū'lia*, Julia
-  *nau'ta*, sailor (_nautical_)
-  *puel'la*, girl
-  *et*, _conj._, and
-  *-ne*, _enclitic, sign of a question_
-  *am'bulat*, walks (_perambulate_)
-  *appropin'quat*, approaches, draws near (_propinquity_)
-  *can'tat*, sings (_incantation_)
-  *labō'rat*, works, labors, suffers (laboratory)
-  *na'tat*, swims (_natatorium_)
-  *quis*, _interrog. pron._, who?
-  *quid*, _interrog. pron._, what?
-
-27. *The Nominative Case used as Subject.*
-
-  1. *Puella cantat*, _the girl sings (is singing, does sing)._
-  2. *Puellae cantant*, _the girls sing (are singing, do sing)._
-  3. *Cantatne puella*, _does the girl sing (is the girl singing)?_
-  4. *Cantantne puellae*, _do the girls sing (are the girls singing)?_
-
-a. In Latin there is no article (III, b): *puella* may be
-translated _girl_, _a girl_, or _the girl_; and *puellae*,
-_girls_ or _the girls_.
-
-b. What is the subject (XI, b) of each of the model sentences,
-and what is the predicate (XI, c)? In what case is the subject of
-a Latin verb (XXIV)?
-
-c. Observe that the verbs agree with their subjects in number.
-
-d. Observe that *-ne* is not separately translated. Usually it is
-attached to the emphatic word in the sentence, and the emphasized
-word is placed first. When an interrogative word is used, *-ne*
-is omitted: see sentence 11 below. In English *-ne* is
-represented on the printed page by the question mark, and in oral
-translation by the inflection of the voice.
-
-28. _*Rule for the Nominative Case as Subject.* The subject of a
-verb is in the nominative case._
-
-29. _*Rule for the agreement of the Verb with its Subject.* A
-verb agrees with its subject in person and number._
-
-EXERCISES
-
-30. 1. Nauta cantat. 2. Nautae cantant. 3. Agricola labōrat. 4.
-Agricolae labōrant. 5. Puella natat. 6. Puellae natant. 7.
-Cornēlia appropinquat. 8. Puellaene appropinquant? 9. Cornēlia et
-puellae cantant. 10. Iūlia labōrat et cantat. 11. Quid
-appropinquat? 12. Labōrantne nautae? 13. Quis ambulat?
-
-31. 1. The sailor is swimming. 2. The girls are singing. 3. Who
-approaches? 4. Are the sailors approaching? 5. Does Cornelia
-sing? 6. Cornelia and Julia are walking and singing. 7. The girl
-sings, and the farmer works. 8. Sailors and farmers are working.
-
-[Illustration (043-les1.png): TUBA]
     </div>
 
     <div type="chapter" subtype="lesson" n="II">
       <head>the Accusative Case used as the Direct Object</head>
 
-32. *The Accusative Case used as the Direct Object.*
+      <div type="section" n="32">
+        <head>The Accusative Case used as the Direct Object.</head>
 
-  1. *Nauta puellam vocat*, _the sailor calls the girl._
-  2. *nautae puellās vocant*, _the sailors call the girls._
+        <list type="gloss" subtype="examples" rend="ordered">
+          <label xml:lang="la">Nauta puellam vocat</label>
+          <item>the sailor calls the girl.</item>
+          <label xml:lang="la">nautae puellās vocant</label>
+          <item>the sailors call the girls.</item>
+        </list>
 
-a. Observe that *puellam* is the object (XIV, a) of *vocat*, and
-*puellās* of *vocant*; and that when a Latin noun is used as the
-object, the case ending is not the same as when it is the subject
-and so in the nominative. The case of the object in Latin is
-called _accusative_ (XXIV) and not objective, as in English.
+        <div type="subsection" n="a">
+          <p>Observe that *puellam* is the object (XIV, a) of *vocat*, and *puellās* of *vocant*; and that when a Latin noun is used as the object, the case ending is not the same as when it is the subject and so in the nominative. The case of the object in Latin is called _accusative_ (XXIV) and not objective, as in English.</p>
+        </div>
 
-b. Form the accusative singular and plural of the nouns in
-sections 26 and 34.
+        <div type="subsection" n="b">
+          <p>Form the accusative singular and plural of the nouns in sections 26 and 34.</p>
+        </div>
+      </div>
 
-33. _*Rule for the Accusative as the Direct Object.* The object
-of a verb is in the accusative case._
+      <div type="section" subtype="rule" n="33">
+        <head>Rule for the Accusative as the Direct Object.</head>
 
-34. VOCABULARY
+        <p>The object of a verb is in the accusative case.</p>
+      </div>
 
-  *a'qua*, water (_aquatic_)
-  *Gal'ba*, Galba
-  *lit'tera*, letter (of the alphabet); _plur._ a letter,
-    epistle (_literary_)
-  *ter'ra*, land (_terrace_)
-  *tu'ba*, trumpet (_tuba_)
-  *a'mat*, loves, likes (_amateur_)
-  *con'vocat*, calls together (_convoke_)
-  *ha'bet*, has, holds (_habit_)
-  *lau'dat*, praises (_laud_)
-  *vi'det*, sees (_provide_)
-  *quem*, _acc. of *quis*_, whom?
-  *quid*, _acc. of *quid*_, what?
-  *nunc*, _adv._, now
+      <div type="section" n="34">
+        <head>Vocabulary</head>
 
-35. *Order of words.* Observe that in the model sentences (32)
-the order of Latin words is unlike the order of the words in the
-English sentences. The normal position of the subject of a Latin
-sentence is at the beginning; that of the verb is at the end.
-Variations from this order put emphasis on the word moved toward
-the beginning of the sentence; thus, *puellam nauta vocat* means
-that the sailor calls _a girl_. In translating Latin sentences
-put the emphasis where it belongs.
+        <list type="gloss">
+          <label xml:lang="la">a'qua</label>
+          <item>water (_aquatic_)</item>
+          <label xml:lang="la">Gal'ba</label>
+          <item>Galba</item>
+          <label xml:lang="la">lit'tera</label>
+          <item>letter (of the alphabet); _plur._ a letter, epistle (_literary_)</item>
+          <label xml:lang="la">ter'ra</label>
+          <item>land (_terrace_)</item>
+          <label xml:lang="la">tu'ba</label>
+          <item>trumpet (_tuba_)</item>
+          <label xml:lang="la">a'mat</label>
+          <item>loves, likes (_amateur_)</item>
+          <label xml:lang="la">con'vocat</label>
+          <item>calls together (_convoke_)</item>
+          <label xml:lang="la">ha'bet</label>
+          <item>has, holds (_habit_)</item>
+          <label xml:lang="la">lau'dat</label>
+          <item>praises (_laud_)</item>
+          <label xml:lang="la">vi'det</label>
+          <item>sees (_provide_)</item>
+          <label xml:lang="la">quem</label>
+          <item>_acc. of *quis*_, whom?</item>
+          <label xml:lang="la">quid</label>
+          <item>_acc. of *quid*_, what?</item>
+          <label xml:lang="la">nunc</label>
+          <item>_adv._, now</item>
+        </list>
+      </div>
 
-EXERCISES
+      <div type="section" n="35">
+        <head>Order of words.</head>
 
-36. 1. Galba tubam habet. 2. Tubāsne habet Galba? 3. Puellae
-Cornēliam et Iūliam laudant. 4. Litterās nauta videt. 5. Nautās
-Galba convocat. 6. Quis Galbam videt? 7. Quem videt Galba? 8.
-Agricola puellās nunc convocat. 9. Videntne nautae terram? 10.
-Cornēliam puellae amant.
+        <p>Observe that in the model sentences (32) the order of Latin words is unlike the order of the words in the English sentences. The normal position of the subject of a Latin sentence is at the beginning; that of the verb is at the end. Variations from this order put emphasis on the word moved toward the beginning of the sentence; thus, *puellam nauta vocat* means that the sailor calls _a girl_. In translating Latin sentences put the emphasis where it belongs.</p>
+      </div>
 
-37. 1. Who is approaching? 2. The sailor and Galba are
-approaching. 3. What has the farmer? 4. The farmer has land. 5.
-Does Galba praise the farmers? 6. The girl sees the water and the
-land. 7. The sailors call together the farmers. 8. Julia now has
-the letter.
+      <div>
+        <head>Exercises</head>
 
-[Illustration (045-les2.png): A SCENE IN A ROMAN STREET]
+        <div type="section" n="36">
+          <list xml:lang="la" type="exercises">
+            <item>Galba tubam habet. </item>
+            <item>Tubāsne habet Galba? </item>
+            <item>Puellae Cornēliam et Iūliam laudant. </item>
+            <item>Litterās nauta videt. </item>
+            <item>Nautās Galba convocat. </item>
+            <item>Quis Galbam videt? </item>
+            <item>Quem videt Galba? </item>
+            <item>Agricola puellās nunc convocat. </item>
+            <item>Videntne nautae terram? </item>
+            <item>Cornēliam puellae amant.</item>
+          </list>
+        </div>
+
+        <div type="section" n="37">
+          <list type="exercises">
+            <item>Who is approaching? </item>
+            <item>The sailor and Galba are approaching. </item>
+            <item>What has the farmer? </item>
+            <item>The farmer has land. </item>
+            <item>Does Galba praise the farmers? </item>
+            <item>The girl sees the water and the land. </item>
+            <item>The sailors call together the farmers. </item>
+            <item>Julia now has the letter.</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/045-les2.png"/>
+
+        <head>A Scene in a Roman Street</head>
+      </figure>
     </div>
 
     <div type="chapter" subtype="lesson" n="III">
       <head>The Present Indicative Active of the First Conjugation</head>
 
-38. *The Four Conjucations.* Regular verbs in Latin are divided
-into four classes, or conjucations (XXVII), distinguished from
-one another by the stem vowel before the ending *-re* of the
-present infinitive active.
+      <div type="section" n="38">
+        <head>The Four Conjucations.</head>
 
-                      PRESENT         PRESENT      DISTINGUISHING
-                      INFINITIVE      STEM         VOWEL
-  _First Conj._       amā're          amā-         *ā*
-  _Second Conj._      monē're         monē-        *ē*
-  _Third Conj._       re'gere         rege-        *ĕ*
-  _Fourth Conj._      audī're         audī-        *ī*
+        <p>Regular verbs in Latin are divided into four classes, or conjucations (XXVII), distinguished from one another by the stem vowel before the ending *-re* of the present infinitive active.</p>
 
+        <table rows="5" cols="4">
+          <row role="label">
+            <cell/>
+            <cell>Present Infinitive</cell>
+            <cell>Present Stem</cell>
+            <cell>Distinguishing Vowel</cell>
+          </row>
+          <row>
+            <cell role="label">First Conj.</cell>
+            <cell xml:lang="la">amā're</cell>
+            <cell xml:lang="la">amā-</cell>
+            <cell xml:lang="la">*ā*</cell>
+          </row>
+          <row>
+            <cell role="label">Second Conj.</cell>
+            <cell xml:lang="la">monē're</cell>
+            <cell xml:lang="la">monē-</cell>
+            <cell xml:lang="la">*ē*</cell>
+          </row>
+          <row>
+            <cell role="label">Third Conj.</cell>
+            <cell xml:lang="la">re'gere</cell>
+            <cell xml:lang="la">rege-</cell>
+            <cell xml:lang="la">*ĕ*</cell>
+          </row>
+          <row>
+            <cell role="label">Fourth Conj.</cell>
+            <cell xml:lang="la">audī're</cell>
+            <cell xml:lang="la">audī-</cell>
+            <cell xml:lang="la">*ī*</cell>
+          </row>
+        </table>
+      </div>
 
-39. *The Present Indicative Active of the First Conjugation.*
+      <div type="section" n="39">
+        <head>The Present Indicative Active of the First Conjugation.</head>
 
-                SINGULAR                                   PERSONAL ENDINGS
-  _1st Pers._   a'm*ō*,                                    *-ō*,
-                _I love, am loving, do love_               _I_
-  _2d Pers._    a'mā*s*,                                   *-s*,
-                _you love, are loving, do love_            _you_
-  _3d Pers._    a'ma*t*,                                   *-t*,
-                _he, she, it loves, is loving, does love_  _he_, _she_, _it_
+        <table rows="8" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Personal Endings</cell>
+          </row>
+          <row>
+            <cell role="label">1st Pers.</cell>
+            <cell>a'm*ō*, _I love, am loving, do love_</cell>
+            <cell>*-ō*, _I_</cell>
+          </row>
+          <row>
+            <cell role="label">2d Pers.</cell>
+            <cell>a'mā*s*, _you love, are loving, do love_</cell>
+            <cell>*-s*, _you_</cell>
+          </row>
+          <row>
+            <cell role="label">3d Pers.</cell>
+            <cell>a'ma*t*, _he, she, it loves, is loving, does love_</cell>
+            <cell>*-t*, _he_, _she_, _it_</cell>
+          </row>
 
-                PLURAL
-  _1st Pers._   amā'*mus*,                                 *-mus*,
-                _we love, are loving, do love_             _we_
-  _2d Pers._    amā'*tis*,                                 *-tis*,
-                _you love, are loving, do love_            _you_
-  _3d Pers._    a'ma*nt*,                                  *-nt*,
-                _they love, are loving, do love_           _they_
+          <row role="label">
+            <cell/>
+            <cell>Plural</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell role="label">1st Pers.</cell>
+            <cell>amā'*mus*, _we love, are loving, do love_</cell>
+            <cell>*-mus*, _we_</cell>
+          </row>
+          <row>
+            <cell role="label">2d Pers.</cell>
+            <cell>amā'*tis*, _you love, are loving, do love_</cell>
+            <cell>*-tis*, _you_</cell>
+          </row>
+          <row>
+            <cell role="label">3d Pers.</cell>
+            <cell>a'ma*nt*, _they love, are loving, do love_</cell>
+            <cell>*-nt*, _they_</cell>
+          </row>
+        </table>
 
-a. Observe that in *amō* the final *a* of the stem disappears,
-giving *amō* instead of *amaō*. In what forms is this *a* of the
-stem not long (13)?
+        <div type="subsection" n="a">
+          <p>Observe that in *amō* the final *a* of the stem disappears, giving *amō* instead of *amaō*. In what forms is this *a* of the stem not long (13)?</p>
+        </div>
 
-b. When the subject of a verb is a personal pronoun, it is seldom
-expressed in Latin unless emphatic. Why is the omission of the
-subject possible? Translate *puellās convocātis* and *nautam
-vident*.
+        <div type="subsection" n="b">
+          <p>When the subject of a verb is a personal pronoun, it is seldom expressed in Latin unless emphatic. Why is the omission of the subject possible? Translate *puellās convocātis* and *nautam vident*.</p>
+        </div>
 
-c. Inflect like *amō* the present indicative active of *ambulō*,
-*appropinquō*, *cantō*, *convocō*, labōrō*, *laudō*, and *natō*.
+        <div type="subsection" n="c">
+          <p>Inflect like *amō* the present indicative active of *ambulō*, *appropinquō*, *cantō*, *convocō*, labōrō*, *laudō*, and *natō*.</p>
+        </div>
+      </div>
 
-40. VOCABULARY
+      <div type="section" n="40">
+        <head>Vocabulary</head>
 
-  *dō*, _pres. stem *dă-* (the *a* of *dō* is regularly short,
-    but long in *dās*), give (_dative_)
-  *in'cola*, inhabitant
-  *sae'pe*, _adv._, often
-  *sed*, _conj._, but
-  *spec'tō*, _pres. stem *spectā-*_, look at (_spectator_)
+        *dō*, _pres. stem *dă-* (the *a* of *dō* is regularly short,
+        but long in *dās*), give (_dative_)
+        *in'cola*, inhabitant
+        *sae'pe*, _adv._, often
+        *sed*, _conj._, but
+        *spec'tō*, _pres. stem *spectā-*_, look at (_spectator_)
+      </div>
 
-EXERCISES
+      <div type="exercises">
+        <head>Exercises</head>
 
-41. 1. Ambulat, convocat, cantat. 2. Convocantne? cantantne?
-laudantne? 3. Natās, labōrās, ambulās. 4. Amāmus, appropinquāmus,
-ambulāmus. 5. Convocātis, cantātis, amātis. 6. Amant, dat,
-laudāmus. 7. Quem spectās? 8. Incolās laudō. 9. Iūliam saepe
-laudātis. 10. Sed litterās laudāmus. 11. Quid nunc datis?
+        <div type="section" n="41">
+          <list xml:lang="la" type="exercises">
+            <item>Ambulat, convocat, cantat. </item>
+            <item>Convocantne? cantantne? laudantne? </item>
+            <item>Natās, labōrās, ambulās. </item>
+            <item>Amāmus, appropinquāmus, ambulāmus. </item>
+            <item>Convocātis, cantātis, amātis. </item>
+            <item>Amant, dat, laudāmus. </item>
+            <item>Quem spectās? </item>
+            <item>Incolās laudō. </item>
+            <item>Iūliam saepe laudātis. </item>
+            <item>Sed litterās laudāmus. </item>
+            <item>Quid nunc datis?</item>
+          </list>
+        </div>
 
-42. 1. I swim, he swims, I am swimming. 2. Are you working? we
-sing, does she praise? 3. They are approaching, they give, you
-walk. 4. You are praising, they swim, he does labor. 5. We call
-together the inhabitants, but you call together the sailors. 6.
-The girls are now looking at the water.
+        <div type="section" n="42">
+          <list type="exercises">
+            <item>I swim, he swims, I am swimming.</item>
+            <item>Are you working? we sing, does she praise?</item>
+            <item>They are approaching, they give, you walk.</item>
+            <item>You are praising, they swim, he does labor.</item>
+            <item>We call together the inhabitants, but you call together the sailors.</item>
+            <item>The girls are now looking at the water.</item>
+          </list>
+        </div>
+      </div>
 
-[Illustration (047-les3): RUINS OF A ROMAN AQUEDUCT]
+      <figure type="illustration">
+        <graphic url="images/047-les3"/>
+
+        <head>Ruins of a Roman Aqueduct</head>
+      </figure>
     </div>
 
     <div type="chapter" subtype="lesson" n="IV">
       <head>The Genitive Case used to denote Possession</head>
 
-43. *The Genitive Case used to denote Possession*
+      <div type="section" n="43">
+        <head>The Genitive Case used to denote Possession.</head>
 
-  1. *Fīliae Galbae cantant*, _the daughters of Galba sing_, or
-     _Galba's daughters sing_
-  2. *Fīliās nautārum laudāmus*, _we praise the daughters of the
-     sailors_, or _we praise the sailors' daughters_.
+        <list type="gloss" subtype="examples" rend="ordered">
+          <label xml:lang="la">Fīliae Galbae cantant</label>
+          <item>_the daughters of Galba sing_, or _Galba's daughters sing_</item>
+          <label xml:lang="la">Fīliās nautārum laudāmus</label>
+          <item>_we praise the daughters of the sailors_, or _we praise the sailors' daughters_.</item>
+        </list>
 
-a. Observe that *Galbae* modifies *fīliae* and tells whose
-daughters are singing. In the same way *nautārum* modifies
-*fīliās* and tells whose daughters we are praising. This usage of
-*Galbae* and of *nautārum* is like that of the English possessive
-case (XXIV, a, 2). In Latin the case thus used is called the
-_genitive_ (XXIV, b), and this usage of that case is called the
-_Genitive of Possession_.
+        <div type="subsection" n="a">
+          <p>Observe that *Galbae* modifies *fīliae* and tells whose daughters are singing. In the same way *nautārum* modifies *fīliās* and tells whose daughters we are praising. This usage of *Galbae* and of *nautārum* is like that of the English possessive case (XXIV, a, 2). In Latin the case thus used is called the _genitive_ (XXIV, b), and this usage of that case is called the _Genitive of Possession_.</p>
+        </div>
 
-b. Observe the case endings of the genitive. Form the genitive
-singular and the genitive plural of the nouns in sections 26, 34,
-and 45.
+        <div type="subsection" n="b">
+          <p>Observe the case endings of the genitive. Form the genitive singular and the genitive plural of the nouns in sections 26, 34, and 45.</p>
+        </div>
 
-c. Note the translations given to the genitives in the model
-sentences. Translate *fīlia agricolae* and *fīliae agricolārum*.
+        <div type="subsection" n="c">
+          <p>Note the translations given to the genitives in the model sentences. Translate *fīlia agricolae* and *fīliae agricolārum*.</p>
+        </div>
 
-d. The genitive normally stands after the word it modifies.
+        <div type="subsection" n="d">
+          <p>The genitive normally stands after the word it modifies.</p>
+        </div>
+      </div>
 
-44. _*Rule for the Genitive of Possession.* The word denoting the
-owner or possessor is in the genitive case._
+      <div type="section" subtype="rule" n="44">
+        <head>Rule for the Genitive of Possession.</head>
 
-45. VOCABULARY
+        <p>The word denoting the owner or possessor is in the genitive case.</p>
+      </div>
 
-  *fē'mina*, woman (_feminine_)
-  *fī'lia*, daughter (_filial_)
-  *fortū'na*, fortune (_fortunate_)
-  *poē'ta*, poet (_poetic_)
-  *rēgī'na*, queen
-  *cu'ius*, _gen. of *quis* and of *quid*_, of whom? whose? of
-    what?
-  *dēlec'tō*, _pres. stem *dēlectā-*_, delight, please
-    (_delectable_)
-  *exspec'tō*, _pres. stem *exspectā-*, wait, wait for (_expect_)
-  *fu'gō*, _pres. stem *fugā-*_, put to flight, rout
-  *lī'berō*, _pres. stem *līberā-*_, set free, free (_liberate_)
-  *por'tō*, _pres. stem *portā-*_, carry, bring (_portable_)
-  *et'iam*, _adv._, even
+      <div type="section" n="45">
+        <head>Vocabulary</head>
 
-EXERCISES
+        <list type="gloss">
+          <label xml:lang="la">fē'mina</label>
+          <item>woman (_feminine_)</item>
+          <label xml:lang="la">fī'lia</label>
+          <item>daughter (_filial_)</item>
+          <label xml:lang="la">fortū'na</label>
+          <item>fortune (_fortunate_)</item>
+          <label xml:lang="la">poē'ta</label>
+          <item>poet (_poetic_)</item>
+          <label xml:lang="la">rēgī'na</label>
+          <item>queen</item>
+          <label xml:lang="la">cu'ius</label>
+          <item>_gen. of *quis* and of *quid*_, of whom? whose? of what?</item>
+          <label xml:lang="la">dēlec'tō</label>
+          <item>_pres. stem *dēlectā-*_, delight, please (_delectable_)</item>
+          <label xml:lang="la">exspec'tō</label>
+          <item>_pres. stem *exspectā-*, wait, wait for (_expect_)</item>
+          <label xml:lang="la">fu'gō</label>
+          <item>_pres. stem *fugā-*_, put to flight, rout</item>
+          <label xml:lang="la">lī'berō</label>
+          <item>_pres. stem *līberā-*_, set free, free (_liberate_)</item>
+          <label xml:lang="la">por'tō</label>
+          <item>_pres. stem *portā-*_, carry, bring (_portable_)</item>
+          <label xml:lang="la">et'iam</label>
+          <item>_adv._, even</item>
+        </list>
+      </div>
 
-46. 1. Dēlectat, fugāmus, līberās. 2. Exspectāmus, portant,
-dēlectās. 3. Dēlectāmus, fugātis, līberant. 4. Līberatne? līberō,
-portāmus. 5. Fīliās incolārum līberant. 6. Poētae fortūna rēgīnam
-dēlectat. 7. Spectāmus fīliās fēminae. 8. Fīliane Galbae litterās
-exspectat? 9. Etiam tubae nautārum incolās fugant. 10. Cuius
-litterās portās?
+      <div type="exercises">
+        <head>Exercises</head>
 
-47. 1. I am calling together the sailors of the queen. 2. The
-poets' daughters love the land. 3. Whose daughter are you setting
-free? 4. Do they praise Galba's daughters? 5. We are now waiting
-for the farmers. 6. Whom does the fortune of the farmers delight?
+        <div type="section" n="46">
+          <list xml:lang="la" type="exercises">
+            <item>Dēlectat, fugāmus, līberās.</item>
+            <item>Exspectāmus, portant, dēlectās.</item>
+            <item>Dēlectāmus, fugātis, līberant.</item>
+            <item>Līberatne? līberō, portāmus.</item>
+            <item>Fīliās incolārum līberant.</item>
+            <item>Poētae fortūna rēgīnam dēlectat.</item>
+            <item>Spectāmus fīliās fēminae.</item>
+            <item>Fīliane Galbae litterās exspectat?</item>
+            <item>Etiam tubae nautārum incolās fugant.</item>
+            <item>Cuius litterās portās?</item>
+          </list>
+        </div>
 
-[Illustration (049-les4.png): A STREET IN POMPEII TO-DAY]
+        <div type="section" n="47">
+          <list type="exercises">
+            <item>I am calling together the sailors of the queen.</item>
+            <item>The poets' daughters love the land.</item>
+            <item>Whose daughter are you setting free?</item>
+            <item>Do they praise Galba's daughters?</item>
+            <item>We are now waiting for the farmers.</item>
+            <item>Whom does the fortune of the farmers delight?</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/049-les4.png"/>
+
+        <head>A Street in Pompeii To-day</head>
+      </figure>
     </div>
 
     <div type="chapter" subtype="lesson" n="V">
       <head>The Present Indicative Active of the Second Conjugation · Causal Clause with <w xml:lang="la">Quod</w></head>
 
-48. *The Present Indicative Active of the Second Conjugation.*
+      <div type="section" n="48">
+        <head>The Present Indicative Active of the Second Conjugation.</head>
 
-  SINGULAR
+        <table rows="8" cols="2">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+          </row>
+          <row>
+            <cell role="label">1st Pers.</cell>
+            <cell>mo'ne*ō*,  _I advise, am advising, do advise_</cell>
+          </row>
+          <row>
+            <cell role="label">2d Pers.</cell>
+            <cell>mo'nē*s*,  _you advise, are advising, do advise</cell>
+          </row>
+          <row>
+            <cell role="label">3d Pers.</cell>
+            <cell>mo'ne*t*,  _he, she, it advises, is advising, does advise_</cell>
+          </row>
 
-  _1st Pers._ mo'ne*ō*,  _I advise, am advising, do advise_
-  _2d Pers._  mo'nē*s*,  _you advise, are advising, do advise
-  _3d Pers._  mo'ne*t*,  _he, she, it advises, is advising, does advise_
+          <row role="label">
+            <cell/>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1st Pers.</cell>
+            <cell>monē'*mus* _we advise, are advising, do advise_</cell>
+          </row>
+          <row>
+            <cell role="label">2d Pers.</cell>
+            <cell>monē'*tis* _you advise, are advising, do advise_</cell>
+          </row>
+          <row>
+            <cell role="label">3d Pers.</cell>
+            <cell>mo'ne*nt*  _they advise, are advising, do advise_</cell>
+          </row>
+        </table>
 
-  PLURAL
+        <div type="subsection" n="a">
+          <p>What verbs belong to the second conjugation (38)?</p>
+        </div>
 
-  _1st Pers._ monē'*mus* _we advise, are advising, do advise_
-  _2d Pers._  monē'*tis* _you advise, are advising, do advise_
-  _3d Pers._  mo'ne*nt*  _they advise, are advising, do advise_
+        <div type="subsection" n="b">
+          <p>Observe that to the stem *monē-* the same personal endings are added to inflect *moneō* that were added to the stem *amā-* to inflect *amō*. Observe the three forms in which the present tense has the *e* of the stem not marked long. Compare the forms of the present tense of *amō* (39).</p>
+        </div>
 
-a. What verbs belong to the second conjugation (38)?
+        <div type="subsection" n="c">
+          <p>To the stems *docē-*, *habē-*, *terrē-*, and *vidē-* add the personal endings and thus inflect their present indicative active.</p>
+        </div>
+      </div>
 
-b. Observe that to the stem *monē-* the same personal endings are
-added to inflect *moneō* that were added to the stem *amā-* to
-inflect *amō*. Observe the three forms in which the present tense
-has the *e* of the stem not marked long. Compare the forms of the
-present tense of *amō* (39).
+      <div type="section" n="49">
+        <head>Vocabulary</head>
 
-c. To the stems *docē-*, *habē-*, *terrē-*, and *vidē-* add the
-personal endings and thus inflect their present indicative
-active.
+        <list type="gloss">
+          <label xml:lang="la">pecū'nia</label>
+          <item>money (_pecuniary_)</item>
+          <label xml:lang="la">pīrā'ta</label>
+          <item>pirate (_piratical_)</item>
+          <label xml:lang="la">prae'da</label>
+          <item>booty, plunder (_predatory_)</item>
+          <label xml:lang="la">cūr</label>
+          <item>_adv._, why?</item>
+          <label xml:lang="la">do'ceō, docēre</label>
+          <item>teach, show (_docile_)</item>
+          <label xml:lang="la">ha'beō, habēre</label>
+          <item>have, hold (_habit_)</item>
+          <label xml:lang="la">mo'neō, monēre</label>
+          <item>advise, warn (_admonition_)</item>
+          <label xml:lang="la">ter'reō, terrēre</label>
+          <item>scare, frighten (_terror_)</item>
+          <label xml:lang="la">vi'deō, vidēre</label>
+          <item>see (_improvident_)</item>
+          <label xml:lang="la">quod</label>
+          <item>_conj._, because</item>
+        </list>
+      </div>
 
-49. VOCABULARY
+      <div type="section" n="50">
+        <head>Causal Clause.</head>
 
-  *pecū'nia*, money (_pecuniary_)
-  *pīrā'ta*, pirate (_piratical_)
-  *prae'da*, booty, plunder (_predatory_)
-  *cūr*, _adv._, why?
-  *do'ceō*, *docēre*, teach, show (_docile_)
-  *ha'beō*, *habēre*, have, hold (_habit_)
-  *mo'neō*, *monēre*, advise, warn (_admonition_)
-  *ter'reō*, *terrēre*, scare, frighten (_terror_)
-  *vi'deō*, *vidēre*, see (_improvident_)
-  *quod*, _conj._, because
+        <p>For the kinds of clauses in a complex sentence see XIX, XX.</p>
 
-50. *Causal Clause.* For the kinds of clauses in a complex
-sentense see XIX, XX.
+<list type="gloss" subtype="examples">
+  <label xml:lang="la">Incolās monet quod pīrātae appropinquant</label>
+  <item>he warns the inhabitants because the pirates are approaching.</item>
+</list>
 
-  *Incolās monet quod pīrātae appropinquant*, _he warns the
-    inhabitants because the pirates are approaching.
+        <div type="subsection" n="a">
+          <p>Observe that *quod* introduces a dependent clause, which tells the reason, or cause, of what is stated in the independent part of the sentence. Such a *quod* clause is called a _causal clause_.</p>
+        </div>
+      </div>
 
-a. Observe that *quod* introduces a dependent clause, which tells
-the reason, or cause, of what is stated in the independent part
-of the sentence. Such a *quod* clause is called a _causal
-clause_.
+      <div type="section" subtype="rule" n="51">
+        <head>Rule for a Causal Clause with Quod.</head>
 
-51. _*Rule for a Causal Clause with Quod.* The cause of an action
-may be expressed by a dependent clause introduced by *quod*._
+        <p>The cause of an action may be expressed by a dependent clause introduced by *quod*.</p>
+      </div>
 
-EXERCISES
+      <div type="exercises">
+        <head>Exercises</head>
 
-52. 1. Pecūniam habēs. 2. Iūliam doceō. 3. Incolās saepe monēs.
-4. Puellāsne terrent? 5. Quem vident? 6. Monēmus et docēmus. 7.
-Quid habēmus? 8. Praedam nunc videō. 9. Tubam vidētis. 10.
-Agricolāsne monētis? 11. Litterās habent. 12. Iūlia fīliās poētae
-docet. 13. Etiam pecūniam agricolārum habent pirātae. 14.
-Fīliārum fortūna fēminam dēlectat. 15. Cūr Iūliam et Cornēliam
-monet? 16. Quem docēs et monēs? 17. Fēminae puellās laudant quod
-labōrant.
+        <div type="section" n="52">
+          <list xml:lang="la" type="exercises">
+            <item>Pecūniam habēs.</item>
+            <item>Iūliam doceō.</item>
+            <item>Incolās saepe monēs.</item>
+            <item>Puellāsne terrent?</item>
+            <item>Quem vident?</item>
+            <item>Monēmus et docēmus.</item>
+            <item>Quid habēmus?</item>
+            <item>Praedam nunc videō.</item>
+            <item>Tubam vidētis.</item>
+            <item>Agricolāsne monētis?</item>
+            <item>Litterās habent.</item>
+            <item>Iūlia fīliās poētae docet.</item>
+            <item>Etiam pecūniam agricolārum habent pirātae.</item>
+            <item>Fīliārum fortūna fēminam dēlectat.</item>
+            <item>Cūr Iūliam et Cornēliam monet?</item>
+            <item>Quem docēs et monēs?</item>
+            <item>Fēminae puellās laudant quod labōrant.</item>
+          </list>
+        </div>
+        <div type="section" n="53">
+          <list type="exercises">
+            <item>They are advising.</item>
+            <item>They have.</item>
+            <item>I am warning.</item>
+            <item>You frighten.</item>
+            <item>We see.</item>
+            <item>Does he teach the girls?</item>
+            <item>Do Cornelia and Julia look at the pirate?</item>
+            <item>Why do the pirates frighten the inhabitants?</item>
+            <item>They have the money and the booty.</item>
+            <item>We praise the woman because she teaches the girls.</item>
+            <item>What do you see? What are you looking at?</item>
+          </list>
+        </div>
+      </div>
 
-53. 1. They are advising. 2. They have. 3. I am warning. 4. You
-frighten. 5. We see. 6. Does he teach the girls? 7. Do Cornelia
-and Julia look at the pirate? 8. Why do the pirates frighten the
-inhabitants? 9. They have the money and the booty. 10. We praise
-the woman because she teaches the girls. 11. What do you see?
-What are you looking at?
+      <figure type="illustration">
+        <graphic url="images/051-les5.png"/>
 
-[Illustration (051-les5.png): A ROMAN COIN]
+        <head>A Roman Coin</head>
+      </figure>
     </div>
 
     <div type="chapter" subtype="lesson" n="VI">
       <head>The Dative Case used as the Indirect Object · The Ablative used in Prepositional Phrases to show Place Where</head>
 
-54. *The Dative and Ablative Cases.* Besides the three cases that
-you have already studied, there are in Latin in common use two
-other cases, the _dative_ and the _ablative_. For the general
-character of these cases see XXIV, a, 4; b.
+      <div type="section" n="54">
+        <head>The Dative and Ablative Cases.</head>
 
-55. VOCABULARY
+        <p>Besides the three cases that you have already studied, there are in Latin in common use two other cases, the _dative_ and the _ablative_. For the general character of these cases see XXIV, a, 4; b.</p>
+      </div>
 
-  *do'mina*, lady, mistress (of slaves) (_dominant_)
-  *fā'bula*, story (_fable_)
-  *īn'sula*, island (_peninsula_)
-  *vi'a*, way, road, street (_viaduct_)
-  *in*, _prep. with abl._, in, on
-  *dēmōn'strō*, *dēmōnstrāre*, point out, show (_demonstrate_)
-  *ha'bitō*, *habitāre*, dwell, live (_inhabitant_)
-  *ma'neō*, *manēre*, remain (_mansion_)
-  *nār'rō*, *nārrāre*, tell, relate (_narrator_)
-  *cui*, _dat. of *quis* and of *quid*_, to whom? for whom? to
-    what? for what?
+      <div type="section" n="55">
+        <head>Vocabulary</head>
 
-56. *The Dative used as Indirect Object.*
+        <list type="gloss">
+          <label xml:lang="la">do'mina</label>
+          <item>lady, mistress (of slaves) (_dominant_)</item>
+          <label xml:lang="la">fā'bula</label>
+          <item>story (_fable_)</item>
+          <label xml:lang="la">īn'sula</label>
+          <item>island (_peninsula_)</item>
+          <label xml:lang="la">vi'a</label>
+          <item>way, road, street (_viaduct_)</item>
+          <label xml:lang="la">in</label>
+          <item>_prep. with abl._, in, on</item>
+          <label xml:lang="la">dēmōn'strō, dēmōnstrāre</label>
+          <item>point out, show (_demonstrate_)</item>
+          <label xml:lang="la">ha'bitō, habitāre</label>
+          <item>dwell, live (_inhabitant_)</item>
+          <label xml:lang="la">ma'neō, manēre</label>
+          <item>remain (_mansion_)</item>
+          <label xml:lang="la">nār'rō, nārrāre</label>
+          <item>tell, relate (_narrator_)</item>
+          <label xml:lang="la">cui</label>
+          <item>_dat. of *quis* and of *quid*_, to whom? for whom? to what? for what?</item>
+        </list>
+      </div>
 
-  *Cornēliae et puellīs fābulam nārrō*, _I am telling a story to
-    Cornelia and the girls_, or _I am telling Cornelia and the
-    girls a story_.
+      <div type="section" n="56">
+        <head>The Dative used as Indirect Object.</head>
 
-a. Observe that what is being told is a story, *fābulam*, the
-direct object; and that the _persons to whom_ the story is told
-are _Cornelia_ and the _girls_. *Cornēliae* and *puellīs*,
-therefore, are in the dative case, as this is the case which
-expresses the relation of _to_ or _for_ (XXIV, b). This usage,
-which is like the English (XXIV, a, 4), is called the _Dative of
-the Indirect Object_.
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">Cornēliae et puellīs fābulam nārrō</label>
+          <item>_I am telling a story to Cornelia and the girls_, or _I am telling Cornelia and the girls a story_.</item>
+        </list>
 
-b. The case endings of the dative are *-ae*, singular, and *-īs*,
-plural. Form the dative, singular and plural, of the nouns in
-sections 26, 34, and 55.
+        <div type="subsection" n="a">
+          <p>Observe that what is being told is a story, *fābulam*, the direct object; and that the _persons to whom_ the story is told are _Cornelia_ and the _girls_. *Cornēliae* and *puellīs*, therefore, are in the dative case, as this is the case which expresses the relation of _to_ or _for_ (XXIV, b). This usage, which is like the English (XXIV, a, 4), is called the _Dative of the Indirect Object_.</p>
+        </div>
 
-57. _*Rule for the Dative of the Indirect Object.* The indirect
-object of a verb is in the dative case._
+        <div type="subsection" n="b">
+          <p>The case endings of the dative are *-ae*, singular, and *-īs*, plural. Form the dative, singular and plural, of the nouns in sections 26, 34, and 55.</p>
+        </div>
+      </div>
 
-58. *The Ablative used in Prepositional Phrases to show Place
-Where.*
+      <div type="section" subtype="rule" n="57">
+        <head>Rule for the Dative of the Indirect Object.</head>
 
-  *In terrā et in īnsulīs habitant*, _they live on the land and
-    on the islands_.
+        <p>The indirect object of a verb is in the dative case.</p>
+      </div>
 
-a. Observe taht the phrases (XVI, a) _on the land_, *in terrā*,
-and _on the islands_, *in īnsulīs*, show _place where_. *Terrā*
-and *īnsulīs* are in the ablative case (XXIV, b).
+      <div type="section" n="58">
+        <head>The Ablative used in Prepositional Phrases to show Place Where.</head>
 
-b. The case endings of the ablative are *-ā*, singular, and
-*-īs*, plural.
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">In terrā et in īnsulīs habitant</label>
+          <item>_they live on the land and on the islands_.</item>
+        </list>
 
-c. Form the ablative, singular and plural, of the nouns in
-sections 26, 34, and 55.
+        <div type="subsection" n="a">
+          Observe that the phrases (XVI, a) _on the land_, *in terrā*, and _on the islands_, *in īnsulīs*, show _place where_. *Terrā* and *īnsulīs* are in the ablative case (XXIV, b).
+        </div>
 
-59. _*Rule for the Ablative of Place Where.* Place where is
-commonly expressed by a phrase consisting of a preposition,
-usually *in*, with the ablative case._
+        <div type="subsection" n="b">
+          The case endings of the ablative are *-ā*, singular, and *-īs*, plural.
+        </div>
 
-60. *Order of Words.* The indirect object normally stands before
-the direct object. An ablative normally stands before the direct
-object. An ablative normally stands before the direct object.
-Variations from this order give emphasis to the word removed from
-its normal position.
+        <div type="subsection" n="c">
+          Form the ablative, singular and plural, of the nouns in sections 26, 34, and 55.
+        </div>
+      </div>
 
-EXERCISES
+      <div type="section" subtype="rule" n="59">
+        <head>Rule for the Ablative of Place Where.</head>
 
-61. 1. Agricola dominae viam dēmōnstrat. 2. Puellīs etiam
-Cornēlia fābulam nārrat. 3. In īnsulā habitāmus. 4. Quis poētis
-īnsulam dēmōnstrat? 5. Cūr pirātae in aquā manent? 6. Cui
-pecūniam dās? 7. Nautae agricolīs praedam dēmōnstrant. 8. Incolae
-in viīs appropinquant et rēgīnam spectant. 9. Dominam amant quod
-fābulās nārrat.
+        <p>Place where is commonly expressed by a phrase consisting of a preposition, usually *in*, with the ablative case.</p>
+      </div>
 
-62. 1. To whom are you pointing out the lady? 2. I am pointing
-out the letter to Julia. 3. They are telling stories to the
-queen. 4. Galba's daughter gives money to the sailors. 5. Do the
-pirates live on the island? 6. Whose daughters are approaching in
-the street?
+      <div type="section" n="60">
+        <head>Order of Words.</head>
+
+        <p>The indirect object normally stands before the direct object. An ablative normally stands before the direct object. An ablative normally stands before the direct object. Variations from this order give emphasis to the word removed from its normal position.</p>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="61">
+          <list xml:lang="la" type="exercises">
+            <item>Agricola dominae viam dēmōnstrat.</item>
+            <item>Puellīs etiam Cornēlia fābulam nārrat.</item>
+            <item>In īnsulā habitāmus.</item>
+            <item>Quis poētis īnsulam dēmōnstrat?</item>
+            <item>Cūr pirātae in aquā manent?</item>
+            <item>Cui pecūniam dās?</item>
+            <item>Nautae agricolīs praedam dēmōnstrant.</item>
+            <item>Incolae in viīs appropinquant et rēgīnam spectant.</item>
+            <item>Dominam amant quod fābulās nārrat.</item>
+          </list>
+        </div>
+
+        <div type="section" n="62">
+          <list type="exercises">
+            <item>To whom are you pointing out the lady?</item>
+            <item>I am pointing out the letter to Julia.</item>
+            <item>They are telling stories to the queen.</item>
+            <item>Galba's daughter gives money to the sailors.</item>
+            <item>Do the pirates live on the island?</item>
+            <item>Whose daughters are approaching in the street?</item>
+          </list>
+        </div>
+      </div>
     </div>
 
     <div type="chapter" subtype="lesson" n="VII">
       <head>The First Declension · Gender</head>
 
-63. *The First Declension.* There are five declensions (XXII) of
-Latin nouns. Those nouns which end in *-a* are in the nominative
-singular and in *-ae* in the genitive singular are said to belong
-to the _first declension_. Learn the complete inflection of the
-noun *agricola*:
+      <div type="section" n="63">
+        <head>The First Declension.</head>
 
-         SINGULAR                                    CASE ENDINGS
-  _Nom._ agri'col*a*                                 *-a*
-  _Gen._ agri'col*ae*                                *-ae*
-  _Dat._ agri'col*ae*                                *-ae*
-  _Acc._ agri'col*am*                                *-am*
-  _Abl._ agri'col*ā*                                 *-ā*
+        <p>There are five declensions (XXII) of Latin nouns. Those nouns which end in *-a* are in the nominative singular and in *-ae* in the genitive singular are said to belong to the _first declension_. Learn the complete inflection of the noun *agricola*:
+        <table rows="12" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Case Endings</cell>
+          </row>
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">agri'col*a*</cell>
+            <cell xml:lang="la">*-a*</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">agri'col*ae</cell>
+            <cell xml:lang="la">*-ae*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">agri'col*ae</cell>
+            <cell xml:lang="la">*-ae*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">agri'col*am</cell>
+            <cell xml:lang="la">*-am*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">agri'col*ā</cell>
+            <cell xml:lang="la">*-ā*</cell>
+          </row>
 
-         PLURAL
-  _Nom._ agri'col*ae*                                *-ae*
-  _Gen._ agricol*ā'rum*                              *-ārum*
-  _Dat._ agri'col*īs*                                *-īs*
-  _Acc._ agri'col*ās*                                *-ās*
-  _Abl._ agri'col*īs*                                *-īs*
+          <row role="label">
+            <cell/>
+            <cell>Plural</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">agri'col*ae</cell>
+            <cell xml:lang="la">*-ae*</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">agricol*ā'rum</cell>
+            <cell xml:lang="la">*-ārum*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">agri'col*īs</cell>
+            <cell xml:lang="la">*-īs*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">agri'col*ās</cell>
+            <cell xml:lang="la">*-ās*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">agri'col*īs</cell>
+            <cell xml:lang="la">*-īs*</cell>
+          </row>
+        </table></p>
 
-a. Observe that the inflection of a noun consists merely in
-adding the case endings to an unchangeable part of the word. This
-unchangeable part is called the _base_. Decline like *agricola*
-the nouns in section 55.
+        <div type="subsection" n="a">
+          <p>Observe that the inflection of a noun consists merely in adding the case endings to an unchangeable part of the word. This unchangeable part is called the _base_. Decline like *agricola* the nouns in section 55.</p>
+        </div>
+      </div>
 
-64. *Gender.* Latin nouns are masculine, feminine, or neuter in
-gender (XXV, a, b).
+      <div type="section" n="64">
+        <head>Gender.</head>
 
-a. Nouns of the first declension are feminine unless they denote
-males. *Nauta*, *agricola*, *Galba*, *poēta*, and *pīrāta* are
-the masculine nouns you have learned. Hereafter the gender of
-nouns will be shown in the vocabularies by the letters _m._,
-_f._, or _n._.
+        <p>Latin nouns are masculine, feminine, or neuter in gender (XXV, a, b).</p>
 
-65. VOCABULARY
+        <div type="subsection" n="a">
+          Nouns of the first declension are feminine unless they denote males. *Nauta*, *agricola*, *Galba*, *poēta*, and *pīrāta* are the masculine nouns you have learned. Hereafter the gender of nouns will be shown in the vocabularies by the letters _m._, _f._, or _n._.
+        </div>
+      </div>
 
-  *dīligen'tia*, *-ae*, _f._, diligence (_diligent_)
-  *fu'ga*, *-ae*, _f._, flight, rout (_refuge_)
-  *Germā'nia*, *-ae*, _f._, Germany (_Germanic_)
-  *Grae'cia*, *-ae*, _f._, Greece (_Grecian_)
-  *Ita'lia*, *-ae*, _f._, Italy (_Italian_)
-  *por'ta*, *-ae*, _f._, gate (_portal_)
-  *prōvin'cia*, *-ae*, _f._, province (_provincial_)
-  *pug'na*, *-ae*, _f._, fight (_pugnacious_)
-  *sil'va*, *-ae*, _f._, woods, forest (_silvan_)
-  *victō'ria*, *-ae*, _f._, victory (_victorious_)
+      <div type="section" n="65">
+        <head>Vocabulary</head>
 
-a. The ending *-ae* of the genitive singular is placed after the
-nouns in the vocabulary to indicate that these nouns belong to
-the first declension.
+        <list type="gloss">
+          <label xml:lang="la">dīligen'tia, -ae</label>
+          <item>_f._, diligence (_diligent_)</item>
+          <label xml:lang="la">fu'ga, -ae</label>
+          <item>_f._, flight, rout (_refuge_)</item>
+          <label xml:lang="la">Germā'nia, -ae</label>
+          <item>_f._, Germany (_Germanic_)</item>
+          <label xml:lang="la">Grae'cia, -ae</label>
+          <item>_f._, Greece (_Grecian_)</item>
+          <label xml:lang="la">Ita'lia, -ae</label>
+          <item>_f._, Italy (_Italian_)</item>
+          <label xml:lang="la">por'ta, -ae</label>
+          <item>_f._, gate (_portal_)</item>
+          <label xml:lang="la">prōvin'cia, -ae</label>
+          <item>_f._, province (_provincial_)</item>
+          <label xml:lang="la">pug'na, -ae</label>
+          <item>_f._, fight (_pugnacious_)</item>
+          <label xml:lang="la">sil'va, -ae</label>
+          <item>_f._, woods, forest (_silvan_)</item>
+          <label xml:lang="la">victō'ria, -ae</label>
+          <item>_f._, victory (_victorious_)</item>
+        </list>
 
-EXERCISES
+        <div type="subsection" n="a">
+          The ending *-ae* of the genitive singular is placed after the nouns in the vocabulary to indicate that these nouns belong to the first declension.
+        </div>
+      </div>
 
-66. 1. Cūr poētae in silvīs manent? 2. Cui victōriam rēgīnae
-nārrās? 3. In portā Iūliam et Cornēliam videō. 4. In Germāniā et
-in Graeciā saepe agricolās convocant. 5. Habitantne in prōvinciā?
-6. Victōria nautārum agricolās terret. 7. Dīligentia puellārum
-fēminam dēlectat. 8. In pugnā pīrātās Italiae fugāmus. 9. Galba
-fugam pīrātārum nārrat.
+      <div type="exercises">
+        <head>Exercises</head>
 
-67. 1. I am living in a province of Greece. 2. The forests of the
-provinces delight the poets. 3. He gives money to Julia's
-daughter. 4. To whom do you give water? 5. Whose diligence do you
-praise? 6. They are waiting in the road and looking at the woods.
+        <div type="section" n="66">
+          <list xml:lang="la" type="exercises">
+            <item>Cūr poētae in silvīs manent?</item>
+            <item>Cui victōriam rēgīnae nārrās?</item>
+            <item>In portā Iūliam et Cornēliam videō.</item>
+            <item>In Germāniā et in Graeciā saepe agricolās convocant.</item>
+            <item>Habitantne in prōvinciā?</item>
+            <item>Victōria nautārum agricolās terret.</item>
+            <item>Dīligentia puellārum fēminam dēlectat.</item>
+            <item>In pugnā pīrātās Italiae fugāmus.</item>
+            <item>Galba fugam pīrātārum nārrat.</item>
+          </list>
+        </div>
 
-[Illustration (055-les7.png): A WALL DRAWING. PROBABLY THE WORK
-OF A ROMAN SCHOOLBOY]
+        <div type="section" n="67">
+          <list type="exercises">
+            <item>I am living in a province of Greece.</item>
+            <item>The forests of the provinces delight the poets.</item>
+            <item>He gives money to Julia's daughter.</item>
+            <item>To whom do you give water?</item>
+            <item>Whose diligence do you praise?</item>
+            <item>They are waiting in the road and looking at the woods.</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/055-les7.png"/>
+
+        <head>A Wall Drawing, Probably the Work of a Roman Schoolboy</head>
+      </figure>
     </div>
 
     <div type="chapter" subtype="review" n="1">
       <head>First Review Lesson</head>
       <head>Lessons I–VII</head>
 
-68. Give the English meanings of the following words:
+      <div type="section" n="68">
+        <p>Give the English meanings of the following words:
+        <list xml:lang="la" rend="table">
+          <item>agricola</item>
+          <item>ambulō</item>
+          <item>amō</item>
+          <item>appropinquō</item>
+          <item>aqua</item>
+          <item>cantō</item>
+          <item>convocō</item>
+          <item>cui</item>
+          <item>cuius</item>
+          <item>cūr</item>
+          <item>dēlectō</item>
+          <item>dēmōnstrō</item>
+          <item>dīligentia</item>
+          <item>dō</item>
+          <item>doceō</item>
+          <item>domina</item>
+          <item>et</item>
+          <item>etiam</item>
+          <item>exspectō</item>
+          <item>fābula</item>
+          <item>fēmina</item>
+          <item>fīlia</item>
+          <item>fortūna</item>
+          <item>fuga</item>
+          <item>fugō</item>
+          <item>habeō</item>
+          <item>habitō</item>
+          <item>in</item>
+          <item>incola</item>
+          <item>īnsula</item>
+          <item>labōrō</item>
+          <item>laudō</item>
+          <item>līberō</item>
+          <item>littera</item>
+          <item>maneō</item>
+          <item>moneō</item>
+          <item>nārrō</item>
+          <item>natō</item>
+          <item>nauta</item>
+          <item>-ne</item>
+          <item>nunc</item>
+          <item>pecūnia</item>
+          <item>pīrāta</item>
+          <item>poēta</item>
+          <item>porta</item>
+          <item>portō</item>
+          <item>praeda</item>
+          <item>prōvincia</item>
+          <item>puella</item>
+          <item>pugna</item>
+          <item>quem</item>
+          <item>quid</item>
+          <item>quis</item>
+          <item>quod</item>
+          <item>rēgīna</item>
+          <item>saepe</item>
+          <item>sed</item>
+          <item>silva</item>
+          <item>spectō</item>
+          <item>terra</item>
+          <item>terreō</item>
+          <item>tuba</item>
+          <item>via</item>
+          <item>victōria</item>
+          <item>videō</item>
+        </list></p>
+      </div>
 
-  agricola        dō           habitō      -ne           quis
-  ambulō          doceō        in          nunc          quod
-  amō             domina       incola      pecūnia       rēgīna
-  appropinquō     et           īnsula      pīrāta        saepe
-  aqua            etiam        labōrō      poēta         sed
-  cantō           exspectō     laudō       porta         silva
-  convocō         fābula       līberō      portō         spectō
-  cui             fēmina       littera     praeda        terra
-  cuius           fīlia        maneō       prōvincia     terreō
-  cūr             fortūna      moneō       puella        tuba
-  dēlectō         fuga         nārrō       pugna         via
-  dēmōnstrō       fugō         natō        quem          victōria
-  dīligentia      habeō        nauta       quid          videō
+      <div type="section" n="69">
+        <p>Give the Latin meanings of the following words:
+        <list rend="table">
+          <item>often</item>
+          <item>to whom? to what?</item>
+          <item>labor, work, suffer</item>
+          <item>whom?</item>
+          <item>wait, wait for, expect</item>
+          <item>put to flight, rout</item>
+          <item>love, like</item>
+          <item>girl</item>
+          <item>gate</item>
+          <item>and</item>
+          <item>water</item>
+          <item>have, hold</item>
+          <item>dwell, live</item>
+          <item>story</item>
+          <item>point out, show</item>
+          <item>daughter</item>
+          <item>set free, free, liberate</item>
+          <item>queen</item>
+          <item>why?</item>
+          <item>money</item>
+          <item>even</item>
+          <item>now</item>
+          <item>sing</item>
+          <item>walk</item>
+          <item>farmer</item>
+          <item>call together</item>
+          <item>flight, rout</item>
+          <item>land</item>
+          <item>forest, woods</item>
+          <item>diligence</item>
+          <item>delight, please</item>
+          <item>who?</item>
+          <item>but</item>
+          <item>in, on</item>
+          <item>look at</item>
+          <item>because</item>
+          <item>fight</item>
+          <item>victory</item>
+          <item>see</item>
+          <item>fortune</item>
+          <item>carry, bring</item>
+          <item>woman</item>
+          <item>pirate</item>
+          <item>approach, draw near</item>
+          <item>give</item>
+          <item>booty, plunder</item>
+          <item>island</item>
+          <item>poet</item>
+          <item>trumpet</item>
+          <item>teach, show</item>
+          <item>lady, mistress</item>
+          <item>remain</item>
+          <item>way, road, street</item>
+          <item>inhabitant</item>
+          <item>advise, warn</item>
+          <item>sailor</item>
+          <item>province</item>
+          <item>tell, relate, narrate</item>
+          <item>letter</item>
+          <item>praise</item>
+          <item>what?</item>
+          <item>scare, frighten</item>
+          <item>whose?</item>
+          <item>swim</item>
+        </list></p>
+      </div>
 
+      <div type="section" n="70">
+        <p>Decline the nouns and conjugate the verbs in 68. Give the genitive singular of each noun; give the other cases, in the singular and in the plural. Give the third person, singular and plural, of the preent indicative of each verb in 68.</p>
+      </div>
 
-69. Give the Latin meanings of the following words:
+      <div type="section" n="71">
+        <p>Following the suggestions in 634, give English words derived from the Latin words in 68. Define these derivatives, and illustrate each by an English sentence.</p>
+      </div>
 
-  often                     sing             approach, draw near
-  to whom? to what?         walk             give
-  labor, work, suffer       farmer           booty, plunder
-  whom?                     call together    island
-  wait, wait for, expect    flight, rout     poet
-  put to flight, rout       land             trumpet
-  love, like                forest, woods    teach, show
-  girl                      diligence        lady, mistress
-  gate                      delight, please  remain
-  and                       who?             way, road, street
-  water                     but              inhabitant
-  have, hold                in, on           advise, warn
-  dwell, live               look at          sailor
-  story                     because          province
-  point out, show           fight            tell, relate, narrate
-  daughter                  victory          letter
-  set free, free, liberate  see              praise
-  queen                     fortune          what?
-  why?                      carry, bring     scare, frighten
-  money                     woman            whose?
-  even                      pirate           swim
-  now
+      <div type="section" n="72">
+        <p>Give the rule, if there is one, for the following constructions, and illustrate each by a brief sentence in Latin:
+        <list rend="ordered">
+          <item>Nominative as the subject</item>
+          <item>Agreement of the verb with its subject</item>
+          <item>Accusative as the object</item>
+          <item>Genitive of possession</item>
+          <item>Causal clause with *quod*</item>
+          <item>Dative of the indirect object</item>
+          <item>Ablative of place where</item>
+          <item>Questions</item>
+        </list></p>
+      </div>
 
-70. Decline the nouns and conjugate the verbs in 68. Give the
-genitive singular of each noun; give the other cases, in the
-singular and in the plural. Give the third person, singular and
-plural, of the preent indicative of each verb in 68.
+      <figure type="illustration">
+        <graphic url="057-rev1.png"/>
 
-71. Following the suggestions in 634, give English words derived
-from the Latin words in 68. Define these derivatives, and
-illustrate each by an English sentence.
+        <head>Roman Writing Materials</head>
+      </figure>
 
-72. Give the rule, if there is one, for the following
-constructions, and illustrate each by a brief sentence in Latin:
-
-  1. Nominative as the subject
-  2. Agreement of the verb with its subject
-  3. Accusative as the object
-  4. Genitive of possession
-  5. Causal clause with *quod*
-  6. Dative of the indirect object
-  7. Ablative of place where
-  8. Questions
-
-[Illustration (057-rev1.png): ROMAN WRITING MATERIALS]
-
-
-
-</div>
+    </div>
 
 
 <div type="chapter" subtype="lesson" n="VIII">
@@ -3481,7 +4278,7 @@ of the lessons may be found in the general vocabulary.
 
 
 <div type="chapter" subtype="lesson" n="XXXII">
-  <head>The Pluperfect and Future Perfect Indicative Active of All Conjugations</head> 
+  <head>The Pluperfect and Future Perfect Indicative Active of All Conjugations</head>
 
 223. *The Formation of the Pluperfect and Future Perfect Tenses.*
 The pluperfect (XXXIII, b) and the future perfect (XXXIII, b)
@@ -7478,7 +8275,7 @@ constructions, and illustrate each by a sentence in Latin:
   <div type="chapter">
     <head>Selections for Reading</head>
 
-    <div type="subchapter">
+    <div type="reading">
       <head>Cæsar: The Campaign against the Helvetians (continued from 494)</head>
 
       _The Helvetians are allowed to proceed through the land of the
@@ -7669,7 +8466,7 @@ constructions, and illustrate each by a sentence in Latin:
 
     </div>
 
-    <div type="subchapter">
+    <div type="reading">
       <head>Cæsar: The Story of the Aduatuci</head>
 
       _The Aduatuci prepare to make a desperate resistance to Cæsar_
@@ -7815,7 +8612,7 @@ constructions, and illustrate each by a sentence in Latin:
     </div>
 
 
-    <div type="subchapter">
+    <div type="reading">
       <head>Stories of Hercules</head>
 
       _The infant Hercules_
@@ -8034,7 +8831,7 @@ constructions, and illustrate each by a sentence in Latin:
       verbs is often translated like a present participle.
     </div>
 
-    <div type="subchapter">
+    <div type="reading">
       <head>Stories of Ulysses</head>
 
       _Polyphemus, the one-eyed giant_
@@ -8250,7 +9047,7 @@ constructions, and illustrate each by a sentence in Latin:
       [31] Vocative case, denoting the person addressed.
     </div>
 
-    <div type="subchapter">
+    <div type="reading">
       <head>Eutropius: History of Rome [1]</head>
 
       _The founding of Rome by Romulus_
@@ -8522,7 +9319,7 @@ constructions, and illustrate each by a sentence in Latin:
       [49] From *caedō*.
     </div>
 
-    <div type="subchapter">
+    <div type="reading">
 <head>Stories from Roman History</head>
 
 _The brave deed of Hratius Cocles_
@@ -10341,7 +11138,7 @@ REGULAR VERBS
                       _Dat._ am*an'dō*, _for loving_
                       _Acc._ am*an'dum*, _loving_
                       _Abl._ am*an'dō*, _by loving_
-                      
+
                                  SUPINE
                       _Acc._ [amāt*um*, _to love_]
                       _Abl._ [amāt*ū*, _to love_, _in the loving_]
@@ -10468,7 +11265,7 @@ REGULAR VERBS
   re'g*is*      re'g*itis*      re'g*eris*        reg*i'minī*
   re'g*it*      re'g*unt*       re'g*itur*        reg*un'tur*
 
-                       IMPERFECT (PAST) 
+                       IMPERFECT (PAST)
     _I was ruling_, etc.              _I was ruled_, etc.
   reg*ē'bam*    reg*ēbā'mus*    reg*ē'bar*        reg*ēbā'mur*
   reg*ē'bās*    reg*ēbā'tis*    reg*ēbā'ris*      reb*ēbā'minī*
@@ -10519,7 +11316,7 @@ REGULAR VERBS
   rēx*is'sēs*  rēx*issē'tis*  rēc't*us essēs*  rēc't*ī essētis*
   rēx*is'set*  rēx*is'sent*   rēc't*us esset*  rēc't*ī essent*
 
-  
+
                                           IMPERATIVE
                                             PRESENT
   re'g*e*, _rule thou_                             re'g*ere*, _be thou ruled_
@@ -11230,7 +12027,7 @@ more formatting now
   *dē-vorō*, *dēvorāre*, *dēvorāvī*, *dēvorātus*, swallow up,
     DEVOUR, gulp down
   *dexter*, *-tra*, *-trum*, _adj._, right (hand). (_Dexterous_)
-  *dextra*, *-ae*, _f._ [*dexter*], right hand  
+  *dextra*, *-ae*, _f._ [*dexter*], right hand
   *dī-*, _see *dis-*_
   *dīcō*, *dīcere*, *dīxī*, *dictus*, say, tell, speak; appoint.
     (_Dictum_)
