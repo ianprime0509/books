@@ -72,11 +72,11 @@
 
         <p>With these convictions the revision of Collar and Daniell's "First Year Latin" was undertaken. All these principles underlay the plan of "First Year Latin," but the unanimity with which they have been accepted since the publication of that text has made it possible in the revision so to extend their application as to produce what is in effect a new book.</p>
 
-        <p>The vocabulary has been made briefer and more Cæsarian. From the vocabularies of the lessons the pupil is asked to learn the meanings of some five hundred and seventy words.  About ninety per cent of these words are included in the list of one thousand words which Professor Lodge<ptr type="noteAnchor" target="#fn.pref.1"/> suggests should be learned before the end of the second year of the study of Latin. Over sixty per cent occur more than ten times in Cæsar. In the Selections for Reading the pupil has a chance to become acquainted casually with a wider vocabulary.</p>
+        <p>The vocabulary has been made briefer and more Cæsarian. From the vocabularies of the lessons the pupil is asked to learn the meanings of some five hundred and seventy words.  About ninety per cent of these words are included in the list of one thousand words which Professor Lodge<ptr type="noteAnchor" target="#fn.pref.1" n="1"/> suggests should be learned before the end of the second year of the study of Latin. Over sixty per cent occur more than ten times in Cæsar. In the Selections for Reading the pupil has a chance to become acquainted casually with a wider vocabulary.</p>
 
         <pb n="iv"/>
 
-        <p>A number of constructions which were taught in the original book have been omitted. With three exceptions the constructions included in the revision are those which Byrne<ptr type="noteAnchor" target="#fn.pref.2"/> recommends for the first year. Similarly, the pupil is no longer required to learn uncommon forms which are not necessary for his second-year reading.</p>
+        <p>A number of constructions which were taught in the original book have been omitted. With three exceptions the constructions included in the revision are those which Byrne<ptr type="noteAnchor" target="#fn.pref.2" n="2"/> recommends for the first year. Similarly, the pupil is no longer required to learn uncommon forms which are not necessary for his second-year reading.</p>
 
         <p>Increased attention has been given to derivatives. Related English words are often placed after the Latin words in the vocabularies of the lessons as well as in the general vocabulary.  Everywhere in the reviews this important part of the study of Latin is kept constantly before the pupil. Suggestions are offered for the keeping of notebooks of English derivatives. The force of certain common prefixes and suffixes in the formation and meaning of Latin words is also explained.</p>
 
@@ -98,8 +98,8 @@
 
         <signed>T. J.</signed>
 
-        <note xml:id="fn.pref.1" type="footnote">Vocabulary of High School Latin</note>
-        <note xml:id="fn.pref.2" type="footnote">The Syntax of High School Latin</note>
+        <note xml:id="fn.pref.1" type="footnote" n="1">Vocabulary of High School Latin</note>
+        <note xml:id="fn.pref.2" type="footnote" n="2">The Syntax of High School Latin</note>
       </div>
       <div type="contents">
         <pb n="vii"/>
@@ -863,7 +863,7 @@
         </div>
 
         <div>
-          <head>Sounds of the Letters<ptr type="noteAnchor" target="#fn.intro.1"/></head>
+          <head>Sounds of the Letters<ptr type="noteAnchor" target="#fn.intro.1" n="1"/></head>
 
           <div type="section" n="4">
             <p>The vowels are either long or short. In this book the long vowels are marked (-); unmarked vowels are to be regarded as short. The vowels are sounded as follows:
@@ -1081,11 +1081,12 @@
             <head>The Arch of Titus, Showing a Roman Inscription</head>
           </figure>
 
-          <note xml:id="fn.intro.1" type="footnote">Latin is pronounced to-day substantially as it was pronounced by the Romans at the beginning of the Christian era.</note>
+          <note xml:id="fn.intro.1" type="footnote" n="1">Latin is pronounced to-day substantially as it was pronounced by the Romans at the beginning of the Christian era.</note>
         </div>
       </div>
 
       <div type="chapter" subtype="lesson" n="I">
+<head>Lesson I</head>
       <head>The Singular and Plural of Nouns and Verbs · The Nominative Case used as Subject</head>
 
       <div type="section" n="25">
@@ -1119,33 +1120,33 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">agri'cola</label>
+          <label xml:lang="la">agri'cola, </label>
           <item>farmer (_agriculture_)</item>
-          <label xml:lang="la">Cornē'lia</label>
+          <label xml:lang="la">Cornē'lia, </label>
           <item>Cornelia</item>
-          <label xml:lang="la">Iū'lia</label>
+          <label xml:lang="la">Iū'lia, </label>
           <item>Julia</item>
-          <label xml:lang="la">nau'ta</label>
+          <label xml:lang="la">nau'ta, </label>
           <item>sailor (_nautical_)</item>
-          <label xml:lang="la">puel'la</label>
+          <label xml:lang="la">puel'la, </label>
           <item>girl</item>
-          <label xml:lang="la">et</label>
+          <label xml:lang="la">et, </label>
           <item>_conj._, and</item>
-          <label xml:lang="la">-ne</label>
+          <label xml:lang="la">-ne, </label>
           <item>_enclitic, sign of a question_</item>
-          <label xml:lang="la">am'bulat</label>
+          <label xml:lang="la">am'bulat, </label>
           <item>walks (_perambulate_)</item>
-          <label xml:lang="la">appropin'quat</label>
+          <label xml:lang="la">appropin'quat, </label>
           <item>approaches, draws near (_propinquity_)</item>
-          <label xml:lang="la">can'tat</label>
+          <label xml:lang="la">can'tat, </label>
           <item>sings (_incantation_)</item>
-          <label xml:lang="la">labō'rat</label>
+          <label xml:lang="la">labō'rat, </label>
           <item>works, labors, suffers (laboratory)</item>
-          <label xml:lang="la">na'tat</label>
+          <label xml:lang="la">na'tat, </label>
           <item>swims (_natatorium_)</item>
-          <label xml:lang="la">quis</label>
+          <label xml:lang="la">quis, </label>
           <item>_interrog. pron._, who?</item>
-          <label xml:lang="la">quid</label>
+          <label xml:lang="la">quid, </label>
           <item>_interrog. pron._, what?</item>
         </list>
       </div>
@@ -1154,13 +1155,13 @@
         <head>The Nominative Case used as Subject.</head>
 
         <list type="gloss" subtype="examples" rend="ordered">
-          <label xml:lang="la">Puella cantat</label>
+          <label xml:lang="la">Puella cantat, </label>
           <item>the girl sings (is singing, does sing).</item>
-          <label xml:lang="la">Puellae cantant</label>
+          <label xml:lang="la">Puellae cantant, </label>
           <item>the girls sing (are singing, do sing).</item>
-          <label xml:lang="la">Cantatne puella</label>
+          <label xml:lang="la">Cantatne puella, </label>
           <item>does the girl sing (is the girl singing)?</item>
-          <label xml:lang="la">Cantantne puellae</label>
+          <label xml:lang="la">Cantantne puellae, </label>
           <item>do the girls sing (are the girls singing)?</item>
         </list>
 
@@ -1235,15 +1236,16 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="II">
+<head>Lesson II</head>
       <head>the Accusative Case used as the Direct Object</head>
 
       <div type="section" n="32">
         <head>The Accusative Case used as the Direct Object.</head>
 
         <list type="gloss" subtype="examples" rend="ordered">
-          <label xml:lang="la">Nauta puellam vocat</label>
+          <label xml:lang="la">Nauta puellam vocat, </label>
           <item>the sailor calls the girl.</item>
-          <label xml:lang="la">nautae puellās vocant</label>
+          <label xml:lang="la">nautae puellās vocant, </label>
           <item>the sailors call the girls.</item>
         </list>
 
@@ -1266,31 +1268,31 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">a'qua</label>
+          <label xml:lang="la">a'qua, </label>
           <item>water (_aquatic_)</item>
-          <label xml:lang="la">Gal'ba</label>
+          <label xml:lang="la">Gal'ba, </label>
           <item>Galba</item>
-          <label xml:lang="la">lit'tera</label>
+          <label xml:lang="la">lit'tera, </label>
           <item>letter (of the alphabet); _plur._ a letter, epistle (_literary_)</item>
-          <label xml:lang="la">ter'ra</label>
+          <label xml:lang="la">ter'ra, </label>
           <item>land (_terrace_)</item>
-          <label xml:lang="la">tu'ba</label>
+          <label xml:lang="la">tu'ba, </label>
           <item>trumpet (_tuba_)</item>
-          <label xml:lang="la">a'mat</label>
+          <label xml:lang="la">a'mat, </label>
           <item>loves, likes (_amateur_)</item>
-          <label xml:lang="la">con'vocat</label>
+          <label xml:lang="la">con'vocat, </label>
           <item>calls together (_convoke_)</item>
-          <label xml:lang="la">ha'bet</label>
+          <label xml:lang="la">ha'bet, </label>
           <item>has, holds (_habit_)</item>
-          <label xml:lang="la">lau'dat</label>
+          <label xml:lang="la">lau'dat, </label>
           <item>praises (_laud_)</item>
-          <label xml:lang="la">vi'det</label>
+          <label xml:lang="la">vi'det, </label>
           <item>sees (_provide_)</item>
-          <label xml:lang="la">quem</label>
+          <label xml:lang="la">quem, </label>
           <item>_acc. of *quis*_, whom?</item>
-          <label xml:lang="la">quid</label>
+          <label xml:lang="la">quid, </label>
           <item>_acc. of *quid*_, what?</item>
-          <label xml:lang="la">nunc</label>
+          <label xml:lang="la">nunc, </label>
           <item>_adv._, now</item>
         </list>
       </div>
@@ -1341,6 +1343,7 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="III">
+<head>Lesson III</head>
       <head>The Present Indicative Active of the First Conjugation</head>
 
       <div type="section" n="38">
@@ -1492,15 +1495,16 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="IV">
+<head>Lesson IV</head>
       <head>The Genitive Case used to denote Possession</head>
 
       <div type="section" n="43">
         <head>The Genitive Case used to denote Possession.</head>
 
         <list type="gloss" subtype="examples" rend="ordered">
-          <label xml:lang="la">Fīliae Galbae cantant</label>
+          <label xml:lang="la">Fīliae Galbae cantant, </label>
           <item>_the daughters of Galba sing_, or _Galba's daughters sing_</item>
-          <label xml:lang="la">Fīliās nautārum laudāmus</label>
+          <label xml:lang="la">Fīliās nautārum laudāmus, </label>
           <item>_we praise the daughters of the sailors_, or _we praise the sailors' daughters_.</item>
         </list>
 
@@ -1531,29 +1535,29 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">fē'mina</label>
+          <label xml:lang="la">fē'mina, </label>
           <item>woman (_feminine_)</item>
-          <label xml:lang="la">fī'lia</label>
+          <label xml:lang="la">fī'lia, </label>
           <item>daughter (_filial_)</item>
-          <label xml:lang="la">fortū'na</label>
+          <label xml:lang="la">fortū'na, </label>
           <item>fortune (_fortunate_)</item>
-          <label xml:lang="la">poē'ta</label>
+          <label xml:lang="la">poē'ta, </label>
           <item>poet (_poetic_)</item>
-          <label xml:lang="la">rēgī'na</label>
+          <label xml:lang="la">rēgī'na, </label>
           <item>queen</item>
-          <label xml:lang="la">cu'ius</label>
+          <label xml:lang="la">cu'ius, </label>
           <item>_gen. of *quis* and of *quid*_, of whom? whose? of what?</item>
-          <label xml:lang="la">dēlec'tō</label>
+          <label xml:lang="la">dēlec'tō, </label>
           <item>_pres. stem *dēlectā-*_, delight, please (_delectable_)</item>
-          <label xml:lang="la">exspec'tō</label>
+          <label xml:lang="la">exspec'tō, </label>
           <item>_pres. stem *exspectā-*, wait, wait for (_expect_)</item>
-          <label xml:lang="la">fu'gō</label>
+          <label xml:lang="la">fu'gō, </label>
           <item>_pres. stem *fugā-*_, put to flight, rout</item>
-          <label xml:lang="la">lī'berō</label>
+          <label xml:lang="la">lī'berō, </label>
           <item>_pres. stem *līberā-*_, set free, free (_liberate_)</item>
-          <label xml:lang="la">por'tō</label>
+          <label xml:lang="la">por'tō, </label>
           <item>_pres. stem *portā-*_, carry, bring (_portable_)</item>
-          <label xml:lang="la">et'iam</label>
+          <label xml:lang="la">et'iam, </label>
           <item>_adv._, even</item>
         </list>
       </div>
@@ -1596,6 +1600,7 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="V">
+<head>Lesson V</head>
       <head>The Present Indicative Active of the Second Conjugation · Causal Clause with <w xml:lang="la">Quod</w></head>
 
       <div type="section" n="48">
@@ -1654,25 +1659,25 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">pecū'nia</label>
+          <label xml:lang="la">pecū'nia, </label>
           <item>money (_pecuniary_)</item>
-          <label xml:lang="la">pīrā'ta</label>
+          <label xml:lang="la">pīrā'ta, </label>
           <item>pirate (_piratical_)</item>
-          <label xml:lang="la">prae'da</label>
+          <label xml:lang="la">prae'da, </label>
           <item>booty, plunder (_predatory_)</item>
-          <label xml:lang="la">cūr</label>
+          <label xml:lang="la">cūr, </label>
           <item>_adv._, why?</item>
-          <label xml:lang="la">do'ceō, docēre</label>
+          <label xml:lang="la">do'ceō, docēre, </label>
           <item>teach, show (_docile_)</item>
-          <label xml:lang="la">ha'beō, habēre</label>
+          <label xml:lang="la">ha'beō, habēre, </label>
           <item>have, hold (_habit_)</item>
-          <label xml:lang="la">mo'neō, monēre</label>
+          <label xml:lang="la">mo'neō, monēre, </label>
           <item>advise, warn (_admonition_)</item>
-          <label xml:lang="la">ter'reō, terrēre</label>
+          <label xml:lang="la">ter'reō, terrēre, </label>
           <item>scare, frighten (_terror_)</item>
-          <label xml:lang="la">vi'deō, vidēre</label>
+          <label xml:lang="la">vi'deō, vidēre, </label>
           <item>see (_improvident_)</item>
-          <label xml:lang="la">quod</label>
+          <label xml:lang="la">quod, </label>
           <item>_conj._, because</item>
         </list>
       </div>
@@ -1682,10 +1687,10 @@
 
         <p>For the kinds of clauses in a complex sentence see XIX, XX.</p>
 
-<list type="gloss" subtype="examples">
-  <label xml:lang="la">Incolās monet quod pīrātae appropinquant</label>
-  <item>he warns the inhabitants because the pirates are approaching.</item>
-</list>
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">Incolās monet quod pīrātae appropinquant, </label>
+          <item>he warns the inhabitants because the pirates are approaching.</item>
+        </list>
 
         <div type="subsection" n="a">
           <p>Observe that *quod* introduces a dependent clause, which tells the reason, or cause, of what is stated in the independent part of the sentence. Such a *quod* clause is called a _causal clause_.</p>
@@ -1747,6 +1752,7 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="VI">
+<head>Lesson VI</head>
       <head>The Dative Case used as the Indirect Object · The Ablative used in Prepositional Phrases to show Place Where</head>
 
       <div type="section" n="54">
@@ -1759,25 +1765,25 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">do'mina</label>
+          <label xml:lang="la">do'mina, </label>
           <item>lady, mistress (of slaves) (_dominant_)</item>
-          <label xml:lang="la">fā'bula</label>
+          <label xml:lang="la">fā'bula, </label>
           <item>story (_fable_)</item>
-          <label xml:lang="la">īn'sula</label>
+          <label xml:lang="la">īn'sula, </label>
           <item>island (_peninsula_)</item>
-          <label xml:lang="la">vi'a</label>
+          <label xml:lang="la">vi'a, </label>
           <item>way, road, street (_viaduct_)</item>
-          <label xml:lang="la">in</label>
+          <label xml:lang="la">in, </label>
           <item>_prep. with abl._, in, on</item>
-          <label xml:lang="la">dēmōn'strō, dēmōnstrāre</label>
+          <label xml:lang="la">dēmōn'strō, dēmōnstrāre, </label>
           <item>point out, show (_demonstrate_)</item>
-          <label xml:lang="la">ha'bitō, habitāre</label>
+          <label xml:lang="la">ha'bitō, habitāre, </label>
           <item>dwell, live (_inhabitant_)</item>
-          <label xml:lang="la">ma'neō, manēre</label>
+          <label xml:lang="la">ma'neō, manēre, </label>
           <item>remain (_mansion_)</item>
-          <label xml:lang="la">nār'rō, nārrāre</label>
+          <label xml:lang="la">nār'rō, nārrāre, </label>
           <item>tell, relate (_narrator_)</item>
-          <label xml:lang="la">cui</label>
+          <label xml:lang="la">cui, </label>
           <item>_dat. of *quis* and of *quid*_, to whom? for whom? to what? for what?</item>
         </list>
       </div>
@@ -1786,7 +1792,7 @@
         <head>The Dative used as Indirect Object.</head>
 
         <list type="gloss" subtype="examples">
-          <label xml:lang="la">Cornēliae et puellīs fābulam nārrō</label>
+          <label xml:lang="la">Cornēliae et puellīs fābulam nārrō, </label>
           <item>_I am telling a story to Cornelia and the girls_, or _I am telling Cornelia and the girls a story_.</item>
         </list>
 
@@ -1809,7 +1815,7 @@
         <head>The Ablative used in Prepositional Phrases to show Place Where.</head>
 
         <list type="gloss" subtype="examples">
-          <label xml:lang="la">In terrā et in īnsulīs habitant</label>
+          <label xml:lang="la">In terrā et in īnsulīs habitant, </label>
           <item>_they live on the land and on the islands_.</item>
         </list>
 
@@ -1869,6 +1875,7 @@
     </div>
 
     <div type="chapter" subtype="lesson" n="VII">
+<head>Lesson VII</head>
       <head>The First Declension · Gender</head>
 
       <div type="section" n="63">
@@ -1958,25 +1965,25 @@
         <head>Vocabulary</head>
 
         <list type="gloss">
-          <label xml:lang="la">dīligen'tia, -ae</label>
+          <label xml:lang="la">dīligen'tia, -ae, </label>
           <item>_f._, diligence (_diligent_)</item>
-          <label xml:lang="la">fu'ga, -ae</label>
+          <label xml:lang="la">fu'ga, -ae, </label>
           <item>_f._, flight, rout (_refuge_)</item>
-          <label xml:lang="la">Germā'nia, -ae</label>
+          <label xml:lang="la">Germā'nia, -ae, </label>
           <item>_f._, Germany (_Germanic_)</item>
-          <label xml:lang="la">Grae'cia, -ae</label>
+          <label xml:lang="la">Grae'cia, -ae, </label>
           <item>_f._, Greece (_Grecian_)</item>
-          <label xml:lang="la">Ita'lia, -ae</label>
+          <label xml:lang="la">Ita'lia, -ae, </label>
           <item>_f._, Italy (_Italian_)</item>
-          <label xml:lang="la">por'ta, -ae</label>
+          <label xml:lang="la">por'ta, -ae, </label>
           <item>_f._, gate (_portal_)</item>
-          <label xml:lang="la">prōvin'cia, -ae</label>
+          <label xml:lang="la">prōvin'cia, -ae, </label>
           <item>_f._, province (_provincial_)</item>
-          <label xml:lang="la">pug'na, -ae</label>
+          <label xml:lang="la">pug'na, -ae, </label>
           <item>_f._, fight (_pugnacious_)</item>
-          <label xml:lang="la">sil'va, -ae</label>
+          <label xml:lang="la">sil'va, -ae, </label>
           <item>_f._, woods, forest (_silvan_)</item>
-          <label xml:lang="la">victō'ria, -ae</label>
+          <label xml:lang="la">victō'ria, -ae, </label>
           <item>_f._, victory (_victorious_)</item>
         </list>
 
@@ -2197,593 +2204,1151 @@
     </div>
 
 
-<div type="chapter" subtype="lesson" n="VIII">
-  <head>The Second Declension</head>
-
-73. *The Second Declension.* Most nouns of the second declension
-end in *-us* or *-um*. Those ending in *-us* are generally
-masculine; those in *-um* are neuter. *Hortus*, _garden_, and
-*dōnum*, _gift_, are inflected as follows:
-
-  SINGULAR
-
-                        CASE ENDINGS                  CASE ENDINGS
-  _Nom._  hor't*us*     *-us*           dō'n*um*      *-um*
-  _Gen._  hor't*ī*      *-ī*            dō'n*ī*       *-ī*
-  _Dat._  hor't*ō*      *-ō*            dō'n*ō*       *-ō*
-  _Acc._  hor't*um*     *-um*           dō'n*um*      *-um*
-  _Abl._  hor't*ō*      *-ō*            dō'n*ō*       *-ō*
-
-  PLURAL
-
-  _Nom._  hor't*ī*      *-ī*            dō'n*a*       *-a*
-  _Gen._  hort*ō'rum*   *-ōrum*         dōn*ō'rum*    *-ōrum*
-  _Dat._  hor't*īs*     *-īs*           dō'n*īs*      *-īs*
-  _Acc._  hor't*ōs*     *-ōs*           dō'n*a*       *-a*
-  _Abl._  hor't*īs*     *-īs*           dō'n*īs*      *-īs*
-
-a. Learn the case endings first. Then learn the inflection by
-adding the case endings to the base of each noun. Then practice
-the inflection of the nouns in section 74.
-
-b. What do you notice about the dative and the ablative plural of
-the first and second declensions? What cases are alike in the
-second declension?
-
-74. VOCABULARY
-
-  *amī'cus*, *-ī*, _m._, friend (_amicable_)
-  *do'minus*, *-ī*, _m._, master (of slaves) (_domineer_)
-  *dō'num*, *-ī*, _n._, gift, present (_donor_)
-  *e'quus*, *-ī*, _m._, horse (_equine_)
-  *frūmen'tum*, *-ī*, _n._, grain
-  *hor'tus*, *-ī*, _m._, garden (_horticulture_)
-  *Mār'cus*, *-ī*, _m._, Marcus
-  *op'pidum*, *-ī*, _n._, town
-  *ser'vus*, *-ī*, _m._, slave (_servile_)
-  *tribū'nus*, *-ī*, _m._, tribune (_tribunal_)
-
-EXERCISES
-
-75. 1. Oppidum videō. 2. Oppida vidēmus. 3. Dominusne servum
-monet? 4. Equum tribūnus spectat. 5. Equī dominōrum servōs
-dēlectant. 6. Mārcus amīcō fābulam nārrat. 7. Dominī amīcīs
-praedam dant. 8. In oppidīs amīcōs saepe convocāmus. 9. Servī
-appropinquant et frūmentum et aquam portant.
-
-76. 1. Who has the tribune's horse? 2. The servants now have the
-gifts of the masters. 3. Have you friends in the garden? 4. A
-servant carries the grain of the tribune. 5. Whose gift are they
-showing to Marcus? 6. We see the town and the gardens of the
-town.
-
-[Illustration (059-les8.png): RUINS OF AN AMPHITHEATER]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="IX">
-  <head>Adjectives of the First and Second Declensions</head>
-
-77. *Adjectives in Latin.* Latin adjectives, unlike English
-adjectives, are declined (XXII). There are two declensions of
-adjectives.
-
-78. *Adjectives of the First and Second Declensions.* One class
-of adjectives has in its masculine and neuter forms the case
-endings of the second declension, and in its feminine forms the
-case endings of the first declension: as, *bonus* (masc.), *bona*
-(fem.), *bonum* (neut.), _good_. Learn the full declension of
-*bonus* (643).
-
-79. _*Rule for the Agreement of Adjectives.* Adjectives agree
-with their nouns in gender, number, and case._
-
-          MASCULINE         FEMININE            NEUTER
-  _Nom._  hort*us* bon*us*  puell*a* bon*a*     dōn*um* bon*um*
-  _Gen._  hort*ī* bon*ī*    puell*ae* bon*ae*   dōn*ī* bon*ī*
-  _Dat._  hort*ō* bon*ō*    puell*ae* bon*ae*   dōn*ō* bon*ō*
-          etc.              etc.                etc.
-
-a. Complete the declension of the expressions given above.
-Decline together *amīcus bonus*, _good friend_; *fābula grāta*,
-_pleasing story_; *oppidum magnum*, _large town_.
-
-80. The rule given in 79 does not mean that adjectives must have
-the same case endings as the nouns they modify. An adjective
-modifying a masculine noun of the first declension will not have
-the same case endings as the noun. Thus,
-
-          SINGULAR                PLURAL
-  _Nom._  naut*a* bon*us*         naut*ae* bon*ī*
-  _Gen._  naut*ae* bon*ī*         naut*ārum* bon*ōrum*
-  _Dat._  naut*ae* bon*ō*         naut*īs* bon*īs*
-          etc.                    etc.
-
-a. Complete the declension of *nauta bonus*. Decline *poēta
-grātus*, _pleasing poet_.
-
-81. *Order of Words.* An adjective normally follows the noun
-which it modifies.
-
-82. VOCABULARY
-
-  *car'rus*, *-ī*, _m._, wagon, cart (_car_)
-  *ci'bus*, *-ī*, _m._, food
-  *pī'lum*, *-ī*, _n._, javelin
-  *rē'mus*, *-ī*, _m._, oar (_trireme_)
-  *ven'tus*, *-ī*, _m._, wind (_ventilate_)
-  *pro'bō*, *probāre*, approve, approve of (_approbation_)
-  *bo'nus*, *bo'na*, *bo'num*, good, kind (_bonus_)
-  *grā'tus*, *grā'ta*, *grā'tum*, pleasing, welcome (_gratitude_)
-  *mag'nus*, *mag'na*, *mag'num*, great, large (_magnitude_)
-  *va'lidus*, *va'lida*, *va'lidum*, strong, robust (_valid_)
-  *at'que*, _conj._, and also
-  *nōn*, _adv._, not (_nonexistent_)
-  *ubi*, _adv._, where? (_ubiquitous_)
-
-EXERCISES
-
-83. 1. Equōs magnōs spectāmus atque probāmus. 2. Tribūnus amīcō
-bonō pīlum dat. 3. Dōnum grātum nautae Iūliam dēlectat. 4. Nauta
-validus rēmōs validōs habet. 5. Servōs bonōs videt puella. 6.
-Nautās ventī magnī nōn terrent. 7. Ubi frūmentum agricolārum
-validōrum vidētis? 8. In carrō magnō frūmentum portant. 9.
-Pīrātae agricolās terrent quod pīla habent.
-
-84. 1. I have a large wagon. 2. The good master has a good slave.
-3. And he also gives the good slave a welcome gift. 4. Does the
-slave approve of the gift? 5. They do not live in a large town of
-Greece. 6. He is not calling together the good sailors. 7. Where
-do you see a large forest?
-
-[Illustration (061-les9.png)]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="X">
-  <head>The Present Indicative of <w xml:lang="la">Sum</w> · Predicate Noun and Predicate Adjective</head>
-
-85. *The Present Indicative of _Sum_.* The irregular verb *sum*,
-_I am_, is conjugated in the present indicative as follows:
-
-                SINGULAR                  PLURAL
-  _1st Pers._   su*m*, _I am_             su'*mus*, _we are_
-  _2d Pers._    e*s*, _you are_           es'*tis*, _you are_
-  _3d Pers._    es*t*, _he, she, it is_   su*nt*, _they are_
-
-86. *Predicate Noun and Predicate Adjective.* For the definition
-of a predicate noun and of a predicate adjective, see XV.
-
-  1. *Mārcus est agricola*, _Marcus is a farmer_.
-  2. *Nautae sunt amīcī*, _the sailors are friends_.
-  3. *Hortus est magnus*, _the garden is large_.
-  4. *Puellae sunt grātae*, _the girls are welcome_.
-
-a. Observe the case of *agricola*, *amīcī*, *magnus*, and
-*grātae* (XV, c).
-
-87. _*Rule for the Agreement of a Predicate Noun.* A predicate
-noun agrees in case with the subject of the verb._
-
-88. _*Rule for the Agreement of a Predicate Adjective.* A
-predicate adjective agrees in gender, number, and case with the
-subject of the verb._
-
-89. *Order of Words.* The verb *sum* generally has no emphasis
-(unless it begins the sentence), and it is placed in the sentence
-where it sounds best or where it adds clearness.
-
-In Latin phrases consisting of a monosyllabic preposition,
-adjective, and noun the order of the words is often adjective,
-preposition, noun: as, *magnō in oppidō*, _in the large town_.
-
-90. VOCABULARY
-
-  *bel'lum*, *-ī*, _n._, war (_belligerent_)
-  *Britan'nia*, *-ae*, _f._, Britain (_Britannic_)
-  *de'a*, *-ae*, _f._, goddess (_deity_)
-  *de'us*, *-ī*, _m._, god (_deify_)
-  *Eurō'pa*, *-ae*, _f._, Europe (_European_)
-  *Rō'ma*, *-ae*, _f._, Rome
-  *Rōmā'nus*, *-ī*, _m._, a Roman (_Roman_)
-  *Ves'ta*, *-ae*, _f._, Vesta (_vestal_)
-  *lā'tus*, *lā'ta*, *lā'tum*, wide, broad (_latitude_)
-  *lon'gus*, *lon'ga*, *lon'gum*, long (_longitude_)
-  *me'us*, *me'a*, *me'um*, my, mine
-  *no'vus*, *no'va*, *no'vum*, new (_novelty_)
-  *par'vus*, *par'va*, *par'vum*, small, little
-  *tu'us*, *tu'a*, *tu'um*, your, yours (referring to one owner)
-  *e'rat*, he, she, it was
-  *e'rant*, they were
-
-EXERCISES
-
-91. 1. Galba agricola est. 2. Galba est validus. 3. Iūlia et
-Cornēlia sunt fīliae meae. 4. Fīlia mea est parva. 5. Estne
-oppidum tuum magnum? 6. Britannia est īnsula Eurōpae. 7. Vesta
-erat dea Rōmae. 8. Carrī Rōmānōrum bonī et validī erant. 9. Nōn
-grātum est bellum. 10. Bella nōn grāta sunt. 11. Graecia est
-terra parva Eurōpae. 12. Sumus amīcī tribūnī. 13. Magnō in oppidō
-viās lātās vidēmus.
-
-92. 1. The streets of the town are long. 2. The streets of Rome
-were not broad. 3. The roads of Britain are broad and long. 4.
-Where are you? 5. The new gifts of the tribune are pleasing. 6.
-We praise the gods because they give gifts. 7. We are Romans, but
-we are living in Britain.
-
-[Illustration (063-inset1.png): WITHIN A ROMAN HOUSE]
-
-[Illustration (065-les10.png): PUERI PUELLAEQUE]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="XI">
-  <head>Apposition</head>
-
-93. *Apposition.*
-
-  1. *Galba, tribūnus, pīlum habet*, _Galba, the tribune, has a
-    javelin_.
-  2. *Mārcum amīcum amō*, _I love (my) friend Marcus_.
-
-a. Observe that *tribūnus* denotes the same person as *Galba*,
-and is joined to *Galba* as a descriptive or explanatory noun;
-and that *amīcum* is related in the same way to *Mārcum*. Such
-words are called _appositives_.
-
-94. _*Rule for Apposition.* An appositive agrees in case with the
-noun which it explains._
-
-95. VOCABULARY
-
-  *clā'rus*, *-a*, *-um*, famous, clear (_clarify_)
-  *dē*, _prep. with abl._, from, concerning (_depend_)
-  *ōce'anus*, *-ī*, _m._, ocean (_oceanic_)
-  *pa'rō*, *parāre*, prepare, get ready (_prepare_)
-  *pa'tria*, *-ae*, _f._, native land, country (_patriotism_)
-  *tem'plum*, *-ī*, _n._, temple
-
-CORNELIA ET IULIA
-
-96. Cornēlia et Iūlia puellae parvae sunt. Ubi habitant? Nōn in
-Graeciā, sed clārō in oppidō Italiae habitant. Incolae Rōmae
-sunt. Italia patria Rōmānōrum est. Rōma viās lātās et templa
-magna habet. Rōmānī bella amant et probant.
-
-Poētae fīlia est Cornēlia. Poēta lātīs in hortīs saepe ambulat.
-Atque dē bellō longō et fugā incolārum Germāniae cantat, quod
-victōriam Rōmānōrum probat.
-
-Iūlia fīlia agricolae validī est. Agricola equōs et carrōs novōs
-habet. Cibum et frūmentum equī agricolae portant. Servī agricolae
-equīs aquam dant. Iūlia equōs amat et servōs laudat. Bonus
-dominus est agricola.
-
-Mārcus et Galba, tribūnī, amīcī puellārum sunt. Mārcus poētae
-amīcus est et fābulās grātās Cornēliae nārrat. Galba Iūliae
-silvās et īnsulās ōceani dēmōnstrat.
-
-Fēmina bona puellās docet. Dīligentia Cornēliae fēminam dēlectat.
-In hortō poētae puellās convocat et fābulās nārrat. Fābulae dē
-bellō puellās parvās terrent.
-
-Saepe Vestae dōna parant. Quis est Vesta? Vesta dea Rōmānōrum est
-et templum habet. Saepe in viīs Rōmae puellae ambulant et praedam
-Germāniae et Britanniae spectant.
-
-[Illustration (067-les11.png): TEMPLUM]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="XII">
-  <head>The Second Declension: Nouns in <m xml:lang="la" type="suffix">-er</m>, <m xml:lang="la" type="suffix">-ir</m>, <m xml:lang="la" type="suffix">-ius</m>, and <m xml:lang="la" type="suffix">-ium</m></head>
-
-97. *Nouns of the Second Declension in _-er_ and _-ir_.* Some
-nouns of the second delcension end in *-er* and *-ir*. They are
-slightly different from *hortus* in their inflection:
-
-  SINGULAR
-
-  _Nom._  pu'er             a'ger             vir
-  _Gen._  pu'er*ī*          a'gr*ī*           vi'r*ī*
-  _Dat._  pu'er*ō*          a'gr*ō*           vi'r*ō*
-  _Acc._  pu'er*um*         a'gr*um*          vi'r*um*
-  _Abl._  pu'er*ō*          a'gr*ō*           vi'r*ō*
-
-  PLURAL
-
-  _Nom._  pu'er*ī*          a'gr*ī*           vi'r*ī*
-  _Gen._  puer*ō'rum*       agr*ō'rum*        vir*ō'rum*
-  _Dat._  pu'er*īs*         a'gr*īs*          vi'r*īs*
-  _Acc._  pu'er*ōs*         a'gr*ōs*          vi'r*ōs*
-  _Abl._  pu'er*īs*         a'gr*īs*          vi'r*īs*
-
-a. Observe that these nouns are declined in the same way as
-*hortus* except that they lack the ending *-us* in the nominative
-singular. *Ager* is like *puer* except that *e* before *r* occurs
-only in the nominative singular.
-
-98. *Nouns of the Second Declension in _-ius_ and _-ium_.* Nouns
-of the second declension ending in *-ius* and *-ium* contract the
-genitive ending *-iī* to *-ī*. The accent remains on the same
-syllable as in the nominative: *auxi'lium*, gen. *auxi'lī*. Learn
-the declension of *fīlius* and *proelium* (637).
-
-99. *Gender of Nouns of the Second Declension.* Nouns of the
-second declension ending in *-um* are neuter; most others are
-masculine.
-
-100. VOCABULARY
-
-  *a'ger*, *agrī*, _m._, field (_agriculture_) [1]
-  *auxi'lium*, *auxi'lī*, _n._, aid, help (_auxiliary_)
-  *fī'lius*, *fīlī*, _m._, son (_filial_)
-  *gla'dius*, *gladī*, _m._, sword (_gladiator_)
-  *nūn'tius*, *nūntī*, _m._, messenger (_pronunciation_)
-  *prae'mium*, *praemī*, _n._, reward (_premium_)
-  *proe'lium*, *proelī*, _n._, battle
-  *pu'er*, *puerī*, _m._, boy (_puerile_)
-  *so'cius*, *socī*, _m._, comrade, ally (_associate_)
-  *vir*, *virī*, _m._, man (_virile_)
-
-EXERCISES
-
-101. 1. Fīliī virōrum in Britanniā sunt. 2. Virī erant sociī. 3.
-Nūntius sociōrum sum. 4. Puerōs parvōs, fīliōs tribūnī,
-exspectāmus. 5. Puerī gladium et pīlum Mārcī habent. 6. Quis virō
-viam dēmōnstrat? 7. Proelium est longum et sociī auxilium
-exspectant. 8. In agrō labōrant vir et fīliī nūntī. 9. Cūr virīs
-praemia nunc datis?
-
-102. 1. The son of the messenger is a small boy. 2. We see your
-sword, but we have not your javelin. 3. They frighten the little
-boys and the woman. 4. The men are putting the allies to flight.
-5. Where do the messengers live? 6. I have my son's sword. 7.
-Wars and battles delight the Romans.
-
-[1] The spelling of the English derivatives _agriculture_,
-_puerile_, and _virile_ will help you to recall the spelling of
-the genitives of *ager*, *puer*, and *vir*.
-
-[Illustration (069-les12.png)]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="XIII">
-  <head>Adjectives of the First and Second Declensions ending in <m xml:lang="la" type="suffix">-er</m></head>
-
-103. *Adjectives of the First and Second Declensions in _-er_.*
-Some adjectives of the first and second declensions end in *-er*
-in the nominative singular masculine. Their inflection resembles
-that of *puer* and of *ager*.
-
-a. Learn the declension of *līber* and *noster* (643).
-
-b. Observe that *līber* retains the *e* in all forms, as *puer*
-does, while *noster*, like *ager*, has no *e* after the
-nominative.
-
-c. Decline *mister*, _wretched_, like *līber*. The other
-adjectives in this book that end in *-er* are declined like
-*noster*.
-
-d. Decline together *vir līber*, _free man_; *fēmina misera*,
-_poor woman_; *bellum miserum*, _wretched war_; *poēta līber*,
-_free poet_; *amīcus noster*, _our friend_.
-
-104. VOCABULARY
-
-  *lī'ber*, *lī'bera*, *lī'berum*, free (_liberal_)
-  *mi'ser*, *mi'sera*, *mi'serum*, poor, unhappy, wretched
-    (_miserable_)
-  *mul'tus*, *mul'ta*, *mul'tum*, much (_multitude_)
-  *mul'tī*, *mul'tae*, *mul'ta*, many
-  *nos'ter*, *nos'tra*, *nos'trum*, our (_nostrum_)
-  *su'perō*, *superāre*, surpass, defeat, overcome, conquer
-    (_insuperable_)
-  *ves'ter*, *ves'tra*, *ves'trum*, your (of more than one owner)
-  *vo'cō*, *vocāre*, call (_vocation_)
-
-EXERCISES
-
-105. 1. Equōs in agrō Mārcī amīcī videō. 2. Nūntius miser fābulam
-miseram dē fugā sociōrum nārrat. 3. Vestrīs amīcīs praemia dant.
-4. Pecūnia, dōnum Cornēliae, fīlium nostrum dēlectat. 5. Sumus
-virī in oppidō līberō. 6. Deae Graeciae multae erant. 7. Socius
-noster est miser, quod gladium nōn habet. 8. Rōmānōs in proeliō
-superant. 9. Vocatne fīlius tuus? 10. Dominō servus miser cibum
-parat.
-
-106. 1. Our friends, Margus and Galba, are wretched. 2. There are
-many carts in the streets of our town. 3. She calls together the
-unhappy sons of the messengers. 4. Where do you see your horse?
-5. The winds do not frighten the sailors. 6. We are sons of free
-men. 7. I have a javelin, the gift of a friend.
-
-DE GRAECIA
-
-107. Graecia, terra parva, prōvincia Rōmānōrum erat. Athēnae,
-Sparta, Thēbae, Corinthus clāra oppida Graeciae erant. In oppidīs
-erant templa multa deōrum et deārum. In viīs oppidōrum statuae
-(_statues_) multae virōrum clārōrum erant. Incolae nōn erant
-miserī. Quis incolās Graeciae nōn laudat?
-
-[Illustration (071-les13.png): A RESTORATION OF THE ROMAN FORUM]
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="XIV">
-  <head>The Imperfect and Future Indicative of <w xml:lang="la">Sum</w> · The Dative with Adjectives</head>
-
-108. *The Imperfect Indicative of _Sum_.* The imperfect
-indicative of *sum* is inflected as follows:
-
-     SINGULAR                               PLURAL
-  1. e'ra*m*, _I was                        erā'*mus*, _we were_
-  2. e'rā*s*, _you were_                    erā'*tis*, _you were_
-  3. e'ra*t*, _he, she, it was_             e'ra*nt*, _they were_
-
-
-109. *The Future Indicative of _Sum_.* The future indicative of
-*sum* is inflected as follows:
-
-     SINGULAR                               PLURAL
-  1. e'r*ō*, _I shall be_                   e'ri*mus*, _we shall be_
-  2. e'ri*s*, _you will be_                 e'ri*tis*, _you will be_
-  3. e'ri*t*, _he, she, it will be_         e'ru*nt*, _they will be_
-
-
-110. *The Dative with Adjectives.*
-
-  *Dōnum puerō erit grātum*, _the gift will be pleasing to the
-    boy_.
-
-a. Observe that *puerō* is translated with the adjective
-*grātum*, _pleasing to the boy_. Certain Latin adjectives,
-particularly those meaning _near_, _fit_, _friendly_, _pleasing_,
-_like_, and their opposites, are thus followed by the case
-expressing _to_ or _for_, exactly as they are followed in English
-by a phrase beginning with _to_ or _for_: as, _fit for war_,
-_unfriendly to us_. This usage is known as the _Dative with
-Adjectives_.
-
-111. _*Rule for the Dative with Adjectives.* Certain adjectives
-meaning *near*, *fit*, *friendly*, *pleasing*, *like*, and their
-opposites, may be accompanied by a dative to show the person or
-the thing toward which the quality of the adjective is directed._
-
-112. VOCABULARY
-
-  *amī'cus*, *-a*, *-um*, friendly
-  *cer'te*, _adv._, certainly
-  *fīni'tiumus*, *-a*, *-um*, neighboring, near (_affinity_)
-  *idō'neus*, *-a*, *-um*, fit, suitable
-  *inimī'cus*, *-a*, *-um*, unfriendly, hostile (_inimical_)
-  *iniū'ria*, *-ae*, _f._, injustice, wrong (_injury_)
-  *in'terim*, _adv._, meanwhile (_interim_)
-  *li'ber*, *librī*, _m._, book (_library_)
-  *propin'quus*, *-a*, *-um*, near (_propinquity_)
-  *pro'ximus*, *-a*, *-um*, nearest, next, very near
-    (_proximity_)
-
-EXERCISES
-
-113. 1. Est, erat, erit. 2. Sunt, erant, erunt. 3. Sumus, erāmus,
-erimus. 4. Sum, eram, erō. 5. Es, erās, eris. 6. Estis, erātis,
-eritis. 7. Certē erāmus inimīcī Mārcō, vestrō fīliō. 8. Proximī
-oppidō erant multī agrī. 9. Iniūriae sociōrum multae erunt. 10.
-Īnsulam terrae propinquam videō. 11. Ventī nautīs nōn erunt
-grātī. 12. Agricolae bellō longō idōneī nōn erant. 13. Interim
-vestrīs fīliīs erimus amīcī. 14. Gladiī atque pīla proeliō idōnea
-[1] sunt.
-
-114. 1. I am, we are. 2. Where were we? I was in the town. 3. I
-shall be, we shall be. 4. Is he a tribune? They are allies. 5.
-Meanwhile you will be a free man. 6. Our towns are near Greece.
-7. In our towns the men are unfriendly to Rome. 8. There will be
-[2] a great battle in Britain. 9. The books will certainly be
-welcome to my friend Marcus.
-
-[1] The predicate adjective *idōnea* is neuter because the two
-subjects are things without life.
-
-[2] Express _there will be_ by *erit*, and place *erit* at the
-beginning of the sentence. How do you say _there are_? _there
-is_? _there were_?
-
-[Illustration (073-les14.png): GLADIUS]
-</div>
-
-<div type="chapter" subtype="review" n="2">
-  <head>Second Review Lesson</head>
-  <head>Lessons VIII–XIV</head>
-
-115. Give the English meanings of the following words:
-
-  ager             deus        interim   nūntius      rēmus
-  amīcus, _noun_   dominus     lātus     ōceanus      servus
-  amīcus, _adj._   dōnum       liber     oppidum      socius
-  atque            equus       līber     parō         superō
-  auxilium         fīlius      longus    parvus       templum
-  bellum           fīnitimus   magnus    patria       tribūnus
-  bonux            frūmentum   meus      pīlum        tuus
-  carrus           gladius     mister    praemium     ubi
-  certē            grātus      multus    probō        validus
-  cibus            hortus      multī     proelium     ventus
-  clārus           idōneus     nōn       propinquus   vester
-  dē               inimīcus    noster    proximus     vir
-  dea              iniūria     novus     puer         vocō
-
-116. Give the Latin meanings of the following words:
-
-  garden               from, concerning                    strong, robust
-  many                 where?                              native land, country
-  oar                  son                                 great, large
-  man                  war                                 your (_sing._)
-  call                 comrade, ally                       slave
-  god                  meanwhile                           aid, help
-  long                 horse                               near
-  sword                wind                                nearest, next
-  goddess              boy                                 javelin
-  food                 good, kind                          unfriendly
-  much                 not                                 new
-  grain                messenger                           battle
-  approve, approve of  famous                              get ready
-  injustice, wrong     friendly                            certainly
-  friend               field                               book
-  tribune              small, little                       fit, suitable
-  your (_plur._)       gift                                free
-  temple               pleasing, welcome                   our
-  my, mine             surpass, defeat, overcome, conquer  town
-  master               wide, broad                         reward
-  cart                 neighboring, near                   ocean
-  and also             poor, unhappy, wretched
-
-117. Decline each noun and adjective in 115. Conjugate each verb
-in the present indicative active. Give the genitive singular of
-each noun; give the other cases, in the singular and the plural.
-Conjugate *sum* in the imperfect and future indicative.
-
-118. Following the suggestions in 634, give English words derived
-from the Latin words in 115. Define these derivatives, and
-illustrate each by an English sentence.
-
-119. Give the rule for the following constructions, and
-illustrate each by a sentence in Latin:
-
-  1. Agreement of adjectives
-  2. Predicate noun
-  3. Predicate adjective
-  4. Apposition
-  5. Dative with adjectives
-
-[Illustration (075-rev2.png): A ROMAN BOY · A ROMAN GIRL]
-
-
-
-</div>
+    <div type="chapter" subtype="lesson" n="VIII">
+<head>Lesson VIII</head>
+      <head>The Second Declension</head>
+
+      <div type="section" n="73">
+        <head>The Second Declension.</head>
+
+        <p>Most nouns of the second declension end in *-us* or *-um*. Those ending in *-us* are generally masculine; those in *-um* are neuter. *Hortus*, _garden_, and *dōnum*, _gift_, are inflected as follows:
+        <table rows="6" cols="5">
+          <head>Singular</head>
+
+          <row role="label">
+            <cell/>
+            <cell cols="2">Case Endings</cell>
+            <cell cols="2">Case Endings</cell>
+          </row>
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">hor't*us*</cell>
+            <cell xml:lang="la">*-us*</cell>
+            <cell xml:lang="la">dō'n*um*</cell>
+            <cell xml:lang="la">*-um*</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">hor't*ī*</cell>
+            <cell xml:lang="la">*-ī*</cell>
+            <cell xml:lang="la">dō'n*ī*</cell>
+            <cell xml:lang="la">*-ī*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">hor't*ō*</cell>
+            <cell xml:lang="la">*-ō*</cell>
+            <cell xml:lang="la">dō'n*ō*</cell>
+            <cell xml:lang="la">*-ō*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">hor't*um*</cell>
+            <cell xml:lang="la">*-um*</cell>
+            <cell xml:lang="la">dō'n*um*</cell>
+            <cell xml:lang="la">*-um*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">hor't*ō*</cell>
+            <cell xml:lang="la">*-ō*</cell>
+            <cell xml:lang="la">dō'n*ō*</cell>
+            <cell xml:lang="la">*-ō*</cell>
+          </row>
+        </table>
+        <table rows="5" cols="5">
+          <head>Plural</head>
+
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">hor't*ī*</cell>
+            <cell xml:lang="la">*-ī*</cell>
+            <cell xml:lang="la">dō'n*a*</cell>
+            <cell xml:lang="la">*-a*</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">hort*ō'rum*</cell>
+            <cell xml:lang="la">*-ōrum*</cell>
+            <cell xml:lang="la">dōn*ō'rum*</cell>
+            <cell xml:lang="la">*-ōrum*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">hor't*īs*</cell>
+            <cell xml:lang="la">*-īs*</cell>
+            <cell xml:lang="la">dō'n*īs*</cell>
+            <cell xml:lang="la">*-īs*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">hor't*ōs*</cell>
+            <cell xml:lang="la">*-ōs*</cell>
+            <cell xml:lang="la">dō'n*a*</cell>
+            <cell xml:lang="la">*-a*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">hor't*īs*</cell>
+            <cell xml:lang="la">*-īs*</cell>
+            <cell xml:lang="la">dō'n*īs*</cell>
+            <cell xml:lang="la">*-īs*</cell>
+          </row>
+        </table></p>
+
+        <div type="subsection" n="a">
+          <p>Learn the case endings first. Then learn the inflection by adding the case endings to the base of each noun. Then practice the inflection of the nouns in section 74.</p>
+        </div>
+
+        <div type="subsection" n="b">
+          <p>What do you notice about the dative and the ablative plural of the first and second declensions? What cases are alike in the second declension?</p>
+        </div>
+      </div>
+
+      <div type="section" n="74">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">amī'cus, -ī, </label>
+          <item>_m._, friend (_amicable_)</item>
+          <label xml:lang="la">do'minus, -ī, </label>
+          <item>_m._, master (of slaves) (_domineer_)</item>
+          <label xml:lang="la">dō'num, -ī, </label>
+          <item>_n._, gift, present (_donor_)</item>
+          <label xml:lang="la">e'quus, -ī, </label>
+          <item>_m._, horse (_equine_)</item>
+          <label xml:lang="la">frūmen'tum, -ī, </label>
+          <item>_n._, grain</item>
+          <label xml:lang="la">hor'tus, -ī, </label>
+          <item>_m._, garden (_horticulture_)</item>
+          <label xml:lang="la">Mār'cus, -ī, </label>
+          <item>_m._, Marcus</item>
+          <label xml:lang="la">op'pidum, -ī, </label>
+          <item>_n._, town</item>
+          <label xml:lang="la">ser'vus, -ī, </label>
+          <item>_m._, slave (_servile_)</item>
+          <label xml:lang="la">tribū'nus, -ī, </label>
+          <item>_m._, tribune (_tribunal_)</item>
+        </list>
+      </div>
+
+      <div type="exercises">
+        <div type="section" n="75">
+          <list xml:lang="la" type="exercises">
+            <item>Oppidum videō.</item>
+            <item>Oppida vidēmus.</item>
+            <item>Dominusne servum monet?</item>
+            <item>Equum tribūnus spectat.</item>
+            <item>Equī dominōrum servōs dēlectant.</item>
+            <item>Mārcus amīcō fābulam nārrat.</item>
+            <item>Dominī amīcīs praedam dant.</item>
+            <item>In oppidīs amīcōs saepe convocāmus.</item>
+            <item>Servī appropinquant et frūmentum et aquam portant.</item>
+          </list>
+        </div>
+
+        <div type="section" n="76">
+          <list type="exercises">
+            <item>Who has the tribune's horse?</item>
+            <item>The servants now have the gifts of the masters.</item>
+            <item>Have you friends in the garden?</item>
+            <item>A servant carries the grain of the tribune.</item>
+            <item>Whose gift are they showing to Marcus?</item>
+            <item>We see the town and the gardens of the town.</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/059-les8.png"/>
+
+        <head>Ruins of an Amphitheater</head>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="IX">
+<head>Lesson IX</head>
+      <head>Adjectives of the First and Second Declensions</head>
+
+      <div type="section" n="77">
+        <head>Adjectives in Latin.</head>
+
+        <p>Latin adjectives, unlike English adjectives, are declined (XXII). There are two declensions of adjectives.</p>
+      </div>
+
+      <div type="section" n="78">
+        <head>Adjectives of the First and Second Declensions.</head>
+
+        <p>One class of adjectives has in its masculine and neuter forms the case endings of the second declension, and in its feminine forms the case endings of the first declension: as, *bonus* (masc.), *bona* (fem.), *bonum* (neut.), _good_. Learn the full declension of *bonus* (643).</p>
+      </div>
+
+      <div type="section" subtype="rule" n="79">
+        <head>Rule for the Agreement of Adjectives.</head>
+
+        <p>Adjectives agree with their nouns in gender, number, and case.</p>
+
+        <table rows="5" cols="4">
+          <row role="label">
+            <cell/>
+            <cell>Masculine</cell>
+            <cell>Feminine</cell>
+            <cell>Neuter</cell>
+          </row>
+          <row>
+            <cell role="label">_Nom._</cell>
+            <cell xml:lang="la">hort*us* bon*us*</cell>
+            <cell xml:lang="la">puell*a* bon*a*</cell>
+            <cell xml:lang="la">dōn*um* bon*um*</cell>
+          </row>
+          <row>
+            <cell role="label">_Gen._</cell>
+            <cell xml:lang="la">hort*ī* bon*ī*</cell>
+            <cell xml:lang="la">puell*ae* bon*ae*</cell>
+            <cell xml:lang="la">dōn*ī* bon*ī*</cell>
+          </row>
+          <row>
+            <cell role="label">_Dat._</cell>
+            <cell xml:lang="la">hort*ō* bon*ō*</cell>
+            <cell xml:lang="la">puell*ae* bon*ae*</cell>
+            <cell xml:lang="la">dōn*ō* bon*ō*</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell xml:lang="la">etc.</cell>
+            <cell xml:lang="la">etc.</cell>
+            <cell xml:lang="la">etc.</cell>
+          </row>
+        </table>
+
+        <div type="subsection" n="a">
+          <p>Complete the declension of the expressions given above. Decline together *amīcus bonus*, _good friend_; *fābula grāta*, _pleasing story_; *oppidum magnum*, _large town_.</p>
+        </div>
+      </div>
+
+      <div type="section" n="80">
+        <p>The rule given in 79 does not mean that adjectives must have the same case endings as the nouns they modify. An adjective modifying a masculine noun of the first declension will not have the same case endings as the noun. Thus,
+        <table rows="5" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">_Nom._</cell>
+            <cell xml:lang="la">naut*a* bon*us*</cell>
+            <cell xml:lang="la">naut*ae* bon*ī*</cell>
+          </row>
+          <row>
+            <cell role="label">_Gen._</cell>
+            <cell xml:lang="la">naut*ae* bon*ī*</cell>
+            <cell xml:lang="la">naut*ārum* bon*ōrum*</cell>
+          </row>
+          <row>
+            <cell role="label">_Dat._</cell>
+            <cell xml:lang="la">naut*ae* bon*ō*</cell>
+            <cell xml:lang="la">naut*īs* bon*īs*</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>etc.</cell>
+            <cell>etc.</cell>
+          </row>
+        </table></p>
+        <div type="subsection" n="a">
+          <p>Complete the declension of *nauta bonus*. Decline *poēta grātus*, _pleasing poet_.</p>
+        </div>
+      </div>
+
+      <div type="section" n="81">
+        <head>Order of Words.</head>
+
+        <p>An adjective normally follows the noun which it modifies.</p>
+      </div>
+
+      <div type="section" n="82">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">car'rus, -ī, </label>
+          <item>_m._, wagon, cart (_car_)</item>
+          <label xml:lang="la">ci'bus, -ī, </label>
+          <item>_m._, food</item>
+          <label xml:lang="la">pī'lum, -ī, </label>
+          <item>_n._, javelin</item>
+          <label xml:lang="la">rē'mus, -ī, </label>
+          <item>_m._, oar (_trireme_)</item>
+          <label xml:lang="la">ven'tus, -ī, </label>
+          <item>_m._, wind (_ventilate_)</item>
+          <label xml:lang="la">pro'bō, probāre, </label>
+          <item>approve, approve of (_approbation_)</item>
+          <label xml:lang="la">bo'nus, bo'na, bo'num, </label>
+          <item>good, kind (_bonus_)</item>
+          <label xml:lang="la">grā'tus, grā'ta, grā'tum, </label>
+          <item>pleasing, welcome (_gratitude_)</item>
+          <label xml:lang="la">mag'nus, mag'na, mag'num, </label>
+          <item>great, large (_magnitude_)</item>
+          <label xml:lang="la">va'lidus, va'lida, va'lidum, </label>
+          <item>strong, robust (_valid_)</item>
+          <label xml:lang="la">at'que, </label>
+          <item>_conj._, and also</item>
+          <label xml:lang="la">nōn, </label>
+          <item>_adv._, not (_nonexistent_)</item>
+          <label xml:lang="la">ubi, </label>
+          <item>_adv._, where? (_ubiquitous_)</item>
+        </list>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="83">
+          <list xml:lang="la" type="exercises">
+            <item>Equōs magnōs spectāmus atque probāmus.</item>
+            <item>Tribūnus amīcō bonō pīlum dat.</item>
+            <item>Dōnum grātum nautae Iūliam dēlectat.</item>
+            <item>Nauta validus rēmōs validōs habet.</item>
+            <item>Servōs bonōs videt puella.</item>
+            <item>Nautās ventī magnī nōn terrent.</item>
+            <item>Ubi frūmentum agricolārum validōrum vidētis?</item>
+            <item>In carrō magnō frūmentum portant.</item>
+            <item>Pīrātae agricolās terrent quod pīla habent.</item>
+          </list>
+        </div>
+
+        <div type="section" n="84">
+          <list type="exercises">
+            <item>I have a large wagon.</item>
+            <item>The good master has a good slave.</item>
+            <item>And he also gives the good slave a welcome gift.</item>
+            <item>Does the slave approve of the gift?</item>
+            <item>They do not live in a large town of Greece.</item>
+            <item>He is not calling together the good sailors.</item>
+            <item>Where do you see a large forest?</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/061-les9.png"/>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="X">
+<head>Lesson X</head>
+      <head>The Present Indicative of <w xml:lang="la">Sum</w> · Predicate Noun and Predicate Adjective</head>
+
+      <div type="section" n="85">
+        <head>The Present Indicative of _Sum_.</head>
+
+        <p>The irregular verb *sum*, _I am_, is conjugated in the present indicative as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1st Pers.</cell>
+            <cell>su*m*, _I am_</cell>
+            <cell>su'*mus*, _we are_</cell>
+          </row>
+          <row>
+            <cell role="label">2d Pers.</cell>
+            <cell>e*s*, _you are_</cell>
+            <cell>es'*tis*, _you are_</cell>
+          </row>
+          <row>
+            <cell role="label">3d Pers.</cell>
+            <cell>es*t*, _he, she, it is_</cell>
+            <cell>su*nt*, _they are_</cell>
+          </row>
+        </table></p>
+      </div>
+
+
+      <div type="section" n="86">
+        <head>Predicate Noun and Predicate Adjective.</head>
+
+        <p>For the definition of a predicate noun and of a predicate adjective, see XV.</p>
+        <list type="gloss" subtype="examples" rend="ordered">
+          <label xml:lang="la">Mārcus est agricola, </label>
+          <item>_Marcus is a farmer_.</item>
+          <label xml:lang="la">Nautae sunt amīcī, </label>
+          <item>_the sailors are friends_.</item>
+          <label xml:lang="la">Hortus est magnus, </label>
+          <item>_the garden is large_.</item>
+          <label xml:lang="la">Puellae sunt grātae, </label>
+          <item>_the girls are welcome_.</item>
+        </list>
+        <div type="subsection" n="a">
+          <p>Observe the case of *agricola*, *amīcī*, *magnus*, and *grātae* (XV, c).</p>
+        </div>
+      </div>
+
+      <div type="section" subtype="rule" n="87">
+        <head>Rule for the Agreement of a Predicate Noun.</head>
+
+        <p>A predicate noun agrees in case with the subject of the verb.</p>
+      </div>
+
+      <div type="section" subtype="rule" n="88">
+        <head>Rule for the Agreement of a Predicate Adjective.</head>
+
+        <p>A predicate adjective agrees in gender, number, and case with the subject of the verb.</p>
+      </div>
+
+      <div type="section" n="89">
+        <head>Order of Words.</head>
+
+        <p>The verb *sum* generally has no emphasis (unless it begins the sentence), and it is placed in the sentence where it sounds best or where it adds clearness.</p>
+
+        <p>In Latin phrases consisting of a monosyllabic preposition, adjective, and noun the order of the words is often adjective, preposition, noun: as, *magnō in oppidō*, _in the large town_.</p>
+      </div>
+
+      <div type="section" n="90">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">bel'lum, -ī, </label>
+          <item>_n._, war (_belligerent_)</item>
+          <label xml:lang="la">Britan'nia, -ae, </label>
+          <item>_f._, Britain (_Britannic_)</item>
+          <label xml:lang="la">de'a, -ae, </label>
+          <item>_f._, goddess (_deity_)</item>
+          <label xml:lang="la">de'us, -ī, </label>
+          <item>_m._, god (_deify_)</item>
+          <label xml:lang="la">Eurō'pa, -ae, </label>
+          <item>_f._, Europe (_European_)</item>
+          <label xml:lang="la">Rō'ma, -ae, </label>
+          <item>_f._, Rome</item>
+          <label xml:lang="la">Rōmā'nus, -ī, </label>
+          <item>_m._, a Roman (_Roman_)</item>
+          <label xml:lang="la">Ves'ta, -ae, </label>
+          <item>_f._, Vesta (_vestal_)</item>
+          <label xml:lang="la">lā'tus, lā'ta, lā'tum, </label>
+          <item>wide, broad (_latitude_)</item>
+          <label xml:lang="la">lon'gus, lon'ga, lon'gum, </label>
+          <item>long (_longitude_)</item>
+          <label xml:lang="la">me'us, me'a, me'um, </label>
+          <item>my, mine</item>
+          <label xml:lang="la">no'vus, no'va, no'vum, </label>
+          <item>new (_novelty_)</item>
+          <label xml:lang="la">par'vus, par'va, par'vum, </label>
+          <item>small, little</item>
+          <label xml:lang="la">tu'us, tu'a, tu'um, </label>
+          <item>your, yours (referring to one owner)</item>
+          <label xml:lang="la">e'rat, </label>
+          <item>he, she, it was</item>
+          <label xml:lang="la">e'rant, </label>
+          <item>they were</item>
+        </list>
+      </div>
+
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="91">
+          <list xml:lang="la" type="exercises">
+            <item>Galba agricola est.</item>
+            <item>Galba est validus.</item>
+            <item>Iūlia et Cornēlia sunt fīliae meae.</item>
+            <item>Fīlia mea est parva.</item>
+            <item>Estne oppidum tuum magnum?</item>
+            <item>Britannia est īnsula Eurōpae.</item>
+            <item>Vesta erat dea Rōmae.</item>
+            <item>Carrī Rōmānōrum bonī et validī erant.</item>
+            <item>Nōn grātum est bellum.</item>
+            <item>Bella nōn grāta sunt.</item>
+            <item>Graecia est terra parva Eurōpae.</item>
+            <item>Sumus amīcī tribūnī.</item>
+            <item>Magnō in oppidō viās lātās vidēmus.</item>
+          </list>
+        </div>
+
+        <div type="section" n="92">
+          <list type="exercises">
+            <item>The streets of the town are long.</item>
+            <item>The streets of Rome were not broad.</item>
+            <item>The roads of Britain are broad and long.</item>
+            <item>Where are you?</item>
+            <item>The new gifts of the tribune are pleasing.</item>
+            <item>We praise the gods because they give gifts.</item>
+            <item>We are Romans, but we are living in Britain.</item>
+          </list>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/063-inset1.png"/>
+
+        <head>Within a Roman House</head>
+      </figure>
+
+      <figure type="illustration">
+        <graphic url="images/065-les10.png"/>
+
+        <head>Puerī Puellaeque</head>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="XI">
+<head>Lesson XI</head>
+      <head>Apposition</head>
+
+      <div type="section" n="93">
+        <head>Apposition.</head>
+
+        <list type="gloss" subtype="examples" rend="ordered">
+          <label xml:lang="la">Galba, tribūnus, pīlum habet, </label>
+          <item>_Galba, the tribune, has a javelin_.</item>
+          <label xml:lang="la">Mārcum amīcum amō, </label>
+          <item>_I love (my) friend Marcus_.</item>
+        </list>
+
+        <div type="subsection" n="a">
+          <p>Observe that *tribūnus* denotes the same person as *Galba*, and is joined to *Galba* as a descriptive or explanatory noun; and that *amīcum* is related in the same way to *Mārcum*. Such words are called _appositives_.</p>
+        </div>
+      </div>
+
+      <div type="section" subtype="rule" n="94">
+        <head>Rule for Apposition.</head>
+
+        <p>An appositive agrees in case with the noun which it explains.</p>
+      </div>
+
+      <div type="section" n="95">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">*clā'rus, -a, -um*, </label>
+          <item>famous, clear (_clarify_)</item>
+          <label xml:lang="la">*dē*, </label>
+          <item>_prep. with abl._, from, concerning (_depend_)</item>
+          <label xml:lang="la">*ōce'anus, -ī*, </label>
+          <item>_m._, ocean (_oceanic_)</item>
+          <label xml:lang="la">*pa'rō, parāre*, </label>
+          <item>prepare, get ready (_prepare_)</item>
+          <label xml:lang="la">*pa'tria, -ae*, </label>
+          <item>_f._, native land, country (_patriotism_)</item>
+          <label xml:lang="la">*tem'plum, -ī*, </label>
+          <item>_n._, temple</item>
+        </list>
+      </div>
+
+      <div xml:lang="la" type="reading">
+        <head>Cornēlia et Iūlia</head>
+
+        <div type="section" n="96">
+          <p>Cornēlia et Iūlia puellae parvae sunt. Ubi habitant? Nōn in Graeciā, sed clārō in oppidō Italiae habitant. Incolae Rōmae sunt. Italia patria Rōmānōrum est. Rōma viās lātās et templa magna habet. Rōmānī bella amant et probant.</p>
+
+          <p>Poētae fīlia est Cornēlia. Poēta lātīs in hortīs saepe ambulat. Atque dē bellō longō et fugā incolārum Germāniae cantat, quod victōriam Rōmānōrum probat.</p>
+
+          <p>Iūlia fīlia agricolae validī est. Agricola equōs et carrōs novōs habet. Cibum et frūmentum equī agricolae portant. Servī agricolae equīs aquam dant. Iūlia equōs amat et servōs laudat. Bonus dominus est agricola.</p>
+
+          <p>Mārcus et Galba, tribūnī, amīcī puellārum sunt. Mārcus poētae amīcus est et fābulās grātās Cornēliae nārrat. Galba Iūliae silvās et īnsulās ōceani dēmōnstrat.</p>
+
+          <p>Fēmina bona puellās docet. Dīligentia Cornēliae fēminam dēlectat. In hortō poētae puellās convocat et fābulās nārrat. Fābulae dē bellō puellās parvās terrent.</p>
+
+          <p>Saepe Vestae dōna parant. Quis est Vesta? Vesta dea Rōmānōrum est et templum habet. Saepe in viīs Rōmae puellae ambulant et praedam Germāniae et Britanniae spectant.</p>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/067-les11.png"/>
+
+        <head>Templum</head>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="XII">
+<head>Lesson XII</head>
+      <head>The Second Declension: Nouns in <m xml:lang="la" type="suffix">-er</m>, <m xml:lang="la" type="suffix">-ir</m>, <m xml:lang="la" type="suffix">-ius</m>, and <m xml:lang="la" type="suffix">-ium</m></head>
+
+      <div type="section" n="97">
+        <head>Nouns of the Second Declension in <m xml:lang="la" type="suffix">-er</m> and <m xml:lang="la" type="suffix">-ir</m>.</head>
+
+        <p>Some nouns of the second delcension end in *-er* and *-ir*. They are slightly different from *hortus* in their inflection:
+        <table rows="5" cols="4">
+          <head>Singular</head>
+
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">pu'er</cell>
+            <cell xml:lang="la">a'ger</cell>
+            <cell xml:lang="la">vir</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">pu'er*ī*</cell>
+            <cell xml:lang="la">a'gr*ī*</cell>
+            <cell xml:lang="la">vi'r*ī*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">pu'er*ō*</cell>
+            <cell xml:lang="la">a'gr*ō*</cell>
+            <cell xml:lang="la">vi'r*ō*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">pu'er*um*</cell>
+            <cell xml:lang="la">a'gr*um*</cell>
+            <cell xml:lang="la">vi'r*um*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">pu'er*ō*</cell>
+            <cell xml:lang="la">a'gr*ō*</cell>
+            <cell xml:lang="la">vi'r*ō*</cell>
+          </row>
+        </table>
+        <table rows="5" cols="4">
+          <head>Plural</head>
+
+          <row>
+            <cell role="label">Nom.</cell>
+            <cell xml:lang="la">pu'er*ī*</cell>
+            <cell xml:lang="la">a'gr*ī*</cell>
+            <cell xml:lang="la">vi'r*ī*</cell>
+          </row>
+          <row>
+            <cell role="label">Gen.</cell>
+            <cell xml:lang="la">puer*ō'rum*</cell>
+            <cell xml:lang="la">agr*ō'rum*</cell>
+            <cell xml:lang="la">vir*ō'rum*</cell>
+          </row>
+          <row>
+            <cell role="label">Dat.</cell>
+            <cell xml:lang="la">pu'er*īs*</cell>
+            <cell xml:lang="la">a'gr*īs*</cell>
+            <cell xml:lang="la">vi'r*īs*</cell>
+          </row>
+          <row>
+            <cell role="label">Acc.</cell>
+            <cell xml:lang="la">pu'er*ōs*</cell>
+            <cell xml:lang="la">a'gr*ōs*</cell>
+            <cell xml:lang="la">vi'r*ōs*</cell>
+          </row>
+          <row>
+            <cell role="label">Abl.</cell>
+            <cell xml:lang="la">pu'er*īs*</cell>
+            <cell xml:lang="la">a'gr*īs*</cell>
+            <cell xml:lang="la">vi'r*īs*</cell>
+          </row>
+        </table></p>
+
+        <div type="subsection" n="a">
+          <p>Observe that these nouns are declined in the same way as *hortus* except that they lack the ending *-us* in the nominative singular. *Ager* is like *puer* except that *e* before *r* occurs only in the nominative singular.</p>
+        </div>
+      </div>
+
+      <div type="section" n="98">
+        <head>Nouns of the Second Declension in <m xml:lang="la" type="suffix">-ius</m> and <m xml:lang="la" type="suffix">-ium</m>.</head>
+
+        <p>Nouns of the second declension ending in *-ius* and *-ium* contract the genitive ending *-iī* to *-ī*. The accent remains on the same syllable as in the nominative: *auxi'lium*, gen. *auxi'lī*. Learn the declension of *fīlius* and *proelium* (637).</p>
+      </div>
+
+      <div type="section" n="99">
+        <head>Gender of Nouns of the Second Declension.</head>
+
+        <p>Nouns of the second declension ending in *-um* are neuter; most others are masculine.</p>
+      </div>
+
+      <div type="section" n="100">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">a'ger, agrī, </label>
+          <item>_m._, field (_agriculture_) <ptr type="noteAnchor" target="#fn.les12.1" n="1"/></item>
+          <label xml:lang="la">auxi'lium, auxi'lī, </label>
+          <item>_n._, aid, help (_auxiliary_)</item>
+          <label xml:lang="la">fī'lius, fīlī, </label>
+          <item>_m._, son (_filial_)</item>
+          <label xml:lang="la">gla'dius, gladī, </label>
+          <item>_m._, sword (_gladiator_)</item>
+          <label xml:lang="la">nūn'tius, nūntī, </label>
+          <item>_m._, messenger (_pronunciation_)</item>
+          <label xml:lang="la">prae'mium, praemī, </label>
+          <item>_n._, reward (_premium_)</item>
+          <label xml:lang="la">proe'lium, proelī, </label>
+          <item>_n._, battle</item>
+          <label xml:lang="la">pu'er, puerī, </label>
+          <item>_m._, boy (_puerile_)</item>
+          <label xml:lang="la">so'cius, socī, </label>
+          <item>_m._, comrade, ally (_associate_)</item>
+          <label xml:lang="la">vir, virī, </label>
+          <item>_m._, man (_virile_)</item>
+        </list>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="101">
+          <list xml:lang="la" type="exercises">
+            <item>Fīliī virōrum in Britanniā sunt.</item>
+            <item>Virī erant sociī.</item>
+            <item>Nūntius sociōrum sum.</item>
+            <item>Puerōs parvōs, fīliōs tribūnī, exspectāmus.</item>
+            <item>Puerī gladium et pīlum Mārcī habent.</item>
+            <item>Quis virō viam dēmōnstrat?</item>
+            <item>Proelium est longum et sociī auxilium exspectant.</item>
+            <item>In agrō labōrant vir et fīliī nūntī.</item>
+            <item>Cūr virīs praemia nunc datis?</item>
+          </list>
+        </div>
+
+        <div type="section" n="102">
+          <list type="exercises">
+            <item>The son of the messenger is a small boy.</item>
+            <item>We see your sword, but we have not your javelin.</item>
+            <item>They frighten the little boys and the woman.</item>
+            <item>The men are putting the allies to flight.</item>
+            <item>Where do the messengers live?</item>
+            <item>I have my son's sword.</item>
+            <item>Wars and battles delight the Romans.</item>
+          </list>
+        </div>
+      </div>
+
+      <note xml:id="fn.les12.1" type="footnote" n="1">The spelling of the English derivatives _agriculture_, _puerile_, and _virile_ will help you to recall the spelling of the genitives of *ager*, *puer*, and *vir*.</note>
+
+      <figure type="illustration">
+        <graphic url="069-les12.png"/>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="XIII">
+<head>Lesson XIII</head>
+      <head>Adjectives of the First and Second Declensions ending in <m xml:lang="la" type="suffix">-er</m></head>
+
+      <div type="section" n="103">
+        <head>Adjectives of the First and Second Declensions in <m xml:lang="la" type="suffix">-er</m>.</head>
+
+        <p>Some adjectives of the first and second declensions end in *-er* in the nominative singular masculine. Their inflection resembles that of *puer* and of *ager*.</p>
+
+        <div type="subsection" n="a">
+          <p>Learn the declension of *līber* and *noster* (643).</p>
+        </div>
+
+        <div type="subsection" n="b">
+          <p>Observe that *līber* retains the *e* in all forms, as *puer* does, while *noster*, like *ager*, has no *e* after the nominative.</p>
+        </div>
+
+        <div type="subsection" n="c">
+          <p>Decline *mister*, _wretched_, like *līber*. The other adjectives in this book that end in *-er* are declined like *noster*.</p>
+        </div>
+
+        <div type="subsection" n="d">
+          <p>Decline together *vir līber*, _free man_; *fēmina misera*, _poor woman_; *bellum miserum*, _wretched war_; *poēta līber*, _free poet_; *amīcus noster*, _our friend_.</p>
+        </div>
+      </div>
+
+      <div type="section" n="104">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">lī'ber, lī'bera, lī'berum, </label>
+          <item>free (_liberal_)</item>
+          <label xml:lang="la">mi'ser, mi'sera, mi'serum, </label>
+          <item>poor, unhappy, wretched (_miserable_)</item>
+          <label xml:lang="la">mul'tus, mul'ta, mul'tum, </label>
+          <item>much (_multitude_)</item>
+          <label xml:lang="la">mul'tī, mul'tae, mul'ta,</label>
+          <item>many</item>
+          <label xml:lang="la">nos'ter, nos'tra, nos'trum,</label>
+          <item>our (_nostrum_)</item>
+          <label xml:lang="la">su'perō, superāre,</label>
+          <item>surpass, defeat, overcome, conquer (_insuperable_)</item>
+          <label xml:lang="la">ves'ter, ves'tra, ves'trum,</label>
+          <item>your (of more than one owner)</item>
+          <label xml:lang="la">vo'cō, vocāre,</label>
+          <item>call (_vocation_)</item>
+        </list>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="105">
+          <list xml:lang="la" type="exercises">
+            <item>Equōs in agrō Mārcī amīcī videō.</item>
+            <item>Nūntius miser fābulam miseram dē fugā sociōrum nārrat.</item>
+            <item>Vestrīs amīcīs praemia dant.</item>
+            <item>Pecūnia, dōnum Cornēliae, fīlium nostrum dēlectat.</item>
+            <item>Sumus virī in oppidō līberō.</item>
+            <item>Deae Graeciae multae erant.</item>
+            <item>Socius noster est miser, quod gladium nōn habet.</item>
+            <item>Rōmānōs in proeliō superant.</item>
+            <item>Vocatne fīlius tuus?</item>
+            <item>Dominō servus miser cibum parat.</item>
+          </list>
+        </div>
+
+        <div type="section" n="106">
+          <list type="exercises">
+            <item>Our friends, Margus and Galba, are wretched.</item>
+            <item>There are many carts in the streets of our town.</item>
+            <item>She calls together the unhappy sons of the messengers.</item>
+            <item>Where do you see your horse?</item>
+            <item>The winds do not frighten the sailors.</item>
+            <item>We are sons of free men.</item>
+            <item>I have a javelin, the gift of a friend.</item>
+          </list>
+        </div>
+      </div>
+
+      <div xml:lang="la" type="reading">
+        <head>Dē Graeciā</head>
+
+        <div type="section" n="107">
+          <p>Graecia, terra parva, prōvincia Rōmānōrum erat. Athēnae, Sparta, Thēbae, Corinthus clāra oppida Graeciae erant. In oppidīs erant templa multa deōrum et deārum. In viīs oppidōrum statuae (_statues_) multae virōrum clārōrum erant. Incolae nōn erant miserī. Quis incolās Graeciae nōn laudat?</p>
+        </div>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/071-les13.png"/>
+
+        <head>A Restoration of the Roman Forum</head>
+      </figure>
+    </div>
+
+
+    <div type="chapter" subtype="lesson" n="XIV">
+<head>Lesson XIV</head>
+      <head>The Imperfect and Future Indicative of <w xml:lang="la">Sum</w> · The Dative with Adjectives</head>
+
+      <div type="section" n="108">
+        <head>The Imperfect Indicative of <w xml:lang="la">Sum</w>.</head>
+
+        <p>The imperfect indicative of *sum* is inflected as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>e'ra*m*, _I was</cell>
+            <cell>erā'*mus*, _we were_</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>e'rā*s*, _you were_</cell>
+            <cell>erā'*tis*, _you were_</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>e'ra*t*, _he, she, it was_</cell>
+            <cell>e'ra*nt*, _they were_</cell>
+          </row>
+        </table></p>
+      </div>
+
+      <div type="section" n="109">
+        <head>The Future Indicative of <w xml:lang="la">Sum</w>.</head>
+
+        <p>The future indicative of *sum* is inflected as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>e'r*ō*, _I shall be_</cell>
+            <cell>e'ri*mus*, _we shall be_</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>e'ri*s*, _you will be_</cell>
+            <cell>e'ri*tis*, _you will be_</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>e'ri*t*, _he, she, it will be_</cell>
+            <cell>e'ru*nt*, _they will be_</cell>
+          </row>
+        </table></p>
+      </div>
+
+      <div type="section" n="110">
+        <head>The Dative with Adjectives.</head>
+
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">*Dōnum puerō erit grātum*, </label>
+          <item>_the gift will be pleasing to the boy_.</item>
+        </list>
+
+        <div type="subsection" n="a">
+          <p>Observe that *puerō* is translated with the adjective *grātum*, _pleasing to the boy_. Certain Latin adjectives, particularly those meaning _near_, _fit_, _friendly_, _pleasing_, _like_, and their opposites, are thus followed by the case expressing _to_ or _for_, exactly as they are followed in English by a phrase beginning with _to_ or _for_: as, _fit for war_, _unfriendly to us_. This usage is known as the _Dative with Adjectives_.</p>
+        </div>
+      </div>
+
+      <div type="section" subtype="rule" n="111">
+        <head>Rule for the Dative with Adjectives.</head>
+
+        <p>Certain adjectives meaning *near*, *fit*, *friendly*, *pleasing*, *like*, and their opposites, may be accompanied by a dative to show the person or the thing toward which the quality of the adjective is directed.</p>
+      </div>
+
+      <div type="section" n="112">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">amī'cus, -a, -um, </label>
+          <item>friendly</item>
+          <label xml:lang="la">cer'te, </label>
+          <item>_adv._, certainly</item>
+          <label xml:lang="la">fīni'tiumus, -a, -um, </label>
+          <item>neighboring, near (_affinity_)</item>
+          <label xml:lang="la">idō'neus, -a, -um, </label>
+          <item>fit, suitable</item>
+          <label xml:lang="la">inimī'cus, -a, -um, </label>
+          <item>unfriendly, hostile (_inimical_)</item>
+          <label xml:lang="la">iniū'ria, -ae, </label>
+          <item>_f._, injustice, wrong (_injury_)</item>
+          <label xml:lang="la">in'terim, </label>
+          <item>_adv._, meanwhile (_interim_)</item>
+          <label xml:lang="la">li'ber, librī, </label>
+          <item>_m._, book (_library_)</item>
+          <label xml:lang="la">propin'quus, -a, -um, </label>
+          <item>near (_propinquity_)</item>
+          <label xml:lang="la">pro'ximus, -a, -um, </label>
+          <item>nearest, next, very near (_proximity_)</item>
+        </list>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="114">
+          <list xml:lang="la" type="exercises">
+            <item>Est, erat, erit.</item>
+            <item>Sunt, erant, erunt.</item>
+            <item>Sumus, erāmus, erimus.</item>
+            <item>Sum, eram, erō.</item>
+            <item>Es, erās, eris.</item>
+            <item>Estis, erātis, eritis.</item>
+            <item>Certē erāmus inimīcī Mārcō, vestrō fīliō.</item>
+            <item>Proximī oppidō erant multī agrī.</item>
+            <item>Iniūriae sociōrum multae erunt.</item>
+            <item>Īnsulam terrae propinquam videō.</item>
+            <item>Ventī nautīs nōn erunt grātī.</item>
+            <item>Agricolae bellō longō idōneī nōn erant.</item>
+            <item>Interim vestrīs fīliīs erimus amīcī.</item>
+            <item>Gladiī atque pīla proeliō idōnea<ptr type="noteAnchor" target="#fn.les14.1" n="1"/> sunt.</item>
+          </list>
+        </div>
+
+        <div type="section" n="114">
+          <list type="exercises">
+            <item>I am, we are.</item>
+            <item>Where were we? I was in the town.</item>
+            <item>I shall be, we shall be.</item>
+            <item>Is he a tribune? They are allies.</item>
+            <item>Meanwhile you will be a free man.</item>
+            <item>Our towns are near Greece.</item>
+            <item>In our towns the men are unfriendly to Rome.</item>
+            <item>There will be<ptr type="noteAnchor" target="#fn.les14.2" n="2"/> a great battle in Britain.</item>
+            <item>The books will certainly be welcome to my friend Marcus.</item>
+          </list>
+        </div>
+      </div>
+
+      <note xml:id="fn.les14.1" type="footnote" n="1">The predicate adjective *idōnea* is neuter because the two subjects are things without life.</note>
+
+      <note xml:id="fn.les14.2" type="footnote" n="2">Express _there will be_ by *erit*, and place *erit* at the beginning of the sentence. How do you say _there are_? _there is_? _there were_?</note>
+
+      <figure type="illustration">
+        <graphic url="073-les14.png"/>
+
+        <head>Gladius</head>
+      </figure>
+    </div>
+
+    <div type="chapter" subtype="review" n="2">
+      <head>Second Review Lesson</head>
+      <head>Lessons VIII–XIV</head>
+
+      <div type="section" n="115">
+        <p>Give the English meanings of the following words:
+        <list xml:lang="la" rend="table">
+          <item>ager</item>
+          <item>amīcus, _noun_</item>
+          <item>amīcus, _adj._</item>
+          <item>atque</item>
+          <item>auxilium</item>
+          <item>bellum</item>
+          <item>bonux</item>
+          <item>carrus</item>
+          <item>certē</item>
+          <item>cibus</item>
+          <item>clārus</item>
+          <item>dē</item>
+          <item>dea</item>
+          <item>deus</item>
+          <item>dominus</item>
+          <item>dōnum</item>
+          <item>equus</item>
+          <item>fīlius</item>
+          <item>fīnitimus</item>
+          <item>frūmentum</item>
+          <item>gladius</item>
+          <item>grātus</item>
+          <item>hortus</item>
+          <item>idōneus</item>
+          <item>inimīcus</item>
+          <item>iniūria</item>
+          <item>interim</item>
+          <item>lātus</item>
+          <item>liber</item>
+          <item>līber</item>
+          <item>longus</item>
+          <item>magnus</item>
+          <item>meus</item>
+          <item>mister</item>
+          <item>multus</item>
+          <item>multī</item>
+          <item>nōn</item>
+          <item>noster</item>
+          <item>novus</item>
+          <item>nūntius</item>
+          <item>ōceanus</item>
+          <item>oppidum</item>
+          <item>parō</item>
+          <item>parvus</item>
+          <item>patria</item>
+          <item>pīlum</item>
+          <item>praemium</item>
+          <item>probō</item>
+          <item>proelium</item>
+          <item>propinquus</item>
+          <item>proximus</item>
+          <item>puer</item>
+          <item>rēmus</item>
+          <item>servus</item>
+          <item>socius</item>
+          <item>superō</item>
+          <item>templum</item>
+          <item>tribūnus</item>
+          <item>tuus</item>
+          <item>ubi</item>
+          <item>validus</item>
+          <item>ventus</item>
+          <item>vester</item>
+          <item>vir</item>
+          <item>vocō</item>
+        </list></p>
+      </div>
+
+      <div type="section" n="116">
+        <p>Give the Latin meanings of the following words:
+        <list rend="table">
+          <item>garden</item>
+          <item>many</item>
+          <item>oar</item>
+          <item>man</item>
+          <item>call</item>
+          <item>god</item>
+          <item>long</item>
+          <item>sword</item>
+          <item>goddess</item>
+          <item>food</item>
+          <item>much</item>
+          <item>grain</item>
+          <item>approve, approve of</item>
+          <item>injustice, wrong</item>
+          <item>friend</item>
+          <item>tribune</item>
+          <item>your (_plur._)</item>
+          <item>temple</item>
+          <item>my, mine</item>
+          <item>master</item>
+          <item>cart</item>
+          <item>and also</item>
+          <item>from, concerning</item>
+          <item>where?</item>
+          <item>son</item>
+          <item>war</item>
+          <item>comrade, ally</item>
+          <item>meanwhile</item>
+          <item>horse</item>
+          <item>wind</item>
+          <item>boy</item>
+          <item>good, kind</item>
+          <item>not</item>
+          <item>messenger</item>
+          <item>famous</item>
+          <item>friendly</item>
+          <item>field</item>
+          <item>small, little</item>
+          <item>gift</item>
+          <item>pleasing, welcome</item>
+          <item>surpass, defeat, overcome, conquer</item>
+          <item>wide, broad</item>
+          <item>neighboring, near</item>
+          <item>poor, unhappy, wretched</item>
+          <item>strong, robust</item>
+          <item>native land, country</item>
+          <item>great, large</item>
+          <item>your (_sing._)</item>
+          <item>slave</item>
+          <item>aid, help</item>
+          <item>near</item>
+          <item>nearest, next</item>
+          <item>javelin</item>
+          <item>unfriendly</item>
+          <item>new</item>
+          <item>battle</item>
+          <item>get ready</item>
+          <item>certainly</item>
+          <item>book</item>
+          <item>fit, suitable</item>
+          <item>free</item>
+          <item>our</item>
+          <item>town</item>
+          <item>reward</item>
+          <item>ocean</item>
+        </list></p>
+      </div>
+
+      <div type="section" n="117">
+        <p>Decline each noun and adjective in 115. Conjugate each verb in the present indicative active. Give the genitive singular of each noun; give the other cases, in the singular and the plural. Conjugate *sum* in the imperfect and future indicative.</p>
+      </div>
+
+      <div type="section" n="118">
+        <p>Following the suggestions in 634, give English words derived from the Latin words in 115. Define these derivatives, and illustrate each by an English sentence.</p>
+      </div>
+
+      <div type="section" n="119">
+        <p>Give the rule for the following constructions, and illustrate each by a sentence in Latin:
+        <list rend="ordered">
+          <item>Agreement of adjectives</item>
+          <item>Predicate noun</item>
+          <item>Predicate adjective</item>
+          <Item>Apposition</Item>
+          <item>Dative with adjectives</item>
+        </list></p>
+      </div>
+
+      <figure type="illustration">
+        <graphic url="images/075-rev2.png"/>
+
+        <head>A Roman Boy · A Roman Girl</head>
+      </figure>
+    </div>
 
 
 <div type="chapter" subtype="lesson" n="XV">
+<head>Lesson XV</head>
   <head>The Imperfect Indicative Active, First and Second Conjugations · The Ablative of Means</head>
 
 120. *The Imperfect Indicative Active, First and Second
@@ -2866,6 +3431,7 @@ food and grain.
 
 
 <div type="chapter" subtype="lesson" n="XVI">
+<head>Lesson XVI</head>
   <head>The Future Indicative Active, First and Second Conjugations · The Ablative of Manner</head>
 
 126. *The Future Indicative Active, First and Second
@@ -2949,6 +3515,7 @@ diligently filling the boats.
 
 
 <div type="chapter" subtype="lesson" n="XVII">
+<head>Lesson XVII</head>
   <head>Principal Parts · The Perfect Stem · The Perfect Indicative Active, First Conjugation</head>
 
 132. *Principal Parts.* The principal parts of the verb *amō* are
@@ -3039,6 +3606,7 @@ Rōmānī Sabīnōs fugāvērunt et multōs virōs gladiīs vulnerāvērunt.
 
 
 <div type="chapter" subtype="lesson" n="XVIII">
+<head>Lesson XVIII</head>
   <head>The Perfect Indicative Active, Second Conjugation · The Ablative of Accompaniment</head>
 
 139. *Principal Parts of Verbs of the Second Conjugation.* The
@@ -3119,6 +3687,7 @@ participle is not in use.
 
 
 <div type="chapter" subtype="lesson" n="XIX">
+<head>Lesson XIX</head>
   <head>The Demonstrative <w xml:lang="la">Is</w> · The Perfect Indicative of <w xml:lang="la">Sum</w></head>
 
 147. *The Demonstrative _Is_.* The demonstrative *is*, _this_,
@@ -3195,6 +3764,7 @@ The causes of this war have been many.
 
 
 <div type="chapter" subtype="lesson" n="XX">
+<head>Lesson XX</head>
   <head>The Interrogative <w xml:lang="la">Quis</w></head>
 
 152. *The Uses of the Interrogative _Quis_.* The interrogative
@@ -3271,6 +3841,7 @@ deae multa dōna parābant.
 
 
 <div type="chapter" subtype="lesson" n="XXI">
+<head>Lesson XXI</head>
   <head>The Present, Imperfect, Future, and Perfect Indicative Active of the Third Conjugation</head>
 
 159. *The Present, Imperfect, Future, and Perfect Indicative
@@ -3388,6 +3959,7 @@ illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="XXII">
+<head>Lesson XXII</head>
   <head>Reading Lesson</head>
 
 168. VOCABULARY
@@ -3449,6 +4021,7 @@ hiemābunt.
 
 
 <div type="chapter" subtype="lesson" n="XXIII">
+<head>Lesson XXIII</head>
   <head>The Third Declension</head>
 
 171. *The Third Declension.* Nouns of the third declension end
@@ -3553,6 +4126,7 @@ whole.
 
 
 <div type="chapter" subtype="lesson" n="XXIV">
+<head>Lesson XXIV</head>
   <head>The Third Conjugation: Verbs in <m xml:lang="la" type="suffix">-iō</m> · The Ablative of Place from Which · The Accusative of Place to Which</head>
 
 175. *The Third Conjugation: Verbs in _-iō_.* Certain verbs of
@@ -3645,6 +4219,7 @@ conference.
 
 
 <div type="chapter" subtype="lesson" n="XXV">
+<head>Lesson XXV</head>
   <head>The Ablative of Cause · Prepositional Phrases expressing Cause</head>
 
 183. VOCABULARY
@@ -3724,6 +4299,7 @@ is called the _Genitive of Material_.
 
 
 <div type="chapter" subtype="lesson" n="XXVI">
+<head>Lesson XXVI</head>
   <head>The Third Declension: <c xml:lang="la">i</c>-Stems</head>
 
 189. *The Third Declension: _i_-Stems.* Certain nouns of the
@@ -3824,6 +4400,7 @@ city.
 
 
 <div type="chapter" subtype="lesson" n="XXVII">
+<head>Lesson XXVII</head>
   <head>The Accusative and the Ablative with prepositions · Adjectives used as Nouns</head>
 
 193. *Prepositions with the Accusative.* The following
@@ -3913,6 +4490,7 @@ mountains.
 
 
 <div type="chapter" subtype="lesson" n="XXVIII">
+<head>Lesson XXVIII</head>
   <head>Reading Lesson</head>
 
 199. VOCABULARY
@@ -4066,6 +4644,7 @@ constructions, and illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="XXIX">
+<head>Lesson XXIX</head>
   <head>Adjectives of the Third Declension</head>
 
 208. *Adjectives of the Third Declension.* Besides the adjectives
@@ -4135,6 +4714,7 @@ hardships. 6. He dismissed all the tribunes from the conference.
 
 
 <div type="chapter" subtype="lesson" n="XXX">
+<head>Lesson XXX</head>
   <head>The Fourth Conjugation</head>
 
 212. *The Fourth Conjugation.* Learn the present, imperfect,
@@ -4202,6 +4782,7 @@ defended.
 
 
 <div type="chapter" subtype="lesson" n="XXXI">
+<head>Lesson XXXI</head>
   <head>The Ablative of Time</head>
 
 217. VOCABULARY
@@ -4278,6 +4859,7 @@ of the lessons may be found in the general vocabulary.
 
 
 <div type="chapter" subtype="lesson" n="XXXII">
+<head>Lesson XXXII</head>
   <head>The Pluperfect and Future Perfect Indicative Active of All Conjugations</head>
 
 223. *The Formation of the Pluperfect and Future Perfect Tenses.*
@@ -4364,6 +4946,7 @@ aid. 9. At last we had attacked that hill.
 
 
 <div type="chapter" subtype="lesson" n="XXXIII">
+<head>Lesson XXXIII</head>
   <head>The Demonstratives <w xml:lang="la">Hic</w> and <w xml:lang="la">Ille</w> · Place from Which and to Which, in Names of Towns</head>
 
 227. *The Demonstratives _Hic_ and _Ille_.* Review the declension
@@ -4442,6 +5025,7 @@ with great courage. 6. This is a javelin, that is a sword.
 
 
 <div type="chapter" subtype="lesson" n="XXXIV">
+<head>Lesson XXXIV</head>
   <head>Reading Lesson</head>
 
 VICTORIA CAESARIS
@@ -4500,6 +5084,7 @@ Britanniā.
 
 
 <div type="chapter" subtype="lesson" n="XXXV">
+<head>Lesson XXXV</head>
   <head>The Present, Imperfect, and Future Indicative Passive of the First and Second Conjugations · The Ablative of Agent</head>
 
 237. *The Passive Voice.* In the active voice the subject of the
@@ -4587,6 +5172,7 @@ was loved by all the Romans.
 
 
 <div type="chapter" subtype="lesson" n="XXXVI">
+<head>Lesson XXXVI</head>
   <head>The Relative <w xml:lang="la">Quī</w></head>
 
 246. *The Relative _Quī_.* The relative *quī*, _who_, _which_,
@@ -4720,6 +5306,7 @@ DEFENDUNT]
 
 
 <div type="chapter" subtype="lesson" n="XXXVII">
+<head>Lesson XXXVII</head>
   <head>The Present, Imperfect, and Future Indicative Passive of <w xml:lang="la">Regō</w> and <w xml:lang="la">Capiō</w></head>
 
 257. *The Present, Imperfect, and Future Indicative Passive of
@@ -4786,6 +5373,7 @@ Cæsar, who has conquered the Helvetians.
 
 
 <div type="chapter" subtype="lesson" n="XXXVIII">
+<head>Lesson XXXVIII</head>
   <head>The Personal and Reflexive Pronouns</head>
 
 263. *The Personal Pronouns.* The personal pronouns (II, c) are
@@ -4871,6 +5459,7 @@ usually to relative and interrogative pronouns.
 
 
 <div type="chapter" subtype="lesson" n="XXXIX">
+<head>Lesson XXXIX</head>
   <head>The Present, Imperfect, and Future Indicative Passive of the Fourth Conjugation</head>
 
 271. *The Present, Imperfect, and Future Indicative Passive of
@@ -4954,6 +5543,7 @@ in this way is called a complementary infinitive (394).
 
 
 <div type="chapter" subtype="lesson" n="XL">
+<head>Lesson XL</head>
   <head>The Possessive Adjectives · The Ablative of Separation</head>
 
 278. *The Possessive Adjectives.* The possessive adjectives are
@@ -5049,6 +5639,7 @@ being shut off from their towns.
 
 
 <div type="chapter" subtype="lesson" n="XLI">
+<head>Lesson XLI</head>
   <head>The Perfect, Pluperfect, and Future Perfect Indicative Passive of All Conjugations</head>
 
 286. *The Perfect, Pluperfect, and Future Perfect of All
@@ -5134,6 +5725,7 @@ tūtam in fīnibus suīs praebuit.
 
 
 <div type="chapter" subtype="lesson" n="XLII">
+<head>Lesson XLII</head>
   <head>The Fourth Declension</head>
 
 292. *The Fourth Declension.* Nouns of the fourth declension end
@@ -5208,6 +5800,7 @@ citizens. 7. Why are you hurrying home?
 
 
 <div type="chapter" subtype="lesson" n="XLIII">
+<head>Lesson XLIII</head>
   <head>The Comparison of Adjectives</head>
 
 296. *Degrees of Comparison.* Latin adjectives have three degrees
@@ -5361,6 +5954,7 @@ constructions, and illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="XLIV">
+<head>Lesson XLIV</head>
   <head>The Comparison of Adjectives ending in <m xml:lang="la" type="suffix">-er</m> or <m xml:lang="la" type="suffix">-lis</m> · The Partitive Genitive</head>
 
 306. *The Comparison of Adjectives in _-er_.* Adjectives ending
@@ -5456,6 +6050,7 @@ the Gauls.
 
 
 <div type="chapter" subtype="lesson" n="XLV">
+<head>Lesson XLV</head>
   <head>Reading Lesson</head>
 
 313. VOCABULARY
@@ -5532,6 +6127,7 @@ capita anguibus omnīnō contēcta [7] erant. Manūs autem ex aere
 
 
 <div type="chapter" subtype="lesson" n="XLVI">
+<head>Lesson XLVI</head>
   <head>Irregular Comparison of Adjectives · The Ablative of Degree of Difference</head>
 
 317. *Adjectives Compared Irregularly.* Both the comparative and
@@ -5628,6 +6224,7 @@ senate. 7. The largest towns sent a hundred hostages to Cæsar.
 
 
 <div type="chapter" subtype="lesson" n="XLVII">
+<head>Lesson XLVII</head>
   <head>The Formation and the Comparison of Adverbs</head>
 
 325. *The Formation of Adverbs.* Many adverbs are formed from
@@ -5706,6 +6303,7 @@ Rome by his personal enemies (*inimīcus*).
 
 
 <div type="chapter" subtype="lesson" n="XLVIII">
+<head>Lesson XLVIII</head>
   <head>The Fifth Declension · The Accusative of Extent</head>
 
 331. *The Fifth Declension.* Nouns of the fifth declension end in
@@ -5782,6 +6380,7 @@ hope. 5. We shall remain six days in Italy.
 
 
 <div type="chapter" subtype="lesson" n="XLIX">
+<head>Lesson XLIX</head>
   <head>Reading Lesson</head>
 
 A LETTER FROM POMPEII
@@ -5854,6 +6453,7 @@ clause does it introduce here?
 
 
 <div type="chapter" subtype="lesson" n="L">
+<head>Lesson L</head>
   <head>The Subjunctive Mood · The Present Subjunctive · Purpose Clauses with <w xml:lang="la">Ut</w> and <w xml:lang="la">Nē</w></head>
 
 340. *The Subjunctive Mood.* The Latin subjunctive is used in
@@ -5949,6 +6549,7 @@ fights to defend himself.
 
 
 <div type="chapter" subtype="lesson" n="LI">
+<head>Lesson LI</head>
   <head>The Imperfect Subjunctive · Sequence of Tenses</head>
 
 347. *The Imperfect Subjunctive.* The imperfect subjunctive may
@@ -6030,6 +6631,7 @@ killed.
 
 
 <div type="chapter" subtype="lesson" n="LII">
+<head>Lesson LII</head>
   <head>Substantive Clauses of Purpose · Result Clauses</head>
 
 355. *Substantive Clauses of Purpose.* A substantive clause is a
@@ -6172,6 +6774,7 @@ illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="LIII">
+<head>Lesson LIII</head>
   <head>Reading Lesson</head>
 
 367. VOCABULARY
@@ -6236,6 +6839,7 @@ perīculō servāre, [3] et ob eam causam imperāta Hammōnis facere
 
 
 <div type="chapter" subtype="lesson" n="LIV">
+<head>Lesson LIV</head>
   <head>The Perfect and the Pluperfect Subjunctive · Indirect Questions</head>
 
 371. *The Perfect and the Pluperfect Subjunctive.* The perfect
@@ -6323,6 +6927,7 @@ had all come. 7. Do you know how many soldiers are coming?
 
 
 <div type="chapter" subtype="lesson" n="LV">
+<head>Lesson LV</head>
   <head>Numeral Adjectives · The Objective Genitive</head>
 
 377. *Numeral Adjectives.* For the definition of numeral
@@ -6407,6 +7012,7 @@ me.
 
 
 <div type="chapter" subtype="lesson" n="LVI">
+<head>Lesson LVI</head>
   <head>Adjectives having the Genitive in <m xml:lang="la" type="suffix">-īus</m></head>
 
 385. *Adjectives having the Genitive in _-īus_.* The adjectives
@@ -6494,6 +7100,7 @@ appropinquābat ubi puella stābat.
 
 
 <div type="chapter" subtype="lesson" n="LVII">
+<head>Lesson LVII</head>
   <head>The Infinitive as Subject and as Complement</head>
 
 392. *The Infinitive.* The infinitives of *amō* are as follows:
@@ -6592,6 +7199,7 @@ others to flee.
 
 
 <div type="chapter" subtype="lesson" n="LVIII">
+<head>Lesson LVIII</head>
   <head>The Infinitive as Object · The Accusative as Subject of the Infinitive · Indirect Statements</head>
 
 398. *The Infinitive as Object.*
@@ -6701,6 +7309,7 @@ that there was no grain in the territory of the Germans.
 
 
 <div type="chapter" subtype="lesson" n="LIX">
+<head>Lesson LIX</head>
   <head>Reading Lesson</head>
 
 CAESAR IN CONCILIO DICIT
@@ -6758,6 +7367,7 @@ Aethiopēs.
 
 
 <div type="chapter" subtype="lesson" n="LX">
+<head>Lesson LX</head>
   <head>The Demonstratives <w xml:lang="la">Īdem</w>, <w xml:lang="la">Ipse</w>, <w xml:lang="la">Iste</w> · The Irregular Verb <w xml:lang="la">Possum</w></head>
 
 409. *The Demonstratives _Īdem_, _Ipse_, and _Iste_.* Review the
@@ -6906,6 +7516,7 @@ illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="LXI">
+<head>Lesson LXI</head>
   <head>The Indefinite Pronouns</head>
 
 420. *The Indefinite Pronouns.* The indefinite pronouns (II, g)
@@ -6978,6 +7589,7 @@ fīnibus bellum gerunt. Ea pars quam Gallī obtinent īnitium capit
 
 
 <div type="chapter" subtype="lesson" n="LXII">
+<head>Lesson LXII</head>
   <head>The Dative with Compounds · The Datives of Purpose and Reference</head>
 
 424. *The Dative with Compounds.*
@@ -7068,6 +7680,7 @@ many feet deeper than this lake.
 
 
 <div type="chapter" subtype="lesson" n="LXIII">
+<head>Lesson LXIII</head>
   <head>The Dative with Special Intrasitive Verbs · The Irregular Verbs <w xml:lang="la">Volō</w>, <w xml:lang="la">Nōlō</w>, <w xml:lang="la">Mālō</w></head>
 
 432. *The Dative with Special Intransitive Verbs.*
@@ -7147,6 +7760,7 @@ Gauls nor the Germans desired war at that time.
 
 
 <div type="chapter" subtype="lesson" n="LXIV">
+<head>Lesson LXIV</head>
 <head>Reading Lesson</head>
 
 BELLING THE CAT
@@ -7203,6 +7817,7 @@ quadrāgintā), in lātitūdinem CLXXX (centum octōgintā) patēbant.
 
 
 <div type="chapter" subtype="lesson" n="LXV">
+<head>Lesson LXV</head>
   <head>Participles</head>
 
 441. *Participles.* Learn the participles of the model verbs
@@ -7304,6 +7919,7 @@ will be captured and sent to Italy.
 
 
 <div type="chapter" subtype="lesson" n="LXVI">
+<head>Lesson LXVI</head>
   <head>Reading Lesson</head>
 
 DICTA ANTIQUORUM
@@ -7360,6 +7976,7 @@ mortuus est (_died_).
 
 
 <div type="chapter" subtype="lesson" n="LXVII">
+<head>Lesson LXVII</head>
   <head>The Ablative Absolute</head>
 
 452. *The Ablative Absolute.*
@@ -7457,6 +8074,7 @@ first line.
 
 
 <div type="chapter" subtype="lesson" n="LXVIII">
+<head>Lesson LXVIII</head>
   <head>The Gerund · The Irregular Verb <w xml:lang="la">Eō</w></head>
 
 459. *The Gerund.* The gerund (XXXII, c) is a verbal noun used in
@@ -7597,6 +8215,7 @@ constructions, and illustrate each by a sentence in Latin:
 
 
 <div type="chapter" subtype="lesson" n="LXIX">
+<head>Lesson LXIX</head>
   <head>The Gerundive · The Irregular Verb <w xml:lang="la">Ferō</w></head>
 
 471. *The Gerundive.* The future passive participle (441, 444) is
@@ -7677,6 +8296,7 @@ troops.
 
 
 <div type="chapter" subtype="lesson" n="LXX">
+<head>Lesson LXX</head>
   <head>Reading Lesson</head>
 
 478. VOCABULARY
@@ -7740,6 +8360,7 @@ possible_. Sometimes Cæsar traveled a hundred miles a day.
 
 
 <div type="chapter" subtype="lesson" n="LXXI">
+<head>Lesson LXXI</head>
   <head>The Ablative of Specification · Deponent Verbs</head>
 
 480. *The Ablative of Specification.*
@@ -7827,6 +8448,7 @@ body, but they surpass the enemy in speed.
 
 
 <div type="chapter" subtype="lesson" n="LXXII">
+<head>Lesson LXXII</head>
   <head>Temporal Clauses with <w xml:lang="la">Cum</w> · The Irregular Verb <w xml:lang="la">Fīō</w></head>
 
 487. *Temporal Clauses with _Cum_.* The Latin conjunction *cum*,
@@ -7900,6 +8522,7 @@ exhorted the soldiers, he gave the signal for battle.
 
 
 <div type="chapter" subtype="lesson" n="LXXIII">
+<head>Lesson LXXIII</head>
   <head>Reading Lesson</head>
 
 493. VOCABULARY
@@ -7953,6 +8576,7 @@ which infinitives in this lesson is it omitted?
 
 
 <div type="chapter" subtype="lesson" n="LXXIV">
+<head>Lesson LXXIV</head>
   <head>Substantive Clauses of Fact introduced by <w xml:lang="la">Quod</w> · The Indicative in Adverbial Clauses</head>
 
 495. *Substantive Clauses of Fact with _Quod_.*
@@ -8027,6 +8651,7 @@ attacking the town.
 
 
 <div type="chapter" subtype="lesson" n="LXXV">
+<head>Lesson LXXV</head>
   <head>Subordinate Clauses in Indirect Statements</head>
 
 501. *Subordinate Clauses in Indirect Statements.*
