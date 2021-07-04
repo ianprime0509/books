@@ -3347,262 +3347,441 @@
     </div>
 
 
-<div type="chapter" subtype="lesson" n="XV">
-<head>Lesson XV</head>
-  <head>The Imperfect Indicative Active, First and Second Conjugations · The Ablative of Means</head>
+    <div type="chapter" subtype="lesson" n="XV">
+      <head>Lesson XV</head>
+      <head>The Imperfect Indicative Active, First and Second Conjugations · The Ablative of Means</head>
 
-120. *The Imperfect Indicative Active, First and Second
-Conjugations.* The imperfect indicative active of the first and
-second conjugations is inflected as follows:
+      <div type="section" n="120">
+        <head>The Imperfect Indicative Active, First and Second Conjugations.</head>
+        
+        <p>The imperfect indicative active of the first and second conjugations is inflected as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>amā'ba*m*, _I was loving_</cell>
+            <cell>amābā'*mus*, _we were loving_</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>amā'bā*s*, _you were loving_</cell>
+            <cell>amābā'*tis*, _you were loving_</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>amā'ba*t*, _he was loving_</cell>
+            <cell>amā'ba*nt*, _they were loving_</cell>
+          </row>
+        </table>
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>monē'ba*m*, _I was adivising_</cell>
+            <cell>monēbā'*mus*, _we were advising_</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>monē'bā*s*, _you were advising_</cell>
+            <cell>monēbā'*tis*, _you were advising_</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>monē'ba*t*, _he was adivising_</cell>
+            <cell>monē'ba*nt*, _they were advising_</cell>
+          </row>
+        </table></p>
 
-     SINGULAR                         PLURAL
-  1. amā'ba*m*, _I was loving_        amābā'*mus*, _we were loving_
-  2. amā'bā*s*, _you were loving_     amābā'*tis*, _you were loving_
-  3. amā'ba*t*, _he was loving_       amā'ba*nt*, _they were loving_
+        <div type="subsection" n="a">
+          <p>Observe that in this tense the personal ending of the first person singular is *-m*, not *-ō*.</p>
+        </div>
 
-     SINGULAR                         PLURAL
-  1. monē'ba*m*, _I was adivising_    monēbā'*mus*, _we were advising_
-  2. monē'bā*s*, _you were advising_  monēbā'*tis*, _you were advising_
-  3. monē'ba*t*, _he was adivising_   monē'ba*nt*, _they were advising_
+        <div type="subsection" n="b">
+          <p>Observe that *amābam* is formed by adding to the stem *amā-* the tense sign *-bā-*, and to that tense sign the personal endings: *amā-ba-m*, etc. Divide *monēbam* into three parts in the same way.</p>
+        </div>
 
-a. Observe that in this tense the personal ending of the first
-person singular is *-m*, not *-ō*.
+        <div type="subsection" n="c">
+          <p>Inflect the imperfect of the verbs in 68 and 115.</p>
+        </div>
 
-b. Observe that *amābam* is formed by adding to the stem *amā-*
-the tense sign *-bā-*, and to that tense sign the personal
-endings: *amā-ba-m*, etc. Divide *monēbam* into three parts in
-the same way.
+        <div type="subsection" n="d">
+          <p>The imperfect tense expresses action going on in past time.</p>
+        </div>
+      </div>
 
-c. Inflect the imperfect of the verbs in 68 and 115.
+      <div type="section" n="121">
+        121. *The Ablative of Means.*
 
-d. The imperfect tense expresses action going on in past time.
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">Rōmānī gladiīs et pīlīs pugnābant</label>
+          <item>the Romans were fighting with swords and javelins.</item>
+        </list>
 
-121. *The Ablative of Means.*
+        <div type="subsection" n="a">
+          <p>Observe that *gladiīs* and *pīlīs* are in the ablative, since they express the relations of _with_ and _by_. They answer the questions _with what?_ _by means of what?_ The ablative so used is called the _Ablative of Means_. It is limited to nouns that denote things, and is translated by a phrase beginning with _by_, _with_, or _by means of_.</p>
+        </div>
+      </div>
 
-  *Rōmānī gladiīs et pīlīs pugnābant*, _the Romans were fighting
-    with swords and javelins_.
+      <div type="section" subtype="rule" n="122">
+        <head>Rule for the Ablative of Means.</head>
 
-a. Observe that *gladiīs* and *pīlīs* are in the ablative, since
-they express the relations of _with_ and _by_. They answer the
-questions _with what?_ _by means of what?_ The ablative so used
-is called the _Ablative of Means_. It is limited to nouns that
-denote things, and is translated by a phrase beginning with _by_,
-_with_, or _by means of_.
+        <p>The means by which an action is accomplished is expressed by the ablative without a preposition (XXIV, b).</p>
+      </div>
 
-122. _*Rule for the Ablative of Means.* The means by which an
-action is accomplished is expressed by the ablative without a
-preposition (XXIV, b).
+      <div type="section" n="123">
+        <head>Vocabulary</head>
 
-123. VOCABULARY
+        <list type="gloss">
+          <label xml:lang="la">ar'mō, armāre</label>
+          <item>arm, equip (_armor_)</item>
+          <label xml:lang="la">com'pleō, complēre</label>
+          <item>fill (_complete_)</item>
+          <label xml:lang="la">dēfes'sus, -a, -um</label>
+          <item>tired out, weary</item>
+          <label xml:lang="la">Helvē'tiī, -ōrum</label>
+          <item>_m. plur._, Helvetians</item>
+          <label xml:lang="la">lēgā'tus, -ī</label>
+          <item>_m._, lieutenant, ambassador (_legation_)</item>
+          <label xml:lang="la">pug'nō, pugnāre</label>
+          <item>fight (_pugilist_)</item>
+          <label xml:lang="la">scū'tum, -ī</label>
+          <item>_n._, shield (_escutcheon_)</item>
+          <label xml:lang="la">vī'cus, -ī</label>
+          <item>_m._, village (_vicinity_)</item>
+        </list>
+      </div>
 
-  *ar'mō*, *armāre*, arm, equip (_armor_)
-  *com'pleō*, *complēre*, fill (_complete_)
-  *dēfes'sus*, *-a*, *-um*, tired out, weary
-  *Helvē'tiī*, *-ōrum*, _m. plur._, Helvetians
-  *lēgā'tus*, *-ī*, _m._, lieutenant, ambassador (_legation_)
-  *pug'nō*, *pugnāre*, fight (_pugilist_)
-  *scū'tum*, *-ī*, _n._, shield (_escutcheon_)
-  *vī'cus*, *-ī*, _m._, village (_vicinity_)
+      <div type="exercises">
+        <head>Exercises</head>
 
-EXERCISES
+        <div type="section" n="124">
+          <list xml:lang="la" type="exercises">
+            <item>Dēmōnstrābant, parābat, complēbātis.</item>
+            <item>Nārrābam, vidēbās, habitābāmus.</item>
+            <item>Superābās, habēbātis, probābat.</item>
+            <item>Cantābās, līberābam, manēbātis.</item>
+            <item>Terrēbam, vocābat, dēlectābātis.</item>
+            <item>Lēgātōs convocābam.</item>
+            <item>Agricolae frūmentum et cibum carrīs parvīs portābant.</item>
+            <item>Interim gladiīs in silvīs pugnābant.</item>
+            <item>Scūtis amīcōs nostrōs armābāmus.</item>
+            <item>Lēgātum, amīcum meum, vocābam.</item>
+            <item>Pīlīs tribūnum et lēgātum in pugnā superābant.</item>
+            <item>Deīs dōna vestra erunt grāta.</item>
+            <item>Vīcus proximus ōceanō erat.</item>
+          </list>
+        </div>
 
-124. 1. Dēmōnstrābant, parābat, complēbātis. 2. Nārrābam,
-vidēbās, habitābāmus. 3. Superābās, habēbātis, probābat. 4.
-Cantābās, līberābam, manēbātis. 5. Terrēbam, vocābat,
-dēlectābātis. 6. Lēgātōs convocābam. 7. Agricolae frūmentum et
-cibum carrīs parvīs portābant. 8. Interim gladiīs in silvīs
-pugnābant. 9. Scūtis amīcōs nostrōs armābāmus. 10. Lēgātum,
-amīcum meum, vocābam. 11. Pīlīs tribūnum et lēgātum in pugnā
-superābant. 12. Deīs dōna vestra erunt grāta. 13. Vīcus proximus
-ōceanō erat.
-
-125. 1. I was walking, but you (_sing._) were waiting in the
-field. 2. We were arming, they were remaining. 3. You (_plur._)
-were approaching, and they were fighting. 4. He was working in
-the village. 5. We were teaching by means of stories and books.
-6. With your swords you were liberating your friends. 7. Food was
-welcome to the tired Helvetians. 8. The men were fighting with
-long javelins. 9. The lieutenant was filling the village with
-food and grain.
-
-
-
-</div>
-
-
-<div type="chapter" subtype="lesson" n="XVI">
-<head>Lesson XVI</head>
-  <head>The Future Indicative Active, First and Second Conjugations · The Ablative of Manner</head>
-
-126. *The Future Indicative Active, First and Second
-Conjugations.* The future indicative active of the first and
-second conjugations is inflected as follows:
-
-    SINGULAR                       PLURAL
-  1. amā'b*ō*, _I shall love_       amā'bi*mus*, _we shall love_
-  2. amā'bi*s*, _you will love_     amā'bi*tis*, _you will love_
-  3. amā'bi*t*, _he will love_      amā'bu*nt*, _they will love_
-
-    SINGULAR                       PLURAL
-  1. monē'b*ō*, _I shall advise_    monē'bi*mus*, _we shall advise_
-  2. monē'bi*s*, _you will advise_  monē'bi*tis*, _you will advise_
-  3. monē'bi*t*, _he will advise_   monē'bu*nt*, _they will advise_
-
-a. Observe that the future of *amō* is formed by adding to the
-stem *amā-* the tense sign *-bi-*, and to the tense sign the
-personal endings; but the *i* is dropped in the first person, and
-in the third person plural is changed to *u*.
-
-  1. How is the future of *moneō* formed?
-
-b. Inflect the future of the verbs in 68 and 115.
-
-127. VOCABULARY
-
-  *aedi'ficō*, *aedificāre*, build (_edifice_)
-  *ae'ger*, *ae'gra*, *ae'grum*, sick
-  *cum*, _prep. with abl._, with
-  *cū'ra*, *-ae*, _f._, care, anxiety (_curator_)
-  *in*, _prep. with acc._, into, to
-  *nāvi'gium*, *nāvi'gī*, _n._, boat
-  *pro'perō*, *properāre*, hasten
-  *quō*, _adv._, whither?
-  *stu'dium*, *studī*, _n._, zeal, eagerness (_study_)
-  *te'neō*, *tenēre*, hold, keep (_tenant_)
-
-128. *The Ablative of Manner.*
-
-  1. *Mārcus cum studiō labōrat*, _Marcus works with zeal
-    (zealously)_.
-  2. *Mārcus magnō cum studiō labōrat*, _Marcus works with great
-    zeal_.
-  3. *Mārcus magnō studiō labōrat*, _Marcus works with great
-    zeal_.
-
-a. Observe that _manner_ is expressed in these sentences by the
-use of the ablative case. Observe that 2 and 3 are translated in
-the same way, and that *cum* may be omitted when there is an
-adjective in the phrase. The ablative thus used answers the
-questions _how?_ _in what way?_ _in what manner?_ and is called
-the _Ablative of Manner_. The ablative of manner may often be
-translated by an adverb: *cum studiō*, _zealously_.
-
-129. _*Rule for the Ablative of Manner.* The ablative with *cum*
-is used with abstract nouns (1, f) to denote the manner of an
-action; but *cum* may be omitted if an adjective modifies the
-noun of the phrase._
-
-EXERCISES
-
-130. 1. Vocābunt, complēbunt, properābunt. 2. Armābitne?
-superābit, tenēbimus. 3. Manēbuntne? dēmōnstrābimus, terrēbō. 4.
-Labōrābis, docēbitis, habēbō. 5. Quō properābit agricola validus?
-6. In agrōs properābunt agricola et puerī. 7. In agrīs labōrābunt
-magnō cum studiō. 8. Cum cūrā frūmentum in vīcum portābunt. 9.
-Magnā dīligentiā nāvigium aedificābitis. 10. Servī aegrī parvō
-studiō labōrant.
-
-131. 1. You (_sing._) will build. 2. He will hasten. 3. Who will
-not remain? 4. You (_plur._) will hold. 5. We shall carry the
-sick men with great care. 6. Whither will the lieutenant hasten?
-7. He will hasten into Greece and also will arm the inhabitants.
-8. Where will our friends fight zealously? 9. The men were
-diligently filling the boats.
+        <div type="section" n="125">
+          <list xml:lang="la" type="exercises">
+            <item>I was walking, but you (_sing._) were waiting in the field.</item>
+            <item>We were arming, they were remaining.</item>
+            <item>You (_plur._) were approaching, and they were fighting.</item>
+            <item>He was working in the village.</item>
+            <item>We were teaching by means of stories and books.</item>
+            <item>With your swords you were liberating your friends.</item>
+            <item>Food was welcome to the tired Helvetians.</item>
+            <item>The men were fighting with long javelins.</item>
+            <item>The lieutenant was filling the village with food and grain.</item>
+          </list>
+        </div>
+      </div>
+    </div>
 
 
+    <div type="chapter" subtype="lesson" n="XVI">
+      <head>Lesson XVI</head>
+      <head>The Future Indicative Active, First and Second Conjugations · The Ablative of Manner</head>
 
-</div>
+      <div type="section" n="126">
+        <head>The Future Indicative Active, First and Second Conjugations.</head>
+
+        <p>The future indicative active of the first and second conjugations is inflected as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <cell role="label">1.</cell>
+          <cell>amā'b*ō*, _I shall love_</cell>
+          <cell>amā'bi*mus*, _we shall love_</cell>
+          <cell role="label">2.</cell>
+          <cell>amā'bi*s*, _you will love_</cell>
+          <cell>amā'bi*tis*, _you will love_</cell>
+          <cell role="label">3.</cell>
+          <cell>amā'bi*t*, _he will love_</cell>
+          <cell>amā'bu*nt*, _they will love_</cell>
+        </table>
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Plural</cell>
+          </row>
+          <cell role="label">1.</cell>
+          <cell>monē'b*ō*, _I shall advise_</cell>
+          <cell>monē'bi*mus*, _we shall advise_</cell>
+          <cell role="label">2.</cell>
+          <cell>monē'bi*s*, _you will advise_</cell>
+          <cell>monē'bi*tis*, _you will advise_</cell>
+          <cell role="label">3.</cell>
+          <cell>monē'bi*t*, _he will advise_</cell>
+          <cell>monē'bu*nt*, _they will advise_</cell>
+        </table></p>
+
+        <div type="subsection" n="a">
+          <p>Observe that the future of *amō* is formed by adding to the stem *amā-* the tense sign *-bi-*, and to the tense sign the personal endings; but the *i* is dropped in the first person, and in the third person plural is changed to *u*.</p>
+          <div type="subsubsection" n="1">
+            <p>How is the future of *moneō* formed?</p>
+          </div>
+        </div>
+
+        <div type="subsection" n="b">
+          <p>Inflect the future of the verbs in 68 and 115.</p>
+        </div>
+      </div>
+
+      <div type="section" n="127">
+        <head>Vocabulary</head>
+
+        <list type="gloss">
+          <label xml:lang="la">aedi'ficō, aedificāre</label>
+          <item>build (_edifice_)</item>
+          <label xml:lang="la">ae'ger, ae'gra, ae'grum</label>
+          <item>sick</item>
+          <label xml:lang="la">cum</label>
+          <item>_prep. with abl._, with</item>
+          <label xml:lang="la">cū'ra, -ae</label>
+          <item>_f._, care, anxiety (_curator_)</item>
+          <label xml:lang="la">in</label>
+          <item>_prep. with acc._, into, to</item>
+          <label xml:lang="la">nāvi'gium, nāvi'gī</label>
+          <item>_n._, boat</item>
+          <label xml:lang="la">pro'perō, properāre</label>
+          <item>hasten</item>
+          <label xml:lang="la">quō</label>
+          <item>_adv._, whither?</item>
+          <label xml:lang="la">stu'dium, studī</label>
+          <item>_n._, zeal, eagerness (_study_)</item>
+          <label xml:lang="la">te'neō, tenēre</label>
+          <item>hold, keep (_tenant_)</item>
+        </list>
+      </div>
+
+      <div type="section" n="128">
+        <head>The Ablative of Manner.</head>
+
+        <list type="gloss" subtype="examples">
+          <label xml:lang="la">Mārcus cum studiō labōrat</label>
+          <item>Marcus works with zeal (zealously).</item>
+          <label xml:lang="la">Mārcus magnō cum studiō labōrat</label>
+          <item>Marcus works with great zeal.</item>
+          <label xml:lang="la">Mārcus magnō studiō labōrat</label>
+          <item>Marcus works with great zeal.</item>
+        </list>
+
+        <div type="subsection" n="a">
+          <p>Observe that _manner_ is expressed in these sentences by the use of the ablative case. Observe that 2 and 3 are translated in the same way, and that *cum* may be omitted when there is an adjective in the phrase. The ablative thus used answers the questions _how?_ _in what way?_ _in what manner?_ and is called the _Ablative of Manner_. The ablative of manner may often be translated by an adverb: *cum studiō*, _zealously_.</p>
+        </div>
+      </div>
+
+      <div type="section" subtype="rule" n="129">
+        <head>Rule for the Ablative of Manner.</head>
+
+        <p>The ablative with *cum* is used with abstract nouns (1, f) to denote the manner of an action; but *cum* may be omitted if an adjective modifies the noun of the phrase.</p>
+      </div>
+
+      <div type="exercises">
+        <head>Exercises</head>
+
+        <div type="section" n="130">
+          <list xml:lang="la" type="exercises">
+            <item>Vocābunt, complēbunt, properābunt.</item>
+            <item>Armābitne? superābit, tenēbimus.</item>
+            <item>Manēbuntne? dēmōnstrābimus, terrēbō.</item>
+            <item>Labōrābis, docēbitis, habēbō.</item>
+            <item>Quō properābit agricola validus?</item>
+            <item>In agrōs properābunt agricola et puerī.</item>
+            <item>In agrīs labōrābunt magnō cum studiō.</item>
+            <item>Cum cūrā frūmentum in vīcum portābunt.</item>
+            <item>Magnā dīligentiā nāvigium aedificābitis.</item>
+            <item>Servī aegrī parvō studiō labōrant.</item>
+          </list>
+        </div>
+
+        <div type="section" n="131">
+          <list type="exercises">
+            <item>You (_sing._) will build.</item>
+            <item>He will hasten.</item>
+            <item>Who will not remain?</item>
+            <item>You (_plur._) will hold.</item>
+            <item>We shall carry the sick men with great care.</item>
+            <item>Whither will the lieutenant hasten?</item>
+            <item>He will hasten into Greece and also will arm the inhabitants.</item>
+            <item>Where will our friends fight zealously?</item>
+            <item>The men were diligently filling the boats.</item>
+          </list>
+        </div>
+      </div>
+    </div>
 
 
-<div type="chapter" subtype="lesson" n="XVII">
-<head>Lesson XVII</head>
-  <head>Principal Parts · The Perfect Stem · The Perfect Indicative Active, First Conjugation</head>
+    <div type="chapter" subtype="lesson" n="XVII">
+      <head>Lesson XVII</head>
+      <head>Principal Parts · The Perfect Stem · The Perfect Indicative Active, First Conjugation</head>
 
-132. *Principal Parts.* The principal parts of the verb *amō* are
-as follows:
+      <div type="section" n="132">
+        <head>Principal Parts.</head>
 
-  PRES. IND. ACT.  PRES. INF. ACT.  PERF. IND. ACT.  PERF. PASS. PART.
-  *amō*            *amāre*          *amāvī*          *amātus*
+        <p>The principal parts of the verb *amō* are as follows:
+        <table rows="2" cols="4">
+          <row role="label">
+            <cell>PRES. IND. ACT.</cell>
+            <cell>PRES. INF. ACT.</cell>
+            <cell>PERF. IND. ACT.</cell>
+            <cell>PERF. PASS. PART.</cell>
+          </row>
+          <row xml:lang="la">
+            <cell>amō</cell>
+            <cell>amāre</cell>
+            <cell>amāvī</cell>
+            <cell>amātus</cell>
+          </row>
+        </table></p>
 
-a. The principal parts of the verb are so called because all
-forms of the verb can be made from them, or from the three stems
-shown in the principal parts. These three stems are as follows:
+        <div type="subsection" n="a">
+          <p>The principal parts of the verb are so called because all forms of the verb can be made from them, or from the three stems shown in the principal parts. These three stems are as follows:
+          <list rend="ordered">
+            <item>Present stem: *amā-*, found by dropping the *-re* of the present indicative active.</item>
+            <item>Perfect stem: *amāv-*, found by dropping the personal ending *-ī* of the first person singular of the perfect indicative active.</item>
+            <item>Participial stem: *amāt-*, found by dropping the nominative ending *-us* of the perfect passive participle.</item>
+          </list></p>
+        </div>
+      </div>
 
-  1. Present stem: *amā-*, found by dropping the *-re* of the
-    present indicative active.
-  2. Perfect stem: *amāv-*, found by dropping the personal ending
-    *-ī* of the first person singular of the perfect indicative
-    active.
-  3. Participial stem: *amāt-*, found by dropping the nominative
-    ending *-us* of the perfect passive participle.
+      <div type="section" n="133">
+        <head>The Perfect Stem.</head>
 
-133. *The Perfect Stem.* By the use of the present stem you have
-conjugated the present, imperfect, and future tenses. By the use
-of the perfect stem *amāv-* the perfect, pluperfect, and future
-perfect tenses are conjugated.
+        <p>By the use of the present stem you have conjugated the present, imperfect, and future tenses. By the use of the perfect stem *amāv-* the perfect, pluperfect, and future perfect tenses are conjugated.</p>
+      </div>
 
-134. *The Perfect Indicative Active of the First Conjugation.*
-The perfect indicative active of *amō* is inflected as follows:
+      <div type="section" n="134">
+        <head>The Perfect Indicative Active of the First Conjugation.</head>
 
-                                            PERSONAL ENDINGS OF
-  SINGULAR                                  PERFECT TENSE
-  1. amā'v*ī*, _I have loved, I loved_      *-ī*
-  2. amāv*is'tī*, _you have loved_, etc.    *-istī*
-  3. amā'v*it*, _he has loved_, etc.        *-it*
+        <p>The perfect indicative active of *amō* is inflected as follows:
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Singular</cell>
+            <cell>Personal Endings of Perfect Tense</cell>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>amā'v*ī*, _I have loved, I loved_</cell>
+            <cell>*-ī*</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>amāv*is'tī*, _you have loved_, etc.</cell>
+            <cell>*-istī*</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>amā'v*it*, _he has loved_, etc.</cell>
+            <cell>*-it*</cell>
+          </row>
+        </table>
+        <table rows="4" cols="3">
+          <row role="label">
+            <cell/>
+            <cell>Plural</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell role="label">1.</cell>
+            <cell>amā'v*imus*, _we have loved_, etc.</cell>
+            <cell>*-imus*</cell>
+          </row>
+          <row>
+            <cell role="label">2.</cell>
+            <cell>amāv*is'tis*, _you have loved_, etc.</cell>
+            <cell>*-istis*</cell>
+          </row>
+          <row>
+            <cell role="label">3.</cell>
+            <cell>amāv*ē'runt*, _they have loved_, etc.</cell>
+            <cell>*-ērunt*</cell>
+          </row>
+        </table></p>
 
-  PLURAL
-  1. amā'v*imus*, _we have loved_, etc.     *-imus*
-  2. amāv*is'tis*, _you have loved_, etc.   *-istis*
-  3. amāv*ē'runt*, _they have loved_, etc.  *-ērunt*
+        <div type="subsection" n="a">
+          <p>Observe that the perfect tense has two meanings: _I have loved_ and _I loved_. Both express completed action. _I have loved_ indicates that the action is completed at the present time; and the perfect tense so used is known as the _perfect definite_. _I loved_ indicates merely that the action was completed at some indefinite time in the past; and the perfect tense so used is known as the _perfect indefinite_. The imperfect tense, in contrast with the perfect, expresses an action going on in the past (120, d).</p>
+        </div>
 
-a. Observe that the perfect tense has two meanings: _I have
-loved_ and _I loved_. Both express completed action. _I have
-loved_ indicates that the action is completed at the present
-time; and the perfect tense so used is known as the _perfect
-definite_. _I loved_ indicates merely that the action was
-completed at some indefinite time in the past; and the perfect
-tense so used is known as the _perfect indefinite_. The imperfect
-tense, in contrast with the perfect, expresses an action going on
-in the past (120, d).
+        <div type="subsection" n="b">
+          <p>Give the principal parts of each verb of the first conjugation in 68 and 115; they are formed in the same way as those of *amō* (except *dō*, *dare*, *dedī*, *datus*). Inflect the perfect tense of each.</p>
+        </div>
+      </div>
 
-b. Give the principal parts of each verb of the first conjugation
-in 68 and 115; they are formed in the same way as those of *amō*
-(except *dō*, *dare*, *dedī*, *datus*). Inflect the perfect tense
-of each.
+      <div type="exercises">
+        <head>Exercises</head>
 
-EXERCISES
+        <div type="section" n="135">
+          <list xml:lang="la" type="exercises">
+            <item>Vocāvitne? convocāvit, superāvit.</item>
+            <item>Pugnāvērunt, exspectāvērunt, labōrāvērunt.</item>
+            <item>Properāvimus, aedificāvimus, armāvimus.</item>
+            <item>Laudāvīne? vocāvistī, properāvistis.</item>
+            <item>Portāvis, dēlectāvit, dedit.</item>
+          </list>
+        </div>
 
-135. 1. Vocāvitne? convocāvit, superāvit. 2. Pugnāvērunt,
-exspectāvērunt, labōrāvērunt. 3. Properāvimus, aedificāvimus,
-armāvimus. 4. Laudāvīne? vocāvistī, properāvistis. 5. Portāvis,
-dēlectāvit, dedit.
+        <div type="section" n="136">
+          <list type="exercises">
+            <item>You have praised, you showed, you related.</item>
+            <item>I have given, I brought, I set free.</item>
+            <item>They approved, they have sung, they swam.</item>
+            <item>We gave, we dwelt, we showed.</item>
+          </list>
+        </div>
+      </div>
 
-136. 1. You have praised, you showed, you related. 2. I have
-given, I brought, I set free. 3. They approved, they have sung,
-they swam. 4. We gave, we dwelt, we showed.
+      <div type="section" n="137">
+        <head>Vocabulary</head>
 
-137. VOCABULARY
+        <list type="gloss">
+          <label xml:lang="la">ar'ma, -ōrum</label>
+          <item>_n. plur._, arms</item>
+          <label xml:lang="la">di'ū</label>
+          <item>_adv._, for a long time, long</item>
+          <label xml:lang="la">prō</label>
+          <item>_prep. with abl._, before, for, in defense of (_proceed_)</item>
+          <label xml:lang="la">Rō'mulus, -ī</label>
+          <item>_m._, Romulus</item>
+          <label xml:lang="la">Sabī'nī, -ōrum</label>
+          <item>_m. plur._, the Sabines</item>
+          <label xml:lang="la">vul'nerō, vulnerāre, vulnerāvī, vulnerātus</label>
+          <item>wound (_vulnerable_)</item>
+        </list>
+      </div>
 
-  *ar'ma*, *-ōrum*, _n. plur._, arms
-  *di'ū*, _adv._, for a long time, long
-  *prō*, _prep. with abl._, before, for, in defense of
-    (_proceed_)
-  *Rō'mulus*, *-ī*, _m._, Romulus
-  *Sabī'nī*, *-ōrum*, _m. plur._, the Sabines
-  *vul'nerō*, *vulnerāre*, *vulnerāvī*, *vulnerātus*, wound
-    (_vulnerable_)
+      <div type="reading">
+        <head>Dē Sabīnīs</head>
 
-DE SABINIS
-
-138. Rōmulus Rōmam, clārum oppidum Italiae, aedificāvit. Validī
-virī erant Rōmānī et patriam amābant. Saepe prō patriā pugnābant
-et saepe Sabīnōs armīs in bellō superābant. Sabīnī bona arma
-habēbant et magnō cum studiō pīlīs longīs diū pugnāvērunt. Sed
-Rōmānī Sabīnōs fugāvērunt et multōs virōs gladiīs vulnerāvērunt.
-
-
-
-</div>
+        <div type="section" n="138">
+          <p>Rōmulus Rōmam, clārum oppidum Italiae, aedificāvit. Validī virī erant Rōmānī et patriam amābant. Saepe prō patriā pugnābant et saepe Sabīnōs armīs in bellō superābant. Sabīnī bona arma habēbant et magnō cum studiō pīlīs longīs diū pugnāvērunt. Sed Rōmānī Sabīnōs fugāvērunt et multōs virōs gladiīs vulnerāvērunt.</p>
+        </div>
+      </div>
+    </div>
 
 
 <div type="chapter" subtype="lesson" n="XVIII">
